@@ -1,24 +1,188 @@
 {
-  "generated_at": "2026-06-30T14:18:35.360788Z",
+  "generated_at": "2026-06-30T16:35:42.953618Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_3f0a56fa7011",
-      "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "primary_url": "https://huggingface.co/blog/eee-community-evals",
+      "story_id": "story_f8c0cbef5e2e",
+      "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+      "primary_url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "39f4ae2da20716867516b48552278be546b5ac84",
+          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T16:02:40Z"
+        },
+        {
+          "id": "ca6a96cb9b4e21c3801a5c4d06bd5f06c4d2bc74",
+          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:02:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39f4ae2da20716867516b48552278be546b5ac84",
+          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T16:02:40Z"
+        },
+        {
+          "id": "ca6a96cb9b4e21c3801a5c4d06bd5f06c4d2bc74",
+          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:02:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8756,
+      "importance": 0.8756,
+      "importance_score": 0.8756,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9921,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T16:02:40Z",
+      "latest_at": "2026-06-30T16:02:40Z",
+      "primary_item": {
+        "id": "39f4ae2da20716867516b48552278be546b5ac84",
+        "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+        "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fb435a036a32",
+      "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "primary_url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T09:00:00Z"
+        },
+        {
+          "id": "daac7b474e3c6cca5d43664d02a457c7ae9b6cbb",
+          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T09:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T09:00:00Z"
+        },
+        {
+          "id": "daac7b474e3c6cca5d43664d02a457c7ae9b6cbb",
+          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T09:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8663,
+      "importance": 0.8663,
+      "importance_score": 0.8663,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8961,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T09:00:00Z",
+      "latest_at": "2026-06-30T09:00:00Z",
+      "primary_item": {
+        "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+        "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d7f8db1c666b",
+      "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-          "url": "https://huggingface.co/blog/eee-community-evals",
+          "id": "4ab939dc572085e04f2d075c4c3312ceac310356",
+          "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
+          "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
+          "published_at": "2026-06-30T14:39:11Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +191,26 @@
       ],
       "items": [
         {
-          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-          "url": "https://huggingface.co/blog/eee-community-evals",
+          "id": "4ab939dc572085e04f2d075c4c3312ceac310356",
+          "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
+          "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
+          "published_at": "2026-06-30T14:39:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8133,
+        "ai_relevance": 0.95,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,13 +219,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T00:00:00Z",
-      "latest_at": "2026-06-30T00:00:00Z",
+      "earliest_at": "2026-06-30T14:39:11Z",
+      "latest_at": "2026-06-30T14:39:11Z",
       "primary_item": {
-        "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-        "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-        "url": "https://huggingface.co/blog/eee-community-evals",
+        "id": "4ab939dc572085e04f2d075c4c3312ceac310356",
+        "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
+        "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_626d4a79e36c",
+      "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
+      "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+      "primary_url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
+          "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
+          "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T13:24:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
+          "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
+          "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T13:24:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.955,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T13:24:21Z",
+      "latest_at": "2026-06-30T13:24:21Z",
+      "primary_item": {
+        "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
+        "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
+        "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8869,
+        "recency": 0.8581,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,21 +354,21 @@
       }
     },
     {
-      "story_id": "story_5a9c6b882649",
-      "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "story_id": "story_2a376defa06a",
+      "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
+      "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
+      "primary_url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
+          "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
+          "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:47:16Z"
+          "published_at": "2026-06-30T13:53:48Z"
         }
       ],
       "source_count": 1,
@@ -151,26 +377,26 @@
       ],
       "items": [
         {
-          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
+          "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
+          "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:47:16Z"
+          "published_at": "2026-06-30T13:53:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7329,
+        "ai_relevance": 0.87,
+        "recency": 0.9618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -179,32 +405,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T16:47:16Z",
-      "latest_at": "2026-06-29T16:47:16Z",
+      "earliest_at": "2026-06-30T13:53:48Z",
+      "latest_at": "2026-06-30T13:53:48Z",
       "primary_item": {
-        "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-        "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
+        "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
+        "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_91d16542fa1f",
-      "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "primary_url": "https://huggingface.co/blog/allenai/discoformer",
+      "story_id": "story_3f0a56fa7011",
+      "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "primary_url": "https://huggingface.co/blog/eee-community-evals",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+          "url": "https://huggingface.co/blog/eee-community-evals",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
+          "published_at": "2026-06-30T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -213,26 +439,26 @@
       ],
       "items": [
         {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+          "url": "https://huggingface.co/blog/eee-community-evals",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
+          "published_at": "2026-06-30T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7463,
+        "ai_relevance": 0.98,
+        "recency": 0.7869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,13 +467,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T18:02:48Z",
-      "latest_at": "2026-06-29T18:02:48Z",
+      "earliest_at": "2026-06-30T00:00:00Z",
+      "latest_at": "2026-06-30T00:00:00Z",
       "primary_item": {
-        "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-        "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-        "url": "https://huggingface.co/blog/allenai/discoformer",
+        "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+        "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+        "url": "https://huggingface.co/blog/eee-community-evals",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4c4d91d3ce63",
+      "title": "核心转储流行病学：修复 18 年前的错误 / Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "primary_url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54cc709099f71580a4cd35d2a5ac7ee24b32eeff",
+          "title": "核心转储流行病学：修复 18 年前的错误 / Core dump epidemiology: fixing an 18-year-old bug",
+          "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "54cc709099f71580a4cd35d2a5ac7ee24b32eeff",
+          "title": "核心转储流行病学：修复 18 年前的错误 / Core dump epidemiology: fixing an 18-year-old bug",
+          "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7869,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T00:00:00Z",
+      "latest_at": "2026-06-30T00:00:00Z",
+      "primary_item": {
+        "id": "54cc709099f71580a4cd35d2a5ac7ee24b32eeff",
+        "title": "核心转储流行病学：修复 18 年前的错误 / Core dump epidemiology: fixing an 18-year-old bug",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -305,15 +593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.9257,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -386,15 +674,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.8826,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -448,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -528,15 +816,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8619,
+        "recency": 0.8339,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -556,49 +844,49 @@
       }
     },
     {
-      "story_id": "story_022b5040aeb6",
-      "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "primary_url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "source": "GitHub Changelog",
+      "story_id": "story_91d16542fa1f",
+      "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "primary_url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-          "source": "GitHub Changelog",
+          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
+          "published_at": "2026-06-29T18:02:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-          "source": "GitHub Changelog",
+          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
+          "published_at": "2026-06-29T18:02:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.726,
+        "ai_relevance": 0.99,
+        "recency": 0.7221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -607,75 +895,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T16:08:23Z",
-      "latest_at": "2026-06-29T16:08:23Z",
+      "earliest_at": "2026-06-29T18:02:48Z",
+      "latest_at": "2026-06-29T18:02:48Z",
       "primary_item": {
-        "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-        "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-        "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f1de547afb62",
-      "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7246,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T16:00:00Z",
-      "latest_at": "2026-06-29T16:00:00Z",
-      "primary_item": {
-        "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-        "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-        "source": "Google AI Blog",
+        "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+        "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+        "url": "https://huggingface.co/blog/allenai/discoformer",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -714,15 +940,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9604,
+        "recency": 0.9292,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -794,15 +1020,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7464,
+        "recency": 0.7221,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -818,6 +1044,67 @@
         "title": "Qwen 3.6 27B 是本地开发的理想选择",
         "url": "https://quesma.com/blog/qwen-36-is-awesome",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_19ba80596298",
+      "title": "Claude Desktop 推出 Linux 公测版",
+      "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+      "primary_url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2069eb7c3dbc9c1df70a235a42063d091286c544",
+          "title": "Claude Desktop 推出 Linux 公测版",
+          "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:06:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "2069eb7c3dbc9c1df70a235a42063d091286c544",
+          "title": "Claude Desktop 推出 Linux 公测版",
+          "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:06:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9931,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T16:06:59Z",
+      "latest_at": "2026-06-30T16:06:59Z",
+      "primary_item": {
+        "id": "2069eb7c3dbc9c1df70a235a42063d091286c544",
+        "title": "Claude Desktop 推出 Linux 公测版",
+        "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -856,21 +1143,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8701,
+        "recency": 0.8418,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T04:40:25Z",
       "latest_at": "2026-06-30T04:40:25Z",
@@ -880,6 +1166,68 @@
         "url": "https://x.com/op7418/status/2071816099986022650",
         "source": "X：歸藏 (@op7418)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a9c6b882649",
+      "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:47:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:47:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7091,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T16:47:16Z",
+      "latest_at": "2026-06-29T16:47:16Z",
+      "primary_item": {
+        "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+        "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -917,15 +1265,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7801,
+        "recency": 0.7548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -977,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,308 +1348,6 @@
         "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
         "source": "X：SemiAnalysis (@SemiAnalysis_)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad08c85e40a8",
-      "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-      "url": "https://www.ithome.com/0/970/539.htm",
-      "primary_url": "https://www.ithome.com/0/970/539.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c00673edab6aaebad14df497125c8493d026f40",
-          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-          "url": "https://www.ithome.com/0/970/539.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T06:45:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2c00673edab6aaebad14df497125c8493d026f40",
-          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-          "url": "https://www.ithome.com/0/970/539.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T06:45:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8966,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T06:45:03Z",
-      "latest_at": "2026-06-30T06:45:03Z",
-      "primary_item": {
-        "id": "2c00673edab6aaebad14df497125c8493d026f40",
-        "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-        "url": "https://www.ithome.com/0/970/539.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0e1820368a58",
-      "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-      "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-      "primary_url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4afb65f5c6056b52e0e00f0e436ad9aa78ba2aba",
-          "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-          "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T01:47:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "4afb65f5c6056b52e0e00f0e436ad9aa78ba2aba",
-          "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-          "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T01:47:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8345,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T01:47:00Z",
-      "latest_at": "2026-06-30T01:47:00Z",
-      "primary_item": {
-        "id": "4afb65f5c6056b52e0e00f0e436ad9aa78ba2aba",
-        "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-        "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c959d9eaf186",
-      "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-      "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T05:42:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T05:42:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8832,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T05:42:42Z",
-      "latest_at": "2026-06-30T05:42:42Z",
-      "primary_item": {
-        "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-        "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-        "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eee9aecd1888",
-      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-      "url": "https://x.com/berryxia/status/2071610700213191075",
-      "primary_url": "https://x.com/berryxia/status/2071610700213191075",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-          "url": "https://x.com/berryxia/status/2071610700213191075",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T15:04:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-          "url": "https://x.com/berryxia/status/2071610700213191075",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T15:04:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7149,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T15:04:14Z",
-      "latest_at": "2026-06-29T15:04:14Z",
-      "primary_item": {
-        "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-        "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-        "url": "https://x.com/berryxia/status/2071610700213191075",
-        "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dca46b3f7e38",
-      "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-      "url": "https://www.aibase.com/news/29275",
-      "primary_url": "https://www.aibase.com/news/29275",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9604,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T11:30:35.451495Z",
-      "latest_at": "2026-06-30T11:30:35.451495Z",
-      "primary_item": {
-        "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-        "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-        "url": "https://www.aibase.com/news/29275",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
