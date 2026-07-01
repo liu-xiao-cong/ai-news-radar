@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T11:37:47.465061Z",
+  "generated_at": "2026-07-01T14:35:45.178504Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,15 +113,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8755,
-      "importance": 0.8755,
-      "importance_score": 0.8755,
+      "score": 0.8684,
+      "importance": 0.8684,
+      "importance_score": 0.8684,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.944,
+        "recency": 0.9044,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -175,15 +175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8454,
+        "recency": 0.81,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,15 +256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7537,
+        "recency": 0.7221,
         "story_heat": 0.25
       },
       "category": "official",
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7814,
+        "recency": 0.7486,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,15 +381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7689,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,6 +406,105 @@
         "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c035cdd5ac64",
+      "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+      "primary_url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T10:03:41Z"
+        },
+        {
+          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
+        },
+        {
+          "id": "98b7c08e0e207b717813fda0c22bd478bfd22969",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T10:03:41Z"
+        },
+        {
+          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
+        },
+        {
+          "id": "98b7c08e0e207b717813fda0c22bd478bfd22969",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9366,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T10:03:41Z",
+      "latest_at": "2026-07-01T10:03:41Z",
+      "primary_item": {
+        "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+        "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+        "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -481,15 +580,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7756,
+        "recency": 0.7431,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -562,15 +661,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8476,
+        "recency": 0.8121,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -643,15 +742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8752,
+        "recency": 0.8385,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,6 +766,87 @@
         "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
         "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
         "source": "公众号：龙猫LongCat（美团）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4ccea67daf74",
+      "title": "Meta效仿SpaceX，将过剩AI算力变现",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+      "primary_url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d070303d8c3916057db8f74e22815e26168d6a34",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:43:07Z"
+        },
+        {
+          "id": "5b29f5d1a51f44c69e956d0df5f890521db6bab8",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现 / Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T13:43:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d070303d8c3916057db8f74e22815e26168d6a34",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:43:07Z"
+        },
+        {
+          "id": "5b29f5d1a51f44c69e956d0df5f890521db6bab8",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现 / Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T13:43:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9874,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T13:43:07Z",
+      "latest_at": "2026-07-01T13:43:07Z",
+      "primary_item": {
+        "id": "d070303d8c3916057db8f74e22815e26168d6a34",
+        "title": "Meta效仿SpaceX，将过剩AI算力变现",
+        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -724,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9114,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,15 +966,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7387,
+        "recency": 0.7077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -811,87 +991,6 @@
         "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c035cdd5ac64",
-      "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-      "primary_url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T10:03:41Z"
-        },
-        {
-          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T10:03:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T10:03:41Z"
-        },
-        {
-          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T10:03:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9776,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T10:03:41Z",
-      "latest_at": "2026-07-01T10:03:41Z",
-      "primary_item": {
-        "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
-        "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-        "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -948,15 +1047,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7746,
+        "recency": 0.7421,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1010,15 +1109,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7532,
+        "recency": 0.7216,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1091,15 +1190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8948,
+        "recency": 0.8573,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1172,15 +1271,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8421,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1196,87 +1295,6 @@
         "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
         "url": "https://www.ithome.com/0/970/810.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_759e2573fbbc",
-      "title": "Acti 将 AI 智能体直接放入手机键盘",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-      "primary_url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "512a5bb906707c2311c2abffb83f770704604ed7",
-          "title": "Acti 将 AI 智能体直接放入手机键盘",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:52:46Z"
-        },
-        {
-          "id": "52f7d10a9d95b5830f13d5a81d95572bfd80850a",
-          "title": "Acti 将 AI 智能体直接放入手机键盘 / Acti puts AI agents directly into your smartphone keyboard",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T17:52:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "512a5bb906707c2311c2abffb83f770704604ed7",
-          "title": "Acti 将 AI 智能体直接放入手机键盘",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:52:46Z"
-        },
-        {
-          "id": "52f7d10a9d95b5830f13d5a81d95572bfd80850a",
-          "title": "Acti 将 AI 智能体直接放入手机键盘 / Acti puts AI agents directly into your smartphone keyboard",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T17:52:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7739,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T17:52:46Z",
-      "latest_at": "2026-06-30T17:52:46Z",
-      "primary_item": {
-        "id": "512a5bb906707c2311c2abffb83f770704604ed7",
-        "title": "Acti 将 AI 智能体直接放入手机键盘",
-        "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1315,21 +1333,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8608,
+        "recency": 0.8247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T01:14:54Z",
       "latest_at": "2026-07-01T01:14:54Z",
@@ -1376,15 +1393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1436,15 +1453,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7609,
+        "recency": 0.729,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1498,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9581,
         "story_heat": 0.0
       },
       "category": "industry",
