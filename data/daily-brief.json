@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T03:23:54.553436Z",
+  "generated_at": "2026-07-08T06:12:18.169021Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.8574,
-      "importance_score": 0.8574,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9521,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "法典 CLI 0.143.0 / Codex CLI 0.143.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_69bcbdfd037d",
+      "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+      "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+          "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+          "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T04:53:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+          "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+          "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T04:53:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T04:53:01Z",
+      "latest_at": "2026-07-08T04:53:01Z",
+      "primary_item": {
+        "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+        "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+        "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9152,
+        "recency": 0.8788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,68 +186,6 @@
         "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
         "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d4caa9e3147d",
-      "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:05:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:05:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9534,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T00:05:35Z",
-      "latest_at": "2026-07-08T00:05:35Z",
-      "primary_item": {
-        "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-        "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-        "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7656,
+        "recency": 0.7352,
         "story_heat": 0.25
       },
       "category": "official",
@@ -268,6 +268,268 @@
         "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_269964bab90b",
+      "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+      "primary_url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
+          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "blog.zksecurity.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
+          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://news.ycombinator.com/item?id=48821749",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-07T19:31:36.164000Z"
+        },
+        {
+          "id": "5a0f5dce4efc759d39f185db4a0b3655c88e3107",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-07T18:36:35Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "blog.zksecurity.xyz",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
+          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "blog.zksecurity.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "1e88ca7d8fab2ae0b42ceae3c48141c0e3cd60ec",
+          "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://news.ycombinator.com/item?id=48821749",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-07T19:31:36.164000Z"
+        },
+        {
+          "id": "5a0f5dce4efc759d39f185db4a0b3655c88e3107",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-07T18:36:35Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9756,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T18:36:35Z",
+      "latest_at": "2026-07-08T04:29:33.609000Z",
+      "primary_item": {
+        "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+        "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+        "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8b657dc98587",
+      "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+      "url": "https://www.ithome.com/0/973/922.htm",
+      "primary_url": "https://www.ithome.com/0/973/922.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
+          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+          "url": "https://www.ithome.com/0/973/922.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:30:52Z"
+        },
+        {
+          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
+          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
+          "url": "https://www.ithome.com/0/973/922.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T03:30:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
+          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+          "url": "https://www.ithome.com/0/973/922.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:30:52Z"
+        },
+        {
+          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
+          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
+          "url": "https://www.ithome.com/0/973/922.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T03:30:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9619,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T03:30:52Z",
+      "latest_at": "2026-07-08T03:30:52Z",
+      "primary_item": {
+        "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
+        "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+        "url": "https://www.ithome.com/0/973/922.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d4caa9e3147d",
+      "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:05:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:05:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9155,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T00:05:35Z",
+      "latest_at": "2026-07-08T00:05:35Z",
+      "primary_item": {
+        "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+        "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+        "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -306,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8401,
+        "recency": 0.8068,
         "story_heat": 0.0
       },
       "category": "official",
@@ -334,102 +596,144 @@
       }
     },
     {
-      "story_id": "story_76f0f9625b07",
-      "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-      "primary_url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_0e26cd233718",
+      "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+      "url": "https://www.aibase.com/news/29459",
+      "primary_url": "https://www.aibase.com/news/29459",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:52:12.864000Z"
+          "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+          "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+          "url": "https://www.aibase.com/news/29459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:12:18.169021Z"
         },
         {
-          "id": "c9a4fe15b737ad2706a6b0f325965f1c1c19c24f",
-          "title": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "www.fastcompany.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T17:52:12.864000Z"
-        },
-        {
-          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T08:39:51Z"
+          "id": "1ca39323ea3e5260790f99d1c09eb5a95a08b5bc",
+          "title": "具身智能新突破：蚂蚁集团开源 LingBot-Vision，让机器人拥有「空间感」",
+          "url": "https://www.aibase.com/zh/news/29459",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.fastcompany.com"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:52:12.864000Z"
+          "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+          "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+          "url": "https://www.aibase.com/news/29459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:12:18.169021Z"
         },
         {
-          "id": "c9a4fe15b737ad2706a6b0f325965f1c1c19c24f",
-          "title": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "www.fastcompany.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T17:52:12.864000Z"
-        },
-        {
-          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T08:39:51Z"
+          "id": "1ca39323ea3e5260790f99d1c09eb5a95a08b5bc",
+          "title": "具身智能新突破：蚂蚁集团开源 LingBot-Vision，让机器人拥有「空间感」",
+          "url": "https://www.aibase.com/zh/news/29459",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8715,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T08:39:51Z",
-      "latest_at": "2026-07-07T17:52:12.864000Z",
+      "earliest_at": "2026-07-08T06:12:18.169021Z",
+      "latest_at": "2026-07-08T06:12:18.169021Z",
       "primary_item": {
-        "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
-        "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-        "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+        "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+        "url": "https://www.aibase.com/news/29459",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8f63cacb1008",
+      "title": "工信部发布Claude Code后门安全风险提示",
+      "url": "https://x.com/xiaohu/status/2074736623284256881",
+      "primary_url": "https://x.com/xiaohu/status/2074736623284256881",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://x.com/xiaohu/status/2074736623284256881",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://x.com/xiaohu/status/2074736623284256881",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9984,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T06:05:32Z",
+      "latest_at": "2026-07-08T06:05:32Z",
+      "primary_item": {
+        "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
+        "title": "工信部发布Claude Code后门安全风险提示",
+        "url": "https://x.com/xiaohu/status/2074736623284256881",
+        "source": "X：小互 (@xiaohu)",
         "source_name": "AI HOT"
       }
     },
@@ -506,15 +810,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8504,
+        "recency": 0.8166,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -534,65 +838,84 @@
       }
     },
     {
-      "story_id": "story_5b541b9a66cd",
-      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0a4741a19553",
+      "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+      "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+      "primary_url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:03:22Z"
+        },
+        {
+          "id": "403013bddf9cfb52db46563ec398efd7f3319ad2",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知 / Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-08T03:03:22Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:03:22Z"
+        },
+        {
+          "id": "403013bddf9cfb52db46563ec398efd7f3319ad2",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知 / Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-08T03:03:22Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8381,
-        "story_heat": 0.0
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9555,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:10:14Z",
-      "latest_at": "2026-07-07T15:10:14Z",
+      "earliest_at": "2026-07-08T03:03:22Z",
+      "latest_at": "2026-07-08T03:03:22Z",
       "primary_item": {
-        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
+        "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+        "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -630,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -657,64 +980,84 @@
       }
     },
     {
-      "story_id": "story_b4d0438fe083",
-      "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-      "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-      "primary_url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_887bad466729",
+      "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+      "url": "https://www.aibase.com/news/29458",
+      "primary_url": "https://www.aibase.com/news/29458",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
-          "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-          "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:12:06Z"
+          "id": "297d4d06dfead3a012d6cb818d89184d5beddaec",
+          "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+          "url": "https://www.aibase.com/news/29458",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:12:18.169021Z"
+        },
+        {
+          "id": "0133aaadbe743ac33b2825a2e16ac148ac91c091",
+          "title": "美国放行 GPT-5.6，OpenAI 多款重磅模型本周上线",
+          "url": "https://www.aibase.com/zh/news/29458",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
-          "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-          "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:12:06Z"
+          "id": "297d4d06dfead3a012d6cb818d89184d5beddaec",
+          "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+          "url": "https://www.aibase.com/news/29458",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:12:18.169021Z"
+        },
+        {
+          "id": "0133aaadbe743ac33b2825a2e16ac148ac91c091",
+          "title": "美国放行 GPT-5.6，OpenAI 多款重磅模型本周上线",
+          "url": "https://www.aibase.com/zh/news/29458",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T00:12:06Z",
-      "latest_at": "2026-07-08T00:12:06Z",
+      "earliest_at": "2026-07-08T06:12:18.169021Z",
+      "latest_at": "2026-07-08T06:12:18.169021Z",
       "primary_item": {
-        "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
-        "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-        "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "id": "297d4d06dfead3a012d6cb818d89184d5beddaec",
+        "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+        "url": "https://www.aibase.com/news/29458",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -771,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8807,
+        "recency": 0.8457,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -799,49 +1142,49 @@
       }
     },
     {
-      "story_id": "story_5146272332c9",
-      "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-      "url": "https://www.aibase.com/news/29446",
-      "primary_url": "https://www.aibase.com/news/29446",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_b4d0438fe083",
+      "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+      "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+      "primary_url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:23:54.553436Z"
+          "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
+          "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+          "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:12:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:23:54.553436Z"
+          "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
+          "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+          "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:12:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,14 +1192,114 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T03:23:54.553436Z",
-      "latest_at": "2026-07-08T03:23:54.553436Z",
+      "earliest_at": "2026-07-08T00:12:06Z",
+      "latest_at": "2026-07-08T00:12:06Z",
       "primary_item": {
-        "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-        "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-        "url": "https://www.aibase.com/news/29446",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
+        "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+        "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_76f0f9625b07",
+      "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "primary_url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
+          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
+          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T17:52:12.864000Z"
+        },
+        {
+          "id": "c9a4fe15b737ad2706a6b0f325965f1c1c19c24f",
+          "title": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
+          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+          "source": "www.fastcompany.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-07T17:52:12.864000Z"
+        },
+        {
+          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
+          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-07T08:39:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.fastcompany.com"
+      ],
+      "items": [
+        {
+          "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
+          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
+          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T17:52:12.864000Z"
+        },
+        {
+          "id": "c9a4fe15b737ad2706a6b0f325965f1c1c19c24f",
+          "title": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
+          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+          "source": "www.fastcompany.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-07T17:52:12.864000Z"
+        },
+        {
+          "id": "27303ca3984fbc13fdabdbe0ef291f19bb0e333c",
+          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效 / YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-07T08:39:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8368,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T08:39:51Z",
+      "latest_at": "2026-07-07T17:52:12.864000Z",
+      "primary_item": {
+        "id": "f39a95f1090b7aa2d0d3fb85d47143555bf44e54",
+        "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
+        "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -894,15 +1337,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8882,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -921,21 +1364,21 @@
       }
     },
     {
-      "story_id": "story_18e9ce98bcc6",
-      "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "primary_url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+      "story_id": "story_5b541b9a66cd",
+      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
+          "published_at": "2026-07-07T15:10:14Z"
         }
       ],
       "source_count": 1,
@@ -944,26 +1387,26 @@
       ],
       "items": [
         {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
+          "published_at": "2026-07-07T15:10:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8343,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "official",
@@ -972,95 +1415,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T14:51:13Z",
-      "latest_at": "2026-07-07T14:51:13Z",
+      "earliest_at": "2026-07-07T15:10:14Z",
+      "latest_at": "2026-07-07T15:10:14Z",
       "primary_item": {
-        "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-        "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1e081e0ac276",
-      "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-      "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-      "primary_url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c8a836fdbdfa4aebd1f53bdc9cc7f62f5a1d1707",
-          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:50:50Z"
-        },
-        {
-          "id": "76dba2d1d20b9c7ca7ff5f264f798c4e33d061e1",
-          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法 / Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
-          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T16:50:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c8a836fdbdfa4aebd1f53bdc9cc7f62f5a1d1707",
-          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:50:50Z"
-        },
-        {
-          "id": "76dba2d1d20b9c7ca7ff5f264f798c4e33d061e1",
-          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法 / Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
-          "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T16:50:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8587,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T16:50:50Z",
-      "latest_at": "2026-07-07T16:50:50Z",
-      "primary_item": {
-        "id": "c8a836fdbdfa4aebd1f53bdc9cc7f62f5a1d1707",
-        "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-        "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1098,15 +1460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.839,
+        "recency": 0.8057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,269 +1483,6 @@
         "title": "中国拟限制外国访问最强AI模型",
         "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7592bb376a1a",
-      "title": "Ethan Mollick：开放权重模型供给难持续",
-      "url": "https://x.com/emollick/status/2074497401578996154",
-      "primary_url": "https://x.com/emollick/status/2074497401578996154",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a2c1619b116c242bb4fbe10f85b28be49de2a5f",
-          "title": "Ethan Mollick：开放权重模型供给难持续",
-          "url": "https://x.com/emollick/status/2074497401578996154",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:14:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "2a2c1619b116c242bb4fbe10f85b28be49de2a5f",
-          "title": "Ethan Mollick：开放权重模型供给难持续",
-          "url": "https://x.com/emollick/status/2074497401578996154",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:14:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8271,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T14:14:57Z",
-      "latest_at": "2026-07-07T14:14:57Z",
-      "primary_item": {
-        "id": "2a2c1619b116c242bb4fbe10f85b28be49de2a5f",
-        "title": "Ethan Mollick：开放权重模型供给难持续",
-        "url": "https://x.com/emollick/status/2074497401578996154",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6c66b920b7bd",
-      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-      "url": "https://x.com/AIatMeta/status/2074577662840832382",
-      "primary_url": "https://x.com/AIatMeta/status/2074577662840832382",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://x.com/AIatMeta/status/2074577662840832382",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://x.com/AIatMeta/status/2074577662840832382",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.893,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T19:33:53Z",
-      "latest_at": "2026-07-07T19:33:53Z",
-      "primary_item": {
-        "id": "1de45a7211b07739768fda7c2ed95d798c8b14ec",
-        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-        "url": "https://x.com/AIatMeta/status/2074577662840832382",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3f8f4470a516",
-      "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
-      "url": "https://x.com/omarsar0/status/2074506169352180108",
-      "primary_url": "https://x.com/omarsar0/status/2074506169352180108",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a9f21e51724b2ec1ed9bf2c1c4f25a8ad4aa1198",
-          "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
-          "url": "https://x.com/omarsar0/status/2074506169352180108",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:49:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
-      ],
-      "items": [
-        {
-          "id": "a9f21e51724b2ec1ed9bf2c1c4f25a8ad4aa1198",
-          "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
-          "url": "https://x.com/omarsar0/status/2074506169352180108",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:49:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.834,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T14:49:47Z",
-      "latest_at": "2026-07-07T14:49:47Z",
-      "primary_item": {
-        "id": "a9f21e51724b2ec1ed9bf2c1c4f25a8ad4aa1198",
-        "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
-        "url": "https://x.com/omarsar0/status/2074506169352180108",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_22b92e70fc9f",
-      "title": "美国首批自主地面车辆在乌克兰参战",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-      "primary_url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        },
-        {
-          "id": "714c88d357cd00f2e12ff824f0fd94c5e3294b7d",
-          "title": "美国首批自主地面车辆在乌克兰参战 / The first American autonomous ground vehicles are fighting in Ukraine",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        },
-        {
-          "id": "714c88d357cd00f2e12ff824f0fd94c5e3294b7d",
-          "title": "美国首批自主地面车辆在乌克兰参战 / The first American autonomous ground vehicles are fighting in Ukraine",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7667,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T09:00:00Z",
-      "latest_at": "2026-07-07T09:00:00Z",
-      "primary_item": {
-        "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
-        "title": "美国首批自主地面车辆在乌克兰参战",
-        "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     }
