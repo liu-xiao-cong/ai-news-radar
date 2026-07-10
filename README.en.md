@@ -245,3 +245,9 @@ The single-account / single-newsletter demo is in `docs/guides/rileybrown-alphas
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<div align="center">
+<sub>公众号「卡尔的AI沃茨」 · X @aiwarts · <a href="https://learnprompt.pro/workshop/">learnprompt.pro/workshop</a></sub>
+</div>

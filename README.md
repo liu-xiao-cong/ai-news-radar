@@ -331,3 +331,9 @@ X API演示配置见 `docs/guides/x-api-demo-config.md`；
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<div align="center">
+<sub>公众号「卡尔的AI沃茨」 · X @aiwarts · <a href="https://learnprompt.pro/workshop/">learnprompt.pro/workshop</a></sub>
+</div>
