@@ -7,7 +7,9 @@ without forcing them to follow noisy timelines or manage many source choices.
 
 Use a two-layer model:
 
-1. **Signal layer**: the default web UI. It should show curated AI/tech updates,
+1. **Signal layer**: the default web UI. It should show a high-priority curated
+   subset first, with the complete AI-related pool available as an explicit
+   advanced choice. It should also show AI/tech updates,
    WaytoAGI changes, search, site filtering, and a simple AI-focused / all toggle.
 2. **Advanced layer**: maintainer and power-user workflows. It includes OPML,
    source health data, GitHub Actions secrets, and custom fetchers.
@@ -96,8 +98,10 @@ baseline, then let the aggregator layer add breadth.
   the original Beehiiv feed can be blocked from GitHub Actions.
 - **AI HOT**: reads the public `https://aihot.virxact.com/api/public/items`
   API in selected mode and keeps only items whose AI HOT card score is at least
-  60. The RSS feed is intentionally not used for the default fetch path because
-  it does not expose the source score field needed for this quality gate.
+  60. The parser preserves AI HOT's Chinese title, valid English original title,
+  editorial summary, category, score, and canonical source URL. The RSS feed is
+  intentionally not used for the default fetch path because it does not expose
+  the source score field needed for this quality gate.
 - **Hacker News Algolia**: reads the public
   `https://hn.algolia.com/api/v1/search_by_date` endpoint for the last 24 hours
   of HN stories matching focused AI/tooling keywords such as OpenAI, Anthropic,

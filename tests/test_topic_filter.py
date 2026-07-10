@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 from unittest.mock import patch
 
 from scripts.update_news import (
+    add_bilingual_fields,
     add_creator_ranking_fields,
     add_source_tier_fields,
     build_agentmail_digest_payload,
@@ -39,6 +40,7 @@ from scripts.update_news import (
     parse_follow_builders_items,
     parse_openai_codex_changelog_items,
     redact_public_text,
+    repair_zh_title_translation,
     source_tier_for_site,
     source_tier_sort_key,
     sync_paid_source_status_timestamps,
@@ -344,7 +346,8 @@ class TopicFilterTests(unittest.TestCase):
             "items": [
                 {
                     "id": "high",
-                    "title": "High score item",
+                    "title": "高分条目",
+                    "title_en": "High score item",
                     "url": "https://example.com/high",
                     "source": "OpenAI Blog",
                     "publishedAt": "2026-06-16T19:35:22.252Z",
@@ -376,10 +379,51 @@ class TopicFilterTests(unittest.TestCase):
 
         items = parse_aihot_api_items(payload, now=datetime(2026, 6, 16, tzinfo=timezone.utc))
         self.assertEqual(len(items), 1)
-        self.assertEqual(items[0].title, "High score item")
+        self.assertEqual(items[0].title, "高分条目")
         self.assertEqual(items[0].source, "OpenAI Blog")
         self.assertEqual(items[0].meta["aihot_score"], 60)
         self.assertEqual(items[0].meta["aihot_category"], "ai-models")
+        self.assertEqual(items[0].meta["provided_title_zh"], "高分条目")
+        self.assertEqual(items[0].meta["provided_title_en"], "High score item")
+
+    def test_bilingual_fields_preserve_source_provided_title_pair_and_summary(self):
+        class NoNetworkSession:
+            def get(self, *args, **kwargs):
+                raise AssertionError("source-provided bilingual titles must not be translated again")
+
+        item = {
+            "title": "Codex 加入 ChatGPT 桌面应用",
+            "provided_title_zh": "Codex 加入 ChatGPT 桌面应用",
+            "provided_title_en": "Codex joins the ChatGPT desktop app",
+            "summary": "中文编辑摘要",
+            "url": "https://example.com/codex",
+        }
+        ai_items, _, _ = add_bilingual_fields([item], [item], NoNetworkSession(), {}, 80)
+        self.assertEqual(ai_items[0]["title_zh"], "Codex 加入 ChatGPT 桌面应用")
+        self.assertEqual(ai_items[0]["title_en"], "Codex joins the ChatGPT desktop app")
+        self.assertEqual(ai_items[0]["title_original"], "Codex joins the ChatGPT desktop app")
+        self.assertEqual(ai_items[0]["summary"], "中文编辑摘要")
+        self.assertNotIn("provided_title_en", ai_items[0])
+
+        pseudo_english = {
+            "title": "如何在低配置电脑运行 GLM-5.2",
+            "provided_title_zh": "如何在低配置电脑运行 GLM-5.2",
+            "provided_title_en": "Show HN：如何在我的低配置电脑上运行 GLM-5.2",
+            "url": "https://example.com/glm",
+        }
+        pseudo_items, _, _ = add_bilingual_fields([pseudo_english], [pseudo_english], NoNetworkSession(), {}, 80)
+        self.assertIsNone(pseudo_items[0]["title_en"])
+        self.assertEqual(pseudo_items[0]["title_zh"], "如何在低配置电脑运行 GLM-5.2")
+
+    def test_repairs_recurring_ai_title_translation_errors(self):
+        self.assertEqual(
+            repair_zh_title_translation("Codex CLI 0.144.0", "法典 CLI 0.144.0"),
+            "Codex CLI 0.144.0",
+        )
+        self.assertEqual(
+            repair_zh_title_translation("GPT-5.5 Bio Bug Bounty", "GPT-5.5 生物错误赏金"),
+            "GPT-5.5 生物安全漏洞悬赏",
+        )
 
     def test_fetch_aihot_uses_public_items_api_with_score_filter(self):
         page_1 = {
