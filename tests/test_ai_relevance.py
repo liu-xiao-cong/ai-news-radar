@@ -72,6 +72,29 @@ class AiRelevanceScoringTests(unittest.TestCase):
         self.assertGreaterEqual(result["score"], 0.65)
         self.assertEqual(result["reason"], "trusted_ai_source_default_keep")
 
+    def test_rejects_explicit_adult_promotion_even_with_ai_keyword(self):
+        rec = {
+            "site_id": "socialdata_x",
+            "site_name": "SocialData X",
+            "source": "@spam_account",
+            "title": "AI virtual girlfriends with uncensored pictures and explicit promotion",
+            "url": "https://x.com/spam_account/status/1",
+        }
+        result = score_ai_relevance(rec)
+        self.assertFalse(result["is_ai_related"])
+        self.assertEqual(result["reason"], "unsafe_promotional_content")
+
+    def test_keeps_neutral_safety_news_with_single_adult_term(self):
+        rec = {
+            "site_id": "techurls",
+            "site_name": "TechURLs",
+            "source": "AI policy",
+            "title": "OpenAI publishes a safety policy for detecting AI-generated pornography",
+            "url": "https://example.com/ai-safety-policy",
+        }
+        result = score_ai_relevance(rec)
+        self.assertTrue(result["is_ai_related"])
+
     def test_curated_media_keeps_trusted_ai_feed(self):
         rec = {
             "site_id": "curated_media",

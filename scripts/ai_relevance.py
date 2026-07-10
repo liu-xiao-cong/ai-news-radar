@@ -108,6 +108,21 @@ COMMERCE_NOISE_KEYWORDS = [
     "首发价",
 ]
 
+UNSAFE_HARD_PATTERNS = [
+    re.compile(r"\bcreampie\b", re.I),
+    re.compile(r"\bblowjob\b", re.I),
+    re.compile(r"\bsuck (?:your|my) (?:dick|cock)\b", re.I),
+    re.compile(r"中出|婊子|吸你的鸡鸡|操虚拟女友", re.I),
+]
+
+UNSAFE_PROMO_PATTERNS = [
+    re.compile(r"\b(?:nsfw|nudes?|porn(?:ography)?)\b", re.I),
+    re.compile(r"\buncensored pictures?\b", re.I),
+    re.compile(r"\bvirtual girlfriends?\b", re.I),
+    re.compile(r"\bknock her up\b", re.I),
+    re.compile(r"未经审查的图片|虚拟女友|色情内容|成人内容", re.I),
+]
+
 TOPHUB_ALLOW_KEYWORDS = [
     "readhub · ai",
     "hacker news",
@@ -222,6 +237,13 @@ def contains_any_keyword(haystack: str, keywords: list[str]) -> bool:
     return any(k in h for k in keywords)
 
 
+def contains_unsafe_promotional_content(text: str) -> bool:
+    """Block explicit adult promotion without hiding a single policy/news mention."""
+    if any(pattern.search(text) for pattern in UNSAFE_HARD_PATTERNS):
+        return True
+    return sum(bool(pattern.search(text)) for pattern in UNSAFE_PROMO_PATTERNS) >= 2
+
+
 def matched_keywords(haystack: str, keywords: list[str]) -> list[str]:
     h = haystack.lower()
     return sorted({k for k in keywords if k in h})
@@ -282,6 +304,16 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
     tech_signals = matched_keywords(text, TECH_KEYWORDS)
     noise = matched_keywords(text, NOISE_KEYWORDS) + matched_keywords(text, COMMERCE_NOISE_KEYWORDS)
     source_prior = SOURCE_PRIORS.get(site_id, 0.0)
+
+    if contains_unsafe_promotional_content(text):
+        return _result(
+            is_ai_related=False,
+            score=0.0,
+            label="unsafe_content",
+            reason="unsafe_promotional_content",
+            signals=[],
+            noise=["unsafe_promotional_content"],
+        )
 
     if site_id == "zeli":
         if "24h" in source.lower() or "24h最热" in source:

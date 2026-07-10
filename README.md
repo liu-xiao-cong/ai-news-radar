@@ -77,6 +77,7 @@ AI News Radar从来都不是单纯把信息抓回来，
 ### 给普通读者
 
 - 打开在线页面，直接看最近24小时AI、模型、Agent、开发者工具和技术生态更新
+- 默认先看约100条高优先级精选；需要补盲或检索时，再切到完整AI池或原始全量池
 - 通过“伯乐精选”先看高价值故事线，再不用从几百条消息里肉眼筛选
 - 在“AI信号流”里继续查看完整AI强相关消息
 - 用站点、关键词、时间和来源筛选快速定位信息
@@ -330,3 +331,17 @@ X API演示配置见 `docs/guides/x-api-demo-config.md`；
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<div align="center">
+
+**更多好用 Skill · More Skills** → [learnprompt.pro/skills](https://learnprompt.pro/skills/)
+
+[鲁班·Skill打磨](https://github.com/LearnPrompt/luban-skill) · [庖丁·博主蒸馏](https://github.com/LearnPrompt/paoding-skill) · [蔡伦·对话造纸](https://github.com/LearnPrompt/cailun-skill) · [阿福·LLM Todo](https://github.com/LearnPrompt/afu-llm-todo) · [愚公·Loop工程](https://github.com/LearnPrompt/loop-engineering) · [搭子·结对开发](https://github.com/LearnPrompt/partner-skill) · [AI雷达·零API资讯](https://github.com/LearnPrompt/ai-news-radar)
+
+[淘金小镇·ClawHub日榜](https://github.com/LearnPrompt/skillrush-town) · [Irasutoya·正文配图](https://github.com/LearnPrompt/carl-irasutoya-illustrations) · [Humanize PPT·演讲系统](https://github.com/LearnPrompt/humanize-ppt) · [CC Harness·六件套](https://github.com/LearnPrompt/cc-harness-skills) · [微信读书教练](https://github.com/LearnPrompt/carl-weread) · [X Article发布](https://github.com/LearnPrompt/x-article-publisher-skill)
+
+<sub>**[LearnPrompt](https://github.com/LearnPrompt) 出品** · 公众号「卡尔的AI沃茨」 · [X @aiwarts](https://x.com/aiwarts)</sub>
+
+</div>

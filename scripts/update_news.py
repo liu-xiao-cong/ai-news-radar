@@ -39,6 +39,9 @@ except ModuleNotFoundError:
     feedparser = None
 
 UTC = timezone.utc
+TZINFOS = {"CET": 3600, "CEST": 7200, "EST": -18000, "EDT": -14400,
+           "PST": -28800, "PDT": -25200, "CST": -21600, "CDT": -18000,
+           "MST": -25200, "MDT": -21600, "BST": 3600, "JST": 32400}
 BROWSER_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -311,6 +314,8 @@ PUBLIC_RAW_META_FIELDS: tuple[str, ...] = (
     "aihot_score",
     "aihot_category",
     "aihot_selected",
+    "provided_title_en",
+    "provided_title_zh",
     "creator_metrics",
     "search_surface",
     "summary",
@@ -331,7 +336,7 @@ def parse_iso(dt_str: str | None) -> datetime | None:
     if not dt_str:
         return None
     try:
-        dt = dtparser.parse(dt_str)
+        dt = dtparser.parse(dt_str, tzinfos=TZINFOS)
     except Exception:
         return None
     if not dt.tzinfo:
@@ -581,7 +586,7 @@ def parse_date_any(value: Any, now: datetime) -> datetime | None:
             pass
 
     try:
-        dt = dtparser.parse(s, tzinfos={"UT": 0, "UTC": 0, "GMT": 0})
+        dt = dtparser.parse(s, tzinfos={"UT": 0, "UTC": 0, "GMT": 0, **TZINFOS})
         if not dt.tzinfo:
             dt = dt.replace(tzinfo=UTC)
         return dt.astimezone(UTC)
@@ -2089,6 +2094,8 @@ def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) 
                     "aihot_score": score_value,
                     "aihot_category": entry.get("category"),
                     "aihot_selected": bool(entry.get("selected")),
+                    "provided_title_zh": entry.get("title"),
+                    "provided_title_en": entry.get("title_en"),
                     "summary": entry.get("summary"),
                 },
             )
@@ -4565,6 +4572,25 @@ def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
     return None
 
 
+def repair_zh_title_translation(original: str, translated: str) -> str:
+    """Repair recurring machine-translation errors in AI product/news titles."""
+    source = str(original or "")
+    result = str(translated or "").strip()
+    if not result:
+        return result
+    if re.search(r"\bCodex\b", source, re.I):
+        result = result.replace("法典", "Codex")
+    if re.search(r"\bBug Bounty\b", source, re.I):
+        result = result.replace("错误赏金", "漏洞悬赏").replace("Bug 赏金", "漏洞悬赏")
+    if re.search(r"\bBio Bug Bounty\b", source, re.I):
+        result = result.replace("生物漏洞悬赏", "生物安全漏洞悬赏")
+    if re.search(r"\brepositor(?:y|ies)\b", source, re.I):
+        result = result.replace("存储库", "代码仓库")
+    if re.search(r"\bdesktop app\b", source, re.I):
+        result = result.replace("桌面应用程序", "桌面应用")
+    return result
+
+
 def add_bilingual_fields(
     items_ai: list[dict[str, Any]],
     items_all: list[dict[str, Any]],
@@ -4586,11 +4612,22 @@ def add_bilingual_fields(
         out = dict(item)
         title = str(out.get("title") or "").strip()
         url = normalize_url(str(out.get("url") or ""))
+        provided_zh = str(out.pop("provided_title_zh", "") or "").strip()
+        provided_en_raw = str(out.pop("provided_title_en", "") or "").strip()
+        provided_en = provided_en_raw if is_mostly_english(provided_en_raw) else ""
 
         out["title_original"] = title
         out["title_en"] = None
         out["title_zh"] = None
         out["title_bilingual"] = title
+
+        if provided_en:
+            zh_title = provided_zh if has_cjk(provided_zh) else (title if has_cjk(title) else "")
+            out["title_original"] = provided_en
+            out["title_en"] = provided_en
+            out["title_zh"] = zh_title or None
+            out["title_bilingual"] = f"{zh_title} / {provided_en}" if zh_title else provided_en
+            return out
 
         if has_cjk(title):
             out["title_zh"] = title
@@ -4607,11 +4644,14 @@ def add_bilingual_fields(
         if not zh_title and allow_translate and translated_now < max_new_translations:
             tr = translate_to_zh_cn(session, title)
             if tr and has_cjk(tr):
-                zh_title = tr
-                cache[title] = tr
+                zh_title = repair_zh_title_translation(title, tr)
+                cache[title] = zh_title
                 translated_now += 1
 
         if zh_title:
+            zh_title = repair_zh_title_translation(title, zh_title)
+            if cache.get(title) and cache.get(title) != zh_title:
+                cache[title] = zh_title
             out["title_zh"] = zh_title
             out["title_bilingual"] = f"{zh_title} / {title}"
         return out
@@ -4915,6 +4955,10 @@ def story_item_link(item: dict[str, Any]) -> dict[str, Any]:
     return {
         "id": item.get("id"),
         "title": item.get("title_bilingual") or item.get("title"),
+        "title_zh": item.get("title_zh"),
+        "title_en": item.get("title_en"),
+        "title_original": item.get("title_original"),
+        "summary": item.get("summary"),
         "url": item.get("url"),
         "source": item.get("source"),
         "source_name": item.get("site_name"),
@@ -4980,6 +5024,10 @@ def build_story_record(
         "primary_item": {
             "id": primary.get("id"),
             "title": title,
+            "title_zh": primary.get("title_zh"),
+            "title_en": primary.get("title_en"),
+            "title_original": primary.get("title_original"),
+            "summary": primary.get("summary"),
             "url": url,
             "source": primary.get("source"),
             "source_name": primary.get("site_name"),
