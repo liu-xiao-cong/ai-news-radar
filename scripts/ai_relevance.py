@@ -123,36 +123,6 @@ UNSAFE_PROMO_PATTERNS = [
     re.compile(r"未经审查的图片|虚拟女友|色情内容|成人内容", re.I),
 ]
 
-TOPHUB_ALLOW_KEYWORDS = [
-    "readhub · ai",
-    "hacker news",
-    "github",
-    "product hunt",
-    "v2ex",
-    "少数派",
-    "infoq",
-    "36氪",
-    "机器之心",
-    "量子位",
-    "科技",
-    "人工智能",
-    "机器人",
-    "具身",
-    "开源",
-]
-
-TOPHUB_BLOCK_KEYWORDS = [
-    "热销总榜",
-    "淘宝",
-    "天猫",
-    "京东",
-    "拼多多",
-    "抖音",
-    "快手",
-    "微博",
-    "小红书",
-]
-
 EN_SIGNAL_RE = re.compile(
     r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion|agent)(?![a-z0-9])"
 )
@@ -333,27 +303,6 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
             signals=ai_signals + tech_signals,
             noise=noise,
         )
-
-    if site_id == "tophub":
-        source_l = source.lower()
-        if contains_any_keyword(source_l, TOPHUB_BLOCK_KEYWORDS):
-            return _result(
-                is_ai_related=False,
-                score=0.05,
-                label="noise",
-                reason="tophub_blocked_channel",
-                signals=ai_signals + tech_signals,
-                noise=noise or matched_keywords(source_l, TOPHUB_BLOCK_KEYWORDS),
-            )
-        if not contains_any_keyword(source_l, TOPHUB_ALLOW_KEYWORDS):
-            return _result(
-                is_ai_related=False,
-                score=0.12,
-                label="source_scope_drop",
-                reason="tophub_channel_not_in_allowlist",
-                signals=ai_signals + tech_signals,
-                noise=noise,
-            )
 
     if site_id == "curated_media":
         source_l = source.lower()

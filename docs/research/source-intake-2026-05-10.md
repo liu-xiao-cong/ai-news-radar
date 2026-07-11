@@ -14,7 +14,7 @@ Current AI News Radar already has a two-layer source model:
 Current built-in public coverage, from `docs/SOURCE_COVERAGE.md` and `data/source-status.json`:
 
 - Official AI sources: OpenAI News, Anthropic News, Google DeepMind, Google AI Blog, Hugging Face Blog, GitHub AI & ML, GitHub Changelog.
-- Curated/public aggregators: Follow Builders, AI Breakfast, TechURLs, Buzzing, Info Flow, BestBlogs, TopHub, Zeli, AI HubToday, AIbase, NewsNow.
+- Curated/public aggregators: Follow Builders, AI Breakfast, TechURLs, Buzzing, Info Flow, BestBlogs, Zeli, AI HubToday, AIbase, NewsNow.
 - OPML customization: supported through `feeds/follow.opml` / `FOLLOW_OPML_B64`.
 - Private/fragile surfaces such as X, WeChat, private email, cookies, and browser automation should not become public defaults unless explicitly accepted.
 

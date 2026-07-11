@@ -20,7 +20,7 @@
 - 默认聚合/媒体 adapter：11 个。
 - 示例 OPML feed：10 个。
 
-注意：部分聚合器本身还会展开更多上游子源，例如 TopHub、NewsNow、Follow Builders、Info Flow 等；这里不把它们内部所有上游再逐个计数，避免把“信息量”误说成“可控源数量”。
+注意：部分聚合器本身还会展开更多上游子源，例如 NewsNow、Follow Builders、Info Flow 等；这里不把它们内部所有上游再逐个计数，避免把“信息量”误说成“可控源数量”。
 
 ---
 
@@ -37,11 +37,12 @@
 | 5 | `buzzing` | Buzzing | 内置公开聚合源 adapter | ok | 744 | 公共聚合源 |
 | 6 | `iris` | Info Flow | 内置公开聚合源 adapter | ok | 487 | 公共聚合源 |
 | 7 | `bestblogs` | BestBlogs | 内置公开聚合源 adapter | ok | 1 | 公共聚合源 |
-| 8 | `tophub` | TopHub | 内置热榜/聚合源 adapter | ok | 3047 | 量大，需要 topic filter 控噪 |
-| 9 | `zeli` | Zeli | 内置公开聚合源 adapter | ok | 64 | 公共聚合源 |
-| 10 | `aihubtoday` | AI HubToday | 内置 AI 聚合源 adapter | ok | 10 | AI 聚合源 |
-| 11 | `aibase` | AIbase | 内置 AI 媒体/聚合源 adapter | ok | 20 | AI 聚合源 |
-| 12 | `newsnow` | NewsNow | 内置公开聚合源 adapter | ok | 143 | 公共聚合源 |
+| 8 | `zeli` | Zeli | 内置公开聚合源 adapter | ok | 64 | 公共聚合源 |
+| 9 | `aihubtoday` | AI HubToday | 内置 AI 聚合源 adapter | ok | 10 | AI 聚合源 |
+| 10 | `aibase` | AIbase | 内置 AI 媒体/聚合源 adapter | ok | 20 | AI 聚合源 |
+| 11 | `newsnow` | NewsNow | 内置公开聚合源 adapter | ok | 143 | 公共聚合源 |
+
+（原表中的第 8 行热榜聚合源已于 v0.8 删除，历史快照数据见 reports/source-quality/v0.8-audit.md。）
 
 当前默认快照统计：
 

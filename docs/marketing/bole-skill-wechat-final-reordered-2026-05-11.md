@@ -80,7 +80,7 @@ AI时代最不缺的就是信息源。真正稀缺的，是一个能帮你判断
 
 所以AI News Radar里会保留官方层，比如OpenAI、Anthropic、Google DeepMind、Google AI Blog、Hugging Face、GitHub AI、GitHub Changelog。
 
-也会保留聚合层，比如TechURLs、Buzzing、Info Flow、TopHub、Zeli、AI HubToday、AIbase、NewsNow。
+也会保留聚合层，比如TechURLs、Buzzing、Info Flow、Zeli、AI HubToday、AIbase、NewsNow。
 
 但这两层的角色是不一样的。
 

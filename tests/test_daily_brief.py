@@ -41,7 +41,7 @@ def make_item(
 
 def test_importance_score_favors_official_relevant_recent_items():
     official = make_item(1, site_id="official_ai", hours_ago=1, ai_score=0.95)
-    discussion = make_item(2, site_id="tophub", hours_ago=20, ai_score=0.65)
+    discussion = make_item(2, site_id="newsnow", hours_ago=20, ai_score=0.65)
 
     official_score = calculate_item_importance(official, NOW, 24)["score"]
     discussion_score = calculate_item_importance(discussion, NOW, 24)["score"]

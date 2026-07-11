@@ -112,8 +112,8 @@ class TopicFilterTests(unittest.TestCase):
 
     def test_rejects_noise_topic(self):
         rec = {
-            "site_id": "tophub",
-            "site_name": "TopHub",
+            "site_id": "newsnow",
+            "site_name": "NewsNow",
             "source": "微博热搜",
             "title": "明星八卦今日热搜",
             "url": "https://example.com/noise",
@@ -122,8 +122,8 @@ class TopicFilterTests(unittest.TestCase):
 
     def test_rejects_commerce_noise(self):
         rec = {
-            "site_id": "tophub",
-            "site_name": "TopHub",
+            "site_id": "newsnow",
+            "site_name": "NewsNow",
             "source": "淘宝 ‧ 天猫 · 热销总榜",
             "title": "白象拌面任选加码 券后¥29.96",
             "url": "https://example.com/shop",
@@ -605,8 +605,8 @@ class TopicFilterTests(unittest.TestCase):
 
     def test_accepts_chinese_model_news_after_noise_tightening(self):
         rec = {
-            "site_id": "tophub",
-            "site_name": "TopHub",
+            "site_id": "newsnow",
+            "site_name": "NewsNow",
             "source": "机器之心",
             "title": "新一代推理模型刷新多模态数学基准",
             "url": "https://example.com/reasoning-model",

@@ -121,7 +121,7 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
-# Per-fetch item cap for wide discussion-tier aggregators (tophub/buzzing/iris).
+# Per-fetch item cap for wide discussion-tier aggregators (buzzing/iris).
 # They dominate raw volume with very low AI keep rates (see
 # reports/source-quality/v0.8-audit.md); cap them at the fetch layer so a
 # single round cannot flood the archive. Override via env for experiments.
@@ -1236,71 +1236,6 @@ def fetch_bestblogs(session: requests.Session, now: datetime) -> list[RawItem]:
     return out
 
 
-def fetch_tophub(session: requests.Session, now: datetime) -> list[RawItem]:
-    site_id = "tophub"
-    site_name = "TopHub"
-
-    r = session.get("https://tophub.today/", timeout=30)
-    r.raise_for_status()
-    html = r.content.decode("utf-8", errors="replace")
-    if "�" in html:
-        for enc in ("gb18030", "utf-8"):
-            try:
-                candidate = r.content.decode(enc, errors="replace")
-                if candidate.count("�") < html.count("�"):
-                    html = candidate
-            except Exception:
-                continue
-    soup = BeautifulSoup(html, "html.parser")
-
-    out: list[RawItem] = []
-    for block in soup.select(".cc-cd"):
-        if len(out) >= DISCUSSION_FETCH_CAP:
-            break
-        source_name_tag = block.select_one(".cc-cd-lb span")
-        board_tag = block.select_one(".cc-cd-sb-st")
-        source_name = source_name_tag.get_text(" ", strip=True) if source_name_tag else "TopHub"
-        board_name = board_tag.get_text(" ", strip=True) if board_tag else ""
-        source_name = maybe_fix_mojibake(source_name)
-        board_name = maybe_fix_mojibake(board_name)
-        source = f"{source_name} · {board_name}" if board_name else source_name
-
-        for a in block.select(".cc-cd-cb-l a"):
-            if len(out) >= DISCUSSION_FETCH_CAP:
-                break
-            href = a.get("href", "").strip()
-            row = a.select_one(".cc-cd-cb-ll")
-            title_tag = row.select_one(".t") if row else None
-            metric_tag = row.select_one(".e") if row else None
-
-            title = (
-                title_tag.get_text(" ", strip=True)
-                if title_tag
-                else a.get_text(" ", strip=True)
-            )
-            title = maybe_fix_mojibake(title)
-            if not title or not href:
-                continue
-
-            full_url = href if href.startswith("http") else urljoin("https://tophub.today", href)
-            row_text = row.get_text(" ", strip=True) if row else title
-            published = parse_relative_time_zh(row_text, now)
-
-            out.append(
-                RawItem(
-                    site_id=site_id,
-                    site_name=site_name,
-                    source=source,
-                    title=title,
-                    url=full_url,
-                    published_at=published,
-                    meta={"metric": metric_tag.get_text(" ", strip=True) if metric_tag else ""},
-                )
-            )
-
-    return out
-
-
 def fetch_zeli(session: requests.Session, now: datetime) -> list[RawItem]:
     site_id = "zeli"
     site_name = "Zeli"
@@ -2312,7 +2247,6 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
         ("buzzing", "Buzzing", fetch_buzzing),
         ("iris", "Info Flow", fetch_iris),
         ("bestblogs", "BestBlogs", fetch_bestblogs),
-        ("tophub", "TopHub", fetch_tophub),
         ("zeli", "Zeli", fetch_zeli),
         ("hackernews", "Hacker News", fetch_hacker_news_algolia),
         ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),
@@ -2772,7 +2706,6 @@ SOURCE_TIER_BY_SITE: dict[str, tuple[str, str, int]] = {
     "techurls": ("discussion", "热议参考", 5),
     "buzzing": ("discussion", "热议参考", 5),
     "iris": ("discussion", "热议参考", 5),
-    "tophub": ("discussion", "热议参考", 5),
     "zeli": ("discussion", "热议参考", 5),
     "hackernews": ("discussion", "热议参考", 5),
     "newsnow": ("discussion", "热议参考", 5),
@@ -2948,37 +2881,6 @@ COMMERCE_NOISE_KEYWORDS = [
 EN_SIGNAL_RE = re.compile(
     r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion|agent)(?![a-z0-9])"
 )
-
-TOPHUB_ALLOW_KEYWORDS = [
-    "readhub · ai",
-    "hacker news",
-    "github",
-    "product hunt",
-    "v2ex",
-    "少数派",
-    "infoq",
-    "36氪",
-    "机器之心",
-    "量子位",
-    "科技",
-    "人工智能",
-    "机器人",
-    "具身",
-    "开源",
-]
-
-TOPHUB_BLOCK_KEYWORDS = [
-    "热销总榜",
-    "淘宝",
-    "天猫",
-    "京东",
-    "拼多多",
-    "抖音",
-    "快手",
-    "微博",
-    "小红书",
-]
-
 
 MEANINGFUL_EN_SIGNAL_RE = re.compile(
     r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion)(?![a-z0-9])"

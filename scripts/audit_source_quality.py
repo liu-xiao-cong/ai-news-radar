@@ -44,7 +44,6 @@ JACCARD_THRESHOLD = 0.6
 CANDIDATE_TOKEN_DF_CAP = 400
 
 DISCUSSION_SITE_IDS = {
-    "tophub",
     "buzzing",
     "iris",
     "techurls",
@@ -272,7 +271,6 @@ def pct(numerator: int, denominator: int) -> str:
 # 2026-05-12 v0.4.0 AI relevance audit keep rates, for trend comparison.
 # Source: reports/ai-relevance-audit/v0.4.0-2026-05-12.md
 HISTORICAL_KEEP_RATE = {
-    "tophub": 0.030,
     "buzzing": 0.117,
     "iris": 0.171,
     "techurls": 0.275,
@@ -281,7 +279,6 @@ HISTORICAL_KEEP_RATE = {
 }
 
 DISCUSSION_NOTES = {
-    "tophub": "全站热榜抓取（微博/知乎/百度等全部板块），绝大多数条目与 AI 无关。",
     "buzzing": "buzzing.cc 全量 feed，覆盖 HN/Reddit/Twitter 等中文化聚合，主题不限 AI。",
     "iris": "Info Flow 多 feed 聚合，科技向但非 AI 专属。",
     "techurls": "科技新闻聚合，科技占比高但 AI 纯度一般。",
@@ -339,7 +336,7 @@ def recommendation_sections(stats: dict[str, dict[str, Any]]) -> list[str]:
         [
             "",
             "本轮已实施的限流：`DISCUSSION_FETCH_CAP=50`（环境变量可调）作用于"
-            " `fetch_tophub` / `fetch_buzzing` / `fetch_iris` 三个 fetcher，"
+            " `fetch_buzzing` / `fetch_iris` 两个 fetcher，"
             "单轮抓取截断到 50 条；其余 discussion 源暂不动。",
             "",
             "### 保留",

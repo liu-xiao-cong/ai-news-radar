@@ -149,7 +149,7 @@ AI News Radar already has some similar building blocks:
 - OPML/RSS support
 - AI HOT feed ingestion
 - Follow Builders public feeds
-- Buzzing / TechURLs / NewsNow / TopHub / Zeli aggregators
+- Buzzing / TechURLs / NewsNow / Zeli aggregators
 - AI relevance scoring
 - Story merging
 - Source health reporting
