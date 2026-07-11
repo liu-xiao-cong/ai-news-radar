@@ -404,7 +404,7 @@ button {
 .primary-controls {
   margin-top: 14px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto auto;
+  grid-template-columns: auto minmax(0, 1fr) auto auto;
   gap: 12px;
   align-items: center;
 }
@@ -2640,6 +2640,10 @@ summary:focus-visible {
     gap: 8px;
   }
 
+  .primary-controls .mode-switch {
+    grid-column: 1 / -1;
+  }
+
   .clear-filters-btn {
     grid-column: 1 / -1;
     min-height: 38px;
@@ -3040,4 +3044,79 @@ summary:focus-visible {
   background: transparent;
   border-color: var(--accent);
   color: var(--accent);
+}
+
+/* ---- 三视图收编：热点榜榜单行（v0.8 重构追加） ---- */
+/* 红线：单强调色 var(--accent)、0 圆角、1px 边框、无渐变无阴影 */
+
+.hot-board-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.hot-board-row {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 12px 18px;
+  border-top: 1px solid var(--line-soft);
+  border-radius: 0;
+  color: var(--ink);
+  text-decoration: none;
+  background: var(--surface);
+}
+
+.hot-board-row:first-child {
+  border-top: 0;
+}
+
+.hot-board-row:hover,
+.hot-board-row:focus-visible {
+  background: var(--surface-soft);
+  outline: none;
+}
+
+.hot-board-rank {
+  flex: 0 0 auto;
+  min-width: 36px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--accent);
+}
+
+.hot-board-body {
+  min-width: 0;
+}
+
+.hot-board-title {
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.hot-board-row:hover .hot-board-title {
+  color: var(--accent);
+}
+
+.hot-board-meta {
+  font-size: 12.5px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .hot-board-row {
+    padding: 10px 14px;
+    gap: 8px;
+  }
+  .hot-board-meta {
+    display: block;
+    white-space: normal;
+  }
+}
+
+/* 时间线密度开关：复用 .mode-switch 基础样式，仅收紧尺寸 */
+.density-switch .mode-btn {
+  min-height: 32px;
+  font-size: 12.5px;
+  cursor: pointer;
 }
