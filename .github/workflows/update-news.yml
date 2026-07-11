@@ -99,6 +99,13 @@ jobs:
             python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21
           fi
 
+      - name: Persona scoring
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+        run: python scripts/persona_score.py --data-dir data
+
       - name: Commit and push changes
         env:
           EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}
