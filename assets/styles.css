@@ -404,9 +404,50 @@ button {
 .primary-controls {
   margin-top: 14px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto auto;
+  grid-template-columns: minmax(0, 1fr) minmax(178px, 220px) auto auto;
   gap: 12px;
   align-items: center;
+}
+
+.date-picker {
+  min-width: 0;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 4px 5px 4px 11px;
+  color: var(--muted);
+  background: var(--surface);
+  font-size: 12px;
+  font-weight: 720;
+  white-space: nowrap;
+}
+
+.date-picker select {
+  min-width: 0;
+  border: 0;
+  padding: 7px 8px;
+  color: var(--ink);
+  background: transparent;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.date-picker select:disabled {
+  color: var(--muted-soft);
+  cursor: wait;
+}
+
+.date-picker:focus-within {
+  border-color: rgba(18, 106, 115, 0.45);
+  box-shadow: 0 0 0 2px rgba(18, 106, 115, 0.1);
+}
+
+.date-picker select:focus {
+  outline: 0;
 }
 
 input,
@@ -603,6 +644,12 @@ summary:focus-visible {
   background: var(--accent);
   color: #fff;
   font-weight: 700;
+}
+
+.mode-btn:disabled {
+  color: var(--muted-soft);
+  background: var(--surface-soft);
+  cursor: not-allowed;
 }
 
 .all-dedupe {
@@ -2632,6 +2679,14 @@ summary:focus-visible {
     gap: 8px;
   }
 
+  .primary-controls > #searchInput {
+    grid-column: 1 / -1;
+  }
+
+  .date-picker {
+    min-width: 0;
+  }
+
   .clear-filters-btn {
     grid-column: 1 / -1;
     min-height: 38px;
@@ -2872,6 +2927,18 @@ summary:focus-visible {
   .waytoagi-tools {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .primary-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .date-picker,
+  .mode-hint,
+  .clear-filters-btn {
+    width: 100%;
+    max-width: none;
+    grid-column: 1;
   }
 }
 

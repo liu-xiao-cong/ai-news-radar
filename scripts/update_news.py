@@ -5270,6 +5270,143 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
     return slim_payload, all_payload
 
 
+def history_day_key(record: dict[str, Any]) -> str | None:
+    """Return the record's calendar day in the reader-facing Shanghai timezone."""
+    timestamp = event_time(record)
+    if not timestamp:
+        return None
+    return timestamp.astimezone(SH_TZ).date().isoformat()
+
+
+def normalize_history_record(record: dict[str, Any]) -> dict[str, Any] | None:
+    normalized = dict(record)
+    normalized["title"] = maybe_fix_mojibake(str(normalized.get("title") or ""))
+    normalized["source"] = maybe_fix_mojibake(normalize_source_for_display(
+        str(normalized.get("site_id") or ""),
+        str(normalized.get("source") or ""),
+        str(normalized.get("url") or ""),
+    ))
+    if str(normalized.get("site_id") or "") == "aihubtoday" and is_hubtoday_placeholder_title(
+        str(normalized.get("title") or "")
+    ):
+        return None
+    normalized = add_ai_relevance_fields(normalized)
+    return add_source_tier_fields(normalized)
+
+
+def build_history_payloads(
+    archive: dict[str, dict[str, Any]],
+    *,
+    now: datetime,
+    archive_days: int,
+    generated_at: str,
+) -> list[dict[str, Any]]:
+    """Build small AI-only calendar-day files instead of loading archive.json in browsers."""
+    today = now.astimezone(SH_TZ).date()
+    first_day = today - timedelta(days=max(1, archive_days) - 1)
+    records_by_day: dict[str, list[dict[str, Any]]] = {}
+
+    for record in archive.values():
+        day_key = history_day_key(record)
+        if not day_key:
+            continue
+        try:
+            day = date.fromisoformat(day_key)
+        except ValueError:
+            continue
+        if day < first_day or day > today:
+            continue
+        normalized = normalize_history_record(record)
+        if normalized is not None:
+            records_by_day.setdefault(day_key, []).append(normalized)
+
+    payloads: list[dict[str, Any]] = []
+    for day_key in sorted(records_by_day, reverse=True):
+        all_items = sorted(
+            records_by_day[day_key],
+            key=lambda item: event_time(item) or datetime.min.replace(tzinfo=UTC),
+            reverse=True,
+        )
+        ai_items = [item for item in all_items if item.get("ai_is_related", is_ai_related_record(item))]
+        ai_items = suppress_near_duplicate_items(dedupe_items_by_title_url(ai_items, random_pick=False))
+
+        raw_count_by_site: dict[str, int] = {}
+        site_name_by_id: dict[str, str] = {}
+        for item in all_items:
+            site_id = str(item.get("site_id") or "")
+            raw_count_by_site[site_id] = raw_count_by_site.get(site_id, 0) + 1
+            site_name_by_id[site_id] = str(item.get("site_name") or site_id)
+
+        site_stats: dict[str, dict[str, Any]] = {}
+        for item in ai_items:
+            site_id = str(item.get("site_id") or "")
+            site_stats.setdefault(
+                site_id,
+                {
+                    "site_id": site_id,
+                    "site_name": site_name_by_id.get(site_id, site_id),
+                    "count": 0,
+                    "raw_count": raw_count_by_site.get(site_id, 0),
+                },
+            )["count"] += 1
+
+        payloads.append(
+            {
+                "generated_at": generated_at,
+                "date": day_key,
+                "timezone": "Asia/Shanghai",
+                "total_items": len(ai_items),
+                "total_items_raw": len(all_items),
+                "site_stats": sorted(site_stats.values(), key=lambda row: row["count"], reverse=True),
+                "items": ai_items,
+                "items_ai": ai_items,
+            }
+        )
+
+    return payloads
+
+
+def write_history_payloads(
+    history_dir: Path,
+    payloads: list[dict[str, Any]],
+    *,
+    generated_at: str,
+) -> dict[str, Any]:
+    history_dir.mkdir(parents=True, exist_ok=True)
+    expected_files = {f"{payload['date']}.json" for payload in payloads}
+    for existing in history_dir.glob("*.json"):
+        if existing.name != "index.json" and existing.name not in expected_files:
+            existing.unlink()
+
+    dates: list[dict[str, Any]] = []
+    for payload in payloads:
+        filename = f"{payload['date']}.json"
+        (history_dir / filename).write_text(
+            json.dumps(sanitize_public_payload(payload), ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8",
+        )
+        dates.append(
+            {
+                "date": payload["date"],
+                "count": payload["total_items"],
+                "raw_count": payload["total_items_raw"],
+                "file": f"data/history/{filename}",
+            }
+        )
+
+    index_payload = {
+        "generated_at": generated_at,
+        "timezone": "Asia/Shanghai",
+        "latest_date": dates[0]["date"] if dates else None,
+        "dates": dates,
+    }
+    (history_dir / "index.json").write_text(
+        json.dumps(index_payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return index_payload
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Aggregate AI news updates from multiple sources")
     parser.add_argument("--output-dir", default="data", help="Directory for output JSON files")
@@ -5292,6 +5429,7 @@ def main() -> int:
     stories_merged_path = output_dir / "stories-merged.json"
     merge_log_path = output_dir / "merge-log.json"
     waytoagi_path = output_dir / "waytoagi-7d.json"
+    history_dir = output_dir / "history"
     title_cache_path = output_dir / "title-zh-cache.json"
     email_digest_path = output_dir / AGENTMAIL_DIGEST_FILE
     paid_source_state_path = output_dir / PAID_SOURCE_STATE_FILE
@@ -5529,10 +5667,26 @@ def main() -> int:
         title_cache,
         max_new_translations=0,
     )
+    generated_at = iso(now)
+    history_payloads = build_history_payloads(
+        archive,
+        now=now,
+        archive_days=args.archive_days,
+        generated_at=generated_at,
+    )
+    for history_payload in history_payloads:
+        history_items, _, title_cache = add_bilingual_fields(
+            history_payload["items_ai"],
+            [],
+            session,
+            title_cache,
+            max_new_translations=0,
+        )
+        history_payload["items"] = history_items
+        history_payload["items_ai"] = history_items
     latest_items_ai_dedup = suppress_near_duplicate_items(dedupe_items_by_title_url(latest_items, random_pick=False))
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
     stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
-    generated_at = iso(now)
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     stories_merged_payload = build_stories_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     merge_log_payload = build_merge_log_payload(merge_events, generated_at=generated_at)
@@ -5687,6 +5841,11 @@ def main() -> int:
         json.dumps(sanitize_public_payload(archive_payload), ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
+    history_index_payload = write_history_payloads(
+        history_dir,
+        history_payloads,
+        generated_at=generated_at,
+    )
     status_path.write_text(json.dumps(sanitize_public_payload(status_payload), ensure_ascii=False, indent=2), encoding="utf-8")
     paid_source_state_path.write_text(
         json.dumps(sanitize_public_payload(paid_source_state), ensure_ascii=False, indent=2),
@@ -5706,6 +5865,7 @@ def main() -> int:
     print(f"Wrote: {stories_merged_path} ({stories_merged_payload.get('total_stories', 0)} stories)")
     print(f"Wrote: {merge_log_path} ({len(merge_events)} merge events)")
     print(f"Wrote: {archive_path} ({len(archive)} items)")
+    print(f"Wrote: {history_dir} ({len(history_index_payload.get('dates', []))} calendar days)")
     print(f"Wrote: {status_path}")
     print(f"Wrote: {paid_source_state_path}")
     if email_digest_payload is not None:
