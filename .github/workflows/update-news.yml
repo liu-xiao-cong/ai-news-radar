@@ -9,7 +9,8 @@ on:
         default: false
         type: boolean
   schedule:
-    - cron: "*/30 * * * *"
+    # Daily at 00:30 UTC / 08:30 Asia/Shanghai.
+    - cron: "30 0 * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
