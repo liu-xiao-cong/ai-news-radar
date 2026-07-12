@@ -32,6 +32,11 @@ const state = {
   signalLevelFilter: "",
   siteGroupsExpanded: false,
   xAuthorsExpanded: false,
+  selectedDate: "",
+  historyIndex: null,
+  historyCache: new Map(),
+  latestView: null,
+  dateLoading: false,
 };
 
 const statsEl = document.getElementById("stats");
@@ -60,6 +65,7 @@ const sectionSelectEl = document.getElementById("sectionSelect");
 const sourceTypeSelectEl = document.getElementById("sourceTypeSelect");
 const signalLevelSelectEl = document.getElementById("signalLevelSelect");
 const clearFiltersBtnEl = document.getElementById("clearFiltersBtn");
+const historyDateSelectEl = document.getElementById("historyDateSelect");
 
 const waytoagiWrapEl = document.querySelector(".waytoagi-wrap");
 const waytoagiUpdatedAtEl = document.getElementById("waytoagiUpdatedAt");
@@ -197,6 +203,27 @@ function fmtDate(iso) {
   }).format(d);
 }
 
+function fmtFullDate(iso) {
+  if (!iso) return "最新 24 小时";
+  const d = new Date(`${iso}T00:00:00+08:00`);
+  if (Number.isNaN(d.getTime())) return iso;
+  return new Intl.DateTimeFormat("zh-CN", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    weekday: "short",
+    timeZone: "Asia/Shanghai",
+  }).format(d);
+}
+
+function viewWindowLabel() {
+  return state.selectedDate ? fmtFullDate(state.selectedDate) : "过去 24 小时";
+}
+
+function viewWindowShortLabel() {
+  return state.selectedDate ? fmtDate(state.selectedDate) : "24 小时";
+}
+
 function setStats() {
   statsEl.innerHTML = "";
   const items = safeItems(state.itemsAi);
@@ -212,14 +239,15 @@ function setStats() {
     ["故事", `${fmtNumber(curatedCount)}条`],
     ["源", health],
   ];
+  const windowLabel = viewWindowLabel();
   statsEl.setAttribute(
     "aria-label",
-    `过去 24 小时：AI 信号 ${fmtNumber(items.length)} 条，高优先级 ${fmtNumber(highCount)} 条，重点故事 ${fmtNumber(curatedCount)} 条，源状态 ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常` : "加载中"}`,
+    `${windowLabel}：AI 信号 ${fmtNumber(items.length)} 条，高优先级 ${fmtNumber(highCount)} 条，重点故事 ${fmtNumber(curatedCount)} 条，源状态 ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常` : "加载中"}`,
   );
 
   const prefix = document.createElement("div");
   prefix.className = "stat-prefix";
-  prefix.textContent = "过去 24 小时：";
+  prefix.textContent = `${windowLabel}：`;
   statsEl.appendChild(prefix);
 
   cards.forEach(([k, v]) => {
@@ -275,7 +303,7 @@ function renderStickySummary() {
     query ? `搜索“${query}”` : "",
   ].filter(Boolean);
   const mode = state.mode === "selected" ? "精选" : (state.mode === "all" ? "全量" : "全部 AI");
-  stickySummaryTextEl.textContent = `${fmtNumber(filteredCount)} 条 · ${mode}${filters.length ? ` · ${filters.join(" · ")}` : ""}`;
+  stickySummaryTextEl.textContent = `${viewWindowShortLabel()} · ${fmtNumber(filteredCount)} 条 · ${mode}${filters.length ? ` · ${filters.join(" · ")}` : ""}`;
 }
 
 function sourceKind(siteId) {
@@ -385,12 +413,16 @@ function renderCoverageStrip(errorMessage = "") {
   const agentmail = state.sourceStatus?.agentmail || {};
   const xApi = state.sourceStatus?.x_api || {};
   const socialdata = state.sourceStatus?.socialdata || {};
-  const allCount = Number(state.sourceStatus?.items_before_topic_filter || state.totalAllMode || state.itemsAll.length || 0);
-  const coverageCount = Number(state.sourceStatus?.fetched_raw_items || state.totalRaw || allCount || 0);
-  const officialCount = Number(siteRow("official_ai")?.item_count || 0);
-  const newsletterCount = Number(siteRow("aibreakfast")?.item_count || 0);
-  const curatedMediaCount = Number(siteRow("curated_media")?.item_count || 0);
-  const buildersCount = Number(siteRow("followbuilders")?.item_count || 0);
+  const allCount = Number(state.selectedDate
+    ? state.totalRaw
+    : (state.sourceStatus?.items_before_topic_filter || state.totalAllMode || state.itemsAll.length || 0));
+  const coverageCount = Number(state.selectedDate
+    ? state.totalRaw
+    : (state.sourceStatus?.fetched_raw_items || state.totalRaw || allCount || 0));
+  const officialCount = Number(state.selectedDate ? siteAiPoolCount("official_ai") : (siteRow("official_ai")?.item_count || 0));
+  const newsletterCount = Number(state.selectedDate ? siteAiPoolCount("aibreakfast") : (siteRow("aibreakfast")?.item_count || 0));
+  const curatedMediaCount = Number(state.selectedDate ? siteAiPoolCount("curated_media") : (siteRow("curated_media")?.item_count || 0));
+  const buildersCount = Number(state.selectedDate ? siteAiPoolCount("followbuilders") : (siteRow("followbuilders")?.item_count || 0));
   const creatorCount = state.creatorItemsAi.length || (siteAiPoolCount("tikhub_douyin") + siteAiPoolCount("tikhub_xiaohongshu"));
   const creatorRawCount = state.creatorItemsAll.length || (siteRawPoolCount("tikhub_douyin") + siteRawPoolCount("tikhub_xiaohongshu"));
   const socialdataPoolCount = siteAiPoolCount("socialdata_x");
@@ -414,8 +446,8 @@ function renderCoverageStrip(errorMessage = "") {
 
   const cards = [
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
-    ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["AI强相关", `${fmtNumber(safeItems(state.itemsAi).length)} 条`, "24小时强相关信号", "signal"],
+    [state.selectedDate ? "当日覆盖池" : "今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
+    ["AI强相关", `${fmtNumber(safeItems(state.itemsAi).length)} 条`, `${viewWindowShortLabel()}强相关信号`, "signal"],
     ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
     ["精选媒体源池", `${fmtNumber(curatedMediaCount)} 条`, "The Decoder / TC / Verge / MTP 等", "signal"],
     ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
@@ -617,7 +649,9 @@ function renderSectionSummary(filteredItems = null) {
   const modeText = state.mode === "selected"
     ? "高优先级精选"
     : (state.mode === "all" ? (state.allDedup ? "全量去重" : "全量原始") : "全部 AI");
-  const windowText = state.activeSection === "creator" ? `过去 ${fmtNumber(state.creatorWindowDays)} 天 · 热度优先` : "过去 24 小时";
+  const windowText = state.selectedDate
+    ? `${fmtFullDate(state.selectedDate)} · 当日归档`
+    : (state.activeSection === "creator" ? `过去 ${fmtNumber(state.creatorWindowDays)} 天 · 热度优先` : "过去 24 小时");
   sectionSummaryEl.textContent = `${windowText} · ${fmtNumber(items.length)} 条${section.id === "hot" ? "" : ` ${section.label}`}信号 · ${fmtNumber(highCount)} 条高优先级 · ${fmtNumber(sources.size)} 个来源 · ${modeText}`;
   renderStickySummary();
 }
@@ -692,12 +726,15 @@ function renderSiteFilters() {
 }
 
 function renderModeSwitch() {
+  if (state.selectedDate && state.mode === "all") state.mode = "ai";
   modeSelectedBtnEl.classList.toggle("active", state.mode === "selected");
   modeAiBtnEl.classList.toggle("active", state.mode === "ai");
   modeAllBtnEl.classList.toggle("active", state.mode === "all");
   modeSelectedBtnEl.setAttribute("aria-pressed", state.mode === "selected" ? "true" : "false");
   modeAiBtnEl.setAttribute("aria-pressed", state.mode === "ai" ? "true" : "false");
   modeAllBtnEl.setAttribute("aria-pressed", state.mode === "all" ? "true" : "false");
+  modeAllBtnEl.disabled = Boolean(state.selectedDate);
+  modeAllBtnEl.title = state.selectedDate ? "历史日期仅提供 AI 相关归档" : "查看全量原始更新";
   if (allDedupeWrapEl) allDedupeWrapEl.classList.toggle("show", state.mode === "all");
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
@@ -784,6 +821,11 @@ function modeItems() {
 
 function sectionItems(items = modeItems(), sectionId = state.activeSection) {
   if (sectionId === "creator") {
+    if (state.selectedDate) {
+      const historicalCreatorItems = safeItems(Array.isArray(items) ? items : [])
+        .filter((item) => itemSections(item).has("creator"));
+      return historicalCreatorItems.sort((a, b) => creatorHotScore(b) - creatorHotScore(a) || timelineMs(b) - timelineMs(a));
+    }
     const creatorSource = state.mode === "all" ? state.creatorItemsAll : state.creatorItemsAi;
     const visibleCreatorItems = safeItems(creatorSource);
     const selectedCreatorItems = state.mode === "selected"
@@ -943,8 +985,14 @@ function editorialPercent(item) {
   return internal ? Math.max(45, Math.round(internal * 0.72)) : 36;
 }
 
+function viewReferenceTimeMs() {
+  if (!state.selectedDate) return Date.now();
+  const endOfSelectedDay = new Date(`${state.selectedDate}T23:59:59+08:00`).getTime();
+  return Number.isFinite(endOfSelectedDay) ? endOfSelectedDay : Date.now();
+}
+
 function freshnessPercent(item, halfLifeHours = 48) {
-  const ageMs = Date.now() - timelineMs(item);
+  const ageMs = viewReferenceTimeMs() - timelineMs(item);
   if (!Number.isFinite(ageMs) || ageMs < 0) return 100;
   const ageHours = ageMs / 3600000;
   return Math.max(0, Math.min(100, Math.round(100 * Math.pow(0.5, ageHours / halfLifeHours))));
@@ -1578,7 +1626,7 @@ function storyHotness(story) {
   const sources = storySourceCount(story);
   if (sources < 2) return 0;
   const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
-  const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 24;
+  const ageHours = latest ? Math.max(0, (viewReferenceTimeMs() - latest) / 3600000) : 24;
   return (sources - 1) * Math.exp(-ageHours / HOT_DECAY_HOURS);
 }
 
@@ -1995,7 +2043,10 @@ function renderBolePicks() {
     : rankedFallbackRows(filtered).slice(0, defaultLimit);
   const top = rows.slice(0, 3);
   const remainingCount = Math.max(0, rows.length - top.length);
-  if (topStoriesTitleEl) topStoriesTitleEl.textContent = state.activeSection === "hot" ? "今日重点信号" : `${section.label}重点信号`;
+  if (topStoriesTitleEl) {
+    const datePrefix = state.selectedDate ? `${fmtDate(state.selectedDate)} ` : "今日";
+    topStoriesTitleEl.textContent = state.activeSection === "hot" ? `${datePrefix}重点信号` : `${datePrefix}${section.label}重点信号`;
+  }
   const storyMeta = usesStories
     ? `可查看 ${fmtNumber(candidateCounts.hotTotal)} 个聚合热点 · ${fmtNumber(candidateCounts.timelineTotal)} 条最新故事`
     : `可查看 ${fmtNumber(rows.length)} 条重点信号`;
@@ -2130,7 +2181,7 @@ function signalSummaryText(row) {
   if (multi && label) return `${label}信号，已被 ${fmtNumber(sourceCount)} 个来源验证，适合优先判断是否继续深挖。`;
   const reason = reasonText(item);
   if (reason && !reason.startsWith("来源与标题")) return reason.replace(/^命中方向：/, "核心方向：");
-  return `${label}方向的新近更新，已进入 24 小时 AI 强相关池。`;
+  return `${label}方向的新近更新，已进入${state.selectedDate ? "当日" : " 24 小时"} AI 强相关池。`;
 }
 
 function whyImportantText(row) {
@@ -2156,7 +2207,7 @@ function whyImportantText(row) {
   if (sections.has("community") || sections.has("hn")) {
     return "社区集中讨论代表开发者和早期用户正在形成共识，适合作为趋势验证入口。";
   }
-  return "它在当前 24 小时窗口里同时具备相关度、新鲜度和来源权重，值得先读原文确认。";
+  return `它在${state.selectedDate ? "所选日期" : "当前 24 小时窗口"}里同时具备相关度、新鲜度和来源权重，值得先读原文确认。`;
 }
 
 function impactLabels(item) {
@@ -2697,9 +2748,9 @@ function waytoagiViews(waytoagi) {
 
 function renderWaytoagi(waytoagi) {
   if (waytoagiWrapEl) {
-    waytoagiWrapEl.hidden = state.activeSection !== "community";
+    waytoagiWrapEl.hidden = Boolean(state.selectedDate) || state.activeSection !== "community";
   }
-  if (state.activeSection !== "community") return;
+  if (state.selectedDate || state.activeSection !== "community") return;
   const { updates7d, updatesToday, latestDate } = waytoagiViews(waytoagi);
   if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.classList.toggle("active", state.waytoagiMode === "today");
   if (waytoagi7dBtnEl) waytoagi7dBtnEl.classList.toggle("active", state.waytoagiMode === "7d");
@@ -3020,7 +3071,121 @@ async function loadNewsData() {
   return res.json();
 }
 
+async function loadHistoryIndexData() {
+  const res = await fetch(`./data/history/index.json?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载历史日期索引失败: ${res.status}`);
+  return res.json();
+}
+
+function historyDateEntries() {
+  return Array.isArray(state.historyIndex?.dates) ? state.historyIndex.dates : [];
+}
+
+function historyDateEntry(date) {
+  return historyDateEntries().find((entry) => entry.date === date) || null;
+}
+
+function renderHistoryDateSelect() {
+  if (!historyDateSelectEl) return;
+  historyDateSelectEl.innerHTML = "";
+  const latest = document.createElement("option");
+  latest.value = "";
+  latest.textContent = "最新 24 小时";
+  historyDateSelectEl.appendChild(latest);
+  historyDateEntries().forEach((entry) => {
+    const option = document.createElement("option");
+    option.value = entry.date;
+    option.textContent = `${fmtFullDate(entry.date)} · ${fmtNumber(entry.count)} 条`;
+    historyDateSelectEl.appendChild(option);
+  });
+  historyDateSelectEl.value = state.selectedDate;
+  historyDateSelectEl.disabled = state.dateLoading || historyDateEntries().length === 0;
+}
+
+function updateHistoryUrl(date, { replace = false } = {}) {
+  const url = new URL(window.location.href);
+  if (date) url.searchParams.set("date", date);
+  else url.searchParams.delete("date");
+  window.history[replace ? "replaceState" : "pushState"]({ date }, "", url);
+}
+
+function renderNewsView() {
+  setStats();
+  renderSectionTabs();
+  renderModeSwitch();
+  renderListSortTools();
+  renderCoverageStrip();
+  renderSiteFilters();
+  renderBolePicks();
+  if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
+  renderList();
+  updatedAtEl.textContent = state.selectedDate
+    ? `${fmtFullDate(state.selectedDate)} · 历史归档`
+    : fmtTime(state.generatedAt);
+  renderHistoryDateSelect();
+}
+
+function applyNewsPayload(payload, { selectedDate = "", dailyBrief = null, storiesMerged = null } = {}) {
+  state.selectedDate = selectedDate;
+  state.dailyBrief = dailyBrief;
+  state.storiesMerged = storiesMerged;
+  state.itemsAi = payload.items_ai || payload.items || [];
+  state.itemsAllRaw = selectedDate ? [] : (payload.items_all_raw || payload.items_all || []);
+  state.itemsAll = selectedDate ? [] : (payload.items_all || []);
+  state.creatorItemsAi = selectedDate ? [] : (payload.creator_items_ai || []);
+  state.creatorItemsAll = selectedDate ? [] : (payload.creator_items_all || state.creatorItemsAi);
+  state.creatorWindowDays = Number(payload.creator_window_days || 7);
+  state.statsAi = payload.site_stats || [];
+  state.totalAi = Number(payload.total_items || state.itemsAi.length);
+  state.totalRaw = Number(payload.total_items_raw || state.itemsAllRaw.length || state.itemsAi.length);
+  state.totalAllMode = selectedDate ? state.itemsAi.length : Number(payload.total_items_all_mode || state.itemsAll.length);
+  state.allDataUrl = payload.all_mode_data_url || state.allDataUrl;
+  state.storiesDataUrl = payload.stories_data_url || state.storiesDataUrl;
+  state.allDataLoaded = !selectedDate && Boolean(payload.items_all || payload.items_all_raw);
+  state.allDataPromise = null;
+  state.generatedAt = payload.generated_at;
+  state.boleExpanded = false;
+  state.siteGroupsExpanded = false;
+  if (selectedDate && state.mode === "all") state.mode = "ai";
+  renderNewsView();
+}
+
+async function loadHistoryDate(date, { updateUrl = true, replaceUrl = false } = {}) {
+  if (!date) {
+    if (!state.latestView) return;
+    applyNewsPayload(state.latestView.news, {
+      dailyBrief: state.latestView.dailyBrief,
+      storiesMerged: state.latestView.storiesMerged,
+    });
+    if (updateUrl) updateHistoryUrl("", { replace: replaceUrl });
+    document.dispatchEvent(new CustomEvent("aiRadar:dateChanged", { detail: { date: "" } }));
+    return;
+  }
+
+  const entry = historyDateEntry(date);
+  if (!entry) throw new Error(`没有 ${date} 的历史新闻`);
+  state.dateLoading = true;
+  renderHistoryDateSelect();
+  modeHintEl.textContent = `正在加载 ${fmtDate(date)}...`;
+  try {
+    let payload = state.historyCache.get(date);
+    if (!payload) {
+      const res = await fetch(`./${entry.file}?t=${Date.now()}`);
+      if (!res.ok) throw new Error(`加载 ${date} 历史新闻失败: ${res.status}`);
+      payload = await res.json();
+      state.historyCache.set(date, payload);
+    }
+    applyNewsPayload(payload, { selectedDate: date });
+    if (updateUrl) updateHistoryUrl(date, { replace: replaceUrl });
+    document.dispatchEvent(new CustomEvent("aiRadar:dateChanged", { detail: { date } }));
+  } finally {
+    state.dateLoading = false;
+    renderHistoryDateSelect();
+  }
+}
+
 async function loadAllModeData() {
+  if (state.selectedDate) throw new Error("历史日期仅提供 AI 相关归档");
   if (state.allDataLoaded) return;
   if (!state.allDataPromise) {
     state.allDataPromise = fetch(`./${state.allDataUrl}?t=${Date.now()}`)
@@ -3068,60 +3233,32 @@ async function loadStoriesData() {
 }
 
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, historyIndexResult] = await Promise.allSettled([
     loadNewsData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
     loadDailyBriefData(),
     loadStoriesData(),
+    loadHistoryIndexData(),
   ]);
 
-  if (briefResult.status === "fulfilled") {
-    state.dailyBrief = briefResult.value;
-  } else {
-    state.dailyBrief = null;
-  }
-
-  if (storiesResult.status === "fulfilled") {
-    state.storiesMerged = storiesResult.value;
-  } else {
-    state.storiesMerged = null;
-  }
+  state.historyIndex = historyIndexResult.status === "fulfilled" ? historyIndexResult.value : null;
+  const dailyBrief = briefResult.status === "fulfilled" ? briefResult.value : null;
+  let storiesMerged = storiesResult.status === "fulfilled" ? storiesResult.value : null;
 
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;
     const loadedStoriesDataUrl = state.storiesDataUrl;
-    state.itemsAi = payload.items_ai || payload.items || [];
-    state.itemsAllRaw = payload.items_all_raw || payload.items_all || [];
-    state.itemsAll = payload.items_all || [];
-    state.creatorItemsAi = payload.creator_items_ai || [];
-    state.creatorItemsAll = payload.creator_items_all || state.creatorItemsAi;
-    state.creatorWindowDays = Number(payload.creator_window_days || 7);
-    state.statsAi = payload.site_stats || [];
-    state.totalAi = payload.total_items || state.itemsAi.length;
-    state.totalRaw = payload.total_items_raw || state.itemsAllRaw.length;
-    state.totalAllMode = payload.total_items_all_mode || state.itemsAll.length;
-    state.allDataUrl = payload.all_mode_data_url || state.allDataUrl;
     state.storiesDataUrl = payload.stories_data_url || state.storiesDataUrl;
     if (state.storiesDataUrl !== loadedStoriesDataUrl) {
       try {
-        state.storiesMerged = await loadStoriesData();
+        storiesMerged = await loadStoriesData();
       } catch {
-        state.storiesMerged = null;
+        storiesMerged = null;
       }
     }
-    state.allDataLoaded = Boolean(payload.items_all || payload.items_all_raw);
-    state.generatedAt = payload.generated_at;
-
-    setStats();
-    renderSectionTabs();
-    renderModeSwitch();
-    renderListSortTools();
-    renderCoverageStrip();
-    renderSiteFilters();
-    renderBolePicks();
-    renderList();
-    updatedAtEl.textContent = fmtTime(state.generatedAt);
+    state.latestView = { news: payload, dailyBrief, storiesMerged };
+    applyNewsPayload(payload, { dailyBrief, storiesMerged });
   } else {
     updatedAtEl.textContent = "新闻数据加载失败";
     newsListEl.innerHTML = `<div class="empty">${newsResult.reason.message}</div>`;
@@ -3146,6 +3283,19 @@ async function init() {
     waytoagiListEl.innerHTML = `<div class="waytoagi-error">${waytoagiResult.reason.message}</div>`;
   }
 
+  renderHistoryDateSelect();
+  const requestedDate = new URL(window.location.href).searchParams.get("date") || "";
+  if (requestedDate && historyDateEntry(requestedDate) && state.latestView) {
+    try {
+      await loadHistoryDate(requestedDate, { updateUrl: false });
+    } catch (err) {
+      modeHintEl.textContent = err.message;
+      updateHistoryUrl("", { replace: true });
+    }
+  } else if (requestedDate) {
+    updateHistoryUrl("", { replace: true });
+  }
+
   document.dispatchEvent(new CustomEvent("aiRadar:ready"));
 }
 
@@ -3158,6 +3308,30 @@ searchInputEl.addEventListener("input", (e) => {
 if (clearFiltersBtnEl) {
   clearFiltersBtnEl.addEventListener("click", clearAllFilters);
 }
+
+if (historyDateSelectEl) {
+  historyDateSelectEl.addEventListener("change", async (event) => {
+    const previousDate = state.selectedDate;
+    try {
+      await loadHistoryDate(event.target.value);
+    } catch (err) {
+      modeHintEl.textContent = err.message;
+      state.selectedDate = previousDate;
+      renderHistoryDateSelect();
+    }
+  });
+}
+
+window.addEventListener("popstate", async () => {
+  const requestedDate = new URL(window.location.href).searchParams.get("date") || "";
+  try {
+    if (requestedDate && !historyDateEntry(requestedDate)) throw new Error(`没有 ${requestedDate} 的历史新闻`);
+    await loadHistoryDate(requestedDate, { updateUrl: false });
+  } catch (err) {
+    modeHintEl.textContent = err.message;
+    if (state.latestView) await loadHistoryDate("", { updateUrl: false });
+  }
+});
 
 siteSelectEl.addEventListener("change", (e) => {
   state.siteFilter = e.target.value;
@@ -3204,6 +3378,7 @@ modeAiBtnEl.addEventListener("click", () => {
 });
 
 modeAllBtnEl.addEventListener("click", async () => {
+  if (state.selectedDate) return;
   state.mode = "all";
   renderModeSwitch();
   newsListEl.innerHTML = "";

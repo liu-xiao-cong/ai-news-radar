@@ -141,11 +141,13 @@ flowchart LR
     story --> merged["stories-merged.json / merge-log.json"]
     status --> sourceData["source-status.json"]
     score --> latest["latest-24h.json / latest-24h-all.json"]
+    score --> history["history/index.json / YYYY-MM-DD.json"]
 
     brief --> pages["GitHub Pages web UI"]
     merged --> pages
     sourceData --> pages
     latest --> pages
+    history --> pages
 
     pages --> agent["Codex / Claude Code maintenance"]
 ```
@@ -162,12 +164,14 @@ Core files include:
 
 - `data/latest-24h.json`: AI-focused updates from the last 24 hours
 - `data/latest-24h-all.json`: all updates from the last 24 hours
+- `data/history/index.json`: the date index for the latest 21 Shanghai calendar days
+- `data/history/YYYY-MM-DD.json`: AI-focused news for one selected day, loaded on demand
 - `data/source-status.json`: source fetch status, success rate, site coverage, and source health
 - `data/daily-brief.json`: Scout Picks story timeline for the homepage
 - `data/stories-merged.json`: the complete merged story set
 - `data/merge-log.json`: story-merge matches and debug records for auditing
 
-If `daily-brief.json` is not available yet, the page falls back to candidate Scout signals; if it exists but no story passed the quality gate that day, the picks block hides entirely and the page shows the pure timeline.
+The page opens on the latest 24-hour window. Readers can also choose any available date from the latest 21 Shanghai calendar days. The selection is reflected in `?date=YYYY-MM-DD`, so the view can be refreshed, bookmarked, or shared. Historical day files contain AI-focused items only. If `daily-brief.json` is not available yet, the page falls back to candidate Scout signals; if it exists but no story passed the quality gate that day, the picks block hides entirely and the page shows the pure timeline.
 
 ## Quick start
 
