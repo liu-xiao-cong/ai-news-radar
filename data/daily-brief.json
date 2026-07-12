@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T16:58:14.203553Z",
+  "generated_at": "2026-07-11T18:04:35.181995Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -127,15 +127,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9935,
+        "recency": 0.9778,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.746,
+        "recency": 0.7342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,8 +281,8 @@
         },
         {
           "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\" / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
           "title_en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
           "title_original": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
           "summary": null,
@@ -342,8 +342,8 @@
         },
         {
           "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\" / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
           "title_en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
           "title_original": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
           "summary": null,
@@ -356,15 +356,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.7269,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -457,15 +457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8777,
+        "recency": 0.8638,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -485,6 +485,79 @@
         "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
         "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3ff8ee43af6c",
+      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "primary_url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+          "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T17:04:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+          "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T17:04:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T17:04:28Z",
+      "latest_at": "2026-07-11T17:04:28Z",
+      "primary_item": {
+        "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+        "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+        "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -531,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7398,
+        "recency": 0.7281,
         "story_heat": 0.0
       },
       "category": "official",
@@ -632,15 +705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8728,
+        "recency": 0.859,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -706,15 +779,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7684,
+        "recency": 0.7563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,79 +806,6 @@
         "summary": "苹果公司今日在加州北区联邦地方法院对OpenAI提起诉讼，指控其系统性窃取苹果商业机密，用于开发AI硬件设备。被告包括OpenAI、其硬件负责人Tang Tan（前苹果iPhone和Apple Watch产品设计副总裁，在苹果任职24年）、前苹果高级系统电气工程师Chang Liu，以及Jony Ive联合创立的io Products。Jony Ive本人未被列为被告。",
         "url": "https://x.com/dotey/status/2075712647723397452",
         "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9971,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
       }
     },
@@ -933,15 +933,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7617,
+        "recency": 0.7496,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -961,6 +961,79 @@
         "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57583f5b9bca",
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "primary_url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9814,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T16:46:22Z",
+      "latest_at": "2026-07-11T16:46:22Z",
+      "primary_item": {
+        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
       }
     },
@@ -1007,15 +1080,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7444,
+        "recency": 0.7326,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1079,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.805,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,15 +1224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7807,
+        "recency": 0.7684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1177,78 +1250,6 @@
         "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
         "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dc8b1f83933e",
-      "title": "宇树G1人形机器人完成首例活体微创手术 / A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-      "url": "https://x.com/thexpin/status/2075640168896516139",
-      "primary_url": "https://x.com/thexpin/status/2075640168896516139",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "41ab65cf745500872707c5c4a57379a2da28b88a",
-          "title": "宇树G1人形机器人完成首例活体微创手术 / A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-          "title_zh": "宇树G1人形机器人完成首例活体微创手术",
-          "title_en": "A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-          "title_original": "A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-          "summary": "一篇新的《自然》论文展示了宇树G1人形机器人执行研究人员所称的首例由人形机器人完成的活体标准微创手术。加州大学圣地亚哥团队使用G1，以常规手术器械完成了对两只活猪的腹腔镜胆囊切除术；第二次手术耗时32分钟。该机器人仍需反复校正，且尚无法满足手术无菌标准，但其成本可能仅为达芬奇系统的约5%。",
-          "url": "https://x.com/thexpin/status/2075640168896516139",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T17:55:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：X.PIN (@thexpin)"
-      ],
-      "items": [
-        {
-          "id": "41ab65cf745500872707c5c4a57379a2da28b88a",
-          "title": "宇树G1人形机器人完成首例活体微创手术 / A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-          "title_zh": "宇树G1人形机器人完成首例活体微创手术",
-          "title_en": "A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-          "title_original": "A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-          "summary": "一篇新的《自然》论文展示了宇树G1人形机器人执行研究人员所称的首例由人形机器人完成的活体标准微创手术。加州大学圣地亚哥团队使用G1，以常规手术器械完成了对两只活猪的腹腔镜胆囊切除术；第二次手术耗时32分钟。该机器人仍需反复校正，且尚无法满足手术无菌标准，但其成本可能仅为达芬奇系统的约5%。",
-          "url": "https://x.com/thexpin/status/2075640168896516139",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T17:55:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.717,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T17:55:54Z",
-      "latest_at": "2026-07-10T17:55:54Z",
-      "primary_item": {
-        "id": "41ab65cf745500872707c5c4a57379a2da28b88a",
-        "title": "宇树G1人形机器人完成首例活体微创手术 / A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-        "title_zh": "宇树G1人形机器人完成首例活体微创手术",
-        "title_en": "A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-        "title_original": "A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-        "summary": "一篇新的《自然》论文展示了宇树G1人形机器人执行研究人员所称的首例由人形机器人完成的活体标准微创手术。加州大学圣地亚哥团队使用G1，以常规手术器械完成了对两只活猪的腹腔镜胆囊切除术；第二次手术耗时32分钟。该机器人仍需反复校正，且尚无法满足手术无菌标准，但其成本可能仅为达芬奇系统的约5%。",
-        "url": "https://x.com/thexpin/status/2075640168896516139",
-        "source": "X：X.PIN (@thexpin)",
         "source_name": "AI HOT"
       }
     },
@@ -1295,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.743,
+        "recency": 0.7312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1367,15 +1368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7223,
+        "recency": 0.7109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1439,15 +1440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7255,
+        "recency": 0.714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1512,15 +1513,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7253,
+        "recency": 0.7138,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1550,6 +1551,19 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
+          "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "title_zh": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "title_en": null,
+          "title_original": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "summary": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T18:04:35.181995Z"
+        },
+        {
           "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
           "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
           "title_zh": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
@@ -1587,67 +1601,27 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T16:58:14.203553Z"
-        },
-        {
-          "id": "2950747719fd1f7821970d02d4459d434d700c4c",
-          "title": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "title_zh": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "title_en": null,
-          "title_original": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "summary": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
-        },
-        {
-          "id": "bd3cfe4e8ba0de9d6c8d861cc840b323e654508d",
-          "title": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "title_zh": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "title_en": null,
-          "title_original": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "summary": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
-        },
-        {
-          "id": "59f17f8ca4f9baed12e51969b78f3df92e05b6ff",
-          "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "title_zh": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "title_en": null,
-          "title_original": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "summary": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
-        },
-        {
-          "id": "fc39e2b8c7adfaf9259490f735cbaa51a91cbe4d",
-          "title": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "title_zh": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "title_en": null,
-          "title_original": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "summary": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-07-10",
         "社区更新 · 2026-07-11"
       ],
       "items": [
         {
+          "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
+          "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "title_zh": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "title_en": null,
+          "title_original": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "summary": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T18:04:35.181995Z"
+        },
+        {
           "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
           "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
           "title_zh": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
@@ -1685,79 +1659,27 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T16:58:14.203553Z"
-        },
-        {
-          "id": "2950747719fd1f7821970d02d4459d434d700c4c",
-          "title": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "title_zh": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "title_en": null,
-          "title_original": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "summary": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
-        },
-        {
-          "id": "bd3cfe4e8ba0de9d6c8d861cc840b323e654508d",
-          "title": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "title_zh": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "title_en": null,
-          "title_original": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "summary": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
-        },
-        {
-          "id": "59f17f8ca4f9baed12e51969b78f3df92e05b6ff",
-          "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "title_zh": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "title_en": null,
-          "title_original": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "summary": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
-        },
-        {
-          "id": "fc39e2b8c7adfaf9259490f735cbaa51a91cbe4d",
-          "title": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "title_zh": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "title_en": null,
-          "title_original": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "summary": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T17:18:03.738241Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.6817,
-      "importance": 0.6817,
-      "importance_score": 0.6817,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6538,
+      "importance": 0.6538,
+      "importance_score": 0.6538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.9842,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-10T17:18:03.738241Z",
-      "latest_at": "2026-07-11T16:58:14.203553Z",
+      "earliest_at": "2026-07-11T16:58:14.203553Z",
+      "latest_at": "2026-07-11T18:04:35.181995Z",
       "primary_item": {
         "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
         "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
@@ -1840,15 +1762,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5841,
-      "importance": 0.5841,
-      "importance_score": 0.5841,
+      "score": 0.5819,
+      "importance": 0.5819,
+      "importance_score": 0.5819,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7561,
+        "recency": 0.7442,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1993,15 +1915,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.5539,
+      "importance": 0.5539,
+      "importance_score": 0.5539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7796,
+        "recency": 0.7672,
         "story_heat": 0.75
       },
       "category": "multi_source",
