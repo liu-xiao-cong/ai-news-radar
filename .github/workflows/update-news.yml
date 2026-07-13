@@ -9,8 +9,12 @@ on:
         default: false
         type: boolean
   schedule:
-    # Daily at 00:30 UTC / 08:30 Asia/Shanghai.
+    # Primary run at 08:30 Asia/Shanghai, plus two staggered fallbacks.
+    # GitHub may delay a scheduled event; later runs exit before fetching when
+    # today's snapshot already exists.
     - cron: "30 0 * * *"
+    - cron: "7 1 * * *"
+    - cron: "37 1 * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
@@ -34,12 +38,50 @@ jobs:
           cache: "pip"
           cache-dependency-path: "requirements.txt"
 
+      - name: Check whether today's snapshot already exists
+        id: freshness
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_update=true" >> "$GITHUB_OUTPUT"
+            echo "Manual run: refreshing regardless of the current snapshot."
+            exit 0
+          fi
+
+          latest_day="$(python - <<'PY'
+          import json
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          path = Path("data/latest-24h.json")
+          if not path.exists():
+              print("missing")
+          else:
+              generated_at = json.loads(path.read_text(encoding="utf-8")).get("generated_at", "")
+              try:
+                  timestamp = datetime.fromisoformat(generated_at.replace("Z", "+00:00"))
+                  print(timestamp.astimezone(ZoneInfo("Asia/Shanghai")).date().isoformat())
+              except ValueError:
+                  print("invalid")
+          PY
+          )"
+          today="$(TZ=Asia/Shanghai date +%F)"
+          if [ "$latest_day" = "$today" ]; then
+            echo "should_update=false" >> "$GITHUB_OUTPUT"
+            echo "Snapshot for $today already exists; skipping duplicate scheduled run."
+          else
+            echo "should_update=true" >> "$GITHUB_OUTPUT"
+            echo "Snapshot is $latest_day; refreshing for $today."
+          fi
+
       - name: Install dependencies
+        if: steps.freshness.outputs.should_update == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Prepare OPML
+        if: steps.freshness.outputs.should_update == 'true'
         env:
           FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}
         run: |
@@ -55,6 +97,7 @@ jobs:
           fi
 
       - name: Update data
+        if: steps.freshness.outputs.should_update == 'true'
         env:
           EMAIL_DIGEST_ENABLED: ${{ secrets.EMAIL_DIGEST_ENABLED || vars.EMAIL_DIGEST_ENABLED }}
           AGENTMAIL_API_KEY: ${{ secrets.AGENTMAIL_API_KEY }}
@@ -101,6 +144,7 @@ jobs:
           fi
 
       - name: Commit and push changes
+        if: steps.freshness.outputs.should_update == 'true'
         env:
           EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}
         run: |
