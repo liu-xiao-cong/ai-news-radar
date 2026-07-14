@@ -9,16 +9,16 @@ on:
         default: false
         type: boolean
   schedule:
-    # Primary run at 08:30 Asia/Shanghai, plus two staggered fallbacks.
-    # GitHub may delay a scheduled event; later runs exit before fetching when
-    # today's snapshot already exists.
-    - cron: "30 0 * * *"
-    - cron: "7 1 * * *"
-    - cron: "37 1 * * *"
+    # GitHub may delay or drop individual schedule events. Retry every 20
+    # minutes from 08:17 to 12:17 Asia/Shanghai, off the top-of-hour. Later
+    # runs exit before fetching when today's snapshot already exists.
+    - cron: "17,37,57 0-3 * * *"
+    - cron: "17 4 * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
-  cancel-in-progress: true
+  # A delayed retry must never cancel an in-progress data collection.
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -170,4 +170,9 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update ai news snapshot"
-          git push
+          # A maintainer may merge a workflow/UI change while this job is
+          # fetching. Rebase the generated data commit so that race does not
+          # discard an otherwise successful refresh.
+          git fetch origin master
+          git rebase origin/master
+          git push origin HEAD:master
