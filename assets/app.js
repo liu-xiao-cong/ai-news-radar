@@ -1720,7 +1720,7 @@ function renderBoleFallback(picks) {
 
   const note = document.createElement("div");
   note.className = "bole-fallback-note";
-  note.textContent = "故事合并数据暂未生成，先展示伯乐候选信号。";
+  note.textContent = "故事合并数据暂未生成，先展示 Cong 的候选信号。";
   bolePicksListEl.appendChild(note);
 
   if (!picks.length) {

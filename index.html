@@ -3,37 +3,35 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI News Radar｜24 小时 AI 更新雷达</title>
+    <title>Cong's AI Radar｜你的 AI 信号控制台</title>
     <meta
       name="description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="Cong's AI Radar：筛选过去 24 小时值得关注的模型、产品、开发者与产业信号。"
     />
-    <link rel="canonical" href="https://learnprompt.github.io/ai-news-radar/" />
-    <meta property="og:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <link rel="canonical" href="https://liu-xiao-cong.github.io/ai-news-radar/" />
+    <meta property="og:title" content="Cong's AI Radar｜你的 AI 信号控制台" />
     <meta
       property="og:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="筛选过去 24 小时值得关注的模型、产品、开发者与产业信号。"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
-    <meta property="og:site_name" content="AI News Radar" />
-    <meta name="application-name" content="AI News Radar" />
-    <meta name="theme-color" content="#f6f6f2" />
+    <meta property="og:url" content="https://liu-xiao-cong.github.io/ai-news-radar/" />
+    <meta property="og:site_name" content="Cong's AI Radar" />
+    <meta name="application-name" content="Cong's AI Radar" />
+    <meta name="theme-color" content="#070b16" />
     <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-title" content="AI News Radar" />
+    <meta name="apple-mobile-web-app-title" content="Cong's AI Radar" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta name="twitter:title" content="Cong's AI Radar｜你的 AI 信号控制台" />
     <meta
       name="twitter:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="筛选过去 24 小时值得关注的模型、产品、开发者与产业信号。"
     />
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
-    <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
-    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/styles.css?v=date-history-0712" />
+    <link rel="stylesheet" href="./assets/styles.css?v=cong-radar-0715" />
   </head>
   <body>
     <a class="skip-link" href="#bolePicksWrap">跳到今日重点信号</a>
@@ -41,24 +39,25 @@
       <header class="hero">
         <div class="hero-main">
           <div class="hero-headline">
-            <img class="hero-logo" src="./assets/logo.svg" alt="AI News Radar Logo" />
+            <img class="hero-logo" src="./assets/logo.svg" alt="Cong's AI Radar Logo" />
             <div>
-              <p class="hero-tag">AI INTELLIGENCE RADAR</p>
-              <h1>AI News Radar</h1>
+              <p class="hero-tag">CONG'S SIGNAL LAB · AI INTELLIGENCE SYSTEM</p>
+              <h1>Cong's <span>AI Radar</span></h1>
+              <p class="hero-description">把噪音留在雷达外，把真正值得行动的 AI 信号推到你面前。</p>
             </div>
           </div>
         </div>
         <div class="hero-meta">
-          <span class="updated-label">更新时间</span>
+          <span class="updated-label">SYSTEM PULSE</span>
           <span class="updated" id="updatedAt">加载中...</span>
           <span class="source-status-pill" id="sourceStatusPill">源状态加载中</span>
           <div class="hero-links" aria-label="项目入口">
             <a
               class="hero-link"
-              href="https://github.com/LearnPrompt/ai-news-radar"
+              href="https://github.com/liu-xiao-cong/ai-news-radar"
               target="_blank"
               rel="noopener noreferrer"
-            >GitHub 与接入指南</a>
+            >CONG'S REPOSITORY ↗</a>
           </div>
         </div>
 
@@ -84,7 +83,7 @@
       </section>
 
       <div class="sticky-summary-bar" aria-label="当前视图摘要" aria-live="polite">
-        <strong>AI News Radar</strong>
+        <strong>CONG'S RADAR</strong>
         <span id="stickySummaryText">正在整理 24 小时信号...</span>
       </div>
 
@@ -155,8 +154,8 @@
       <section class="bole-picks-wrap" aria-label="今日 Top 3" id="bolePicksWrap">
         <div class="bole-picks-head">
           <div>
-            <p class="section-eyebrow">TODAY'S SIGNALS</p>
-            <h2 id="topStoriesTitle">今日重点信号</h2>
+            <p class="section-eyebrow">CONG'S PRIORITY SIGNALS</p>
+            <h2 id="topStoriesTitle">Cong's 今日信号</h2>
           </div>
           <div class="bole-head-tools">
             <div class="bole-view-toggle" id="boleViewToggle" hidden>
@@ -171,7 +170,7 @@
 
       <section class="waytoagi-wrap">
         <div class="waytoagi-head">
-          <h2>社区更新 · WaytoAGI</h2>
+          <h2>COMMUNITY PULSE · WaytoAGI</h2>
           <div class="waytoagi-tools">
             <div class="waytoagi-switch">
               <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button" aria-pressed="true">最近更新日</button>
@@ -186,7 +185,7 @@
 
       <section class="list-wrap">
         <div class="list-head">
-          <h2 id="listTitle">全量 AI 情报源</h2>
+          <h2 id="listTitle">Cong's AI 信号库</h2>
           <div class="list-head-tools">
             <div class="list-sort-tools" id="listSortTools" role="group" aria-label="全量列表排序">
               <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、AI相关度、新鲜度与信号强度">综合</button>
@@ -217,6 +216,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" integrity="sha384-HOvlOYPIs/zjoIkWUGXkVmXsjr8GuZLV+Q+rcPwmJOVZVpvTSXQChiN4t9Euv9Vc" crossorigin="anonymous" defer></script>
     <script src="./assets/motion.js?v=taste-ui-0710a" defer></script>
-    <script src="./assets/app.js?v=date-history-0712" defer></script>
+    <script src="./assets/app.js?v=cong-radar-0715" defer></script>
   </body>
 </html>

@@ -1,18 +1,18 @@
 <div align="center">
 
-# AI News Radar
+# Cong's AI Radar
 
-## 24h AI Updates Radar｜Scout Skill
+## Cong's AI Signal Console
 
-**Scout Skill helps you find the thoroughbreds among a pile of sources, then turns scattered updates into a traceable AI story timeline.**
+**Cong's AI Radar curates model, product, developer, and industry signals into a traceable AI intelligence feed.**
 
-[![GitHub stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/LearnPrompt/ai-news-radar/stargazers)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://learnprompt.github.io/ai-news-radar/)
-[![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
+[![GitHub stars](https://img.shields.io/github/stars/liu-xiao-cong/ai-news-radar?style=flat-square&color=42e8ff)](https://github.com/liu-xiao-cong/ai-news-radar/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://liu-xiao-cong.github.io/ai-news-radar/)
+[![Actions](https://img.shields.io/github/actions/workflow/status/liu-xiao-cong/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/liu-xiao-cong/ai-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20Scout-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
-[Live site](https://learnprompt.github.io/ai-news-radar/) · [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
+[Live site](https://liu-xiao-cong.github.io/ai-news-radar/) · [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## Pick your lane in 30 seconds
 
-**① Just want the daily AI brief** → no install needed, open the [live site](https://learnprompt.github.io/ai-news-radar/).
+**① Just want the daily AI brief** → no install needed, open [Cong's live radar](https://liu-xiao-cong.github.io/ai-news-radar/).
 
 **② Want your agent to read it for you** → install the Radar Skill (ai-radar). Zero API, zero key, zero server:
 
@@ -40,7 +40,7 @@ The three lanes are one road: read the brief → let your agent read it → run 
 
 ## What is this?
 
-AI News Radar is an auto-updating 24h radar for AI updates. It does more than fetch AI news. It judges source quality first, merges the same event into a story timeline, then uses Scout picks, AI labels, source health, and AI ratio to help you decide:
+Cong's AI Radar is an auto-updating 24h signal console for AI updates. It does more than fetch AI news. It judges source quality first, merges the same event into a story timeline, then uses priority ranking, AI labels, source health, and AI ratio to help you decide:
 
 what is worth reading, what deserves deeper research, and what is just noise.
 
@@ -52,7 +52,7 @@ Its core logic is **Scout Skill**. It helps you find the thoroughbreds among a p
 
 Judge first. Then connect.
 
-![AI News Radar current screenshot grid](assets/screenshots/ai-news-radar-current-grid.jpg)
+![Cong's AI Radar current screenshot grid](assets/screenshots/ai-news-radar-current-grid.jpg)
 
 ## Why Scout Skill?
 
@@ -111,7 +111,7 @@ v0.7 ships these core pieces:
 - **Scoring backtest tool**: `scripts/backtest_scoring.py` replays any two versions of the scoring logic against the archive. House rule: scoring changes ship with a ≥14-day replay report.
 - **ai-radar consumer skill**: install it and ask your agent "What happened in AI today?" — it reads this site's public JSON directly. Zero API, zero key, and the whole data pipeline is forkable.
 
-Story merging, AI labels/scores, and source health from v0.6 remain the foundation. See [Releases](https://github.com/LearnPrompt/ai-news-radar/releases) for the full history.
+Story merging, AI labels/scores, and source health remain the foundation of Cong's AI Radar. See [Releases](https://github.com/liu-xiao-cong/ai-news-radar/releases) for this project's history.
 
 ## How it works
 
@@ -180,7 +180,7 @@ Readers do not need to install anything. Open the live site directly.
 To fork and customize your own version locally:
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
+git clone https://github.com/liu-xiao-cong/ai-news-radar.git
 cd ai-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
@@ -260,6 +260,6 @@ The single-account / single-newsletter demo is in `docs/guides/rileybrown-alphas
 
 [淘金小镇·ClawHub日榜](https://github.com/LearnPrompt/skillrush-town) · [Irasutoya·正文配图](https://github.com/LearnPrompt/carl-irasutoya-illustrations) · [Humanize PPT·演讲系统](https://github.com/LearnPrompt/humanize-ppt) · [CC Harness·六件套](https://github.com/LearnPrompt/cc-harness-skills) · [微信读书教练](https://github.com/LearnPrompt/carl-weread) · [X Article发布](https://github.com/LearnPrompt/x-article-publisher-skill)
 
-<sub>**[LearnPrompt](https://github.com/LearnPrompt) 出品** · 公众号「卡尔的AI沃茨」 · [X @aiwarts](https://x.com/aiwarts)</sub>
+<sub>**Cong's AI Radar** · Maintained by [liu-xiao-cong](https://github.com/liu-xiao-cong)</sub>
 
 </div>
