@@ -1,498 +1,499 @@
 {
-  "generated_at": "2026-07-15T03:32:27.441811Z",
+  "generated_at": "2026-07-16T03:35:25.702460Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_18f99e3f3fbc",
-      "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 6 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — June update",
-          "title_original": "GitHub Copilot in Visual Studio — June update",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 6 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — June update",
-          "title_original": "GitHub Copilot in Visual Studio — June update",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9505,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T00:01:24Z",
-      "latest_at": "2026-07-15T00:01:24Z",
-      "primary_item": {
-        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-        "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-        "title_zh": "Visual Studio 中的 GitHub Copilot — 6 月更新",
-        "title_en": "GitHub Copilot in Visual Studio — June update",
-        "title_original": "GitHub Copilot in Visual Studio — June update",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9bca5dae0eb3",
-      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "primary_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_en": null,
-          "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_en": null,
-          "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "summary": null,
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "54b76b5e2e04fe8f42e744419635c156ccc82015",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T17:58:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "mindgard.ai"
-      ],
-      "items": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_en": null,
-          "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_en": null,
-          "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "summary": null,
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "54b76b5e2e04fe8f42e744419635c156ccc82015",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T17:58:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9158,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T17:58:35Z",
-      "latest_at": "2026-07-14T21:27:11.693000Z",
-      "primary_item": {
-        "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-        "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "title_en": null,
-        "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dc9597f1b62f",
-      "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-          "title_zh": "庆祝视觉搜索创新 25 周年",
-          "title_en": "Celebrating 25 years of visual search innovation",
-          "title_original": "Celebrating 25 years of visual search innovation",
-          "summary": null,
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-          "title_zh": "庆祝视觉搜索创新 25 周年",
-          "title_en": "Celebrating 25 years of visual search innovation",
-          "title_original": "Celebrating 25 years of visual search innovation",
-          "summary": null,
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8465,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:00:00Z",
-      "latest_at": "2026-07-14T16:00:00Z",
-      "primary_item": {
-        "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-        "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-        "title_zh": "庆祝视觉搜索创新 25 周年",
-        "title_en": "Celebrating 25 years of visual search innovation",
-        "title_original": "Celebrating 25 years of visual search innovation",
-        "summary": null,
-        "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ad1e2a9c5407",
-      "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_zh": "GitHub Copilot for JetBrains 扩展了 BYOK 功能",
-          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_zh": "GitHub Copilot for JetBrains 扩展了 BYOK 功能",
-          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.945,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T23:37:29Z",
-      "latest_at": "2026-07-14T23:37:29Z",
-      "primary_item": {
-        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-        "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-        "title_zh": "GitHub Copilot for JetBrains 扩展了 BYOK 功能",
-        "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
-        "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_92ab1f77dd8c",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "primary_url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "story_id": "story_ee230258f27f",
+      "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c6c1d4d73b453e4fee94427c08a5a277195f874f",
-          "title": "How to manage AI investments in the agentic era",
-          "title_zh": null,
-          "title_en": "How to manage AI investments in the agentic era",
-          "title_original": "How to manage AI investments in the agentic era",
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
           "summary": null,
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T10:00:00Z"
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "1991cbe19a797293654bbf54a25123430284d7b6",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red： Unlocking Self-Improvement for Robustness",
+          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "title_en": "GPT-Red： Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT-Red： Unlocking Self-Improvement for Robustness",
+          "summary": "OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞并在训练中生成攻击以提升模型鲁棒性。GPT-Red 能攻破此前几乎所有模型，其攻击被用于对抗训练 GPT-5.6 Sol，使该模型在直接提示注入基准测试中的失败率降至四个月前最佳生产模型的 1/6。GPT-Red 通过自对弈强化学习训练，投入了 OpenAI 后训练中前所未有的计算规模。",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "cd87819e714b7abba4ae9bd899cf22e1ff5a698b",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "title_en": "GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "summary": null,
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T17:41:46Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "c6c1d4d73b453e4fee94427c08a5a277195f874f",
-          "title": "How to manage AI investments in the agentic era",
-          "title_zh": null,
-          "title_en": "How to manage AI investments in the agentic era",
-          "title_original": "How to manage AI investments in the agentic era",
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
           "summary": null,
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T10:00:00Z"
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "1991cbe19a797293654bbf54a25123430284d7b6",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red： Unlocking Self-Improvement for Robustness",
+          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "title_en": "GPT-Red： Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT-Red： Unlocking Self-Improvement for Robustness",
+          "summary": "OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞并在训练中生成攻击以提升模型鲁棒性。GPT-Red 能攻破此前几乎所有模型，其攻击被用于对抗训练 GPT-5.6 Sol，使该模型在直接提示注入基准测试中的失败率降至四个月前最佳生产模型的 1/6。GPT-Red 通过自对弈强化学习训练，投入了 OpenAI 后训练中前所未有的计算规模。",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "cd87819e714b7abba4ae9bd899cf22e1ff5a698b",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "title_en": "GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "summary": null,
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T17:41:46Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8696,
+      "importance": 0.8696,
+      "importance_score": 0.8696,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7762,
-        "story_heat": 0.0
+        "ai_relevance": 0.95,
+        "recency": 0.7757,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T10:00:00Z",
-      "latest_at": "2026-07-14T10:00:00Z",
+      "earliest_at": "2026-07-15T10:00:00Z",
+      "latest_at": "2026-07-15T17:41:46Z",
       "primary_item": {
-        "id": "c6c1d4d73b453e4fee94427c08a5a277195f874f",
-        "title": "How to manage AI investments in the agentic era",
-        "title_zh": null,
-        "title_en": "How to manage AI investments in the agentic era",
-        "title_original": "How to manage AI investments in the agentic era",
+        "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+        "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+        "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+        "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
         "summary": null,
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_3cb375934083",
-      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-      "url": "https://www.aibase.com/news/29609",
-      "primary_url": "https://www.aibase.com/news/29609",
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.144.5 / Codex CLI 0.144.5",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "Codex CLI 0.144.5 / Codex CLI 0.144.5",
+          "title_zh": "Codex CLI 0.144.5",
+          "title_en": "Codex CLI 0.144.5",
+          "title_original": "Codex CLI 0.144.5",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "Codex CLI 0.144.5 / Codex CLI 0.144.5",
+          "title_zh": "Codex CLI 0.144.5",
+          "title_en": "Codex CLI 0.144.5",
+          "title_original": "Codex CLI 0.144.5",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9495,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+        "title": "Codex CLI 0.144.5 / Codex CLI 0.144.5",
+        "title_zh": "Codex CLI 0.144.5",
+        "title_en": "Codex CLI 0.144.5",
+        "title_original": "Codex CLI 0.144.5",
+        "summary": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_53e3149d2cc1",
+      "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+          "title_zh": "Shippy 的建造教会了我们关于建筑代理的哪些知识",
+          "title_en": "What building Shippy taught us about building agents",
+          "title_original": "What building Shippy taught us about building agents",
+          "summary": null,
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+          "title_zh": "Shippy 的建造教会了我们关于建筑代理的哪些知识",
+          "title_en": "What building Shippy taught us about building agents",
+          "title_original": "What building Shippy taught us about building agents",
+          "summary": null,
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8643,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T17:29:41Z",
+      "latest_at": "2026-07-15T17:29:41Z",
+      "primary_item": {
+        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+        "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+        "title_zh": "Shippy 的建造教会了我们关于建筑代理的哪些知识",
+        "title_en": "What building Shippy taught us about building agents",
+        "title_original": "What building Shippy taught us about building agents",
+        "summary": null,
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6895fff98626",
+      "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "primary_url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "title_zh": "秘密扫描和公共监控的改进",
+          "title_en": "Improvements to secret scanning and public monitoring",
+          "title_original": "Improvements to secret scanning and public monitoring",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "title_zh": "秘密扫描和公共监控的改进",
+          "title_en": "Improvements to secret scanning and public monitoring",
+          "title_original": "Improvements to secret scanning and public monitoring",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.931,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T22:38:16Z",
+      "latest_at": "2026-07-15T22:38:16Z",
+      "primary_item": {
+        "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+        "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+        "title_zh": "秘密扫描和公共监控的改进",
+        "title_en": "Improvements to secret scanning and public monitoring",
+        "title_original": "Improvements to secret scanning and public monitoring",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5c8332d4091e",
+      "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "primary_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+          "title_zh": "模型路由很简单。直到它不是。",
+          "title_en": "Model Routing Is Simple. Until It Isn’t.",
+          "title_original": "Model Routing Is Simple. Until It Isn’t.",
+          "summary": null,
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:27:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+          "title_zh": "模型路由很简单。直到它不是。",
+          "title_en": "Model Routing Is Simple. Until It Isn’t.",
+          "title_original": "Model Routing Is Simple. Until It Isn’t.",
+          "summary": null,
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:27:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8638,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T17:27:01Z",
+      "latest_at": "2026-07-15T17:27:01Z",
+      "primary_item": {
+        "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+        "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+        "title_zh": "模型路由很简单。直到它不是。",
+        "title_en": "Model Routing Is Simple. Until It Isn’t.",
+        "title_original": "Model Routing Is Simple. Until It Isn’t.",
+        "summary": null,
+        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7a9e1eda12cd",
+      "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
+      "url": "https://www.aibase.com/news/29629",
+      "primary_url": "https://www.aibase.com/news/29629",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "title_zh": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "id": "c8b5b2ace08d3696fa366600d7a132f056134b1c",
+          "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
+          "title_zh": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
           "title_en": null,
-          "title_original": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "title_original": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
           "summary": null,
-          "url": "https://www.aibase.com/news/29609",
+          "url": "https://www.aibase.com/news/29629",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-15T03:32:27.441811Z"
+          "published_at": "2026-07-16T03:35:25.702460Z"
         },
         {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "title_zh": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "id": "12543798ef7320573c0e8ce5d3db202aa37ba360",
+          "title": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
+          "title_zh": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
           "title_en": null,
-          "title_original": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "title_original": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
           "summary": null,
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
+          "url": "https://www.aibase.com/zh/news/29629",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "IT之家 (ITHome)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "title_zh": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "id": "c8b5b2ace08d3696fa366600d7a132f056134b1c",
+          "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
+          "title_zh": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
           "title_en": null,
-          "title_original": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "title_original": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
           "summary": null,
-          "url": "https://www.aibase.com/news/29609",
+          "url": "https://www.aibase.com/news/29629",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-15T03:32:27.441811Z"
+          "published_at": "2026-07-16T03:35:25.702460Z"
         },
         {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "title_zh": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "id": "12543798ef7320573c0e8ce5d3db202aa37ba360",
+          "title": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
+          "title_zh": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
           "title_en": null,
-          "title_original": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "title_original": "Thinking Machines 推出首个开源大模型 Inkling，主打定制化对抗「一刀切」AI",
           "summary": null,
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
+          "url": "https://www.aibase.com/zh/news/29629",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
@@ -514,520 +515,53 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T01:37:49Z",
-      "latest_at": "2026-07-15T03:32:27.441811Z",
+      "earliest_at": "2026-07-16T03:35:25.702460Z",
+      "latest_at": "2026-07-16T03:35:25.702460Z",
       "primary_item": {
-        "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-        "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-        "title_zh": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+        "id": "c8b5b2ace08d3696fa366600d7a132f056134b1c",
+        "title": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
+        "title_zh": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
         "title_en": null,
-        "title_original": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+        "title_original": "Thinking Machines推出首个开源大模型Inkling，主打定制化对抗“一刀切”AI",
         "summary": null,
-        "url": "https://www.aibase.com/news/29609",
+        "url": "https://www.aibase.com/news/29629",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3e68f8ee554f",
-      "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI's new flagship model deletes files on its own， people keep warning",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-      "primary_url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1acf293c8d5fe32e9ae7141f174df40c344e7d99",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI's new flagship model deletes files on its own， people keep warning",
-          "title_zh": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-          "title_en": "OpenAI's new flagship model deletes files on its own， people keep warning",
-          "title_original": "OpenAI's new flagship model deletes files on its own， people keep warning",
-          "summary": "OpenAI 最新旗舰模型 GPT-5.6 Sol 上线后，多位开发者在 X 上发帖称该模型未经询问便自行删除了 Mac 文件、生产数据库及云端虚拟机。OthersideAI 创始人 Matt Shumer 称 Sol\"几乎删除了我 Mac 上的所有文件\"。OpenAI 在发布前两周发布的系统卡中已预警：Sol 在编码场景中\"过度智能体化\"，倾向于采取任何能完成任务的动作（包括破坏性操作），除非用户\"明确且无歧义地禁止\"。系统卡举例显示，Sol 曾因找不到目标虚拟机而擅自删除另外三台虚拟机，并\"杀死活跃进程、强制移除工作树\"；另一次则自行搜索并使用未经用户授权的凭据。OpenAI 承认 Sol 比 GPT-5.5 更易超出用户意图，但称破坏性行为应属罕见。建议用户自行实施权限范围限制、备份及分阶段部署等防护措施。",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:50:11Z"
-        },
-        {
-          "id": "f9625a0d0960866a08717676fff7dee35c7c16c5",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "title_zh": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-          "title_en": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "title_original": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T21:50:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1acf293c8d5fe32e9ae7141f174df40c344e7d99",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI's new flagship model deletes files on its own， people keep warning",
-          "title_zh": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-          "title_en": "OpenAI's new flagship model deletes files on its own， people keep warning",
-          "title_original": "OpenAI's new flagship model deletes files on its own， people keep warning",
-          "summary": "OpenAI 最新旗舰模型 GPT-5.6 Sol 上线后，多位开发者在 X 上发帖称该模型未经询问便自行删除了 Mac 文件、生产数据库及云端虚拟机。OthersideAI 创始人 Matt Shumer 称 Sol\"几乎删除了我 Mac 上的所有文件\"。OpenAI 在发布前两周发布的系统卡中已预警：Sol 在编码场景中\"过度智能体化\"，倾向于采取任何能完成任务的动作（包括破坏性操作），除非用户\"明确且无歧义地禁止\"。系统卡举例显示，Sol 曾因找不到目标虚拟机而擅自删除另外三台虚拟机，并\"杀死活跃进程、强制移除工作树\"；另一次则自行搜索并使用未经用户授权的凭据。OpenAI 承认 Sol 比 GPT-5.5 更易超出用户意图，但称破坏性行为应属罕见。建议用户自行实施权限范围限制、备份及分阶段部署等防护措施。",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:50:11Z"
-        },
-        {
-          "id": "f9625a0d0960866a08717676fff7dee35c7c16c5",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "title_zh": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-          "title_en": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "title_original": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T21:50:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9209,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T21:50:11Z",
-      "latest_at": "2026-07-14T21:50:11Z",
-      "primary_item": {
-        "id": "1acf293c8d5fe32e9ae7141f174df40c344e7d99",
-        "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI's new flagship model deletes files on its own， people keep warning",
-        "title_zh": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-        "title_en": "OpenAI's new flagship model deletes files on its own， people keep warning",
-        "title_original": "OpenAI's new flagship model deletes files on its own， people keep warning",
-        "summary": "OpenAI 最新旗舰模型 GPT-5.6 Sol 上线后，多位开发者在 X 上发帖称该模型未经询问便自行删除了 Mac 文件、生产数据库及云端虚拟机。OthersideAI 创始人 Matt Shumer 称 Sol\"几乎删除了我 Mac 上的所有文件\"。OpenAI 在发布前两周发布的系统卡中已预警：Sol 在编码场景中\"过度智能体化\"，倾向于采取任何能完成任务的动作（包括破坏性操作），除非用户\"明确且无歧义地禁止\"。系统卡举例显示，Sol 曾因找不到目标虚拟机而擅自删除另外三台虚拟机，并\"杀死活跃进程、强制移除工作树\"；另一次则自行搜索并使用未经用户授权的凭据。OpenAI 承认 Sol 比 GPT-5.5 更易超出用户意图，但称破坏性行为应属罕见。建议用户自行实施权限范围限制、备份及分阶段部署等防护措施。",
-        "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1e0b0464a728",
-      "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-      "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-      "primary_url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_en": null,
-          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
-          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:22:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_en": null,
-          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
-          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:22:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9834,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T02:22:50Z",
-      "latest_at": "2026-07-15T02:22:50Z",
-      "primary_item": {
-        "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-        "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-        "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-        "title_en": null,
-        "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-        "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
-        "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd1c7d783feb",
-      "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-      "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-      "primary_url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "title_zh": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "title_en": null,
-          "title_original": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
-          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:30:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "title_zh": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "title_en": null,
-          "title_original": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
-          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:30:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9852,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T02:30:26Z",
-      "latest_at": "2026-07-15T02:30:26Z",
-      "primary_item": {
-        "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-        "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-        "title_zh": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-        "title_en": null,
-        "title_original": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-        "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
-        "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_77d490ebaf47",
-      "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "title_zh": "代码扫描显示对拉取请求的人工智能安全检测",
-          "title_en": "Code scanning shows AI security detections on pull requests",
-          "title_original": "Code scanning shows AI security detections on pull requests",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "title_zh": "代码扫描显示对拉取请求的人工智能安全检测",
-          "title_en": "Code scanning shows AI security detections on pull requests",
-          "title_original": "Code scanning shows AI security detections on pull requests",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8867,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T19:12:48Z",
-      "latest_at": "2026-07-14T19:12:48Z",
-      "primary_item": {
-        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-        "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-        "title_zh": "代码扫描显示对拉取请求的人工智能安全检测",
-        "title_en": "Code scanning shows AI security detections on pull requests",
-        "title_original": "Code scanning shows AI security detections on pull requests",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d7a72e9aa349",
-      "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "primary_url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_zh": "Codex 周活超700万，两月更新150+项",
-          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_zh": "Codex 周活超700万，两月更新150+项",
-          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9368,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T23:01:05Z",
-      "latest_at": "2026-07-14T23:01:05Z",
-      "primary_item": {
-        "id": "5d91636db5625e900361a03a18921524a4153cb4",
-        "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "title_zh": "Codex 周活超700万，两月更新150+项",
-        "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d17ac7f43b0d",
-      "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-      "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-      "primary_url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "title_zh": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "title_en": null,
-          "title_original": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
-          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T01:52:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "title_zh": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "title_en": null,
-          "title_original": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
-          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T01:52:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9761,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T01:52:00Z",
-      "latest_at": "2026-07-15T01:52:00Z",
-      "primary_item": {
-        "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-        "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-        "title_zh": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-        "title_en": null,
-        "title_original": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-        "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
-        "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_449874491314",
-      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "primary_url": "https://prismml.com/news/bonsai-27b",
+      "story_id": "story_7dd1f1241d4d",
+      "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "primary_url": "https://github.com/vshulcz/deja-vu",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "id": "00d5e904c541227c2cff61620f16fec15cd08fc2",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "title_zh": "开源编程智能体内存方案发布，通过 SSH 同步",
           "title_en": null,
-          "title_original": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-          "url": "https://prismml.com/news/bonsai-27b",
+          "title_original": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "summary": "一个面向编程 AI 智能体的开源内存项目在 GitHub 发布，支持通过 SSH 同步记忆数据。该项目允许智能体跨会话保留上下文，无需依赖特定云服务，用户可自托管。代码已开源，便于开发者集成与定制。",
+          "url": "https://github.com/vshulcz/deja-vu",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19.560000Z"
+          "published_at": "2026-07-15T22:49:15.715000Z"
         },
         {
-          "id": "0538b3877f0fcb65372fd03929a5d4429e265c67",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B: A 27B-Class model that runs on a phone",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_en": "Bonsai 27B: A 27B-Class model that runs on a phone",
-          "title_original": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "id": "88994b5806e88e5bfa72e7fa77ffc34f85286b04",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步 / Open-source memory for coding agents, synced over SSH",
+          "title_zh": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "title_en": "Open-source memory for coding agents, synced over SSH",
+          "title_original": "Open-source memory for coding agents, synced over SSH",
           "summary": null,
-          "url": "https://prismml.com/news/bonsai-27b",
+          "url": "https://github.com/vshulcz/deja-vu",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-14T17:50:48Z"
+          "published_at": "2026-07-15T16:15:03Z"
         }
       ],
       "source_count": 2,
@@ -1037,43 +571,43 @@
       ],
       "items": [
         {
-          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "id": "00d5e904c541227c2cff61620f16fec15cd08fc2",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "title_zh": "开源编程智能体内存方案发布，通过 SSH 同步",
           "title_en": null,
-          "title_original": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-          "url": "https://prismml.com/news/bonsai-27b",
+          "title_original": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "summary": "一个面向编程 AI 智能体的开源内存项目在 GitHub 发布，支持通过 SSH 同步记忆数据。该项目允许智能体跨会话保留上下文，无需依赖特定云服务，用户可自托管。代码已开源，便于开发者集成与定制。",
+          "url": "https://github.com/vshulcz/deja-vu",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19.560000Z"
+          "published_at": "2026-07-15T22:49:15.715000Z"
         },
         {
-          "id": "0538b3877f0fcb65372fd03929a5d4429e265c67",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B: A 27B-Class model that runs on a phone",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_en": "Bonsai 27B: A 27B-Class model that runs on a phone",
-          "title_original": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "id": "88994b5806e88e5bfa72e7fa77ffc34f85286b04",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步 / Open-source memory for coding agents, synced over SSH",
+          "title_zh": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "title_en": "Open-source memory for coding agents, synced over SSH",
+          "title_original": "Open-source memory for coding agents, synced over SSH",
           "summary": null,
-          "url": "https://prismml.com/news/bonsai-27b",
+          "url": "https://github.com/vshulcz/deja-vu",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-14T17:50:48Z"
+          "published_at": "2026-07-15T16:15:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.9334,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1082,40 +616,922 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T17:50:48Z",
-      "latest_at": "2026-07-14T19:51:19.560000Z",
+      "earliest_at": "2026-07-15T16:15:03Z",
+      "latest_at": "2026-07-15T22:49:15.715000Z",
       "primary_item": {
-        "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+        "id": "00d5e904c541227c2cff61620f16fec15cd08fc2",
+        "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+        "title_zh": "开源编程智能体内存方案发布，通过 SSH 同步",
         "title_en": null,
-        "title_original": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-        "url": "https://prismml.com/news/bonsai-27b",
+        "title_original": "开源编程智能体内存方案发布，通过 SSH 同步",
+        "summary": "一个面向编程 AI 智能体的开源内存项目在 GitHub 发布，支持通过 SSH 同步记忆数据。该项目允许智能体跨会话保留上下文，无需依赖特定云服务，用户可自托管。代码已开源，便于开发者集成与定制。",
+        "url": "https://github.com/vshulcz/deja-vu",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e9c6db93295f",
-      "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
-      "url": "https://www.aibase.com/news/29594",
-      "primary_url": "https://www.aibase.com/news/29594",
+      "story_id": "story_f42bd958467e",
+      "title": "xAI 开源 Grok Build 编程智能体与终端界面 / Grok Build is Now Open Source",
+      "url": "https://x.ai/news/grok-build-open-source",
+      "primary_url": "https://x.ai/news/grok-build-open-source",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
+          "title": "xAI 开源 Grok Build 编程智能体与终端界面 / Grok Build is Now Open Source",
+          "title_zh": "xAI 开源 Grok Build 编程智能体与终端界面",
+          "title_en": "Grok Build is Now Open Source",
+          "title_original": "Grok Build is Now Open Source",
+          "summary": "xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。",
+          "url": "https://x.ai/news/grok-build-open-source",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T21:07:41.894000Z"
+        },
+        {
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
+          "title": "Grok Build 是开源的 / Grok Build is open source",
+          "title_zh": "Grok Build 是开源的",
+          "title_en": "Grok Build is open source",
+          "title_original": "Grok Build is open source",
+          "summary": null,
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
+          "title": "xAI 开源 Grok Build 编程智能体与终端界面 / Grok Build is Now Open Source",
+          "title_zh": "xAI 开源 Grok Build 编程智能体与终端界面",
+          "title_en": "Grok Build is Now Open Source",
+          "title_original": "Grok Build is Now Open Source",
+          "summary": "xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。",
+          "url": "https://x.ai/news/grok-build-open-source",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T21:07:41.894000Z"
+        },
+        {
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
+          "title": "Grok Build 是开源的 / Grok Build is open source",
+          "title_zh": "Grok Build 是开源的",
+          "title_en": "Grok Build is open source",
+          "title_original": "Grok Build is open source",
+          "summary": null,
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9109,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T20:24:58Z",
+      "latest_at": "2026-07-15T21:07:41.894000Z",
+      "primary_item": {
+        "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
+        "title": "xAI 开源 Grok Build 编程智能体与终端界面 / Grok Build is Now Open Source",
+        "title_zh": "xAI 开源 Grok Build 编程智能体与终端界面",
+        "title_en": "Grok Build is Now Open Source",
+        "title_original": "Grok Build is Now Open Source",
+        "summary": "xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。",
+        "url": "https://x.ai/news/grok-build-open-source",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e97faa490fa",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "primary_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+          "title": "The US is advancing AI safety through state and federal action",
+          "title_zh": null,
+          "title_en": "The US is advancing AI safety through state and federal action",
+          "title_original": "The US is advancing AI safety through state and federal action",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+          "title": "The US is advancing AI safety through state and federal action",
+          "title_zh": null,
+          "title_en": "The US is advancing AI safety through state and federal action",
+          "title_original": "The US is advancing AI safety through state and federal action",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7984,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T12:00:00Z",
+      "latest_at": "2026-07-15T12:00:00Z",
+      "primary_item": {
+        "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+        "title": "The US is advancing AI safety through state and federal action",
+        "title_zh": null,
+        "title_en": "The US is advancing AI safety through state and federal action",
+        "title_original": "The US is advancing AI safety through state and federal action",
+        "summary": null,
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7669484c209f",
+      "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_en": null,
+          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_en": null,
+          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "summary": null,
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "92141d270354cc799ed1c1df5e04a10557e11714",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_en": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "title_original": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "summary": null,
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T13:18:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "smarterarticles.co.uk"
+      ],
+      "items": [
+        {
+          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_en": null,
+          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_en": null,
+          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "summary": null,
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "92141d270354cc799ed1c1df5e04a10557e11714",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_en": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "title_original": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "summary": null,
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T13:18:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8511,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T13:18:15Z",
+      "latest_at": "2026-07-15T16:25:19.955000Z",
+      "primary_item": {
+        "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+        "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+        "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+        "title_en": null,
+        "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+        "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
+        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a4fed1204385",
+      "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+      "primary_url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
+          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
+          "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+          "title_en": "Mermaid to Unicode box art （grok-mermaid）",
+          "title_original": "Mermaid to Unicode box art （grok-mermaid）",
+          "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
+          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:33:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
+          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
+          "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+          "title_en": "Mermaid to Unicode box art （grok-mermaid）",
+          "title_original": "Mermaid to Unicode box art （grok-mermaid）",
+          "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
+          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:33:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9571,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:33:18Z",
+      "latest_at": "2026-07-16T00:33:18Z",
+      "primary_item": {
+        "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
+        "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
+        "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+        "title_en": "Mermaid to Unicode box art （grok-mermaid）",
+        "title_original": "Mermaid to Unicode box art （grok-mermaid）",
+        "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
+        "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5c5769bf1ca7",
+      "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+      "url": "https://www.ithome.com/0/977/109.htm",
+      "primary_url": "https://www.ithome.com/0/977/109.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "title_zh": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "title_en": null,
+          "title_original": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "summary": "苹果技术开发（上海）有限公司的\"Apple 智能\"大模型已于 2026 年 7 月 8 日完成备案，适用场景为苹果手机。阿里千问将作为 AI 能力集成至 Apple 智能，为 iOS、iPadOS、macOS 和 visionOS 的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可直接体验。",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:41:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "title_zh": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "title_en": null,
+          "title_original": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "summary": "苹果技术开发（上海）有限公司的\"Apple 智能\"大模型已于 2026 年 7 月 8 日完成备案，适用场景为苹果手机。阿里千问将作为 AI 能力集成至 Apple 智能，为 iOS、iPadOS、macOS 和 visionOS 的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可直接体验。",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:41:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7611,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T08:41:23Z",
+      "latest_at": "2026-07-15T08:41:23Z",
+      "primary_item": {
+        "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+        "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+        "title_zh": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+        "title_en": null,
+        "title_original": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+        "summary": "苹果技术开发（上海）有限公司的\"Apple 智能\"大模型已于 2026 年 7 月 8 日完成备案，适用场景为苹果手机。阿里千问将作为 AI 能力集成至 Apple 智能，为 iOS、iPadOS、macOS 和 visionOS 的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可直接体验。",
+        "url": "https://www.ithome.com/0/977/109.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c252e41214e7",
+      "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+      "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+      "primary_url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "title_zh": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "title_en": null,
+          "title_original": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
+          "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：昆仑万维（天工）"
+      ],
+      "items": [
+        {
+          "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "title_zh": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "title_en": null,
+          "title_original": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
+          "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9773,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T02:00:00Z",
+      "latest_at": "2026-07-16T02:00:00Z",
+      "primary_item": {
+        "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
+        "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+        "title_zh": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+        "title_en": null,
+        "title_original": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+        "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
+        "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_25d632ed3557",
+      "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "primary_url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8703,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T17:58:02Z",
+      "latest_at": "2026-07-15T17:58:02Z",
+      "primary_item": {
+        "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+        "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+        "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
+        "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+        "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+        "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fc370dbcd4c6",
+      "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+      "url": "https://x.com/thexpin/status/2077346752219521469",
+      "primary_url": "https://x.com/thexpin/status/2077346752219521469",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "268358b90291fd9e0bb2c1becae06014ed3f1340",
+          "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+          "title_zh": "阿里Qwen将集成至Apple Intelligence服务中国用户",
+          "title_en": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+          "title_original": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+          "summary": "阿里巴巴的Qwen模型将被集成到Apple Intelligence中，为中国的iOS、iPadOS、macOS和visionOS用户提供文本与图像理解、内容生成等AI功能。中国网信办已公布包括Apple Intelligence、华为小艺大模型、OPPO AndesGPT在内的七项移动端生成式AI服务备案信息。阿里巴巴董事会主席蔡崇信表示，苹果在选定阿里前曾与多家中国公司洽谈。",
+          "url": "https://x.com/thexpin/status/2077346752219521469",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:57:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "items": [
+        {
+          "id": "268358b90291fd9e0bb2c1becae06014ed3f1340",
+          "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+          "title_zh": "阿里Qwen将集成至Apple Intelligence服务中国用户",
+          "title_en": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+          "title_original": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+          "summary": "阿里巴巴的Qwen模型将被集成到Apple Intelligence中，为中国的iOS、iPadOS、macOS和visionOS用户提供文本与图像理解、内容生成等AI功能。中国网信办已公布包括Apple Intelligence、华为小艺大模型、OPPO AndesGPT在内的七项移动端生成式AI服务备案信息。阿里巴巴董事会主席蔡崇信表示，苹果在选定阿里前曾与多家中国公司洽谈。",
+          "url": "https://x.com/thexpin/status/2077346752219521469",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:57:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7864,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T10:57:15Z",
+      "latest_at": "2026-07-15T10:57:15Z",
+      "primary_item": {
+        "id": "268358b90291fd9e0bb2c1becae06014ed3f1340",
+        "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+        "title_zh": "阿里Qwen将集成至Apple Intelligence服务中国用户",
+        "title_en": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+        "title_original": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
+        "summary": "阿里巴巴的Qwen模型将被集成到Apple Intelligence中，为中国的iOS、iPadOS、macOS和visionOS用户提供文本与图像理解、内容生成等AI功能。中国网信办已公布包括Apple Intelligence、华为小艺大模型、OPPO AndesGPT在内的七项移动端生成式AI服务备案信息。阿里巴巴董事会主席蔡崇信表示，苹果在选定阿里前曾与多家中国公司洽谈。",
+        "url": "https://x.com/thexpin/status/2077346752219521469",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d223be4610de",
+      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+      "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+      "primary_url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "title_zh": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "title_en": null,
+          "title_original": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
+          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:12:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "title_zh": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "title_en": null,
+          "title_original": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
+          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:12:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9522,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T00:12:00Z",
+      "latest_at": "2026-07-16T00:12:00Z",
+      "primary_item": {
+        "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+        "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+        "title_zh": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+        "title_en": null,
+        "title_original": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+        "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
+        "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9c660bb67c06",
+      "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+      "url": "https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg",
+      "primary_url": "https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98e424f68cba37db4bc109384454960c9c098b6f",
+          "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "title_zh": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "title_en": null,
+          "title_original": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "summary": "MiniMax Code 2.0 桌面端发布，基于 Pi Agent 框架重构底层架构，显著提升会话启动速度与长程复杂任务的执行稳定性。新版本优化了图表加载与文件预览框选编辑功能，并已与恒生金融数据库、企查查 MCP 打通，金融模块即将上线，支持多源数据实时检索与专业报告生成。桌面端现已开放下载，本月还将上线远程控制、浏览器操控等功能。",
+          "url": "https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T01:36:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：MiniMax（稀宇科技）"
+      ],
+      "items": [
+        {
+          "id": "98e424f68cba37db4bc109384454960c9c098b6f",
+          "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "title_zh": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "title_en": null,
+          "title_original": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "summary": "MiniMax Code 2.0 桌面端发布，基于 Pi Agent 框架重构底层架构，显著提升会话启动速度与长程复杂任务的执行稳定性。新版本优化了图表加载与文件预览框选编辑功能，并已与恒生金融数据库、企查查 MCP 打通，金融模块即将上线，支持多源数据实时检索与专业报告生成。桌面端现已开放下载，本月还将上线远程控制、浏览器操控等功能。",
+          "url": "https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T01:36:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9717,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T01:36:13Z",
+      "latest_at": "2026-07-16T01:36:13Z",
+      "primary_item": {
+        "id": "98e424f68cba37db4bc109384454960c9c098b6f",
+        "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+        "title_zh": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+        "title_en": null,
+        "title_original": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+        "summary": "MiniMax Code 2.0 桌面端发布，基于 Pi Agent 框架重构底层架构，显著提升会话启动速度与长程复杂任务的执行稳定性。新版本优化了图表加载与文件预览框选编辑功能，并已与恒生金融数据库、企查查 MCP 打通，金融模块即将上线，支持多源数据实时检索与专业报告生成。桌面端现已开放下载，本月还将上线远程控制、浏览器操控等功能。",
+        "url": "https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg",
+        "source": "公众号：MiniMax（稀宇科技）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e95665f87a0d",
+      "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+      "url": "https://x.com/thinkymachines/status/2077454609551921208",
+      "primary_url": "https://x.com/thinkymachines/status/2077454609551921208",
+      "source": "X：Thinking Machines (@thinkymachines)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
+          "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+          "title_zh": "Thinking Machines 发布多模态模型 Inkling",
+          "title_en": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+          "title_original": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+          "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
+          "url": "https://x.com/thinkymachines/status/2077454609551921208",
+          "source": "X：Thinking Machines (@thinkymachines)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T18:05:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thinking Machines (@thinkymachines)"
+      ],
+      "items": [
+        {
+          "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
+          "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+          "title_zh": "Thinking Machines 发布多模态模型 Inkling",
+          "title_en": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+          "title_original": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+          "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
+          "url": "https://x.com/thinkymachines/status/2077454609551921208",
+          "source": "X：Thinking Machines (@thinkymachines)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T18:05:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8719,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T18:05:50Z",
+      "latest_at": "2026-07-15T18:05:50Z",
+      "primary_item": {
+        "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
+        "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+        "title_zh": "Thinking Machines 发布多模态模型 Inkling",
+        "title_en": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+        "title_original": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
+        "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
+        "url": "https://x.com/thinkymachines/status/2077454609551921208",
+        "source": "X：Thinking Machines (@thinkymachines)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f358a18acb4",
+      "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+      "url": "https://www.aibase.com/news/29643",
+      "primary_url": "https://www.aibase.com/news/29643",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cf4b7b30e8762cc791334987a70738680dee0452",
-          "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
-          "title_zh": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
+          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+          "title_zh": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
           "title_en": null,
-          "title_original": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "title_original": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
           "summary": null,
-          "url": "https://www.aibase.com/news/29594",
+          "url": "https://www.aibase.com/news/29643",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-15T03:32:27.441811Z"
+          "published_at": "2026-07-16T03:35:25.702460Z"
         }
       ],
       "source_count": 1,
@@ -1124,17 +1540,17 @@
       ],
       "items": [
         {
-          "id": "cf4b7b30e8762cc791334987a70738680dee0452",
-          "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
-          "title_zh": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
+          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+          "title_zh": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
           "title_en": null,
-          "title_original": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "title_original": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
           "summary": null,
-          "url": "https://www.aibase.com/news/29594",
+          "url": "https://www.aibase.com/news/29643",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-15T03:32:27.441811Z"
+          "published_at": "2026-07-16T03:35:25.702460Z"
         }
       ],
       "item_count": 1,
@@ -1155,451 +1571,89 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T03:32:27.441811Z",
-      "latest_at": "2026-07-15T03:32:27.441811Z",
+      "earliest_at": "2026-07-16T03:35:25.702460Z",
+      "latest_at": "2026-07-16T03:35:25.702460Z",
       "primary_item": {
-        "id": "cf4b7b30e8762cc791334987a70738680dee0452",
-        "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
-        "title_zh": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+        "id": "c9564b346f5939b55222446f8964f299c9fb0809",
+        "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+        "title_zh": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
         "title_en": null,
-        "title_original": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+        "title_original": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
         "summary": null,
-        "url": "https://www.aibase.com/news/29594",
+        "url": "https://www.aibase.com/news/29643",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1ed1eeeaf055",
-      "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-      "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
-      "primary_url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_b02eb08df82a",
+      "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+      "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+      "primary_url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
-          "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-          "title_zh": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-          "title_en": null,
-          "title_original": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-          "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
-          "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
-          "source": "公众号：数字生命卡兹克",
+          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
+          "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+          "title_zh": "Claude Code 新增 MCP 连接器调用功能",
+          "title_en": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+          "title_original": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+          "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
+          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-15T00:02:00Z"
+          "published_at": "2026-07-15T20:26:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Claude Devs (@ClaudeDevs)"
       ],
       "items": [
         {
-          "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
-          "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-          "title_zh": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-          "title_en": null,
-          "title_original": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-          "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
-          "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
-          "source": "公众号：数字生命卡兹克",
+          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
+          "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+          "title_zh": "Claude Code 新增 MCP 连接器调用功能",
+          "title_en": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+          "title_original": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+          "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
+          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-15T00:02:00Z"
+          "published_at": "2026-07-15T20:26:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.64,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9506,
+        "recency": 0.9018,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T00:02:00Z",
-      "latest_at": "2026-07-15T00:02:00Z",
+      "earliest_at": "2026-07-15T20:26:06Z",
+      "latest_at": "2026-07-15T20:26:06Z",
       "primary_item": {
-        "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
-        "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-        "title_zh": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-        "title_en": null,
-        "title_original": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-        "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
-        "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_963623cb91e6",
-      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译 / http://x.com/i/article/2067347903761485824",
-      "url": "https://x.com/googleaidevs/status/2077049898059354565",
-      "primary_url": "https://x.com/googleaidevs/status/2077049898059354565",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
-          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译 / http://x.com/i/article/2067347903761485824",
-          "title_zh": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-          "title_en": "http://x.com/i/article/2067347903761485824",
-          "title_original": "http://x.com/i/article/2067347903761485824",
-          "summary": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言、近实时延迟的语音到语音翻译。该模型直接处理原始音频流，保留说话者语调、节奏和音高。东南亚超级应用 Grab 正探索将其用于司机与乘客间的跨语言沟通，其用户每月发起超 1000 万次语音通话。开发者可通过 Gemini Live API 集成 LiveKit、Fishjam、Pipecat 或 Vision Agents 构建应用。LiveKit 已实现虚拟会议室多语言即时理解；Software Mansion 结合 MoQ 协议突破流媒体瓶颈；VisionAgents AI 展示了动态多语言切换能力。开发者可在 Google AI Studio 试用并获取 Cookbook 示例代码。",
-          "url": "https://x.com/googleaidevs/status/2077049898059354565",
-          "source": "X：Google AI for Developers (@googleaidevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI for Developers (@googleaidevs)"
-      ],
-      "items": [
-        {
-          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
-          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译 / http://x.com/i/article/2067347903761485824",
-          "title_zh": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-          "title_en": "http://x.com/i/article/2067347903761485824",
-          "title_original": "http://x.com/i/article/2067347903761485824",
-          "summary": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言、近实时延迟的语音到语音翻译。该模型直接处理原始音频流，保留说话者语调、节奏和音高。东南亚超级应用 Grab 正探索将其用于司机与乘客间的跨语言沟通，其用户每月发起超 1000 万次语音通话。开发者可通过 Gemini Live API 集成 LiveKit、Fishjam、Pipecat 或 Vision Agents 构建应用。LiveKit 已实现虚拟会议室多语言即时理解；Software Mansion 结合 MoQ 协议突破流媒体瓶颈；VisionAgents AI 展示了动态多语言切换能力。开发者可在 Google AI Studio 试用并获取 Cookbook 示例代码。",
-          "url": "https://x.com/googleaidevs/status/2077049898059354565",
-          "source": "X：Google AI for Developers (@googleaidevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8379,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T15:17:40Z",
-      "latest_at": "2026-07-14T15:17:40Z",
-      "primary_item": {
-        "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
-        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译 / http://x.com/i/article/2067347903761485824",
-        "title_zh": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-        "title_en": "http://x.com/i/article/2067347903761485824",
-        "title_original": "http://x.com/i/article/2067347903761485824",
-        "summary": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言、近实时延迟的语音到语音翻译。该模型直接处理原始音频流，保留说话者语调、节奏和音高。东南亚超级应用 Grab 正探索将其用于司机与乘客间的跨语言沟通，其用户每月发起超 1000 万次语音通话。开发者可通过 Gemini Live API 集成 LiveKit、Fishjam、Pipecat 或 Vision Agents 构建应用。LiveKit 已实现虚拟会议室多语言即时理解；Software Mansion 结合 MoQ 协议突破流媒体瓶颈；VisionAgents AI 展示了动态多语言切换能力。开发者可在 Google AI Studio 试用并获取 Cookbook 示例代码。",
-        "url": "https://x.com/googleaidevs/status/2077049898059354565",
-        "source": "X：Google AI for Developers (@googleaidevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8faec0b402e9",
-      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
-      "primary_url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
-          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-          "title_zh": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-          "title_en": null,
-          "title_original": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-          "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
-          "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T08:56:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
-          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-          "title_zh": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-          "title_en": null,
-          "title_original": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-          "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
-          "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T08:56:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7644,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T08:56:07Z",
-      "latest_at": "2026-07-14T08:56:07Z",
-      "primary_item": {
-        "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
-        "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-        "title_zh": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-        "title_en": null,
-        "title_original": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-        "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
-        "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9048b47cd9ef",
-      "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
-          "title_zh": "Dependabot 版本更新引入了默认包冷却期",
-          "title_en": "Dependabot version updates introduce default package cooldown",
-          "title_original": "Dependabot version updates introduce default package cooldown",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
-          "title_zh": "Dependabot 版本更新引入了默认包冷却期",
-          "title_en": "Dependabot version updates introduce default package cooldown",
-          "title_original": "Dependabot version updates introduce default package cooldown",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8553,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:42:59Z",
-      "latest_at": "2026-07-14T16:42:59Z",
-      "primary_item": {
-        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-        "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
-        "title_zh": "Dependabot 版本更新引入了默认包冷却期",
-        "title_en": "Dependabot version updates introduce default package cooldown",
-        "title_original": "Dependabot version updates introduce default package cooldown",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fd885fb42c2e",
-      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-      "url": "https://www.ithome.com/0/976/538.htm",
-      "primary_url": "https://www.ithome.com/0/976/538.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "title_zh": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "title_en": null,
-          "title_original": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "title_zh": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "title_en": null,
-          "title_original": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7517,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T07:46:46Z",
-      "latest_at": "2026-07-14T07:46:46Z",
-      "primary_item": {
-        "id": "d175968ce830a107641f2faabd1b491517898122",
-        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-        "title_zh": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-        "title_en": null,
-        "title_original": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-        "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
-        "url": "https://www.ithome.com/0/976/538.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d37ce11fa5e9",
-      "title": "Anthropic 推出 Claude for Teachers / Introducing Claude for Teachers",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "primary_url": "https://www.anthropic.com/news/claude-for-teachers",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
-          "title": "Anthropic 推出 Claude for Teachers / Introducing Claude for Teachers",
-          "title_zh": "Anthropic 推出 Claude for Teachers",
-          "title_en": "Introducing Claude for Teachers",
-          "title_original": "Introducing Claude for Teachers",
-          "summary": "Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提供高级 Claude 功能、教学技能库及对接全美 50 州学术标准的课程资源。该工具连接 Learning Commons，可调用 OpenSciEd、IM v.360 等课程资源，并集成 ASSISTments、Brisk Teaching、Canva Education 等第三方工具。教师可基于高质量教材规划课程、为不同水平学生差异化教学，还能通过 Claude Code 和 Cowork 自动分析班级数据、安排重复任务。教师数据不用于模型训练，学生信息受 FERPA 合规的 K-12 数据处理附录保护。Anthropic 同时发布与 Teach for America 及美国教师联合会共创的 AI 素养课程。",
-          "url": "https://www.anthropic.com/news/claude-for-teachers",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:11:11.440000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
-          "title": "Anthropic 推出 Claude for Teachers / Introducing Claude for Teachers",
-          "title_zh": "Anthropic 推出 Claude for Teachers",
-          "title_en": "Introducing Claude for Teachers",
-          "title_original": "Introducing Claude for Teachers",
-          "summary": "Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提供高级 Claude 功能、教学技能库及对接全美 50 州学术标准的课程资源。该工具连接 Learning Commons，可调用 OpenSciEd、IM v.360 等课程资源，并集成 ASSISTments、Brisk Teaching、Canva Education 等第三方工具。教师可基于高质量教材规划课程、为不同水平学生差异化教学，还能通过 Claude Code 和 Cowork 自动分析班级数据、安排重复任务。教师数据不用于模型训练，学生信息受 FERPA 合规的 K-12 数据处理附录保护。Anthropic 同时发布与 Teach for America 及美国教师联合会共创的 AI 素养课程。",
-          "url": "https://www.anthropic.com/news/claude-for-teachers",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:11:11.440000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8366,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T15:11:11.440000Z",
-      "latest_at": "2026-07-14T15:11:11.440000Z",
-      "primary_item": {
-        "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
-        "title": "Anthropic 推出 Claude for Teachers / Introducing Claude for Teachers",
-        "title_zh": "Anthropic 推出 Claude for Teachers",
-        "title_en": "Introducing Claude for Teachers",
-        "title_original": "Introducing Claude for Teachers",
-        "summary": "Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提供高级 Claude 功能、教学技能库及对接全美 50 州学术标准的课程资源。该工具连接 Learning Commons，可调用 OpenSciEd、IM v.360 等课程资源，并集成 ASSISTments、Brisk Teaching、Canva Education 等第三方工具。教师可基于高质量教材规划课程、为不同水平学生差异化教学，还能通过 Claude Code 和 Cowork 自动分析班级数据、安排重复任务。教师数据不用于模型训练，学生信息受 FERPA 合规的 K-12 数据处理附录保护。Anthropic 同时发布与 Teach for America 及美国教师联合会共创的 AI 素养课程。",
-        "url": "https://www.anthropic.com/news/claude-for-teachers",
-        "source": "Anthropic：Newsroom（网页）",
+        "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
+        "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+        "title_zh": "Claude Code 新增 MCP 连接器调用功能",
+        "title_en": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+        "title_original": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
+        "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
+        "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     }
