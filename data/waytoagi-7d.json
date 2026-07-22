@@ -1,45 +1,75 @@
 {
-  "generated_at": "2026-07-21T03:43:45.557244Z",
+  "generated_at": "2026-07-22T03:44:48.562927Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-20",
+  "latest_date": "2026-07-21",
   "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-07-20",
-      "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+      "date": "2026-07-21",
+      "title": "很多人选Agent模型，最容易踩的坑就是只看谁最强，结果高难任务用错模型、日常任务烧爆 token，扛不住成本。一泽把最近发布的这些新模型：Fable 5、GPT 5.6 Sol、Deepseek V4、Kimi K3、Qwen3.8-Max 放到真实产品的开发里跑了一遍发现Fable 适合高难新项目和架构判断，GPT 适合日常复杂开发，Deepseek 更适合 To C Agent 默认模型，Kimi 强在高视觉前端但消耗太快，Qwen 长程任务进步很明显。想少花冤枉 token，这篇值得打开对照一下。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-20",
-      "title": "如果你还在让 Agent 一步一步排队干活，这篇文章很值得看。这份14步路线图把 Claude 工作流从“线性脚本”拉成一张可编排的图：节点负责具体任务，边负责传递数据；能并行就扇出，需要判断再汇聚，再用Schema、验证器、Worktree和模型分层来控制质量、隔离风险、压缩成本。",
+      "date": "2026-07-21",
+      "title": "很多人看Kimi K3，第一反应还是盯榜单：参数多大、排第几、打赢了谁。真正容易错过的是，它到底能帮我们做出哪些东西。作者整理了20种玩法：浏览器游戏、3D 产品、物理模拟、落地页、全栈脚手架、数据看板、代码迁移、多模态截图/视频转代码等等。快来挑几个prompt跑一遍试试效果！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-20",
-      "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
+      "date": "2026-07-21",
+      "title": "很多人用AI写小红书，一上来就丢一句“帮我写爆款”，结果热词、表情、标题都有了，读起来却像硬广，三秒就被划走。老金这个Skill或许会帮到你：先逼你想明白内容类型、目标读者、真实素材、视觉路线和哪些地方必须人人为同意，再生成标题、封面、6到8张内页、正文、标签和发布前自检。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-20",
-      "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
+      "date": "2026-07-21",
+      "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-20",
-      "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
+      "date": "2026-07-21",
+      "title": "作者开源了一个能把任意 n8n 工作流，解构后重写成 Agent skill 的元 skill的工具：n8n-to-skill。如果你也想把之前已经搭好、跑了很久的 n8n 工作流变成 Agent 能直接调用的原生 skill，这篇文章或许会帮助到你！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-20",
-      "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
+      "date": "2026-07-21",
+      "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-07-21",
+      "title": "很多人选Agent模型，最容易踩的坑就是只看谁最强，结果高难任务用错模型、日常任务烧爆 token，扛不住成本。一泽把最近发布的这些新模型：Fable 5、GPT 5.6 Sol、Deepseek V4、Kimi K3、Qwen3.8-Max 放到真实产品的开发里跑了一遍发现Fable 适合高难新项目和架构判断，GPT 适合日常复杂开发，Deepseek 更适合 To C Agent 默认模型，Kimi 强在高视觉前端但消耗太快，Qwen 长程任务进步很明显。想少花冤枉 token，这篇值得打开对照一下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "很多人看Kimi K3，第一反应还是盯榜单：参数多大、排第几、打赢了谁。真正容易错过的是，它到底能帮我们做出哪些东西。作者整理了20种玩法：浏览器游戏、3D 产品、物理模拟、落地页、全栈脚手架、数据看板、代码迁移、多模态截图/视频转代码等等。快来挑几个prompt跑一遍试试效果！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "很多人用AI写小红书，一上来就丢一句“帮我写爆款”，结果热词、表情、标题都有了，读起来却像硬广，三秒就被划走。老金这个Skill或许会帮到你：先逼你想明白内容类型、目标读者、真实素材、视觉路线和哪些地方必须人人为同意，再生成标题、封面、6到8张内页、正文、标签和发布前自检。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "作者开源了一个能把任意 n8n 工作流，解构后重写成 Agent skill 的元 skill的工具：n8n-to-skill。如果你也想把之前已经搭好、跑了很久的 n8n 工作流变成 Agent 能直接调用的原生 skill，这篇文章或许会帮助到你！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-20",
       "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
@@ -188,31 +218,6 @@
     {
       "date": "2026-07-16",
       "title": "Kimi K3 正式发布，它是一个2.8万亿参数模型，原生支持视觉理解，并拥有100万token上下文窗口。它主要面向长程编程、知识工作和推理等前沿智能场景而设计。 即日起，可通过kimi.com 、最新版Kimi 手机App 、最新版Kimi Work桌面客户端、Kimi Code和 Kimi API 来使用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "长期囤积素材、苦于选题杂乱排期的内容创作者，卡尔这套开源待办工具不容错过！它可以完美解决素材堆积、重复选题、日程同步等等难题。仅仅设置三类文件夹即可运行，还可以进行个性化改造，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "最近刷到不少教 Codex + Remotion 做视频的教程，然后你照着做，发现做出来的东西根本没法发。只有画面没有声音，或者配了音但音画对不上，画面就是一页一页的 PPT 在翻，满屏都是字。关键环节还是整体框架：每一步该做什么、该盯什么、坑在哪。框架对了，剩下的交给AI就行。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "宝玉最近做了一个字幕转录翻译剪辑 Skill —— BaoCut（仅支持 Mac）。借助这个Agent Skill，可以转录视频、对转录结果识别Speaker、润色（纠正错别字口癖等）、也可以根据转录结果对视频进行简单的剪辑，比如删除口癖、重复等。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "今天这篇文章小歪整理了12种AI人像图片创意玩法，做头像、朋友圈配图、旅行记录、表情包都能用。每种都附了完整提示词，可以适用于GPT Image 2、谷歌Nano banana、即梦、豆包、小云雀 等，直接复制抄作业就行。每个案例都只放了效果图，大家使用的时候是需要根据不同场景，上传自己的真人照片的，才能对人像进行魔改。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "Y Combinator的设计负责人在这期对话里展示了自己最近做的三个项目：用Paxel观察人们如何与编码Agent协作，用Sodazine记录旧金山的城市故事，再用一套新的设计工具为Startup School制作视觉资产。对设计师、产品经理和工程师来说，这里面最值得关注的并不是某个工具的功能，而是设计师开始拥有了一种新的工作姿势：把想法说清楚，把上下文准备好，再为自己造出一组随时可以丢弃的工具。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
