@@ -1,55 +1,85 @@
 {
-  "generated_at": "2026-07-28T03:33:45.699353Z",
+  "generated_at": "2026-07-29T03:36:40.744536Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-27",
-  "count_today": 8,
+  "latest_date": "2026-07-28",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-07-27",
-      "title": "表面看是给Codex换皮肤，实际苍何这篇文章更像一个“用 AI 做完整产品”的实战复盘。苍何开源了 Codex Themes：可以一键给 Codex 换主题，也能恢复默认；通过CDP注入装饰层，不改安装包。更有意思的是，它还能让Codex帮你生成新主题，做完后发布到社区广场，用户可用积分或支付宝购买，形成“创作—发布—交易”的闭环。",
+      "date": "2026-07-28",
+      "title": "这篇内容将以亚马逊电商日常运营中的 ASIN 销量监控为案例，拆解一个跑在实际业务里的监控 Agent——从赋能效果、框架剖析，到完整的实现流程。案例来自电商场景，但真正想分享的是背后那个可迁移的 Agent 框架：换掉数据源和同步端，它可以搬到任何“定期看数据、重复做分析、只需要重要结论”的业务场景。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-27",
-      "title": "本周的AI音乐周刊很适合音乐创作者、AI 音乐工具玩家和关注版权合规的人快速补课：索尼再次起诉 Udio，说明训练数据合法性会越来越关键；德国 GEMA 推出合规训练数据集 PLAI，给行业开辟另一条路。产品侧，Suno 支持控制歌曲时长，ElevenMusic 能复刻人声和曲风，ElevenLabs 开放音乐微调 API，Google Flow Music、海绵音乐也在加强编辑和改编能力。还有中央音乐学院开源的“韶元 1.0”和 4 篇精选论文。",
+      "date": "2026-07-28",
+      "title": "猫叔整理了 500 个可拆分、可组合、可本地化改写的欧美短剧情节模板。一半保持强情感商业性，另一半用于拓展更符合欧美长线审美的类型混合与人物复杂度。如果你也在做海外短剧，没灵感时可以借鉴下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-27",
-      "title": "本周值得关注的 AI 论文，覆盖智能体运行框架、记忆与技能、长程任务、模型可解释性、评测、结构化输出和机器人等方向。Agent 框架如何变成可追溯源码地图，记忆怎么沉淀成可调用Skill，长程任务能不能靠完整日志+按需搜索降成本；还有Anthropic的模型可解释性、GAMUT 对“答案完整性”的评测、渐进式披露到底有没有用、结构化输出为什么会压缩多样性，以及智能体记忆安全等等。",
+      "date": "2026-07-28",
+      "title": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-27",
-      "title": "很多人做GEO，以为写一篇“最佳 AI 视频工具”这种大词文章就够了，但 AI 搜索其实会把问题拆得很细：谁在用？做短视频还是动画？要免费版还是看价格？要不要和竞品对比？这些被 AI 拆出来的小问题，就是 Fan-out。子木这篇文章结合Fan-out Rank，讲清楚了怎么从目标客户出发，找到最值得写的细分选题，再用结论先行、表格对比、外部平台讨论，让 AI 更容易抓到你、引用你。",
+      "date": "2026-07-28",
+      "title": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-27",
-      "title": "小七姐和团队打磨了三个月的产品“Her” 今天正式上线了。她是与你一起成长的 AI 伙伴。她会记得你、理解你，能真正和你一起做事。你可以和她一起写文章、做研究、处理文件、推进项目，也可以把那些一时说不清楚的感受慢慢讲给她听。快来上手体验下吧！",
+      "date": "2026-07-28",
+      "title": "Midjourney V8.2来了，结果发现一个比较明显的变化：V8.2最大的提升，是提示词的理解，参考逻辑的优化以及出图的整体稳定性上都有显著的提升。于是乎作者又做了一个系统的测试，对MJ有了久违的的惊喜。我们一起来看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-27",
-      "title": "做短视频最累的地方，往往不是想法，而是每天重复选题、写脚本、找素材、配音、剪辑、上字幕、做封面。作者把自己日常的创作流程拆成55个标准化 Skill，覆盖12 大模块，再串起 Codex、HyperFrames、HeyGen、IndexTTS2，从选题策划到成片质检基本都能自动流转。想降低制作成本、稳定更新频率，甚至跑商单变现，这套可以直接参考。",
+      "date": "2026-07-28",
+      "title": "Agent 技术现在太多了：Harness框架、MCP、Skills、浏览器、桌面宿主、一眼看过去很容易乱。如果你也有这个烦恼，这篇文章或许会帮助到你。作者讲清了Prompt、Context、Loop、Graph、Skill、Harness的边界，也拆解了 Goal、Memory、Subagent、Handoff这些关键模块该怎么设计。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-27",
-      "title": "InfoQ极客传媒与GMI Cloud为核心出品方，火山引擎、小米MiMo、快手、出门问问、商汤科技、像素绽放PixelBloom、Moka等数十家产业链头部企业为联合出品方的《中国AI产业核心要素出海发展白皮书》在今天正式发布。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
+      "date": "2026-07-28",
+      "title": "22,580，这是 2019 年的 GPT-2 能装进 2026 年 Kimi K3 的数量。七年间，模型规模放大了 22,580 倍。但这段演进真的只是“堆参数”吗？这篇文章沿着 GPT-2、线性注意力、DeltaNet、Gated Delta Net、Kimi Linear 到 Kimi K3 的路径，看看模型架构到底改变了什么，又有哪些核心问题始终没有消失。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-07-28",
+      "title": "这篇内容将以亚马逊电商日常运营中的 ASIN 销量监控为案例，拆解一个跑在实际业务里的监控 Agent——从赋能效果、框架剖析，到完整的实现流程。案例来自电商场景，但真正想分享的是背后那个可迁移的 Agent 框架：换掉数据源和同步端，它可以搬到任何“定期看数据、重复做分析、只需要重要结论”的业务场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "猫叔整理了 500 个可拆分、可组合、可本地化改写的欧美短剧情节模板。一半保持强情感商业性，另一半用于拓展更符合欧美长线审美的类型混合与人物复杂度。如果你也在做海外短剧，没灵感时可以借鉴下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Midjourney V8.2来了，结果发现一个比较明显的变化：V8.2最大的提升，是提示词的理解，参考逻辑的优化以及出图的整体稳定性上都有显著的提升。于是乎作者又做了一个系统的测试，对MJ有了久违的的惊喜。我们一起来看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Agent 技术现在太多了：Harness框架、MCP、Skills、浏览器、桌面宿主、一眼看过去很容易乱。如果你也有这个烦恼，这篇文章或许会帮助到你。作者讲清了Prompt、Context、Loop、Graph、Skill、Harness的边界，也拆解了 Goal、Memory、Subagent、Handoff这些关键模块该怎么设计。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "22,580，这是 2019 年的 GPT-2 能装进 2026 年 Kimi K3 的数量。七年间，模型规模放大了 22,580 倍。但这段演进真的只是“堆参数”吗？这篇文章沿着 GPT-2、线性注意力、DeltaNet、Gated Delta Net、Kimi Linear 到 Kimi K3 的路径，看看模型架构到底改变了什么，又有哪些核心问题始终没有消失。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-27",
       "title": "表面看是给Codex换皮肤，实际苍何这篇文章更像一个“用 AI 做完整产品”的实战复盘。苍何开源了 Codex Themes：可以一键给 Codex 换主题，也能恢复默认；通过CDP注入装饰层，不改安装包。更有意思的是，它还能让Codex帮你生成新主题，做完后发布到社区广场，用户可用积分或支付宝购买，形成“创作—发布—交易”的闭环。",
@@ -208,31 +238,6 @@
     {
       "date": "2026-07-23",
       "title": "Agent Skill 越做越多，最头疼的其实是维护。每个客户、每个场景都单独维护一套Skill，后面很容易变成“能力孤岛”。子木这套多租户Agent应用架构把Agent拆成共享核心能力、租户业务外壳、租户上下文和反馈闭环。通用能力统一升级，业务逻辑独立演进，再用真实反馈持续优化，来把Agent Skill变成能长期进化的产品架构。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "很多人做知识库，最容易高估PDF：文件上传了、链接存好了，就以为Agent能用了。结果真要搜索、双链、改写、整理时，PDF 还是一个“沉默附件”。那么一份PDF怎样才能发挥最大价值？一起来看看作者给出的详细路线！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "多数人做产品，一上来就想原创、想颠覆，最后用 AI 把一个没人要的想法做得很完整。刘小排借硅谷游戏公司 Zynga 的创始人 Mark Pincus 的Proven、Better、New框架，拆解了下绝大多数成功产品的实现路径：先研究同平台、同用户、同场景里已经验证过的模式；再做一个十个用户都会觉得明显更好的改进；再给用户一个尝试理由，并快速测试多个变化。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "做内容最头疼的往往不是写长文，而是写完后的分发：拆观点、改各个平台的语气、想Hook、配图、加 CTA，一套流程反复做，真的很耗人。作者把100次内容分发经验做成一个Agent Skill：先把长文拆成Claims、Data、Insights 等9类“内容原子”，再生成3条分别负责吸引注意力、增加互动、提高转化的社媒帖子，还能做ICP推断、Hook评分和配图建议。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
