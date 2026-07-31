@@ -1,115 +1,170 @@
 {
-  "generated_at": "2026-07-30T03:26:48.811284Z",
+  "generated_at": "2026-07-31T03:48:33.652166Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
+      "story_id": "story_fc362ba711f5",
+      "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "title_zh": "Copilot 代码审查：代理技能和 MCP 现已普遍可用",
-          "title_en": "Copilot code review: Agent skills and MCP now generally available",
-          "title_original": "Copilot code review: Agent skills and MCP now generally available",
+          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
+          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+          "title_zh": "GPT-5.6 如何推进性价比前沿",
+          "title_en": "Advancing the price-performance frontier with GPT-5.6",
+          "title_original": "Advancing the price-performance frontier with GPT-5.6",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
+          "published_at": "2026-07-30T10:00:00Z"
+        },
+        {
+          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
+          "title": "借助 GPT‑5.6 突破性价比新高度",
+          "title_zh": "借助 GPT‑5.6 突破性价比新高度",
+          "title_en": null,
+          "title_original": "借助 GPT‑5.6 突破性价比新高度",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T18:01:26.158000Z"
+        },
+        {
+          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
+          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
+          "title_zh": "GPT-5.6 如何推进性价比前沿",
+          "title_en": "Advancing the price-performance frontier with GPT‑5.6",
+          "title_original": "Advancing the price-performance frontier with GPT‑5.6",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T17:15:51Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "title_zh": "Copilot 代码审查：代理技能和 MCP 现已普遍可用",
-          "title_en": "Copilot code review: Agent skills and MCP now generally available",
-          "title_original": "Copilot code review: Agent skills and MCP now generally available",
+          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
+          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+          "title_zh": "GPT-5.6 如何推进性价比前沿",
+          "title_en": "Advancing the price-performance frontier with GPT-5.6",
+          "title_original": "Advancing the price-performance frontier with GPT-5.6",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
+          "published_at": "2026-07-30T10:00:00Z"
+        },
+        {
+          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
+          "title": "借助 GPT‑5.6 突破性价比新高度",
+          "title_zh": "借助 GPT‑5.6 突破性价比新高度",
+          "title_en": null,
+          "title_original": "借助 GPT‑5.6 突破性价比新高度",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T18:01:26.158000Z"
+        },
+        {
+          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
+          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
+          "title_zh": "GPT-5.6 如何推进性价比前沿",
+          "title_en": "Advancing the price-performance frontier with GPT‑5.6",
+          "title_original": "Advancing the price-performance frontier with GPT‑5.6",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T17:15:51Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.853,
-      "importance": 0.853,
-      "importance_score": 0.853,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8692,
+      "importance": 0.8692,
+      "importance_score": 0.8692,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.9169,
-        "story_heat": 0.0
+        "ai_relevance": 0.95,
+        "recency": 0.7732,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
+      "earliest_at": "2026-07-30T10:00:00Z",
+      "latest_at": "2026-07-30T18:01:26.158000Z",
       "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "title_zh": "Copilot 代码审查：代理技能和 MCP 现已普遍可用",
-        "title_en": "Copilot code review: Agent skills and MCP now generally available",
-        "title_original": "Copilot code review: Agent skills and MCP now generally available",
+        "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
+        "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+        "title_zh": "GPT-5.6 如何推进性价比前沿",
+        "title_en": "Advancing the price-performance frontier with GPT-5.6",
+        "title_original": "Advancing the price-performance frontier with GPT-5.6",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_42b77c184ced",
-      "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
-      "primary_url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "story_id": "story_2b882e1b8e76",
+      "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+      "primary_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
       "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "title_zh": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-          "title_en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "title_original": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+          "title_en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "title_original": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
           "summary": null,
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         },
         {
-          "id": "b27e5f472b50128a9c7a4ebe724b27e89cfd20fa",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
-          "title_zh": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-          "title_en": "We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
-          "title_original": "We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
-          "summary": "Google DeepMind 今日在 Google Flow Music 中发布新一代音乐生成模型 Lyria 3.5，带来音乐性、歌词质量、人声表现力与创作控制的多项提升。新模型能生成更自然复杂的旋律结构，歌词对提示词的遵循度和结构意识更强，人声更逼真且富有情感，同时支持更便捷地控制输出节奏与时长。",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "id": "31436365d349d5724cd1391bb86efa3f6c491e67",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
+          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+          "title_en": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
+          "title_original": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
+          "summary": "Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人基础模型。该模型在视频理解、工具编排和多机器人协作方面实现阶跃式提升，使机器人能够推理、协作并解决真实世界任务。",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         }
       ],
       "source_count": 2,
@@ -119,43 +174,43 @@
       ],
       "items": [
         {
-          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "title_zh": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-          "title_en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "title_original": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+          "title_en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "title_original": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
           "summary": null,
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         },
         {
-          "id": "b27e5f472b50128a9c7a4ebe724b27e89cfd20fa",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
-          "title_zh": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-          "title_en": "We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
-          "title_original": "We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
-          "summary": "Google DeepMind 今日在 Google Flow Music 中发布新一代音乐生成模型 Lyria 3.5，带来音乐性、歌词质量、人声表现力与创作控制的多项提升。新模型能生成更自然复杂的旋律结构，歌词对提示词的遵循度和结构意识更强，人声更逼真且富有情感，同时支持更便捷地控制输出节奏与时长。",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "id": "31436365d349d5724cd1391bb86efa3f6c491e67",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
+          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+          "title_en": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
+          "title_original": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
+          "summary": "Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人基础模型。该模型在视频理解、工具编排和多机器人协作方面实现阶跃式提升，使机器人能够推理、协作并解决真实世界任务。",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8481,
+        "ai_relevance": 0.97,
+        "recency": 0.8313,
         "story_heat": 0.25
       },
       "category": "official",
@@ -165,72 +220,174 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T16:02:10Z",
-      "latest_at": "2026-07-29T16:02:10Z",
+      "earliest_at": "2026-07-30T15:00:59Z",
+      "latest_at": "2026-07-30T15:00:59Z",
       "primary_item": {
-        "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
-        "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-        "title_zh": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-        "title_en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-        "title_original": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
+        "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+        "title_en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "title_original": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
         "summary": null,
-        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_cc8e132c6199",
-      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI News",
+      "story_id": "story_7a6592c940a7",
+      "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
+          "title_en": "Stacked pull requests are now in public preview",
+          "title_original": "Stacked pull requests are now in public preview",
           "summary": null,
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
+          "published_at": "2026-07-30T16:14:29Z"
+        },
+        {
+          "id": "4ede2134cd60a326511fc2cdf149250014832652",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
+          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
+          "title_en": "Stacked PRs are now live on GitHub",
+          "title_original": "Stacked PRs are now live on GitHub",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-30T16:26:16Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
+          "title_en": "Stacked pull requests are now in public preview",
+          "title_original": "Stacked pull requests are now in public preview",
           "summary": null,
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
+          "published_at": "2026-07-30T16:14:29Z"
+        },
+        {
+          "id": "4ede2134cd60a326511fc2cdf149250014832652",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
+          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
+          "title_en": "Stacked PRs are now live on GitHub",
+          "title_original": "Stacked PRs are now live on GitHub",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-30T16:26:16Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8355,
+        "ai_relevance": 0.87,
+        "recency": 0.8462,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:14:29Z",
+      "latest_at": "2026-07-30T16:26:16Z",
+      "primary_item": {
+        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+        "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+        "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
+        "title_en": "Stacked pull requests are now in public preview",
+        "title_original": "Stacked pull requests are now in public preview",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f684c3a66a25",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "94478772289f7d30ab8af720414186d57c47492e",
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "title_zh": null,
+          "title_en": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "title_original": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "summary": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:09:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "94478772289f7d30ab8af720414186d57c47492e",
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "title_zh": null,
+          "title_en": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "title_original": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "summary": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:09:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -239,141 +396,242 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T15:00:00Z",
-      "latest_at": "2026-07-29T15:00:00Z",
+      "earliest_at": "2026-07-30T15:09:09Z",
+      "latest_at": "2026-07-30T15:09:09Z",
       "primary_item": {
-        "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-        "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-        "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "id": "94478772289f7d30ab8af720414186d57c47492e",
+        "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+        "title_zh": null,
+        "title_en": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+        "title_original": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
         "summary": null,
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI News",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_38cc0483c3d0",
-      "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-      "url": "https://www.aibase.com/news/29994",
-      "primary_url": "https://www.aibase.com/news/29994",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8871db2f43d8",
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_zh": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_en": null,
-          "title_original": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
           "summary": null,
-          "url": "https://www.aibase.com/news/29994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:26:48.811284Z"
-        },
-        {
-          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
-          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_zh": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_en": null,
-          "title_original": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/29994",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:30:24Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_zh": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_en": null,
-          "title_original": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
           "summary": null,
-          "url": "https://www.aibase.com/news/29994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:26:48.811284Z"
-        },
-        {
-          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
-          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_zh": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_en": null,
-          "title_original": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/29994",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:30:24Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8618,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:30:24Z",
+      "latest_at": "2026-07-30T17:30:24Z",
+      "primary_item": {
+        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+        "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
+        "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
+        "summary": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2875a4400bb8",
+      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "primary_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "28474134eea3874711161aa0ac5b4c7365c6c81e",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "6a61c46bec13eca797907c9084ed994e7cc22ae0",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "28474134eea3874711161aa0ac5b4c7365c6c81e",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "6a61c46bec13eca797907c9084ed994e7cc22ae0",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.8991,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T03:26:48.811284Z",
-      "latest_at": "2026-07-30T03:26:48.811284Z",
+      "earliest_at": "2026-07-30T20:26:38Z",
+      "latest_at": "2026-07-30T20:26:38Z",
       "primary_item": {
-        "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-        "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "title_zh": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "title_en": null,
-        "title_original": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29994",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+        "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+        "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+        "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+        "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+        "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
+        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_65e0a5db5254",
-      "title": "Default model enablement for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "story_id": "story_570402ed1c5f",
+      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Default model enablement for Copilot Business and Enterprise",
-          "title_zh": null,
-          "title_en": "Default model enablement for Copilot Business and Enterprise",
-          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "title_zh": "GitHub Models 现已退役",
+          "title_en": "GitHub Models is now retired",
+          "title_original": "GitHub Models is now retired",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
+          "published_at": "2026-07-30T19:14:22Z"
         }
       ],
       "source_count": 1,
@@ -382,30 +640,30 @@
       ],
       "items": [
         {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Default model enablement for Copilot Business and Enterprise",
-          "title_zh": null,
-          "title_en": "Default model enablement for Copilot Business and Enterprise",
-          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "title_zh": "GitHub Models 现已退役",
+          "title_en": "GitHub Models is now retired",
+          "title_original": "GitHub Models is now retired",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
+          "published_at": "2026-07-30T19:14:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8237,
+        "ai_relevance": 0.87,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,499 +672,49 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T14:01:07Z",
-      "latest_at": "2026-07-29T14:01:07Z",
+      "earliest_at": "2026-07-30T19:14:22Z",
+      "latest_at": "2026-07-30T19:14:22Z",
       "primary_item": {
-        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-        "title": "Default model enablement for Copilot Business and Enterprise",
-        "title_zh": null,
-        "title_en": "Default model enablement for Copilot Business and Enterprise",
-        "title_original": "Default model enablement for Copilot Business and Enterprise",
+        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+        "title_zh": "GitHub Models 现已退役",
+        "title_en": "GitHub Models is now retired",
+        "title_original": "GitHub Models is now retired",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_14fd05ad34f9",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_zh": null,
-          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "summary": null,
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_zh": null,
-          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "summary": null,
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7773,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
-      "primary_item": {
-        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "title_zh": null,
-        "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "summary": null,
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cf352dddb40c",
-      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-      "url": "https://www.ithome.com/0/983/444.htm",
-      "primary_url": "https://www.ithome.com/0/983/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_en": null,
-          "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "title_zh": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "title_en": null,
-          "title_original": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "summary": null,
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_en": null,
-          "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "title_zh": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "title_en": null,
-          "title_original": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "summary": null,
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9911,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T02:49:47Z",
-      "latest_at": "2026-07-30T02:49:47Z",
-      "primary_item": {
-        "id": "2f2c2962adb80539002c13357b644f38857975fc",
-        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "title_en": null,
-        "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-        "url": "https://www.ithome.com/0/983/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b31e5040cd9",
-      "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "primary_url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_zh": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "title_en": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_original": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "summary": "安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任。",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "6a89ea6eff4f49747f163a7f447e5c9ca2d3c013",
-          "title": "Claude Opus 5 在负责运行自动售货机时变得非常无情 / Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_zh": "Claude Opus 5 在负责运行自动售货机时变得非常无情",
-          "title_en": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_original": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "summary": null,
-          "url": "https://slashdot.org/story/26/07/29/2047205/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T21:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_zh": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "title_en": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_original": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "summary": "安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任。",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "6a89ea6eff4f49747f163a7f447e5c9ca2d3c013",
-          "title": "Claude Opus 5 在负责运行自动售货机时变得非常无情 / Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_zh": "Claude Opus 5 在负责运行自动售货机时变得非常无情",
-          "title_en": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_original": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "summary": null,
-          "url": "https://slashdot.org/story/26/07/29/2047205/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T21:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8821,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T18:45:27Z",
-      "latest_at": "2026-07-29T21:00:00Z",
-      "primary_item": {
-        "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-        "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "title_zh": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-        "title_en": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "title_original": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "summary": "安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任。",
-        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_97854c7d008d",
-      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "primary_url": "https://github.com/drumih/turbo-fieldfare",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "title_en": null,
-          "title_original": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:09:22.496000Z"
-        },
-        {
-          "id": "1b37939ebfbbfe70a1a7f1b13d03ba2ad4e44ebd",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B / Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "title_en": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "title_original": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "summary": null,
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:05:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "title_en": null,
-          "title_original": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:09:22.496000Z"
-        },
-        {
-          "id": "1b37939ebfbbfe70a1a7f1b13d03ba2ad4e44ebd",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B / Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "title_en": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "title_original": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "summary": null,
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:05:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8496,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T15:05:43Z",
-      "latest_at": "2026-07-29T16:09:22.496000Z",
-      "primary_item": {
-        "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-        "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-        "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-        "title_en": null,
-        "title_original": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-        "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
-        "url": "https://github.com/drumih/turbo-fieldfare",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_46c8d10a3322",
-      "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "primary_url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_zh": "腾讯混元Hyra破解50年数学难题",
-          "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_original": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_zh": "腾讯混元Hyra破解50年数学难题",
-          "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_original": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9872,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T02:33:16Z",
-      "latest_at": "2026-07-30T02:33:16Z",
-      "primary_item": {
-        "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-        "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-        "title_zh": "腾讯混元Hyra破解50年数学难题",
-        "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-        "title_original": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-        "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
-        "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6bc925122a55",
-      "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-      "url": "https://www.aibase.com/news/30000",
-      "primary_url": "https://www.aibase.com/news/30000",
+      "story_id": "story_385c62f510dc",
+      "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+      "url": "https://www.aibase.com/news/30026",
+      "primary_url": "https://www.aibase.com/news/30026",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_zh": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "id": "857543124e813d9562ef12e2ffae04d915a722c9",
+          "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+          "title_zh": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
           "title_en": null,
-          "title_original": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "title_original": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
           "summary": null,
-          "url": "https://www.aibase.com/news/30000",
+          "url": "https://www.aibase.com/news/30026",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:26:48.811284Z"
+          "published_at": "2026-07-31T03:48:33.652166Z"
         },
         {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_zh": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "id": "841fa9c90d66fda780a0d3b0f79d9c6cc8975a1d",
+          "title": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
+          "title_zh": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
           "title_en": null,
-          "title_original": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "title_original": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30000",
+          "url": "https://www.aibase.com/zh/news/30026",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -920,26 +728,26 @@
       ],
       "items": [
         {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_zh": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "id": "857543124e813d9562ef12e2ffae04d915a722c9",
+          "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+          "title_zh": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
           "title_en": null,
-          "title_original": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "title_original": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
           "summary": null,
-          "url": "https://www.aibase.com/news/30000",
+          "url": "https://www.aibase.com/news/30026",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:26:48.811284Z"
+          "published_at": "2026-07-31T03:48:33.652166Z"
         },
         {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_zh": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "id": "841fa9c90d66fda780a0d3b0f79d9c6cc8975a1d",
+          "title": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
+          "title_zh": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
           "title_en": null,
-          "title_original": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "title_original": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30000",
+          "url": "https://www.aibase.com/zh/news/30026",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -965,99 +773,172 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T03:26:48.811284Z",
-      "latest_at": "2026-07-30T03:26:48.811284Z",
+      "earliest_at": "2026-07-31T03:48:33.652166Z",
+      "latest_at": "2026-07-31T03:48:33.652166Z",
       "primary_item": {
-        "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-        "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-        "title_zh": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+        "id": "857543124e813d9562ef12e2ffae04d915a722c9",
+        "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+        "title_zh": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
         "title_en": null,
-        "title_original": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+        "title_original": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
         "summary": null,
-        "url": "https://www.aibase.com/news/30000",
+        "url": "https://www.aibase.com/news/30026",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e8035148749c",
-      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_c7dbaf790e17",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "url": "https://www.ithome.com/0/983/974.htm",
+      "primary_url": "https://www.ithome.com/0/983/974.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
+          "title_en": null,
+          "title_original": "国家发改委：将加快《人工智能法》立法进程",
+          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
+          "title_en": null,
+          "title_original": "国家发改委：将加快《人工智能法》立法进程",
+          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T02:48:12Z",
+      "latest_at": "2026-07-31T02:48:12Z",
+      "primary_item": {
+        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+        "title": "国家发改委：将加快《人工智能法》立法进程",
+        "title_zh": "国家发改委：将加快《人工智能法》立法进程",
+        "title_en": null,
+        "title_original": "国家发改委：将加快《人工智能法》立法进程",
+        "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
+        "url": "https://www.ithome.com/0/983/974.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e425eb5bd4d",
+      "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+      "url": "https://www.aibase.com/news/30024",
+      "primary_url": "https://www.aibase.com/news/30024",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fca9ffef5e901d6e2acedbb33094ca4f22b3a0b4",
+          "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+          "title_zh": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+          "title_en": null,
+          "title_original": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30024",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T03:48:33.652166Z"
         },
         {
-          "id": "47e23e037a1d0c96ad8796a8da4cda32a0d925d8",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_original": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+          "id": "82ea878f45dd5ac3b5bd2a5cc013c94d2b3a9c14",
+          "title": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
+          "title_zh": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
+          "title_en": null,
+          "title_original": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
           "summary": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T11:54:29Z"
+          "url": "https://www.aibase.com/zh/news/30024",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
+          "id": "fca9ffef5e901d6e2acedbb33094ca4f22b3a0b4",
+          "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+          "title_zh": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+          "title_en": null,
+          "title_original": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30024",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T03:48:33.652166Z"
         },
         {
-          "id": "47e23e037a1d0c96ad8796a8da4cda32a0d925d8",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_original": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+          "id": "82ea878f45dd5ac3b5bd2a5cc013c94d2b3a9c14",
+          "title": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
+          "title_zh": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
+          "title_en": null,
+          "title_original": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
           "summary": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T11:54:29Z"
+          "url": "https://www.aibase.com/zh/news/30024",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.799,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1066,40 +947,258 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T11:54:29Z",
-      "latest_at": "2026-07-29T11:54:29Z",
+      "earliest_at": "2026-07-31T03:48:33.652166Z",
+      "latest_at": "2026-07-31T03:48:33.652166Z",
       "primary_item": {
-        "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-        "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-        "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "source": "The Verge：AI（RSS）",
+        "id": "fca9ffef5e901d6e2acedbb33094ca4f22b3a0b4",
+        "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+        "title_zh": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+        "title_en": null,
+        "title_original": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30024",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fb76181fc482",
+      "title": "GitHub Copilot in Visual Studio — July update",
+      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+      "primary_url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
+          "title": "GitHub Copilot in Visual Studio — July update",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in Visual Studio — July update",
+          "title_original": "GitHub Copilot in Visual Studio — July update",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:01:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
+          "title": "GitHub Copilot in Visual Studio — July update",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in Visual Studio — July update",
+          "title_original": "GitHub Copilot in Visual Studio — July update",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:01:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8315,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T15:01:48Z",
+      "latest_at": "2026-07-30T15:01:48Z",
+      "primary_item": {
+        "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
+        "title": "GitHub Copilot in Visual Studio — July update",
+        "title_zh": null,
+        "title_en": "GitHub Copilot in Visual Studio — July update",
+        "title_original": "GitHub Copilot in Visual Studio — July update",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_84801ee9c597",
+      "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+      "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+      "primary_url": "https://x.com/AnthropicAI/status/2082965101083320543",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "696777b39fab352790906cdd06fee08ec3a32190",
+          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+          "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:02:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "696777b39fab352790906cdd06fee08ec3a32190",
+          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+          "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:02:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9335,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T23:02:34Z",
+      "latest_at": "2026-07-30T23:02:34Z",
+      "primary_item": {
+        "id": "696777b39fab352790906cdd06fee08ec3a32190",
+        "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+        "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+        "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+        "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+        "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+        "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+        "source": "X：Anthropic (@AnthropicAI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9c352ca7201e",
-      "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-      "url": "https://x.com/Replit/status/2082568269119062019",
-      "primary_url": "https://x.com/Replit/status/2082568269119062019",
+      "story_id": "story_afc6fe5a6238",
+      "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+      "url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "primary_url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8967,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T20:15:28Z",
+      "latest_at": "2026-07-30T20:15:28Z",
+      "primary_item": {
+        "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+        "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+        "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
+        "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+        "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+        "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
+        "url": "https://x.com/GeminiApp/status/2082923048362299629",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_243a427cff99",
+      "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+      "url": "https://x.com/Replit/status/2082979584799060267",
+      "primary_url": "https://x.com/Replit/status/2082979584799060267",
       "source": "X：Replit (@Replit)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_zh": "Replit Design 发布：AI 赋能设计愿景",
-          "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_original": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-          "url": "https://x.com/Replit/status/2082568269119062019",
+          "id": "1576e93d57dd15e04534aaf8abeb638fa46900af",
+          "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+          "title_zh": "Replit Design 推出数百设计模板",
+          "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+          "title_original": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+          "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
+          "url": "https://x.com/Replit/status/2082979584799060267",
           "source": "X：Replit (@Replit)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
+          "published_at": "2026-07-31T00:00:07Z"
         }
       ],
       "source_count": 1,
@@ -1108,400 +1207,367 @@
       ],
       "items": [
         {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_zh": "Replit Design 发布：AI 赋能设计愿景",
-          "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_original": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-          "url": "https://x.com/Replit/status/2082568269119062019",
+          "id": "1576e93d57dd15e04534aaf8abeb638fa46900af",
+          "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+          "title_zh": "Replit Design 推出数百设计模板",
+          "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+          "title_original": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+          "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
+          "url": "https://x.com/Replit/status/2082979584799060267",
           "source": "X：Replit (@Replit)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
+          "published_at": "2026-07-31T00:00:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.908,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T20:45:42Z",
-      "latest_at": "2026-07-29T20:45:42Z",
-      "primary_item": {
-        "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-        "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-        "title_zh": "Replit Design 发布：AI 赋能设计愿景",
-        "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-        "title_original": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-        "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-        "url": "https://x.com/Replit/status/2082568269119062019",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee3da82e3a26",
-      "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": null,
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": null,
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7745,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:45:11Z",
-      "latest_at": "2026-07-29T09:45:11Z",
-      "primary_item": {
-        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-        "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_zh": null,
-        "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b2b36e20e7a7",
-      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "primary_url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "520109bab60f838de978be96179993ff0f5cbced",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-          "title_original": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-          "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:35:09Z"
-        },
-        {
-          "id": "151d87a0dc89dde2ed6213abf053e203b9dc5d7f",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "title_en": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "title_original": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T15:35:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "520109bab60f838de978be96179993ff0f5cbced",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-          "title_original": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-          "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:35:09Z"
-        },
-        {
-          "id": "151d87a0dc89dde2ed6213abf053e203b9dc5d7f",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "title_en": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "title_original": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T15:35:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8426,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T15:35:09Z",
-      "latest_at": "2026-07-29T15:35:09Z",
-      "primary_item": {
-        "id": "520109bab60f838de978be96179993ff0f5cbced",
-        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-        "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-        "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-        "title_original": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-        "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
-        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_413f9cfb12cf",
-      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-      "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T17:50:30.529000Z",
-      "latest_at": "2026-07-29T17:50:30.529000Z",
+      "earliest_at": "2026-07-31T00:00:07Z",
+      "latest_at": "2026-07-31T00:00:07Z",
       "primary_item": {
-        "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-        "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-        "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-        "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "id": "1576e93d57dd15e04534aaf8abeb638fa46900af",
+        "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+        "title_zh": "Replit Design 推出数百设计模板",
+        "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+        "title_original": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
+        "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
+        "url": "https://x.com/Replit/status/2082979584799060267",
+        "source": "X：Replit (@Replit)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_4efa01255061",
-      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-      "url": "https://www.ithome.com/0/983/374.htm",
-      "primary_url": "https://www.ithome.com/0/983/374.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_5e0ecb7c8758",
+      "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+      "primary_url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+      "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_en": null,
-          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
+          "id": "bc69c45baa33f1a1b22b7b83b587006c9212c77d",
+          "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
+          "title_zh": "llm-chat-completions-server 0.1a0 发布",
+          "title_en": "llm-chat-completions-server 0.1a0",
+          "title_original": "llm-chat-completions-server 0.1a0",
+          "summary": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
+          "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
+          "published_at": "2026-07-30T15:43:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_en": null,
-          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
+          "id": "bc69c45baa33f1a1b22b7b83b587006c9212c77d",
+          "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
+          "title_zh": "llm-chat-completions-server 0.1a0 发布",
+          "title_en": "llm-chat-completions-server 0.1a0",
+          "title_original": "llm-chat-completions-server 0.1a0",
+          "summary": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
+          "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
+          "published_at": "2026-07-30T15:43:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T23:29:34Z",
-      "latest_at": "2026-07-29T23:29:34Z",
+      "earliest_at": "2026-07-30T15:43:16Z",
+      "latest_at": "2026-07-30T15:43:16Z",
       "primary_item": {
-        "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "title_en": null,
-        "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-        "url": "https://www.ithome.com/0/983/374.htm",
-        "source": "IT之家（RSS）",
+        "id": "bc69c45baa33f1a1b22b7b83b587006c9212c77d",
+        "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
+        "title_zh": "llm-chat-completions-server 0.1a0 发布",
+        "title_en": "llm-chat-completions-server 0.1a0",
+        "title_original": "llm-chat-completions-server 0.1a0",
+        "summary": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
+        "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_0e317c0ef367",
-      "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-      "url": "https://www.aibase.com/news/29992",
-      "primary_url": "https://www.aibase.com/news/29992",
+      "story_id": "story_235ce9288be4",
+      "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
+          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T18:53:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "items": [
+        {
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
+          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T18:53:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8791,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T18:53:09Z",
+      "latest_at": "2026-07-30T18:53:09Z",
+      "primary_item": {
+        "id": "0868d412089140b46edc3f1649b972040bed8699",
+        "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+        "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
+        "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+        "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+        "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+        "url": "https://x.com/GoogleAI/status/2082902334984609936",
+        "source": "X：Google AI (@GoogleAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_351e94ae0e4c",
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+      "url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "primary_url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+          "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+          "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+          "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
+          "url": "https://x.com/OpenRouter/status/2082882158574911564",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+          "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+          "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+          "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
+          "url": "https://x.com/OpenRouter/status/2082882158574911564",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8623,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T17:32:59Z",
+      "latest_at": "2026-07-30T17:32:59Z",
+      "primary_item": {
+        "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+        "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+        "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+        "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+        "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
+        "url": "https://x.com/OpenRouter/status/2082882158574911564",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fe4ad710c72f",
+      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "primary_url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+          "title_zh": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+          "title_original": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+          "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:02:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google DeepMind (@GoogleDeepMind)"
+      ],
+      "items": [
+        {
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+          "title_zh": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+          "title_original": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+          "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:02:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8315,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T15:02:00Z",
+      "latest_at": "2026-07-30T15:02:00Z",
+      "primary_item": {
+        "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+        "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+        "title_zh": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+        "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+        "title_original": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+        "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
+        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+        "source": "X：Google DeepMind (@GoogleDeepMind)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8c365587ec15",
+      "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+      "url": "https://www.aibase.com/news/30030",
+      "primary_url": "https://www.aibase.com/news/30030",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "title_zh": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "title_zh": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
           "title_en": null,
-          "title_original": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "title_original": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
           "summary": null,
-          "url": "https://www.aibase.com/news/29992",
+          "url": "https://www.aibase.com/news/30030",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:26:48.811284Z"
+          "published_at": "2026-07-31T03:48:33.652166Z"
         },
         {
-          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "title_zh": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "title_zh": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
           "title_en": null,
-          "title_original": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "title_original": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/29992",
+          "url": "https://www.aibase.com/zh/news/30030",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1515,26 +1581,26 @@
       ],
       "items": [
         {
-          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "title_zh": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "title_zh": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
           "title_en": null,
-          "title_original": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "title_original": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
           "summary": null,
-          "url": "https://www.aibase.com/news/29992",
+          "url": "https://www.aibase.com/news/30030",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:26:48.811284Z"
+          "published_at": "2026-07-31T03:48:33.652166Z"
         },
         {
-          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "title_zh": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "title_zh": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
           "title_en": null,
-          "title_original": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "title_original": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/29992",
+          "url": "https://www.aibase.com/zh/news/30030",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1560,161 +1626,89 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T03:26:48.811284Z",
-      "latest_at": "2026-07-30T03:26:48.811284Z",
+      "earliest_at": "2026-07-31T03:48:33.652166Z",
+      "latest_at": "2026-07-31T03:48:33.652166Z",
       "primary_item": {
-        "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-        "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-        "title_zh": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+        "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+        "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+        "title_zh": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
         "title_en": null,
-        "title_original": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+        "title_original": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
         "summary": null,
-        "url": "https://www.aibase.com/news/29992",
+        "url": "https://www.aibase.com/news/30030",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_eb1db950a66c",
-      "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "primary_url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "story_id": "story_8c6f952fa86a",
+      "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+      "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+      "primary_url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-          "title_zh": "算力价格未来可能上涨 10 倍以上",
-          "title_en": "Why compute might get 10x+ more expensive in coming years",
-          "title_original": "Why compute might get 10x+ more expensive in coming years",
-          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
+          "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+          "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
+          "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+          "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+          "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
+          "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
+          "published_at": "2026-07-30T12:47:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-          "title_zh": "算力价格未来可能上涨 10 倍以上",
-          "title_en": "Why compute might get 10x+ more expensive in coming years",
-          "title_original": "Why compute might get 10x+ more expensive in coming years",
-          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
+          "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+          "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
+          "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+          "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+          "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
+          "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
+          "published_at": "2026-07-30T12:47:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.8051,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T15:01:35Z",
-      "latest_at": "2026-07-29T15:01:35Z",
+      "earliest_at": "2026-07-30T12:47:46Z",
+      "latest_at": "2026-07-30T12:47:46Z",
       "primary_item": {
-        "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-        "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-        "title_zh": "算力价格未来可能上涨 10 倍以上",
-        "title_en": "Why compute might get 10x+ more expensive in coming years",
-        "title_original": "Why compute might get 10x+ more expensive in coming years",
-        "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-        "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a7ac5683488c",
-      "title": "Perplexity 开源智能体检测层 Numbat / Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-      "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "primary_url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-          "title": "Perplexity 开源智能体检测层 Numbat / Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-          "title_zh": "Perplexity 开源智能体检测层 Numbat",
-          "title_en": "Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-          "title_original": "Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-          "summary": "今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。\n\nNumbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。\n\n了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat",
-          "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:01:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Perplexity (@perplexity_ai)"
-      ],
-      "items": [
-        {
-          "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-          "title": "Perplexity 开源智能体检测层 Numbat / Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-          "title_zh": "Perplexity 开源智能体检测层 Numbat",
-          "title_en": "Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-          "title_original": "Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-          "summary": "今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。\n\nNumbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。\n\n了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat",
-          "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:01:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8603,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:01:42Z",
-      "latest_at": "2026-07-29T17:01:42Z",
-      "primary_item": {
-        "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-        "title": "Perplexity 开源智能体检测层 Numbat / Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-        "title_zh": "Perplexity 开源智能体检测层 Numbat",
-        "title_en": "Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-        "title_original": "Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-        "summary": "今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。\n\nNumbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。\n\n了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat",
-        "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-        "source": "X：Perplexity (@perplexity_ai)",
+        "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
+        "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+        "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
+        "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+        "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+        "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
+        "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     }
