@@ -1,467 +1,60 @@
 {
-  "generated_at": "2026-07-31T03:48:33.652166Z",
+  "generated_at": "2026-08-01T03:48:19.513432Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_fc362ba711f5",
-      "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT-5.6",
-          "title_original": "Advancing the price-performance frontier with GPT-5.6",
-          "summary": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T10:00:00Z"
-        },
-        {
-          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
-          "title": "借助 GPT‑5.6 突破性价比新高度",
-          "title_zh": "借助 GPT‑5.6 突破性价比新高度",
-          "title_en": null,
-          "title_original": "借助 GPT‑5.6 突破性价比新高度",
-          "summary": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T18:01:26.158000Z"
-        },
-        {
-          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT‑5.6",
-          "title_original": "Advancing the price-performance frontier with GPT‑5.6",
-          "summary": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T17:15:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT-5.6",
-          "title_original": "Advancing the price-performance frontier with GPT-5.6",
-          "summary": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T10:00:00Z"
-        },
-        {
-          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
-          "title": "借助 GPT‑5.6 突破性价比新高度",
-          "title_zh": "借助 GPT‑5.6 突破性价比新高度",
-          "title_en": null,
-          "title_original": "借助 GPT‑5.6 突破性价比新高度",
-          "summary": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T18:01:26.158000Z"
-        },
-        {
-          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT‑5.6",
-          "title_original": "Advancing the price-performance frontier with GPT‑5.6",
-          "summary": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T17:15:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8692,
-      "importance": 0.8692,
-      "importance_score": 0.8692,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7732,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T10:00:00Z",
-      "latest_at": "2026-07-30T18:01:26.158000Z",
-      "primary_item": {
-        "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
-        "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-        "title_zh": "GPT-5.6 如何推进性价比前沿",
-        "title_en": "Advancing the price-performance frontier with GPT-5.6",
-        "title_original": "Advancing the price-performance frontier with GPT-5.6",
-        "summary": null,
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2b882e1b8e76",
-      "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-      "primary_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
-          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
-          "title_en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "title_original": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "summary": null,
-          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:00:59Z"
-        },
-        {
-          "id": "31436365d349d5724cd1391bb86efa3f6c491e67",
-          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
-          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
-          "title_en": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
-          "title_original": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
-          "summary": "Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人基础模型。该模型在视频理解、工具编排和多机器人协作方面实现阶跃式提升，使机器人能够推理、协作并解决真实世界任务。",
-          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:00:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
-          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
-          "title_en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "title_original": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "summary": null,
-          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:00:59Z"
-        },
-        {
-          "id": "31436365d349d5724cd1391bb86efa3f6c491e67",
-          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
-          "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
-          "title_en": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
-          "title_original": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
-          "summary": "Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人基础模型。该模型在视频理解、工具编排和多机器人协作方面实现阶跃式提升，使机器人能够推理、协作并解决真实世界任务。",
-          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:00:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.8313,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T15:00:59Z",
-      "latest_at": "2026-07-30T15:00:59Z",
-      "primary_item": {
-        "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
-        "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-        "title_zh": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
-        "title_en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-        "title_original": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-        "summary": null,
-        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7a6592c940a7",
-      "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "story_id": "story_337d712579d2",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
-          "title_en": "Stacked pull requests are now in public preview",
-          "title_original": "Stacked pull requests are now in public preview",
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
+          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T16:14:29Z"
-        },
-        {
-          "id": "4ede2134cd60a326511fc2cdf149250014832652",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
-          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
-          "title_en": "Stacked PRs are now live on GitHub",
-          "title_original": "Stacked PRs are now live on GitHub",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-30T16:26:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Changelog",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
-          "title_en": "Stacked pull requests are now in public preview",
-          "title_original": "Stacked pull requests are now in public preview",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T16:14:29Z"
-        },
-        {
-          "id": "4ede2134cd60a326511fc2cdf149250014832652",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
-          "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
-          "title_en": "Stacked PRs are now live on GitHub",
-          "title_original": "Stacked PRs are now live on GitHub",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-30T16:26:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8462,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T16:14:29Z",
-      "latest_at": "2026-07-30T16:26:16Z",
-      "primary_item": {
-        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-        "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-        "title_zh": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志",
-        "title_en": "Stacked pull requests are now in public preview",
-        "title_original": "Stacked pull requests are now in public preview",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f684c3a66a25",
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "94478772289f7d30ab8af720414186d57c47492e",
-          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "title_zh": null,
-          "title_en": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "title_original": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "summary": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:09:09Z"
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "94478772289f7d30ab8af720414186d57c47492e",
-          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "title_zh": null,
-          "title_en": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "title_original": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
+          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
           "summary": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-          "source": "Hugging Face Blog",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T15:09:09Z"
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.833,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T15:09:09Z",
-      "latest_at": "2026-07-30T15:09:09Z",
-      "primary_item": {
-        "id": "94478772289f7d30ab8af720414186d57c47492e",
-        "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-        "title_zh": null,
-        "title_en": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-        "title_original": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-        "summary": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8871db2f43d8",
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "summary": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "summary": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8618,
+        "recency": 0.8943,
         "story_heat": 0.0
       },
       "category": "official",
@@ -470,126 +63,200 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T17:30:24Z",
-      "latest_at": "2026-07-30T17:30:24Z",
+      "earliest_at": "2026-07-31T20:04:01Z",
+      "latest_at": "2026-07-31T20:04:01Z",
       "primary_item": {
-        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-        "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
-        "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
+        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+        "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
+        "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+        "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
         "summary": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
+        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_2875a4400bb8",
-      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-      "primary_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_b86dc435d64a",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "Advancing responsible AI across Europe",
+          "title_zh": null,
+          "title_en": "Advancing responsible AI across Europe",
+          "title_original": "Advancing responsible AI across Europe",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "Advancing responsible AI across Europe",
+          "title_zh": null,
+          "title_en": "Advancing responsible AI across Europe",
+          "title_original": "Advancing responsible AI across Europe",
+          "summary": null,
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8312,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T15:00:00Z",
+      "primary_item": {
+        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+        "title": "Advancing responsible AI across Europe",
+        "title_zh": null,
+        "title_en": "Advancing responsible AI across Europe",
+        "title_original": "Advancing responsible AI across Europe",
+        "summary": null,
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_32fd60636e2b",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-          "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-          "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T20:26:38Z"
+          "published_at": "2026-07-31T20:25:20.686000Z"
         },
         {
-          "id": "28474134eea3874711161aa0ac5b4c7365c6c81e",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
           "summary": null,
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-30T20:26:38Z"
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
         },
         {
-          "id": "6a61c46bec13eca797907c9084ed994e7cc22ae0",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "id": "0185dc6ce5a9e97d902d8b40fe0f787f3a27e7ca",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
+          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
           "summary": null,
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-30T20:26:38Z"
+          "published_at": "2026-07-31T19:03:45Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "tailscale.com"
       ],
       "items": [
         {
-          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-          "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-          "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T20:26:38Z"
+          "published_at": "2026-07-31T20:25:20.686000Z"
         },
         {
-          "id": "28474134eea3874711161aa0ac5b4c7365c6c81e",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
           "summary": null,
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-30T20:26:38Z"
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
         },
         {
-          "id": "6a61c46bec13eca797907c9084ed994e7cc22ae0",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "id": "0185dc6ce5a9e97d902d8b40fe0f787f3a27e7ca",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
+          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
           "summary": null,
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-30T20:26:38Z"
+          "published_at": "2026-07-31T19:03:45Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8991,
+        "recency": 0.8989,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -598,421 +265,72 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T20:26:38Z",
-      "latest_at": "2026-07-30T20:26:38Z",
+      "earliest_at": "2026-07-31T19:03:45Z",
+      "latest_at": "2026-07-31T20:25:20.686000Z",
       "primary_item": {
-        "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
-        "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-        "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-        "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-        "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-        "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
-        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "086ab5b93578ee816486b17186f5647a99496989",
+        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "title_en": null,
+        "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_570402ed1c5f",
-      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "source": "GitHub Changelog",
+      "story_id": "story_6e145b017b5a",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "primary_url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "title_zh": "GitHub Models 现已退役",
-          "title_en": "GitHub Models is now retired",
-          "title_original": "GitHub Models is now retired",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "title_zh": "GitHub Models 现已退役",
-          "title_en": "GitHub Models is now retired",
-          "title_original": "GitHub Models is now retired",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8836,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T19:14:22Z",
-      "latest_at": "2026-07-30T19:14:22Z",
-      "primary_item": {
-        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-        "title_zh": "GitHub Models 现已退役",
-        "title_en": "GitHub Models is now retired",
-        "title_original": "GitHub Models is now retired",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_385c62f510dc",
-      "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-      "url": "https://www.aibase.com/news/30026",
-      "primary_url": "https://www.aibase.com/news/30026",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "857543124e813d9562ef12e2ffae04d915a722c9",
-          "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-          "title_zh": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-          "title_en": null,
-          "title_original": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:48:33.652166Z"
-        },
-        {
-          "id": "841fa9c90d66fda780a0d3b0f79d9c6cc8975a1d",
-          "title": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
-          "title_zh": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
-          "title_en": null,
-          "title_original": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30026",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "857543124e813d9562ef12e2ffae04d915a722c9",
-          "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-          "title_zh": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-          "title_en": null,
-          "title_original": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:48:33.652166Z"
-        },
-        {
-          "id": "841fa9c90d66fda780a0d3b0f79d9c6cc8975a1d",
-          "title": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
-          "title_zh": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
-          "title_en": null,
-          "title_original": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30026",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T03:48:33.652166Z",
-      "latest_at": "2026-07-31T03:48:33.652166Z",
-      "primary_item": {
-        "id": "857543124e813d9562ef12e2ffae04d915a722c9",
-        "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-        "title_zh": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-        "title_en": null,
-        "title_original": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30026",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c7dbaf790e17",
-      "title": "国家发改委：将加快《人工智能法》立法进程",
-      "url": "https://www.ithome.com/0/983/974.htm",
-      "primary_url": "https://www.ithome.com/0/983/974.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-          "title_en": null,
-          "title_original": "国家发改委：将加快《人工智能法》立法进程",
-          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-          "title_en": null,
-          "title_original": "国家发改委：将加快《人工智能法》立法进程",
-          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T02:48:12Z",
-      "latest_at": "2026-07-31T02:48:12Z",
-      "primary_item": {
-        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-        "title": "国家发改委：将加快《人工智能法》立法进程",
-        "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-        "title_en": null,
-        "title_original": "国家发改委：将加快《人工智能法》立法进程",
-        "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-        "url": "https://www.ithome.com/0/983/974.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e425eb5bd4d",
-      "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-      "url": "https://www.aibase.com/news/30024",
-      "primary_url": "https://www.aibase.com/news/30024",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fca9ffef5e901d6e2acedbb33094ca4f22b3a0b4",
-          "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-          "title_zh": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-          "title_en": null,
-          "title_original": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30024",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:48:33.652166Z"
-        },
-        {
-          "id": "82ea878f45dd5ac3b5bd2a5cc013c94d2b3a9c14",
-          "title": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
-          "title_zh": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
-          "title_en": null,
-          "title_original": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30024",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fca9ffef5e901d6e2acedbb33094ca4f22b3a0b4",
-          "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-          "title_zh": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-          "title_en": null,
-          "title_original": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30024",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:48:33.652166Z"
-        },
-        {
-          "id": "82ea878f45dd5ac3b5bd2a5cc013c94d2b3a9c14",
-          "title": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
-          "title_zh": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
-          "title_en": null,
-          "title_original": "OpenAI 回应 ChatGPT 桌面版界面争议：年底前移除「Work」标签页",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30024",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T03:48:33.652166Z",
-      "latest_at": "2026-07-31T03:48:33.652166Z",
-      "primary_item": {
-        "id": "fca9ffef5e901d6e2acedbb33094ca4f22b3a0b4",
-        "title": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-        "title_zh": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-        "title_en": null,
-        "title_original": "OpenAI回应ChatGPT桌面版界面争议：年底前移除“Work”标签页",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30024",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fb76181fc482",
-      "title": "GitHub Copilot in Visual Studio — July update",
-      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-          "title": "GitHub Copilot in Visual Studio — July update",
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "Building abundant intelligence",
           "title_zh": null,
-          "title_en": "GitHub Copilot in Visual Studio — July update",
-          "title_original": "GitHub Copilot in Visual Studio — July update",
+          "title_en": "Building abundant intelligence",
+          "title_original": "Building abundant intelligence",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T15:01:48Z"
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-          "title": "GitHub Copilot in Visual Studio — July update",
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "Building abundant intelligence",
           "title_zh": null,
-          "title_en": "GitHub Copilot in Visual Studio — July update",
-          "title_original": "GitHub Copilot in Visual Studio — July update",
+          "title_en": "Building abundant intelligence",
+          "title_original": "Building abundant intelligence",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T15:01:48Z"
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8315,
+        "recency": 0.8312,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1021,603 +339,173 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T15:01:48Z",
-      "latest_at": "2026-07-30T15:01:48Z",
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T15:00:00Z",
       "primary_item": {
-        "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-        "title": "GitHub Copilot in Visual Studio — July update",
+        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+        "title": "Building abundant intelligence",
         "title_zh": null,
-        "title_en": "GitHub Copilot in Visual Studio — July update",
-        "title_original": "GitHub Copilot in Visual Studio — July update",
+        "title_en": "Building abundant intelligence",
+        "title_original": "Building abundant intelligence",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3bde4c44877d",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
+          "title_en": "Enterprise teams model policy targeting in public preview",
+          "title_original": "Enterprise teams model policy targeting in public preview",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
+          "title_en": "Enterprise teams model policy targeting in public preview",
+          "title_original": "Enterprise teams model policy targeting in public preview",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8704,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
+      "primary_item": {
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "title_zh": "企业团队在公共预览版中对策略定位进行建模",
+        "title_en": "Enterprise teams model policy targeting in public preview",
+        "title_original": "Enterprise teams model policy targeting in public preview",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_84801ee9c597",
-      "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-      "url": "https://x.com/AnthropicAI/status/2082965101083320543",
-      "primary_url": "https://x.com/AnthropicAI/status/2082965101083320543",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "696777b39fab352790906cdd06fee08ec3a32190",
-          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-          "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-          "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-          "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-          "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
-          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T23:02:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "696777b39fab352790906cdd06fee08ec3a32190",
-          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-          "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-          "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-          "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-          "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
-          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T23:02:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9335,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T23:02:34Z",
-      "latest_at": "2026-07-30T23:02:34Z",
-      "primary_item": {
-        "id": "696777b39fab352790906cdd06fee08ec3a32190",
-        "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-        "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-        "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-        "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-        "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
-        "url": "https://x.com/AnthropicAI/status/2082965101083320543",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_afc6fe5a6238",
-      "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-      "url": "https://x.com/GeminiApp/status/2082923048362299629",
-      "primary_url": "https://x.com/GeminiApp/status/2082923048362299629",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
-          "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-          "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
-          "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-          "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-          "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
-          "url": "https://x.com/GeminiApp/status/2082923048362299629",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T20:15:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
-          "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-          "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
-          "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-          "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-          "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
-          "url": "https://x.com/GeminiApp/status/2082923048362299629",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T20:15:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8967,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T20:15:28Z",
-      "latest_at": "2026-07-30T20:15:28Z",
-      "primary_item": {
-        "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
-        "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-        "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
-        "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-        "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-        "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
-        "url": "https://x.com/GeminiApp/status/2082923048362299629",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_243a427cff99",
-      "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-      "url": "https://x.com/Replit/status/2082979584799060267",
-      "primary_url": "https://x.com/Replit/status/2082979584799060267",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1576e93d57dd15e04534aaf8abeb638fa46900af",
-          "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-          "title_zh": "Replit Design 推出数百设计模板",
-          "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-          "title_original": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-          "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-          "url": "https://x.com/Replit/status/2082979584799060267",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T00:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "1576e93d57dd15e04534aaf8abeb638fa46900af",
-          "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-          "title_zh": "Replit Design 推出数百设计模板",
-          "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-          "title_original": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-          "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-          "url": "https://x.com/Replit/status/2082979584799060267",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T00:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9465,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T00:00:07Z",
-      "latest_at": "2026-07-31T00:00:07Z",
-      "primary_item": {
-        "id": "1576e93d57dd15e04534aaf8abeb638fa46900af",
-        "title": "Replit Design 推出数百设计模板 / Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-        "title_zh": "Replit Design 推出数百设计模板",
-        "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-        "title_original": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-        "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-        "url": "https://x.com/Replit/status/2082979584799060267",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5e0ecb7c8758",
-      "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
-      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
-      "primary_url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+      "story_id": "story_11246b395841",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals",
+      "primary_url": "https://simonwillison.net/2026/Jul/31/smevals",
       "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bc69c45baa33f1a1b22b7b83b587006c9212c77d",
-          "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
-          "title_zh": "llm-chat-completions-server 0.1a0 发布",
-          "title_en": "llm-chat-completions-server 0.1a0",
-          "title_original": "llm-chat-completions-server 0.1a0",
-          "summary": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
-          "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+          "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+          "title_original": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+          "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
+          "url": "https://simonwillison.net/2026/Jul/31/smevals",
           "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T15:43:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "bc69c45baa33f1a1b22b7b83b587006c9212c77d",
-          "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
-          "title_zh": "llm-chat-completions-server 0.1a0 发布",
-          "title_en": "llm-chat-completions-server 0.1a0",
-          "title_original": "llm-chat-completions-server 0.1a0",
-          "summary": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
-          "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:43:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8398,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T15:43:16Z",
-      "latest_at": "2026-07-30T15:43:16Z",
-      "primary_item": {
-        "id": "bc69c45baa33f1a1b22b7b83b587006c9212c77d",
-        "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
-        "title_zh": "llm-chat-completions-server 0.1a0 发布",
-        "title_en": "llm-chat-completions-server 0.1a0",
-        "title_original": "llm-chat-completions-server 0.1a0",
-        "summary": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
-        "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_235ce9288be4",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
-          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
-          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8791,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T18:53:09Z",
-      "latest_at": "2026-07-30T18:53:09Z",
-      "primary_item": {
-        "id": "0868d412089140b46edc3f1649b972040bed8699",
-        "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-        "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
-        "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-        "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-        "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-        "url": "https://x.com/GoogleAI/status/2082902334984609936",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_351e94ae0e4c",
-      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-      "url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "primary_url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-          "url": "https://x.com/OpenRouter/status/2082882158574911564",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-          "url": "https://x.com/OpenRouter/status/2082882158574911564",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8623,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T17:32:59Z",
-      "latest_at": "2026-07-30T17:32:59Z",
-      "primary_item": {
-        "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-        "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-        "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-        "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-        "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-        "url": "https://x.com/OpenRouter/status/2082882158574911564",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fe4ad710c72f",
-      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "primary_url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-          "title_zh": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-          "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-          "title_original": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-          "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
-          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-          "source": "X：Google DeepMind (@GoogleDeepMind)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:02:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google DeepMind (@GoogleDeepMind)"
-      ],
-      "items": [
-        {
-          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-          "title_zh": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-          "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-          "title_original": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-          "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
-          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-          "source": "X：Google DeepMind (@GoogleDeepMind)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:02:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8315,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T15:02:00Z",
-      "latest_at": "2026-07-30T15:02:00Z",
-      "primary_item": {
-        "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-        "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI / One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-        "title_zh": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-        "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-        "title_original": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-        "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
-        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-        "source": "X：Google DeepMind (@GoogleDeepMind)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8c365587ec15",
-      "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-      "url": "https://www.aibase.com/news/30030",
-      "primary_url": "https://www.aibase.com/news/30030",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
-          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "title_zh": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "title_en": null,
-          "title_original": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:48:33.652166Z"
+          "published_at": "2026-07-31T21:15:23Z"
         },
         {
-          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
-          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
-          "title_zh": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
-          "title_en": null,
-          "title_original": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "id": "dab3d4d172b1d35069b2895cfd4414942a1d1178",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models, prompts, and harnesses",
+          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "title_en": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+          "title_original": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30030",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://simonwillison.net/2026/Jul/31/smevals",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-31T21:15:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Simon Willison",
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
-          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "title_zh": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "title_en": null,
-          "title_original": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:48:33.652166Z"
+          "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+          "title_original": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+          "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
+          "url": "https://simonwillison.net/2026/Jul/31/smevals",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:15:23Z"
         },
         {
-          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
-          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
-          "title_zh": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
-          "title_en": null,
-          "title_original": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "id": "dab3d4d172b1d35069b2895cfd4414942a1d1178",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models, prompts, and harnesses",
+          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "title_en": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+          "title_original": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30030",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://simonwillison.net/2026/Jul/31/smevals",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-31T21:15:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9098,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1626,40 +514,549 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T03:48:33.652166Z",
-      "latest_at": "2026-07-31T03:48:33.652166Z",
+      "earliest_at": "2026-07-31T21:15:23Z",
+      "latest_at": "2026-07-31T21:15:23Z",
       "primary_item": {
-        "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
-        "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-        "title_zh": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-        "title_en": null,
-        "title_original": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+        "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
+        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+        "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+        "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+        "title_original": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+        "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
+        "url": "https://simonwillison.net/2026/Jul/31/smevals",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_62c02e5a4ace",
+      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+          "title_zh": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "title_en": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+          "title_original": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+          "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
+          "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+          "title_zh": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "title_en": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+          "title_original": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+          "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
+          "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9147,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T21:38:05Z",
+      "latest_at": "2026-07-31T21:38:05Z",
+      "primary_item": {
+        "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
+        "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+        "title_zh": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+        "title_en": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+        "title_original": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+        "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
+        "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_40a9fce1f45e",
+      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
+          "title_en": "Restricting npm bypass-2FA granular access tokens",
+          "title_original": "Restricting npm bypass-2FA granular access tokens",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
+          "title_en": "Restricting npm bypass-2FA granular access tokens",
+          "title_original": "Restricting npm bypass-2FA granular access tokens",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8526,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
+      "primary_item": {
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+        "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
+        "title_en": "Restricting npm bypass-2FA granular access tokens",
+        "title_original": "Restricting npm bypass-2FA granular access tokens",
         "summary": null,
-        "url": "https://www.aibase.com/news/30030",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_363000c1bd00",
+      "title": "animated-voiceover 开源：一人干翻动画工作室",
+      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+      "primary_url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
+          "title": "animated-voiceover 开源：一人干翻动画工作室",
+          "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
+          "title_en": null,
+          "title_original": "animated-voiceover 开源：一人干翻动画工作室",
+          "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
+          "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T16:01:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
+          "title": "animated-voiceover 开源：一人干翻动画工作室",
+          "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
+          "title_en": null,
+          "title_original": "animated-voiceover 开源：一人干翻动画工作室",
+          "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
+          "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T16:01:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8436,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:01:51Z",
+      "latest_at": "2026-07-31T16:01:51Z",
+      "primary_item": {
+        "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
+        "title": "animated-voiceover 开源：一人干翻动画工作室",
+        "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
+        "title_en": null,
+        "title_original": "animated-voiceover 开源：一人干翻动画工作室",
+        "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
+        "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_157edb3ab0b6",
+      "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+      "url": "https://www.aibase.com/news/30049",
+      "primary_url": "https://www.aibase.com/news/30049",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "title_en": null,
+          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30049",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T18:48:19.513432Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "title_en": null,
+          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30049",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T18:48:19.513432Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T18:48:19.513432Z",
+      "latest_at": "2026-07-31T18:48:19.513432Z",
+      "primary_item": {
+        "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+        "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+        "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+        "title_en": null,
+        "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30049",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8c6f952fa86a",
-      "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-      "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-      "primary_url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+      "story_id": "story_487981959078",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "primary_url": "https://openai.com/index/unive",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé builds an AI-ready workforce",
+          "title_zh": null,
+          "title_en": "Univé builds an AI-ready workforce",
+          "title_original": "Univé builds an AI-ready workforce",
+          "summary": null,
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé builds an AI-ready workforce",
+          "title_zh": null,
+          "title_en": "Univé builds an AI-ready workforce",
+          "title_original": "Univé builds an AI-ready workforce",
+          "summary": null,
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7405,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T07:00:00Z",
+      "latest_at": "2026-07-31T07:00:00Z",
+      "primary_item": {
+        "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+        "title": "Univé builds an AI-ready workforce",
+        "title_zh": null,
+        "title_en": "Univé builds an AI-ready workforce",
+        "title_original": "Univé builds an AI-ready workforce",
+        "summary": null,
+        "url": "https://openai.com/index/unive",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e29bceaab5cd",
+      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+      "url": "https://www.minimax.io/blog/minimax-h3",
+      "primary_url": "https://www.minimax.io/blog/minimax-h3",
+      "source": "MiniMax：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
+          "url": "https://www.minimax.io/blog/minimax-h3",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:59:02.996000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
+          "url": "https://www.minimax.io/blog/minimax-h3",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:59:02.996000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7731,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T09:59:02.996000Z",
+      "latest_at": "2026-07-31T09:59:02.996000Z",
+      "primary_item": {
+        "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+        "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+        "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+        "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+        "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
+        "url": "https://www.minimax.io/blog/minimax-h3",
+        "source": "MiniMax：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d395a9992155",
+      "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+      "url": "https://x.com/OpenBMB/status/2083175856563003724",
+      "primary_url": "https://x.com/OpenBMB/status/2083175856563003724",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+          "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+          "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+          "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
+          "url": "https://x.com/OpenBMB/status/2083175856563003724",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+          "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+          "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+          "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
+          "url": "https://x.com/OpenBMB/status/2083175856563003724",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8075,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T13:00:02Z",
+      "latest_at": "2026-07-31T13:00:02Z",
+      "primary_item": {
+        "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+        "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+        "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
+        "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+        "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+        "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
+        "url": "https://x.com/OpenBMB/status/2083175856563003724",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7d5564383d5e",
+      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+      "primary_url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
-          "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
-          "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-          "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+          "id": "ab0635703e0933894481269c608233802bd21ae6",
+          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+          "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
+          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T12:47:46Z"
+          "published_at": "2026-07-31T10:57:37Z"
         }
       ],
       "source_count": 1,
@@ -1668,48 +1065,767 @@
       ],
       "items": [
         {
-          "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
-          "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
-          "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-          "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+          "id": "ab0635703e0933894481269c608233802bd21ae6",
+          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+          "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
+          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T12:47:46Z"
+          "published_at": "2026-07-31T10:57:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8051,
+        "recency": 0.7841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T12:47:46Z",
-      "latest_at": "2026-07-30T12:47:46Z",
+      "earliest_at": "2026-07-31T10:57:37Z",
+      "latest_at": "2026-07-31T10:57:37Z",
       "primary_item": {
-        "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
-        "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-        "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
-        "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-        "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-        "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-        "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+        "id": "ab0635703e0933894481269c608233802bd21ae6",
+        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+        "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+        "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+        "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+        "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
+        "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_11290e610f9d",
+      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+      "url": "https://www.ithome.com/0/984/365.htm",
+      "primary_url": "https://www.ithome.com/0/984/365.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
+          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "title_en": null,
+          "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
+          "url": "https://www.ithome.com/0/984/365.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:40:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
+          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "title_en": null,
+          "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
+          "url": "https://www.ithome.com/0/984/365.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:40:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7921,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T11:40:12Z",
+      "latest_at": "2026-07-31T11:40:12Z",
+      "primary_item": {
+        "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
+        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+        "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+        "title_en": null,
+        "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+        "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
+        "url": "https://www.ithome.com/0/984/365.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cec1665200b4",
+      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+      "url": "https://www.aibase.com/news/30048",
+      "primary_url": "https://www.aibase.com/news/30048",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_en": null,
+          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T17:48:19.513432Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_en": null,
+          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T17:48:19.513432Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T17:48:19.513432Z",
+      "latest_at": "2026-07-31T17:48:19.513432Z",
+      "primary_item": {
+        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "title_en": null,
+        "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30048",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_945ecdf346e3",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_en": null,
+          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_en": null,
+          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7189,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T04:57:18.494000Z",
+      "latest_at": "2026-07-31T04:57:18.494000Z",
+      "primary_item": {
+        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "title_en": null,
+        "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_85df304afeef",
+      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+      "url": "https://www.ithome.com/0/984/130.htm",
+      "primary_url": "https://www.ithome.com/0/984/130.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_en": null,
+          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_en": null,
+          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7367,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T06:38:54Z",
+      "latest_at": "2026-07-31T06:38:54Z",
+      "primary_item": {
+        "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+        "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "title_en": null,
+        "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+        "url": "https://www.ithome.com/0/984/130.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-31",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "97de2c9659b842c9b6ff070df28eddf3f12b434a",
+          "title": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "title_zh": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "title_en": null,
+          "title_original": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "summary": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+          "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "title_zh": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "title_en": null,
+          "title_original": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "summary": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "3e8703cd50efa319f1c696c41916396cff6c48a9",
+          "title": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "title_zh": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "summary": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "f5570c7b2dd191c1243212e2edd1245c2108db14",
+          "title": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "title_zh": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "title_en": null,
+          "title_original": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "summary": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "17967d13b89b6a28a03bd055a9a29fc1c03f33e2",
+          "title": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "title_zh": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "title_en": null,
+          "title_original": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "summary": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "1610e8ea69d8ce3c58ac3a262ed597379d81295c",
+          "title": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "title_zh": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "title_en": null,
+          "title_original": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "summary": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "f42c1e962ad0695823fc0a0f187961671d255c03",
+          "title": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "title_zh": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "title_en": null,
+          "title_original": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "summary": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "3dcab271404de607f056d532189b8b4f1fb25cdb",
+          "title": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "title_zh": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "title_en": null,
+          "title_original": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "summary": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "e74234e9e3e322211cbe7dc63978963b9ab1ea50",
+          "title": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "title_zh": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "title_en": null,
+          "title_original": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "summary": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "b4a3fae5e0e34bd9a91766bdee45d150ac18d708",
+          "title": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "title_zh": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "title_en": null,
+          "title_original": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "summary": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "8f65825dd8b33f6dd3a968f98071a10a76719973",
+          "title": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "title_zh": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "title_en": null,
+          "title_original": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "summary": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "8a58fa6ac6b1377db593a4d8c277ce20a583b28b",
+          "title": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "title_zh": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "title_en": null,
+          "title_original": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "summary": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        }
+      ],
+      "source_count": 12,
+      "source_names": [
+        "社区更新 · 2026-07-30",
+        "社区更新 · 2026-07-31"
+      ],
+      "items": [
+        {
+          "id": "97de2c9659b842c9b6ff070df28eddf3f12b434a",
+          "title": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "title_zh": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "title_en": null,
+          "title_original": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "summary": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+          "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "title_zh": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "title_en": null,
+          "title_original": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "summary": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "3e8703cd50efa319f1c696c41916396cff6c48a9",
+          "title": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "title_zh": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "summary": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "f5570c7b2dd191c1243212e2edd1245c2108db14",
+          "title": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "title_zh": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "title_en": null,
+          "title_original": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "summary": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "17967d13b89b6a28a03bd055a9a29fc1c03f33e2",
+          "title": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "title_zh": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "title_en": null,
+          "title_original": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "summary": "开源模型更新太快，今天刚看到一个名字，明天又冒出新版本，做选型很容易只追热点，漏掉真正适合业务的模型。作者把一年多的开源模型汇总整理成开源项目：awesome-open-llms，并配了网页方便检索。除此之外，也梳理了7月的开源动态：Kimi-K3 成为焦点，比较惊喜的还有LongCat、Nanbeige、Laguna S、Nemotron，以及 OCR、音频、多模态、具身和世界模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "1610e8ea69d8ce3c58ac3a262ed597379d81295c",
+          "title": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "title_zh": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "title_en": null,
+          "title_original": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "summary": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "f42c1e962ad0695823fc0a0f187961671d255c03",
+          "title": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "title_zh": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "title_en": null,
+          "title_original": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "summary": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T03:48:19.513432Z"
+        },
+        {
+          "id": "3dcab271404de607f056d532189b8b4f1fb25cdb",
+          "title": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "title_zh": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "title_en": null,
+          "title_original": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "summary": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "e74234e9e3e322211cbe7dc63978963b9ab1ea50",
+          "title": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "title_zh": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "title_en": null,
+          "title_original": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "summary": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "b4a3fae5e0e34bd9a91766bdee45d150ac18d708",
+          "title": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "title_zh": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "title_en": null,
+          "title_original": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "summary": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "8f65825dd8b33f6dd3a968f98071a10a76719973",
+          "title": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "title_zh": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "title_en": null,
+          "title_original": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "summary": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        },
+        {
+          "id": "8a58fa6ac6b1377db593a4d8c277ce20a583b28b",
+          "title": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "title_zh": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "title_en": null,
+          "title_original": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "summary": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T03:48:33.652166Z"
+        }
+      ],
+      "item_count": 12,
+      "duplicate_count": 12,
+      "score": 0.69,
+      "importance": 0.69,
+      "importance_score": 0.69,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.54,
+        "ai_relevance": 0.7,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T03:48:33.652166Z",
+      "latest_at": "2026-08-01T03:48:19.513432Z",
+      "primary_item": {
+        "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+        "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+        "title_zh": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+        "title_en": null,
+        "title_original": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+        "summary": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-31",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_1d8c8536827c",
+      "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+      "url": "https://www.aibase.com/news/30047",
+      "primary_url": "https://www.aibase.com/news/30047",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_en": null,
+          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:48:19.513432Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_en": null,
+          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:48:19.513432Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8531,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:48:19.513432Z",
+      "latest_at": "2026-07-31T16:48:19.513432Z",
+      "primary_item": {
+        "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+        "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "title_en": null,
+        "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30047",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
