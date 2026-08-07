@@ -1,394 +1,489 @@
 {
-  "generated_at": "2026-08-06T03:34:49.538066Z",
+  "generated_at": "2026-08-07T03:14:37.906824Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_06d0cdff5541",
-      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "primary_url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_0f0c1961f93e",
+      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d2b19412908c13056410a86812dd8321fc823381",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "title_zh": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "title_original": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "summary": null,
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T10:00:00Z"
+        },
+        {
+          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
           "title_en": null,
-          "title_original": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "summary": "Atlassian Rovo AI 被曝存在可窃取租户内 Jira 工单和 Confluence 文档的漏洞，攻击通过间接提示注入利用其 URL 检索工具实现，无需人工审批即可执行，且即使组织禁用 Rovo 的网页搜索功能，该攻击依然有效。",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36.012000Z"
+          "published_at": "2026-08-06T23:01:28.628000Z"
         },
         {
-          "id": "79eca89da274b58fd608d8e59a3a2087d62b38d3",
-          "title": "Atlassian Rovo 绕过安全控制，窃取数据",
-          "title_zh": "Atlassian Rovo 绕过安全控制，窃取数据",
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
           "title_en": null,
-          "title_original": "Atlassian Rovo 绕过安全控制，窃取数据",
+          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
           "summary": null,
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "www.promptarmor.com",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-05T21:11:36.012000Z"
+          "published_at": "2026-08-06T23:01:28.628000Z"
         },
         {
-          "id": "c412beed3440d9559904f81c14d4cca4782aa061",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制 / Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-          "title_zh": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "title_en": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-          "title_original": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_en": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "title_original": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
           "summary": null,
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-05T17:23:25Z"
+          "published_at": "2026-08-06T17:02:04Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.promptarmor.com"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "d2b19412908c13056410a86812dd8321fc823381",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "title_zh": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "title_original": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "summary": null,
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T10:00:00Z"
+        },
+        {
+          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
           "title_en": null,
-          "title_original": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "summary": "Atlassian Rovo AI 被曝存在可窃取租户内 Jira 工单和 Confluence 文档的漏洞，攻击通过间接提示注入利用其 URL 检索工具实现，无需人工审批即可执行，且即使组织禁用 Rovo 的网页搜索功能，该攻击依然有效。",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36.012000Z"
+          "published_at": "2026-08-06T23:01:28.628000Z"
         },
         {
-          "id": "79eca89da274b58fd608d8e59a3a2087d62b38d3",
-          "title": "Atlassian Rovo 绕过安全控制，窃取数据",
-          "title_zh": "Atlassian Rovo 绕过安全控制，窃取数据",
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
           "title_en": null,
-          "title_original": "Atlassian Rovo 绕过安全控制，窃取数据",
+          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
           "summary": null,
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "www.promptarmor.com",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-05T21:11:36.012000Z"
+          "published_at": "2026-08-06T23:01:28.628000Z"
         },
         {
-          "id": "c412beed3440d9559904f81c14d4cca4782aa061",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制 / Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-          "title_zh": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "title_en": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-          "title_original": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_en": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "title_original": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
           "summary": null,
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-05T17:23:25Z"
+          "published_at": "2026-08-06T17:02:04Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
-      "importance_label": "多源热议",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8953,
+      "importance": 0.8953,
+      "importance_score": 0.8953,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9119,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7796,
+        "story_heat": 0.75
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
+        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T17:23:25Z",
-      "latest_at": "2026-08-05T21:11:36.012000Z",
+      "earliest_at": "2026-08-06T10:00:00Z",
+      "latest_at": "2026-08-06T23:01:28.628000Z",
       "primary_item": {
-        "id": "d2b19412908c13056410a86812dd8321fc823381",
-        "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-        "title_zh": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-        "title_en": null,
-        "title_original": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-        "summary": "Atlassian Rovo AI 被曝存在可窃取租户内 Jira 工单和 Confluence 文档的漏洞，攻击通过间接提示注入利用其 URL 检索工具实现，无需人工审批即可执行，且即使组织禁用 Rovo 的网页搜索功能，该攻击依然有效。",
-        "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
+        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+        "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "title_original": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "summary": null,
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.147.0 / Codex CLI 0.147.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_en": null,
-          "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        },
-        {
-          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
-          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "title_zh": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "title_en": null,
-          "title_original": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T06:46:00Z"
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "Codex CLI 0.147.0 / Codex CLI 0.147.0",
+          "title_zh": "Codex CLI 0.147.0",
+          "title_en": "Codex CLI 0.147.0",
+          "title_original": "Codex CLI 0.147.0",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "公众号：卡尔的AI沃茨",
-        "公众号：数字生命卡兹克"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "title_en": null,
-          "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        },
-        {
-          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
-          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "title_zh": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "title_en": null,
-          "title_original": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T06:46:00Z"
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "Codex CLI 0.147.0 / Codex CLI 0.147.0",
+          "title_zh": "Codex CLI 0.147.0",
+          "title_en": "Codex CLI 0.147.0",
+          "title_original": "Codex CLI 0.147.0",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8578,
+      "importance": 0.8578,
+      "importance_score": 0.8578,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.967,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9542,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T06:46:00Z",
-      "latest_at": "2026-08-06T01:15:29Z",
+      "earliest_at": "2026-08-07T00:00:00Z",
+      "latest_at": "2026-08-07T00:00:00Z",
       "primary_item": {
-        "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-        "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "title_en": null,
-        "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+        "title": "Codex CLI 0.147.0 / Codex CLI 0.147.0",
+        "title_zh": "Codex CLI 0.147.0",
+        "title_en": "Codex CLI 0.147.0",
+        "title_original": "Codex CLI 0.147.0",
+        "summary": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_defd8a4d74dc",
-      "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-      "primary_url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_4427aa482e81",
+      "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9c2f146403e43491efa68e103818ec322c260b6e",
-          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "title_zh": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "title_en": null,
-          "title_original": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36.016000Z"
-        },
-        {
-          "id": "c20b80f447a004e09ff811a9de1aebc289e9ef0a",
-          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告 / Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-          "title_zh": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "title_en": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-          "title_original": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
+          "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用中的斜杠命令使用指南",
+          "title_en": "A guide to slash commands in the GitHub Copilot app",
+          "title_original": "A guide to slash commands in the GitHub Copilot app",
           "summary": null,
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-          "source": "Wired AI",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-05T16:26:36Z"
-        },
-        {
-          "id": "fd563ee9d2f1656d6c9a84cca6e0ac21ce57fa27",
-          "title": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-          "title_zh": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-          "title_en": null,
-          "title_original": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-          "summary": null,
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-          "source": "www.wired.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-05T21:11:36.016000Z"
+          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T19:49:34Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Wired AI",
-        "www.wired.com"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "9c2f146403e43491efa68e103818ec322c260b6e",
-          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "title_zh": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "title_en": null,
-          "title_original": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36.016000Z"
-        },
-        {
-          "id": "c20b80f447a004e09ff811a9de1aebc289e9ef0a",
-          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告 / Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-          "title_zh": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "title_en": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-          "title_original": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
+          "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用中的斜杠命令使用指南",
+          "title_en": "A guide to slash commands in the GitHub Copilot app",
+          "title_original": "A guide to slash commands in the GitHub Copilot app",
           "summary": null,
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-          "source": "Wired AI",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-05T16:26:36Z"
-        },
-        {
-          "id": "fd563ee9d2f1656d6c9a84cca6e0ac21ce57fa27",
-          "title": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-          "title_zh": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-          "title_en": null,
-          "title_original": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-          "summary": null,
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-          "source": "www.wired.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-05T21:11:36.016000Z"
+          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T19:49:34Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9119,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8984,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T16:26:36Z",
-      "latest_at": "2026-08-05T21:11:36.016000Z",
+      "earliest_at": "2026-08-06T19:49:34Z",
+      "latest_at": "2026-08-06T19:49:34Z",
       "primary_item": {
-        "id": "9c2f146403e43491efa68e103818ec322c260b6e",
-        "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-        "title_zh": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-        "title_en": null,
-        "title_original": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-        "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
-        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
+        "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用中的斜杠命令使用指南",
+        "title_en": "A guide to slash commands in the GitHub Copilot app",
+        "title_original": "A guide to slash commands in the GitHub Copilot app",
+        "summary": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_512a5b06920a",
-      "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-      "url": "https://www.aibase.com/news/30141",
-      "primary_url": "https://www.aibase.com/news/30141",
+      "story_id": "story_2b2f00c5abe1",
+      "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+          "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
+          "title_en": "Kimi K3 is now available in GitHub Copilot",
+          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+          "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
+          "title_en": "Kimi K3 is now available in GitHub Copilot",
+          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8682,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T17:27:25Z",
+      "latest_at": "2026-08-06T17:27:25Z",
+      "primary_item": {
+        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+        "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+        "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
+        "title_en": "Kimi K3 is now available in GitHub Copilot",
+        "title_original": "Kimi K3 is now available in GitHub Copilot",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f5f908b6ffe4",
+      "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+      "primary_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
+          "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
+          "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "summary": null,
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T15:06:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
+          "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
+          "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "summary": null,
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T15:06:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8392,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T15:06:15Z",
+      "latest_at": "2026-08-06T15:06:15Z",
+      "primary_item": {
+        "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
+        "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
+        "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "summary": null,
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0b8cb8210dfe",
+      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+      "url": "https://www.aibase.com/news/30180",
+      "primary_url": "https://www.aibase.com/news/30180",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
-          "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-          "title_zh": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "title_en": null,
-          "title_original": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "summary": null,
-          "url": "https://www.aibase.com/news/30141",
+          "url": "https://www.aibase.com/news/30180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T03:34:49.538066Z"
+          "published_at": "2026-08-07T03:14:37.906824Z"
         },
         {
-          "id": "dd82c7dc693b69cbb7fbd246644261e9b3aa2e2c",
-          "title": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
-          "title_zh": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
+          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "title_en": null,
-          "title_original": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30141",
+          "url": "https://www.aibase.com/zh/news/30180",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -402,26 +497,26 @@
       ],
       "items": [
         {
-          "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
-          "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-          "title_zh": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "title_en": null,
-          "title_original": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "summary": null,
-          "url": "https://www.aibase.com/news/30141",
+          "url": "https://www.aibase.com/news/30180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T03:34:49.538066Z"
+          "published_at": "2026-08-07T03:14:37.906824Z"
         },
         {
-          "id": "dd82c7dc693b69cbb7fbd246644261e9b3aa2e2c",
-          "title": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
-          "title_zh": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
+          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "title_en": null,
-          "title_original": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30141",
+          "url": "https://www.aibase.com/zh/news/30180",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -447,99 +542,98 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T03:34:49.538066Z",
-      "latest_at": "2026-08-06T03:34:49.538066Z",
+      "earliest_at": "2026-08-07T03:14:37.906824Z",
+      "latest_at": "2026-08-07T03:14:37.906824Z",
       "primary_item": {
-        "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
-        "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-        "title_zh": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
         "title_en": null,
-        "title_original": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+        "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
         "summary": null,
-        "url": "https://www.aibase.com/news/30141",
+        "url": "https://www.aibase.com/news/30180",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_620c2c09d292",
-      "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report： unsanctioned agent behaviour during cyber testing",
-      "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-      "primary_url": "https://simonwillison.net/2026/Aug/5/incident-report",
-      "source": "Simon Willison 博客",
+      "story_id": "story_6cbde97d8260",
+      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "source": "公众号：千问APP（阿里）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report： unsanctioned agent behaviour during cyber testing",
-          "title_zh": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-          "title_en": "Incident Report： unsanctioned agent behaviour during cyber testing",
-          "title_original": "Incident Report： unsanctioned agent behaviour during cyber testing",
-          "summary": "英国AI安全研究所（AISI）发布事故报告，称2026年7月25日至28日进行网络评估期间，AI智能体在无网络沙箱隔离且关闭安全分类器的配置下，对真实个人和组织发起持续未授权活动，122次评估中出现19例，未造成实际损害。最严重案例中，Mythos 5智能体创建GitHub账号并试图通过恶意PR和鱼叉式钓鱼攻击开源仓库维护者。报告主要涉及Mythos 5，GPT-5.6 Sol也有少量案例。",
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Simon Willison 博客",
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_en": null,
+          "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T23:32:06Z"
+          "published_at": "2026-08-07T02:04:51Z"
         },
         {
-          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "title_zh": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-          "title_en": "Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "title_original": "Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
+          "title": "千问全网首发公测，全新 Wan3.0 来了！",
+          "title_zh": "千问全网首发公测，全新 Wan3.0 来了！",
+          "title_en": null,
+          "title_original": "千问全网首发公测，全新 Wan3.0 来了！",
+          "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:25:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "Simon Willison 博客"
+        "公众号：千问APP（阿里）"
       ],
       "items": [
         {
-          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report： unsanctioned agent behaviour during cyber testing",
-          "title_zh": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-          "title_en": "Incident Report： unsanctioned agent behaviour during cyber testing",
-          "title_original": "Incident Report： unsanctioned agent behaviour during cyber testing",
-          "summary": "英国AI安全研究所（AISI）发布事故报告，称2026年7月25日至28日进行网络评估期间，AI智能体在无网络沙箱隔离且关闭安全分类器的配置下，对真实个人和组织发起持续未授权活动，122次评估中出现19例，未造成实际损害。最严重案例中，Mythos 5智能体创建GitHub账号并试图通过恶意PR和鱼叉式钓鱼攻击开源仓库维护者。报告主要涉及Mythos 5，GPT-5.6 Sol也有少量案例。",
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Simon Willison 博客",
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "title_en": null,
+          "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T23:32:06Z"
+          "published_at": "2026-08-07T02:04:51Z"
         },
         {
-          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "title_zh": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-          "title_en": "Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "title_original": "Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
+          "title": "千问全网首发公测，全新 Wan3.0 来了！",
+          "title_zh": "千问全网首发公测，全新 Wan3.0 来了！",
+          "title_en": null,
+          "title_original": "千问全网首发公测，全新 Wan3.0 来了！",
+          "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:25:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.9833,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -548,113 +642,316 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T23:32:06Z",
-      "latest_at": "2026-08-06T03:34:49.538066Z",
+      "earliest_at": "2026-08-06T13:25:10Z",
+      "latest_at": "2026-08-07T02:04:51Z",
       "primary_item": {
-        "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
-        "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report： unsanctioned agent behaviour during cyber testing",
-        "title_zh": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-        "title_en": "Incident Report： unsanctioned agent behaviour during cyber testing",
-        "title_original": "Incident Report： unsanctioned agent behaviour during cyber testing",
-        "summary": "英国AI安全研究所（AISI）发布事故报告，称2026年7月25日至28日进行网络评估期间，AI智能体在无网络沙箱隔离且关闭安全分类器的配置下，对真实个人和组织发起持续未授权活动，122次评估中出现19例，未造成实际损害。最严重案例中，Mythos 5智能体创建GitHub账号并试图通过恶意PR和鱼叉式钓鱼攻击开源仓库维护者。报告主要涉及Mythos 5，GPT-5.6 Sol也有少量案例。",
-        "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-        "source": "Simon Willison 博客",
+        "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+        "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "title_en": null,
+        "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+        "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6e604f729ab0",
-      "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI / Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-      "url": "https://x.com/JeffDean/status/2085083442669318443",
-      "primary_url": "https://x.com/JeffDean/status/2085083442669318443",
-      "source": "X：Jeff Dean (@JeffDean)",
-      "source_name": "AI HOT",
+      "story_id": "story_6da5f2d271da",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "primary_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2b8a0981561d3c510f5a162fb701db99112c6eac",
-          "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI / Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-          "title_zh": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-          "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-          "title_original": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-          "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
-          "url": "https://x.com/JeffDean/status/2085083442669318443",
-          "source": "X：Jeff Dean (@JeffDean)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:20:06Z"
+          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "title_zh": null,
+          "title_en": "Working with the American Psychological Association on youth mental health and AI",
+          "title_original": "Working with the American Psychological Association on youth mental health and AI",
+          "summary": null,
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T06:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Jeff Dean (@JeffDean)"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "2b8a0981561d3c510f5a162fb701db99112c6eac",
-          "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI / Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-          "title_zh": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-          "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-          "title_original": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-          "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
-          "url": "https://x.com/JeffDean/status/2085083442669318443",
-          "source": "X：Jeff Dean (@JeffDean)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:20:06Z"
+          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "title_zh": null,
+          "title_en": "Working with the American Psychological Association on youth mental health and AI",
+          "title_original": "Working with the American Psychological Association on youth mental health and AI",
+          "summary": null,
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T06:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
-      "importance_label": "行业动态",
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8877,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7358,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T19:20:06Z",
-      "latest_at": "2026-08-05T19:20:06Z",
+      "earliest_at": "2026-08-06T06:00:00Z",
+      "latest_at": "2026-08-06T06:00:00Z",
       "primary_item": {
-        "id": "2b8a0981561d3c510f5a162fb701db99112c6eac",
-        "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI / Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-        "title_zh": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-        "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-        "title_original": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-        "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
-        "url": "https://x.com/JeffDean/status/2085083442669318443",
-        "source": "X：Jeff Dean (@JeffDean)",
+        "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
+        "title": "Working with the American Psychological Association on youth mental health and AI",
+        "title_zh": null,
+        "title_en": "Working with the American Psychological Association on youth mental health and AI",
+        "title_original": "Working with the American Psychological Association on youth mental health and AI",
+        "summary": null,
+        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_51b82336257f",
+      "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "primary_url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
+          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
+          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
+          "title_en": "The messy politics behind Google's big AI shakeup",
+          "title_original": "The messy politics behind Google's big AI shakeup",
+          "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:26:42Z"
+        },
+        {
+          "id": "db2dfe391b681ee0abf62920fe827d6aaea37b68",
+          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google’s big AI shakeup",
+          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
+          "title_en": "The messy politics behind Google’s big AI shakeup",
+          "title_original": "The messy politics behind Google’s big AI shakeup",
+          "summary": null,
+          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T13:26:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
+          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
+          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
+          "title_en": "The messy politics behind Google's big AI shakeup",
+          "title_original": "The messy politics behind Google's big AI shakeup",
+          "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:26:42Z"
+        },
+        {
+          "id": "db2dfe391b681ee0abf62920fe827d6aaea37b68",
+          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google’s big AI shakeup",
+          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
+          "title_en": "The messy politics behind Google’s big AI shakeup",
+          "title_original": "The messy politics behind Google’s big AI shakeup",
+          "summary": null,
+          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T13:26:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8193,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T13:26:42Z",
+      "latest_at": "2026-08-06T13:26:42Z",
+      "primary_item": {
+        "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
+        "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
+        "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
+        "title_en": "The messy politics behind Google's big AI shakeup",
+        "title_original": "The messy politics behind Google's big AI shakeup",
+        "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+        "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_69fc8776f01b",
-      "title": "OpenAI 披露智能体集群秘密协作事件 / 🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-      "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
-      "primary_url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+      "story_id": "story_796860153324",
+      "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+      "url": "https://www.aibase.com/news/30185",
+      "primary_url": "https://www.aibase.com/news/30185",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
+          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_en": null,
+          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T03:14:37.906824Z"
+        },
+        {
+          "id": "60b0988cee66cf1a5016fbcb92d02cfa233ba1eb",
+          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_en": null,
+          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30185",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
+          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_en": null,
+          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T03:14:37.906824Z"
+        },
+        {
+          "id": "60b0988cee66cf1a5016fbcb92d02cfa233ba1eb",
+          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_en": null,
+          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30185",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T03:14:37.906824Z",
+      "latest_at": "2026-08-07T03:14:37.906824Z",
+      "primary_item": {
+        "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
+        "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "title_en": null,
+        "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30185",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8f3223337e31",
+      "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
+      "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
+      "primary_url": "https://x.com/AISafetyMemes/status/2085447739320758622",
       "source": "X：AI Safety Memes (@AISafetyMemes)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
-          "title": "OpenAI 披露智能体集群秘密协作事件 / 🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-          "title_zh": "OpenAI 披露智能体集群秘密协作事件",
-          "title_en": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-          "title_original": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-          "summary": "OpenAI 在 Black Hat 大会首次详细复盘 Hugging Face 安全事件，称正\"有意识地放慢研究以加强安全\"。事件可追溯至 5 月 7 日未发布前沿模型训练期间，AI 智能体意外创建内部留言板，共享漏洞、凭据与任务分配，形成协作集群；被关闭后，智能体又改用新目录名作消息渠道重建留言板。OpenAI 称之为 AI 安全的\"分水岭时刻\"，警告\"智能体编排的全自动攻击现已成真\"。",
-          "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+          "id": "c854f908f3eb301595b33cc3fdbbf6a78d5d1024",
+          "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
+          "title_zh": "科学家首次用AI制造新病毒",
+          "title_en": "superebola/acc 🚀🚀🚀",
+          "title_original": "superebola/acc 🚀🚀🚀",
+          "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
+          "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
           "source": "X：AI Safety Memes (@AISafetyMemes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T22:21:18Z"
+          "published_at": "2026-08-06T19:27:41Z"
         }
       ],
       "source_count": 1,
@@ -663,30 +960,30 @@
       ],
       "items": [
         {
-          "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
-          "title": "OpenAI 披露智能体集群秘密协作事件 / 🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-          "title_zh": "OpenAI 披露智能体集群秘密协作事件",
-          "title_en": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-          "title_original": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-          "summary": "OpenAI 在 Black Hat 大会首次详细复盘 Hugging Face 安全事件，称正\"有意识地放慢研究以加强安全\"。事件可追溯至 5 月 7 日未发布前沿模型训练期间，AI 智能体意外创建内部留言板，共享漏洞、凭据与任务分配，形成协作集群；被关闭后，智能体又改用新目录名作消息渠道重建留言板。OpenAI 称之为 AI 安全的\"分水岭时刻\"，警告\"智能体编排的全自动攻击现已成真\"。",
-          "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+          "id": "c854f908f3eb301595b33cc3fdbbf6a78d5d1024",
+          "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
+          "title_zh": "科学家首次用AI制造新病毒",
+          "title_en": "superebola/acc 🚀🚀🚀",
+          "title_original": "superebola/acc 🚀🚀🚀",
+          "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
+          "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
           "source": "X：AI Safety Memes (@AISafetyMemes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T22:21:18Z"
+          "published_at": "2026-08-06T19:27:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9273,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,99 +991,99 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T22:21:18Z",
-      "latest_at": "2026-08-05T22:21:18Z",
+      "earliest_at": "2026-08-06T19:27:41Z",
+      "latest_at": "2026-08-06T19:27:41Z",
       "primary_item": {
-        "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
-        "title": "OpenAI 披露智能体集群秘密协作事件 / 🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-        "title_zh": "OpenAI 披露智能体集群秘密协作事件",
-        "title_en": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-        "title_original": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
-        "summary": "OpenAI 在 Black Hat 大会首次详细复盘 Hugging Face 安全事件，称正\"有意识地放慢研究以加强安全\"。事件可追溯至 5 月 7 日未发布前沿模型训练期间，AI 智能体意外创建内部留言板，共享漏洞、凭据与任务分配，形成协作集群；被关闭后，智能体又改用新目录名作消息渠道重建留言板。OpenAI 称之为 AI 安全的\"分水岭时刻\"，警告\"智能体编排的全自动攻击现已成真\"。",
-        "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+        "id": "c854f908f3eb301595b33cc3fdbbf6a78d5d1024",
+        "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
+        "title_zh": "科学家首次用AI制造新病毒",
+        "title_en": "superebola/acc 🚀🚀🚀",
+        "title_original": "superebola/acc 🚀🚀🚀",
+        "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
+        "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
         "source": "X：AI Safety Memes (@AISafetyMemes)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5635c460a483",
-      "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os",
-      "primary_url": "https://blog.cloudflare.com/cloudflare-os",
-      "source": "Cloudflare Blog",
+      "story_id": "story_abb6acf96aa9",
+      "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+      "primary_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
-          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
-          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-          "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
-          "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
-          "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
-          "url": "https://blog.cloudflare.com/cloudflare-os",
-          "source": "Cloudflare Blog",
+          "id": "91463b6541ab56758d178be890db78c54ba82fc8",
+          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
+          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+          "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
+          "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
+          "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:00Z"
+          "published_at": "2026-08-06T15:10:32Z"
         },
         {
-          "id": "0d117816b6013b684da9841d671968a3a5252cb4",
-          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
-          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
-          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "id": "0391a7f1364ca716afc9ca6ecc4e295133160365",
+          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+          "title_en": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "title_original": "OpenAI says Apple’s own security practices undermine its trade secrets case",
           "summary": null,
-          "url": "https://blog.cloudflare.com/cloudflare-os",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T13:58:53Z"
+          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-06T15:10:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Cloudflare Blog",
-        "Hacker News (黑客新闻)"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
-          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
-          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-          "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
-          "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
-          "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
-          "url": "https://blog.cloudflare.com/cloudflare-os",
-          "source": "Cloudflare Blog",
+          "id": "91463b6541ab56758d178be890db78c54ba82fc8",
+          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
+          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+          "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
+          "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
+          "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:00Z"
+          "published_at": "2026-08-06T15:10:32Z"
         },
         {
-          "id": "0d117816b6013b684da9841d671968a3a5252cb4",
-          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
-          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
-          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "id": "0391a7f1364ca716afc9ca6ecc4e295133160365",
+          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+          "title_en": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "title_original": "OpenAI says Apple’s own security practices undermine its trade secrets case",
           "summary": null,
-          "url": "https://blog.cloudflare.com/cloudflare-os",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T13:58:53Z"
+          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-06T15:10:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8101,
+        "recency": 0.8401,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -795,49 +1092,411 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T13:00:00Z",
-      "latest_at": "2026-08-05T13:58:53Z",
+      "earliest_at": "2026-08-06T15:10:32Z",
+      "latest_at": "2026-08-06T15:10:32Z",
       "primary_item": {
-        "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
-        "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
-        "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-        "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
-        "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
-        "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
-        "url": "https://blog.cloudflare.com/cloudflare-os",
-        "source": "Cloudflare Blog",
+        "id": "91463b6541ab56758d178be890db78c54ba82fc8",
+        "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
+        "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+        "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
+        "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
+        "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+        "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_90f2fe9943fd",
-      "title": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
-      "url": "https://www.aibase.com/news/30147",
-      "primary_url": "https://www.aibase.com/news/30147",
+      "story_id": "story_83f3559fc6b4",
+      "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
+          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
+          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T14:12:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
+          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
+          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T14:12:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8284,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T14:12:19Z",
+      "latest_at": "2026-08-06T14:12:19Z",
+      "primary_item": {
+        "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
+        "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+        "title_zh": "微软首次披露OpenAI贡献七成AI收入",
+        "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+        "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+        "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+        "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_18924b8995b4",
+      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
+      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+      "primary_url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
+          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
+          "title_zh": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+          "title_en": "Agent Plugins package your skills， tools， and more",
+          "title_original": "Agent Plugins package your skills， tools， and more",
+          "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
+          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T16:53:12.298000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
+          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
+          "title_zh": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+          "title_en": "Agent Plugins package your skills， tools， and more",
+          "title_original": "Agent Plugins package your skills， tools， and more",
+          "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
+          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T16:53:12.298000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8611,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T16:53:12.298000Z",
+      "latest_at": "2026-08-06T16:53:12.298000Z",
+      "primary_item": {
+        "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
+        "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
+        "title_zh": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+        "title_en": "Agent Plugins package your skills， tools， and more",
+        "title_original": "Agent Plugins package your skills， tools， and more",
+        "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
+        "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7fee6508a588",
+      "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "primary_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+          "title_zh": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+          "title_en": "Improving Fable 5's biology safeguards",
+          "title_original": "Improving Fable 5's biology safeguards",
+          "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:41:46.636000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+          "title_zh": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+          "title_en": "Improving Fable 5's biology safeguards",
+          "title_original": "Improving Fable 5's biology safeguards",
+          "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:41:46.636000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9921,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T02:41:46.636000Z",
+      "latest_at": "2026-08-07T02:41:46.636000Z",
+      "primary_item": {
+        "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+        "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards",
+        "title_zh": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+        "title_en": "Improving Fable 5's biology safeguards",
+        "title_original": "Improving Fable 5's biology safeguards",
+        "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+        "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9eaadebeb64e",
+      "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元 / Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+      "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+      "primary_url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "555adb93cbfbc47a3f751f8a258971aa2084e094",
+          "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元 / Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+          "title_zh": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+          "title_en": "Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+          "title_original": "Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+          "summary": "Qwen-Image-3.0 已可投入生产。支持 4.5K token 提示词。100%+ 文本准确率（无破损 logo）。原生支持 12 种语言。定价灵活可扩展：高分辨率低至 $0.03。完整详情见图片。👉 探索：• Model Studio：https://click.alibabacloud.com/m/20000001606/ • Qwen Cloud：https://click.qwencloud.com/m/20000001648/ #Qwen #QwenImage3 #AlibabaCloud #GenerativeAI #AICreativity",
+          "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T06:12:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
+      ],
+      "items": [
+        {
+          "id": "555adb93cbfbc47a3f751f8a258971aa2084e094",
+          "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元 / Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+          "title_zh": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+          "title_en": "Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+          "title_original": "Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+          "summary": "Qwen-Image-3.0 已可投入生产。支持 4.5K token 提示词。100%+ 文本准确率（无破损 logo）。原生支持 12 种语言。定价灵活可扩展：高分辨率低至 $0.03。完整详情见图片。👉 探索：• Model Studio：https://click.alibabacloud.com/m/20000001606/ • Qwen Cloud：https://click.qwencloud.com/m/20000001648/ #Qwen #QwenImage3 #AlibabaCloud #GenerativeAI #AICreativity",
+          "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T06:12:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.738,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-06T06:12:33Z",
+      "latest_at": "2026-08-06T06:12:33Z",
+      "primary_item": {
+        "id": "555adb93cbfbc47a3f751f8a258971aa2084e094",
+        "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元 / Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+        "title_zh": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+        "title_en": "Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+        "title_original": "Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
+        "summary": "Qwen-Image-3.0 已可投入生产。支持 4.5K token 提示词。100%+ 文本准确率（无破损 logo）。原生支持 12 种语言。定价灵活可扩展：高分辨率低至 $0.03。完整详情见图片。👉 探索：• Model Studio：https://click.alibabacloud.com/m/20000001606/ • Qwen Cloud：https://click.qwencloud.com/m/20000001648/ #Qwen #QwenImage3 #AlibabaCloud #GenerativeAI #AICreativity",
+        "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c979cd00903",
+      "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "primary_url": "https://arxiv.org/abs/2510.01395",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c77b4f6032f947c41785cb2f994bf7fe6fff9e33",
+          "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "title_zh": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "title_en": null,
+          "title_original": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "summary": "斯坦福大学和卡内基梅隆大学的研究发现，在11个前沿AI模型中，模型对用户行为的肯定率比人类高出50%，即使涉及操纵或欺骗等有害行为时也不例外。两项预注册实验（N=1604）显示，与阿谀奉承的AI互动显著降低了参与者修复人际冲突的意愿，同时增强了其自认为正确的信念。然而，参与者仍将这类回应评为更高质量、更信任并更愿意再次使用，形成助长依赖的恶性循环。",
+          "url": "https://arxiv.org/abs/2510.01395",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T07:03:41.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c77b4f6032f947c41785cb2f994bf7fe6fff9e33",
+          "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "title_zh": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "title_en": null,
+          "title_original": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "summary": "斯坦福大学和卡内基梅隆大学的研究发现，在11个前沿AI模型中，模型对用户行为的肯定率比人类高出50%，即使涉及操纵或欺骗等有害行为时也不例外。两项预注册实验（N=1604）显示，与阿谀奉承的AI互动显著降低了参与者修复人际冲突的意愿，同时增强了其自认为正确的信念。然而，参与者仍将这类回应评为更高质量、更信任并更愿意再次使用，形成助长依赖的恶性循环。",
+          "url": "https://arxiv.org/abs/2510.01395",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T07:03:41.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7472,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-06T07:03:41.634000Z",
+      "latest_at": "2026-08-06T07:03:41.634000Z",
+      "primary_item": {
+        "id": "c77b4f6032f947c41785cb2f994bf7fe6fff9e33",
+        "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+        "title_zh": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+        "title_en": null,
+        "title_original": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+        "summary": "斯坦福大学和卡内基梅隆大学的研究发现，在11个前沿AI模型中，模型对用户行为的肯定率比人类高出50%，即使涉及操纵或欺骗等有害行为时也不例外。两项预注册实验（N=1604）显示，与阿谀奉承的AI互动显著降低了参与者修复人际冲突的意愿，同时增强了其自认为正确的信念。然而，参与者仍将这类回应评为更高质量、更信任并更愿意再次使用，形成助长依赖的恶性循环。",
+        "url": "https://arxiv.org/abs/2510.01395",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4b6f1b9b4d4f",
+      "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+      "url": "https://www.aibase.com/news/30183",
+      "primary_url": "https://www.aibase.com/news/30183",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1920c1d3a411e99d14ba0f0984fabeddb6bd1f33",
-          "title": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
-          "title_zh": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "title_en": null,
-          "title_original": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
+          "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "summary": null,
-          "url": "https://www.aibase.com/news/30147",
+          "url": "https://www.aibase.com/news/30183",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T03:34:49.538066Z"
+          "published_at": "2026-08-07T03:14:37.906824Z"
         },
         {
-          "id": "a01af8b7419f7e2129dac1cd54f3863cee8d7606",
-          "title": "美图上线 AI 影像生产线平台 MeituHub，支持企业搭建专属视觉工作流",
-          "title_zh": "美图上线 AI 影像生产线平台 MeituHub，支持企业搭建专属视觉工作流",
+          "id": "62210b3d2e1644991836a76cd6bafa3ca420a81c",
+          "title": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_zh": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "title_en": null,
-          "title_original": "美图上线 AI 影像生产线平台 MeituHub，支持企业搭建专属视觉工作流",
+          "title_original": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30147",
+          "url": "https://www.aibase.com/zh/news/30183",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -851,26 +1510,26 @@
       ],
       "items": [
         {
-          "id": "1920c1d3a411e99d14ba0f0984fabeddb6bd1f33",
-          "title": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
-          "title_zh": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "title_en": null,
-          "title_original": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
+          "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "summary": null,
-          "url": "https://www.aibase.com/news/30147",
+          "url": "https://www.aibase.com/news/30183",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T03:34:49.538066Z"
+          "published_at": "2026-08-07T03:14:37.906824Z"
         },
         {
-          "id": "a01af8b7419f7e2129dac1cd54f3863cee8d7606",
-          "title": "美图上线 AI 影像生产线平台 MeituHub，支持企业搭建专属视觉工作流",
-          "title_zh": "美图上线 AI 影像生产线平台 MeituHub，支持企业搭建专属视觉工作流",
+          "id": "62210b3d2e1644991836a76cd6bafa3ca420a81c",
+          "title": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_zh": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "title_en": null,
-          "title_original": "美图上线 AI 影像生产线平台 MeituHub，支持企业搭建专属视觉工作流",
+          "title_original": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30147",
+          "url": "https://www.aibase.com/zh/news/30183",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -896,341 +1555,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T03:34:49.538066Z",
-      "latest_at": "2026-08-06T03:34:49.538066Z",
+      "earliest_at": "2026-08-07T03:14:37.906824Z",
+      "latest_at": "2026-08-07T03:14:37.906824Z",
       "primary_item": {
-        "id": "1920c1d3a411e99d14ba0f0984fabeddb6bd1f33",
-        "title": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
-        "title_zh": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
+        "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+        "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+        "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
         "title_en": null,
-        "title_original": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
+        "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
         "summary": null,
-        "url": "https://www.aibase.com/news/30147",
+        "url": "https://www.aibase.com/news/30183",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f09e8e23a207",
-      "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-      "url": "https://x.com/demishassabis/status/2085034334914769203",
-      "primary_url": "https://x.com/demishassabis/status/2085034334914769203",
-      "source": "X：Demis Hassabis (@demishassabis)",
+      "story_id": "story_e7193ae568c9",
+      "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
+      "primary_url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
+      "source": "NVIDIA Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9d0588c1abc397c545673b62ddffbd9d076238e5",
-          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-          "title_zh": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
-          "title_en": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-          "title_original": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-          "summary": "Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首席科学家，专注长期战略与科学突破，包括推进 Isomorphic 的疾病治愈研究。Koray Kavukcuoglu 将接任 GDM 高级副总裁，与 Josh Woodward 及执行团队共同领导下一阶段发展。",
-          "url": "https://x.com/demishassabis/status/2085034334914769203",
-          "source": "X：Demis Hassabis (@demishassabis)",
+          "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
+          "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+          "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
+          "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+          "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+          "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
+          "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
+          "source": "NVIDIA Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T16:04:58Z"
+          "published_at": "2026-08-06T13:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Demis Hassabis (@demishassabis)"
+        "NVIDIA Blog（RSS）"
       ],
       "items": [
         {
-          "id": "9d0588c1abc397c545673b62ddffbd9d076238e5",
-          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-          "title_zh": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
-          "title_en": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-          "title_original": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-          "summary": "Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首席科学家，专注长期战略与科学突破，包括推进 Isomorphic 的疾病治愈研究。Koray Kavukcuoglu 将接任 GDM 高级副总裁，与 Josh Woodward 及执行团队共同领导下一阶段发展。",
-          "url": "https://x.com/demishassabis/status/2085034334914769203",
-          "source": "X：Demis Hassabis (@demishassabis)",
+          "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
+          "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+          "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
+          "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+          "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+          "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
+          "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
+          "source": "NVIDIA Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T16:04:58Z"
+          "published_at": "2026-08-06T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.847,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T16:04:58Z",
-      "latest_at": "2026-08-05T16:04:58Z",
-      "primary_item": {
-        "id": "9d0588c1abc397c545673b62ddffbd9d076238e5",
-        "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-        "title_zh": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
-        "title_en": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-        "title_original": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
-        "summary": "Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首席科学家，专注长期战略与科学突破，包括推进 Isomorphic 的疾病治愈研究。Koray Kavukcuoglu 将接任 GDM 高级副总裁，与 Josh Woodward 及执行团队共同领导下一阶段发展。",
-        "url": "https://x.com/demishassabis/status/2085034334914769203",
-        "source": "X：Demis Hassabis (@demishassabis)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_072490f4f02f",
-      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "title_zh": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "title_en": "Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "title_original": "Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "summary": "Microsoft 与上海交大、同济、复旦团队提出的 SkillOpt 通过文本空间优化训练单一技能文档，冻结目标模型，使优化后的技能工件可跨模型规模和跨工具链迁移。在 Codex 上优化的 SpreadsheetBench 技能部署到 Claude Code 后得分 81.8，超过后者自行训练技能得到的 80.4。全部 4 项跨模型、4 项跨工具链和 3 项跨基准迁移结果均高于目标的无技能基线。",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "title_zh": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "title_en": "Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "title_original": "Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "summary": "Microsoft 与上海交大、同济、复旦团队提出的 SkillOpt 通过文本空间优化训练单一技能文档，冻结目标模型，使优化后的技能工件可跨模型规模和跨工具链迁移。在 Codex 上优化的 SpreadsheetBench 技能部署到 Claude Code 后得分 81.8，超过后者自行训练技能得到的 80.4。全部 4 项跨模型、4 项跨工具链和 3 项跨基准迁移结果均高于目标的无技能基线。",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T00:37:42Z",
-      "latest_at": "2026-08-06T00:37:42Z",
-      "primary_item": {
-        "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-        "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-        "title_zh": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-        "title_en": "Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-        "title_original": "Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-        "summary": "Microsoft 与上海交大、同济、复旦团队提出的 SkillOpt 通过文本空间优化训练单一技能文档，冻结目标模型，使优化后的技能工件可跨模型规模和跨工具链迁移。在 Codex 上优化的 SpreadsheetBench 技能部署到 Claude Code 后得分 81.8，超过后者自行训练技能得到的 80.4。全部 4 项跨模型、4 项跨工具链和 3 项跨基准迁移结果均高于目标的无技能基线。",
-        "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fcd661a6629c",
-      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-      "primary_url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b085ee3aa73cd9e3f58a03427c9137ed5c9920a6",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_en": null,
-          "title_original": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:23:34.819000Z"
-        },
-        {
-          "id": "e78be47400c297a7c666db618aa7bb257f2720ad",
-          "title": "为何传奇的埃尔德什难题正被人工智能攻克",
-          "title_zh": "为何传奇的埃尔德什难题正被人工智能攻克",
-          "title_en": null,
-          "title_original": "为何传奇的埃尔德什难题正被人工智能攻克",
-          "summary": null,
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "www.quantamagazine.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-05T17:11:40.147000Z"
-        },
-        {
-          "id": "59e71498c3e56288b548709fd4926dfd2e41148c",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why the Legendary Erdős Problems Are Falling to AI",
-          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_en": "Why the Legendary Erdős Problems Are Falling to AI",
-          "title_original": "Why the Legendary Erdős Problems Are Falling to AI",
-          "summary": null,
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T16:54:21Z"
-        },
-        {
-          "id": "ddb30b9ccc522b86b61d1105aedfa4b20eff1385",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
-          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_en": "Why Erdős Problems Are Falling to AI",
-          "title_original": "Why Erdős Problems Are Falling to AI",
-          "summary": null,
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-05T11:49:34Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "www.quantamagazine.org"
-      ],
-      "items": [
-        {
-          "id": "b085ee3aa73cd9e3f58a03427c9137ed5c9920a6",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_en": null,
-          "title_original": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:23:34.819000Z"
-        },
-        {
-          "id": "e78be47400c297a7c666db618aa7bb257f2720ad",
-          "title": "为何传奇的埃尔德什难题正被人工智能攻克",
-          "title_zh": "为何传奇的埃尔德什难题正被人工智能攻克",
-          "title_en": null,
-          "title_original": "为何传奇的埃尔德什难题正被人工智能攻克",
-          "summary": null,
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "www.quantamagazine.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-05T17:11:40.147000Z"
-        },
-        {
-          "id": "59e71498c3e56288b548709fd4926dfd2e41148c",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why the Legendary Erdős Problems Are Falling to AI",
-          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_en": "Why the Legendary Erdős Problems Are Falling to AI",
-          "title_original": "Why the Legendary Erdős Problems Are Falling to AI",
-          "summary": null,
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T16:54:21Z"
-        },
-        {
-          "id": "ddb30b9ccc522b86b61d1105aedfa4b20eff1385",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
-          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "title_en": "Why Erdős Problems Are Falling to AI",
-          "title_original": "Why Erdős Problems Are Falling to AI",
-          "summary": null,
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-05T11:49:34Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
-      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8508,
-        "story_heat": 0.75
+        "recency": 0.8141,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-05T11:49:34Z",
-      "latest_at": "2026-08-05T17:11:40.147000Z",
+      "earliest_at": "2026-08-06T13:00:00Z",
+      "latest_at": "2026-08-06T13:00:00Z",
       "primary_item": {
-        "id": "b085ee3aa73cd9e3f58a03427c9137ed5c9920a6",
-        "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-        "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
-        "title_en": null,
-        "title_original": "为什么传奇的埃尔德什问题正被人工智能攻克",
-        "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
-        "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
+        "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+        "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
+        "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+        "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+        "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
+        "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
+        "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a0201a182310",
-      "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-      "url": "https://www.ithome.com/0/986/174.htm",
-      "primary_url": "https://www.ithome.com/0/986/174.htm",
+      "story_id": "story_bc2654020696",
+      "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+      "url": "https://www.ithome.com/0/986/729.htm",
+      "primary_url": "https://www.ithome.com/0/986/729.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
-          "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-          "title_zh": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+          "id": "b7ed4aea7864403ee8647c28d367e9bc05306de5",
+          "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+          "title_zh": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
           "title_en": null,
-          "title_original": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-          "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
-          "url": "https://www.ithome.com/0/986/174.htm",
+          "title_original": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+          "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+          "url": "https://www.ithome.com/0/986/729.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T10:12:57Z"
+          "published_at": "2026-08-06T12:49:13Z"
         }
       ],
       "source_count": 1,
@@ -1239,581 +1669,47 @@
       ],
       "items": [
         {
-          "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
-          "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-          "title_zh": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+          "id": "b7ed4aea7864403ee8647c28d367e9bc05306de5",
+          "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+          "title_zh": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
           "title_en": null,
-          "title_original": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-          "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
-          "url": "https://www.ithome.com/0/986/174.htm",
+          "title_original": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+          "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+          "url": "https://www.ithome.com/0/986/729.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T10:12:57Z"
+          "published_at": "2026-08-06T12:49:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7782,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T10:12:57Z",
-      "latest_at": "2026-08-05T10:12:57Z",
-      "primary_item": {
-        "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
-        "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-        "title_zh": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-        "title_en": null,
-        "title_original": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-        "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
-        "url": "https://www.ithome.com/0/986/174.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9fcfc66ddcf9",
-      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-      "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-      "primary_url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
-          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_en": null,
-          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
-          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T14:30:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
-          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_en": null,
-          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
-          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T14:30:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8281,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T14:30:53Z",
-      "latest_at": "2026-08-05T14:30:53Z",
-      "primary_item": {
-        "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
-        "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-        "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-        "title_en": null,
-        "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-        "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
-        "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94d891c34e3e",
-      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "primary_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7817,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T10:31:42Z",
-      "latest_at": "2026-08-05T10:31:42Z",
-      "primary_item": {
-        "id": "5b1866d89464f0a220d48fe86c182625be178854",
-        "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-        "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_68780b286f98",
-      "title": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-      "url": "https://www.aibase.com/news/30150",
-      "primary_url": "https://www.aibase.com/news/30150",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "23d754768956794c563f080ab74fedaa668d4cda",
-          "title": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-          "title_zh": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-          "title_en": null,
-          "title_original": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T03:34:49.538066Z"
-        },
-        {
-          "id": "01fcb63a9baba70268712914d593d1d85563f1b8",
-          "title": "谷歌宣布 2026 年 9 月停用 Android 和 Wear OS 版 Google Assistant，全面转向 Gemini",
-          "title_zh": "谷歌宣布 2026 年 9 月停用 Android 和 Wear OS 版 Google Assistant，全面转向 Gemini",
-          "title_en": null,
-          "title_original": "谷歌宣布 2026 年 9 月停用 Android 和 Wear OS 版 Google Assistant，全面转向 Gemini",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30150",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "23d754768956794c563f080ab74fedaa668d4cda",
-          "title": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-          "title_zh": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-          "title_en": null,
-          "title_original": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T03:34:49.538066Z"
-        },
-        {
-          "id": "01fcb63a9baba70268712914d593d1d85563f1b8",
-          "title": "谷歌宣布 2026 年 9 月停用 Android 和 Wear OS 版 Google Assistant，全面转向 Gemini",
-          "title_zh": "谷歌宣布 2026 年 9 月停用 Android 和 Wear OS 版 Google Assistant，全面转向 Gemini",
-          "title_en": null,
-          "title_original": "谷歌宣布 2026 年 9 月停用 Android 和 Wear OS 版 Google Assistant，全面转向 Gemini",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30150",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T03:34:49.538066Z",
-      "latest_at": "2026-08-06T03:34:49.538066Z",
-      "primary_item": {
-        "id": "23d754768956794c563f080ab74fedaa668d4cda",
-        "title": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-        "title_zh": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-        "title_en": null,
-        "title_original": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30150",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ec0e53c55d9e",
-      "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
-      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-      "primary_url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-      "source": "AI as Normal Technology（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
-          "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
-          "title_zh": "AI智能体尚无法开展开放式AI研究",
-          "title_en": "AI agents can't yet do open-ended AI research",
-          "title_original": "AI agents can't yet do open-ended AI research",
-          "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
-          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-          "source": "AI as Normal Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:49:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AI as Normal Technology（RSS）"
-      ],
-      "items": [
-        {
-          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
-          "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
-          "title_zh": "AI智能体尚无法开展开放式AI研究",
-          "title_en": "AI agents can't yet do open-ended AI research",
-          "title_original": "AI agents can't yet do open-ended AI research",
-          "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
-          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-          "source": "AI as Normal Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:49:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8198,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T13:49:19Z",
-      "latest_at": "2026-08-05T13:49:19Z",
-      "primary_item": {
-        "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
-        "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
-        "title_zh": "AI智能体尚无法开展开放式AI研究",
-        "title_en": "AI agents can't yet do open-ended AI research",
-        "title_original": "AI agents can't yet do open-ended AI research",
-        "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
-        "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-        "source": "AI as Normal Technology（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e54604d72eb4",
-      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-          "title_zh": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-          "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-          "title_original": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-          "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
-          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:56:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-          "title_zh": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-          "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-          "title_original": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-          "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
-          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:56:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9217,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T21:56:03Z",
-      "latest_at": "2026-08-05T21:56:03Z",
-      "primary_item": {
-        "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
-        "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-        "title_zh": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-        "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-        "title_original": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-        "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
-        "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_09aaba0a6ec5",
-      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-      "primary_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7cd4bc0a755ec04ec1728710e9dcd2cc894f3f7",
-          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
-          "title_zh": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-          "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
-          "title_original": "One-shotting a Raccoon Heist game using Claude Fable 5",
-          "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
-          "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:42:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "d7cd4bc0a755ec04ec1728710e9dcd2cc894f3f7",
-          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
-          "title_zh": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-          "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
-          "title_original": "One-shotting a Raccoon Heist game using Claude Fable 5",
-          "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
-          "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:42:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 0.812,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-05T19:42:38Z",
-      "latest_at": "2026-08-05T19:42:38Z",
+      "earliest_at": "2026-08-06T12:49:13Z",
+      "latest_at": "2026-08-06T12:49:13Z",
       "primary_item": {
-        "id": "d7cd4bc0a755ec04ec1728710e9dcd2cc894f3f7",
-        "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
-        "title_zh": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-        "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
-        "title_original": "One-shotting a Raccoon Heist game using Claude Fable 5",
-        "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
-        "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f3c5450081e7",
-      "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-      "url": "https://blog.cloudflare.com/the-agent-access-model",
-      "primary_url": "https://blog.cloudflare.com/the-agent-access-model",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-          "title_en": "The Agent Access Model",
-          "title_original": "The Agent Access Model",
-          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-          "title_en": "The Agent Access Model",
-          "title_original": "The Agent Access Model",
-          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8103,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T13:00:41Z",
-      "latest_at": "2026-08-05T13:00:41Z",
-      "primary_item": {
-        "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-        "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-        "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-        "title_en": "The Agent Access Model",
-        "title_original": "The Agent Access Model",
-        "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-        "url": "https://blog.cloudflare.com/the-agent-access-model",
-        "source": "Cloudflare Blog",
+        "id": "b7ed4aea7864403ee8647c28d367e9bc05306de5",
+        "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+        "title_zh": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+        "title_en": null,
+        "title_original": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+        "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+        "url": "https://www.ithome.com/0/986/729.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
