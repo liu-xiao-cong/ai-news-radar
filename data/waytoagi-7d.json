@@ -1,45 +1,55 @@
 {
-  "generated_at": "2026-08-08T02:20:33.979819Z",
+  "generated_at": "2026-08-09T02:27:34.930159Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-07",
-  "count_today": 6,
+  "latest_date": "2026-08-08",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-08-07",
-      "title": "很多人的Vibe Coding还停在“让 AI 帮我写代码、做提效工具”。B站这批作品已经玩到更生活化的方向：督学官、大狗叫模拟器、AI 小镇、弹幕创世、时空电话、AI 猫娘。想做 AI 小产品、找灵感或理解“产品内容化”的人可以打开看看。",
+      "date": "2026-08-08",
+      "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-07",
-      "title": "很多人家里都有一两台闲置电脑，如果用Tailscale和SSH连成私网，再按硬件分工，就能变成一套可远程调度的 AI 工作室。小耳这篇文章会给大家详细讲解下具体是怎么实现的。",
+      "date": "2026-08-08",
+      "title": "老金分享了一套跨平台通用的审计提示词，可以自动挖掘近30天的高频重复操作，输出频次、时间损耗、风险预判与落地建议。然后后台会自动生成审计报告与可复用的指令。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-07",
-      "title": "即便只有RTX5070 Laptop、8GB显存的Windows笔记本，达不到主流视频模型的硬件门槛，也可以完整跑通艺术史短片本地制作链路。作者拆解了整套实操框架，厘清了各环节的分工、对应模型与部署要点，同时还整理了各种踩坑经验。快来看看！",
+      "date": "2026-08-08",
+      "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-07",
-      "title": "今天，火山引擎开放了 Seedance 2.5 API。来看看海辛和阿文在真实项目中的测试效果。这次最直观的变化，是AI视频里那种“油腻感”被压下去了不少：人物肤质没那么塑料，表情和呼吸更细，雨雾、反射、材质、城市光影也更像在同一个真实空间里发生。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills。这套技能库包含1个底层提示词能力，搭配8个垂直风格Agent生成器，覆盖3D动画、电商广告、品牌宣传片、MV等众多创作场景。支持多种生成模式，产出结构化描述、分镜脚本与评审清单，可以帮创作者快速搭建一套质量可控的标准化多模态视频生产流水线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Finn Mallery 访谈了十位增长很快的 YC 创始人，覆盖新锐项目与数十亿美元估值企业，深挖了他们的真实获客与增长路径。尽管各家赛道、投放渠道差异很大，但做事次序却很接近。由此提炼出了一套四步增长框架，框架逻辑看似很简单，背后却都是硬核的实战案例：有团队两年做到4000万美元年收入。",
+      "date": "2026-08-08",
+      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-08-08",
+      "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "老金分享了一套跨平台通用的审计提示词，可以自动挖掘近30天的高频重复操作，输出频次、时间损耗、风险预判与落地建议。然后后台会自动生成审计报告与可复用的指令。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-07",
       "title": "很多人的Vibe Coding还停在“让 AI 帮我写代码、做提效工具”。B站这批作品已经玩到更生活化的方向：督学官、大狗叫模拟器、AI 小镇、弹幕创世、时空电话、AI 猫娘。想做 AI 小产品、找灵感或理解“产品内容化”的人可以打开看看。",
@@ -188,41 +198,6 @@
     {
       "date": "2026-08-03",
       "title": "MiniMax H3正式开源，能统一理解文本、图片、视频、音频输入等构成的多模态上下文，生成最长 15 秒、最高 2K、带原生立体声音频的视频；还支持首尾帧、参考图/视频/音频等多种模式。更关键的是，H3-Base已开放本地部署，支持SGLang、vLLM、diffusers、ComfyUI；官方还给了 768p 本地验证和 2K 完整工作流。快来部署到自己的工作流里试一试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "这篇文章带你厘清Agent工程中三个常被混为一谈的结构：Harness Engineering可以理解成运行环境，负责给模型工具、记忆、权限、工作空间和可观测性；Loop Engineering负责让任务能根据证据反复检查、修正和停止；Graph Engineering则把复杂流程里的分支、并行、审批和人工关口画清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "很多做出海和内容增长的人，会把Reddit当成发帖渠道，结果辛苦发完没人看，还容易被当广告。这篇文章系统分析了Reddit平台的SEO与GEO增长机会。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "做AI视频最怕两件事：别人的案例看起来很炸，自己一上手就角色混乱、镜头断掉、改一处还得重来；再加上积分贵，试错几次就肉疼。作者的团队深耕AI短剧创作，这次也拿即梦Seedance 2.5做了 10 个实测案例，可以帮你判断Seedance 2.5 值不值得用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Codex Plus用户不必急于升级昂贵的Pro套餐。伴随Luna大幅降价80%，一套高低搭配的模型协作方案或许会帮助到你：Sol负责架构规划、需求研判等高价值决策，Luna承担代码修改、补充测试等标准化执行工作。文中附带现成提示词、子代理配置方式。借助这套分工模式，用20美元档位的订阅搭建AI工作小队，可以大大压缩token消耗，拉高单人开发效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],

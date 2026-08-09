@@ -1,391 +1,141 @@
 {
-  "generated_at": "2026-08-08T02:20:33.979819Z",
+  "generated_at": "2026-08-09T02:27:34.930159Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 14,
   "items": [
     {
-      "story_id": "story_833934ee3b25",
-      "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
-          "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": "Responding to the next frontier of critical cyber capabilities",
-          "title_original": "Responding to the next frontier of critical cyber capabilities",
-          "summary": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:20:00Z"
-        },
-        {
-          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
-          "title": "应对关键网络能力的下一个前沿领域",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": null,
-          "title_original": "应对关键网络能力的下一个前沿领域",
-          "summary": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T19:58:36.823000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
-          "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": "Responding to the next frontier of critical cyber capabilities",
-          "title_original": "Responding to the next frontier of critical cyber capabilities",
-          "summary": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:20:00Z"
-        },
-        {
-          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
-          "title": "应对关键网络能力的下一个前沿领域",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": null,
-          "title_original": "应对关键网络能力的下一个前沿领域",
-          "summary": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T19:58:36.823000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8505,
-      "importance": 0.8505,
-      "importance_score": 0.8505,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.853,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T15:20:00Z",
-      "latest_at": "2026-08-07T19:58:36.823000Z",
-      "primary_item": {
-        "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
-        "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-        "title_zh": "应对关键网络能力的下一个前沿领域",
-        "title_en": "Responding to the next frontier of critical cyber capabilities",
-        "title_original": "Responding to the next frontier of critical cyber capabilities",
-        "summary": null,
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_413964f479f7",
-      "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-          "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-          "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-          "title_en": "GitHub Copilot weekly releases — August 3",
-          "title_original": "GitHub Copilot weekly releases — August 3",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T23:16:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-          "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-          "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-          "title_en": "GitHub Copilot weekly releases — August 3",
-          "title_original": "GitHub Copilot weekly releases — August 3",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T23:16:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9566,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T23:16:02Z",
-      "latest_at": "2026-08-07T23:16:02Z",
-      "primary_item": {
-        "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-        "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-        "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-        "title_en": "GitHub Copilot weekly releases — August 3",
-        "title_original": "GitHub Copilot weekly releases — August 3",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fd5b733b3580",
-      "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "primary_url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-          "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_zh": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？",
-          "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "summary": null,
-          "url": "https://huggingface.co/blog/allenai/tutormoments",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:53:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-          "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_zh": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？",
-          "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "summary": null,
-          "url": "https://huggingface.co/blog/allenai/tutormoments",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:53:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8851,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T17:53:32Z",
-      "latest_at": "2026-08-07T17:53:32Z",
-      "primary_item": {
-        "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-        "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "title_zh": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？",
-        "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "summary": null,
-        "url": "https://huggingface.co/blog/allenai/tutormoments",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-      "source": "公众号：火山引擎",
+      "story_id": "story_0e629a938b0d",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
           "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
+          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
+          "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_en": null,
-          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
         },
         {
-          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
-          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "title_zh": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "title_en": null,
-          "title_original": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "summary": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:41:21Z"
+          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "title_zh": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "title_en": null,
-          "title_original": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:01:45Z"
+          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T10:57:44Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "公众号：小红书技术（dots.llm）",
-        "公众号：火山引擎",
-        "公众号：蚂蚁百灵（Ling）",
-        "公众号：面壁智能（MiniCPM）"
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Simon Willison",
+        "simonwillison.net"
       ],
       "items": [
         {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
           "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
+          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
+          "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_en": null,
-          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
         },
         {
-          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
-          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "title_zh": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "title_en": null,
-          "title_original": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "summary": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:41:21Z"
+          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "title_zh": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "title_en": null,
-          "title_original": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:01:45Z"
+          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T10:57:44Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7458,
+        "recency": 0.8431,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -394,390 +144,213 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T06:01:45Z",
-      "latest_at": "2026-08-07T12:02:16Z",
+      "earliest_at": "2026-08-08T10:57:44Z",
+      "latest_at": "2026-08-08T14:38:40.439000Z",
       "primary_item": {
-        "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-        "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-        "title_zh": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
         "title_en": null,
-        "title_original": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-        "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-        "source": "公众号：火山引擎",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6f79108c376f",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "primary_url": "https://blog.cloudflare.com/kitesurf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_en": null,
-          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        },
-        {
-          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
-          "title_zh": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器",
-          "title_en": "Kitesurf: Agent-first browser that runs in V8 isolates",
-          "title_original": "Kitesurf: Agent-first browser that runs in V8 isolates",
-          "summary": null,
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T10:42:07Z"
-        },
-        {
-          "id": "7ce1eba3c5d5a7477183877cabf1cb95f35dee06",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "title_zh": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器",
-          "title_en": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "title_original": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "summary": null,
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T07:16:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)"
-      ],
-      "items": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_en": null,
-          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        },
-        {
-          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
-          "title_zh": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器",
-          "title_en": "Kitesurf: Agent-first browser that runs in V8 isolates",
-          "title_original": "Kitesurf: Agent-first browser that runs in V8 isolates",
-          "summary": null,
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T10:42:07Z"
-        },
-        {
-          "id": "7ce1eba3c5d5a7477183877cabf1cb95f35dee06",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "title_zh": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器",
-          "title_en": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "title_original": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "summary": null,
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T07:16:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8982,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T07:16:50Z",
-      "latest_at": "2026-08-07T18:54:34.746000Z",
-      "primary_item": {
-        "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_en": null,
-        "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-        "url": "https://blog.cloudflare.com/kitesurf",
+        "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_4eef4078b0c6",
-      "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "副驾驶影响仪表板添加了投资回报部分",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "副驾驶影响仪表板添加了投资回报部分",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.927,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:05:37Z",
-      "latest_at": "2026-08-07T21:05:37Z",
-      "primary_item": {
-        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-        "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-        "title_zh": "副驾驶影响仪表板添加了投资回报部分",
-        "title_en": "Copilot impact dashboard adds a return on investment section",
-        "title_original": "Copilot impact dashboard adds a return on investment section",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2ee94000fec4",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "primary_url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_zh": null,
-          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "summary": null,
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_zh": null,
-          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "summary": null,
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7785,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T09:00:00Z",
-      "latest_at": "2026-08-07T09:00:00Z",
-      "primary_item": {
-        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-        "title_zh": null,
-        "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
-        "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
-        "summary": null,
-        "url": "https://openai.com/index/hsp-gruppe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f1f3f6f098ab",
-      "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-          "title_zh": "副驾驶代码审查工作水平通常可用",
-          "title_en": "Copilot code review effort levels are generally available",
-          "title_original": "Copilot code review effort levels are generally available",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-          "title_zh": "副驾驶代码审查工作水平通常可用",
-          "title_en": "Copilot code review effort levels are generally available",
-          "title_original": "Copilot code review effort levels are generally available",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9234,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T20:49:26Z",
-      "latest_at": "2026-08-07T20:49:26Z",
-      "primary_item": {
-        "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-        "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-        "title_zh": "副驾驶代码审查工作水平通常可用",
-        "title_en": "Copilot code review effort levels are generally available",
-        "title_original": "Copilot code review effort levels are generally available",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8ce398d73cfe",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "url": "https://www.ithome.com/0/987/221.htm",
-      "primary_url": "https://www.ithome.com/0/987/221.htm",
+      "story_id": "story_10f59a98f1f0",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
           "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "url": "https://www.ithome.com/0/987/221.htm",
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "url": "https://www.ithome.com/0/987/438.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "summary": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "summary": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8311,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_en": null,
+        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0dc29721eaf2",
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "primary_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
+          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T11:05:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
+          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T11:05:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.801,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T11:05:50Z",
+      "latest_at": "2026-08-08T11:05:50Z",
+      "primary_item": {
+        "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+        "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+        "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+        "title_original": "DeepMind's hurricane model bought forecasters an extra day",
+        "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f5f4233a6e75",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "primary_url": "https://www.ithome.com/0/987/452.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
         }
       ],
       "source_count": 1,
@@ -786,30 +359,30 @@
       ],
       "items": [
         {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
           "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "url": "https://www.ithome.com/0/987/221.htm",
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "url": "https://www.ithome.com/0/987/452.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
+          "published_at": "2026-08-08T22:46:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
+        "recency": 0.9481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,816 +390,1005 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T23:08:56Z",
-      "latest_at": "2026-08-07T23:08:56Z",
+      "earliest_at": "2026-08-08T22:46:14Z",
+      "latest_at": "2026-08-08T22:46:14Z",
       "primary_item": {
-        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
         "title_en": null,
-        "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-        "url": "https://www.ithome.com/0/987/221.htm",
+        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+        "url": "https://www.ithome.com/0/987/452.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5f60034b7e7a",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "story_id": "story_3953398d556f",
+      "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
+      "url": "https://x.com/elonmusk/status/2086127247077843282",
+      "primary_url": "https://x.com/elonmusk/status/2086127247077843282",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_zh": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_original": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
+          "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
+          "title_zh": "Grok Imagine 图像编辑迎来重大升级",
+          "title_en": "Major upgrade to Grok Imagine image editing",
+          "title_original": "Major upgrade to Grok Imagine image editing",
+          "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+          "url": "https://x.com/elonmusk/status/2086127247077843282",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24.888000Z"
+          "published_at": "2026-08-08T16:27:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "X：Elon Musk (@elonmusk, xAI)"
       ],
       "items": [
         {
-          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_zh": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_original": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
+          "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
+          "title_zh": "Grok Imagine 图像编辑迎来重大升级",
+          "title_en": "Major upgrade to Grok Imagine image editing",
+          "title_original": "Major upgrade to Grok Imagine image editing",
+          "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+          "url": "https://x.com/elonmusk/status/2086127247077843282",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24.888000Z"
+          "published_at": "2026-08-08T16:27:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8656,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T16:27:48Z",
+      "latest_at": "2026-08-08T16:27:48Z",
+      "primary_item": {
+        "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
+        "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
+        "title_zh": "Grok Imagine 图像编辑迎来重大升级",
+        "title_en": "Major upgrade to Grok Imagine image editing",
+        "title_original": "Major upgrade to Grok Imagine image editing",
+        "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+        "url": "https://x.com/elonmusk/status/2086127247077843282",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f86125a0b832",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "primary_url": "https://www.ithome.com/0/987/366.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_en": null,
+          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_en": null,
+          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8847,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T17:51:24.888000Z",
-      "latest_at": "2026-08-07T17:51:24.888000Z",
-      "primary_item": {
-        "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-        "title_zh": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-        "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-        "title_original": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-        "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-        "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_997374fbcfe0",
-      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "primary_url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9114,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T19:55:17Z",
-      "latest_at": "2026-08-07T19:55:17Z",
-      "primary_item": {
-        "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-        "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_zh": "Claude Code 会话间可互发消息",
-        "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-        "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_292877bb53e6",
-      "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型 / After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-      "url": "https://x.com/OpenAI/status/2085801349866729975",
-      "primary_url": "https://x.com/OpenAI/status/2085801349866729975",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "de7bec17fc19aa883088e7e3196c1edf80764cd4",
-          "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型 / After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-          "title_zh": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
-          "title_en": "After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-          "title_original": "After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-          "summary": "OpenAI 在评估其即将推出的模型 Astra 后，依据\"准备框架\"将其列为首个\"关键\"网络安全模型。OpenAI 表示已为此情景做好规划，并将实施额外控制措施以确保 Astra 后续开发的安全。该公司正努力让 Astra 广泛可用，并将其先进网络能力交到防御者手中。",
-          "url": "https://x.com/OpenAI/status/2085801349866729975",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:52:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "de7bec17fc19aa883088e7e3196c1edf80764cd4",
-          "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型 / After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-          "title_zh": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
-          "title_en": "After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-          "title_original": "After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-          "summary": "OpenAI 在评估其即将推出的模型 Astra 后，依据\"准备框架\"将其列为首个\"关键\"网络安全模型。OpenAI 表示已为此情景做好规划，并将实施额外控制措施以确保 Astra 后续开发的安全。该公司正努力让 Astra 广泛可用，并将其先进网络能力交到防御者手中。",
-          "url": "https://x.com/OpenAI/status/2085801349866729975",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:52:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8978,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T18:52:48Z",
-      "latest_at": "2026-08-07T18:52:48Z",
+      "earliest_at": "2026-08-08T08:25:11Z",
+      "latest_at": "2026-08-08T08:25:11Z",
       "primary_item": {
-        "id": "de7bec17fc19aa883088e7e3196c1edf80764cd4",
-        "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型 / After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-        "title_zh": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
-        "title_en": "After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-        "title_original": "After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-        "summary": "OpenAI 在评估其即将推出的模型 Astra 后，依据\"准备框架\"将其列为首个\"关键\"网络安全模型。OpenAI 表示已为此情景做好规划，并将实施额外控制措施以确保 Astra 后续开发的安全。该公司正努力让 Astra 广泛可用，并将其先进网络能力交到防御者手中。",
-        "url": "https://x.com/OpenAI/status/2085801349866729975",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4c412f1fef52",
-      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-      "url": "https://www.aibase.com/news/30199",
-      "primary_url": "https://www.aibase.com/news/30199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_en": null,
-          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T17:20:33.979819Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_en": null,
-          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T17:20:33.979819Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T17:20:33.979819Z",
-      "latest_at": "2026-08-07T17:20:33.979819Z",
-      "primary_item": {
-        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
         "title_en": null,
-        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30199",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1256b7011cc5",
-      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T18:20:47Z",
-      "latest_at": "2026-08-07T18:20:47Z",
-      "primary_item": {
-        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-        "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-        "title_en": "Copilot usage metrics API adds agent app activity",
-        "title_original": "Copilot usage metrics API adds agent app activity",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_38e74641f6c3",
-      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-      "url": "https://x.com/runwayml/status/2085684483366523193",
-      "primary_url": "https://x.com/runwayml/status/2085684483366523193",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
-          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-          "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-          "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-          "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-          "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-          "url": "https://x.com/runwayml/status/2085684483366523193",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T11:08:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
-          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-          "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-          "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-          "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-          "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-          "url": "https://x.com/runwayml/status/2085684483366523193",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T11:08:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8029,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T11:08:25Z",
-      "latest_at": "2026-08-07T11:08:25Z",
-      "primary_item": {
-        "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
-        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-        "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-        "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-        "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-        "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-        "url": "https://x.com/runwayml/status/2085684483366523193",
-        "source": "X：Runway (@runwayml)",
+        "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ac0902ce673b",
-      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-      "primary_url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-08",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
-          "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-          "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
-          "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-          "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-          "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
-          "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:50:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
-          "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-          "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
-          "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-          "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-          "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
-          "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:50:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.823,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T12:50:56Z",
-      "latest_at": "2026-08-07T12:50:56Z",
-      "primary_item": {
-        "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
-        "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-        "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
-        "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-        "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-        "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
-        "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_342517f3a3eb",
-      "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-      "url": "https://x.com/krea_ai/status/2085629541385736662",
-      "primary_url": "https://x.com/krea_ai/status/2085629541385736662",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e809506aac5a613385def31f8c88b577abc01d23",
-          "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-          "title_zh": "Krea 推出 Seedance 2.5 视频模型",
-          "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-          "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-          "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
-          "url": "https://x.com/krea_ai/status/2085629541385736662",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T07:30:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "e809506aac5a613385def31f8c88b577abc01d23",
-          "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-          "title_zh": "Krea 推出 Seedance 2.5 视频模型",
-          "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-          "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-          "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
-          "url": "https://x.com/krea_ai/status/2085629541385736662",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T07:30:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7618,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T07:30:06Z",
-      "latest_at": "2026-08-07T07:30:06Z",
-      "primary_item": {
-        "id": "e809506aac5a613385def31f8c88b577abc01d23",
-        "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-        "title_zh": "Krea 推出 Seedance 2.5 视频模型",
-        "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-        "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-        "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
-        "url": "https://x.com/krea_ai/status/2085629541385736662",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_879b36b11e4d",
-      "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-      "url": "https://www.aibase.com/news/30197",
-      "primary_url": "https://www.aibase.com/news/30197",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "id": "867386527044643fb09ee2e07147050f4445b7bd",
+          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "title_zh": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
           "title_en": null,
-          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T16:20:33.979819Z"
+          "title_original": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-09T02:27:34.930159Z"
+        },
+        {
+          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
+          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "title_zh": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "title_en": null,
+          "title_original": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "summary": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-09T02:27:34.930159Z"
+        },
+        {
+          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
+          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "title_zh": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "title_en": null,
+          "title_original": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-09T02:27:34.930159Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "社区更新 · 2026-08-08"
       ],
       "items": [
         {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "id": "867386527044643fb09ee2e07147050f4445b7bd",
+          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "title_zh": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
           "title_en": null,
-          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T16:20:33.979819Z"
+          "title_original": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-09T02:27:34.930159Z"
+        },
+        {
+          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
+          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "title_zh": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "title_en": null,
+          "title_original": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "summary": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-09T02:27:34.930159Z"
+        },
+        {
+          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
+          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "title_zh": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "title_en": null,
+          "title_original": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-09T02:27:34.930159Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8655,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T16:20:33.979819Z",
-      "latest_at": "2026-08-07T16:20:33.979819Z",
+      "earliest_at": "2026-08-09T02:27:34.930159Z",
+      "latest_at": "2026-08-09T02:27:34.930159Z",
       "primary_item": {
-        "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-        "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "id": "867386527044643fb09ee2e07147050f4445b7bd",
+        "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+        "title_zh": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
         "title_en": null,
-        "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30197",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+        "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-08",
+        "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_fe0607b1a1dc",
-      "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_18b0dbee24c9",
+      "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "primary_url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
+          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T22:36:03Z"
+        },
+        {
+          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_en": null,
+          "title_original": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Readhub · AI",
+        "Simon Willison"
       ],
       "items": [
         {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
+          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T22:36:03Z"
+        },
+        {
+          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_en": null,
+          "title_original": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6006,
+      "importance": 0.6006,
+      "importance_score": 0.6006,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9347,
-        "story_heat": 0.0
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9458,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T21:40:03Z",
-      "latest_at": "2026-08-07T21:40:03Z",
+      "earliest_at": "2026-08-08T22:36:03Z",
+      "latest_at": "2026-08-09T02:27:34.930159Z",
       "primary_item": {
-        "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-        "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-        "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-        "title_en": "Enterprises can now install third-party GitHub Apps",
-        "title_original": "Enterprises can now install third-party GitHub Apps",
+        "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+        "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+        "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+        "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+        "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_d2df922b8b97",
-      "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-      "url": "https://www.aibase.com/news/30196",
-      "primary_url": "https://www.aibase.com/news/30196",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6ce826369197",
+      "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+      "primary_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+      "source": "mezha.net",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "title_zh": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
           "title_en": null,
-          "title_original": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
           "summary": null,
-          "url": "https://www.aibase.com/news/30196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T16:20:33.979819Z"
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "mezha.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T19:26:49.887000Z"
+        },
+        {
+          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
+          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "title_en": "Danish high schoolers will have to verbally defend written assignments",
+          "title_original": "Danish high schoolers will have to verbally defend written assignments",
+          "summary": null,
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
+        },
+        {
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "summary": null,
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T18:09:31Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "mezha.net"
       ],
       "items": [
         {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "title_zh": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
           "title_en": null,
-          "title_original": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
           "summary": null,
-          "url": "https://www.aibase.com/news/30196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T16:20:33.979819Z"
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "mezha.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T19:26:49.887000Z"
+        },
+        {
+          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
+          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "title_en": "Danish high schoolers will have to verbally defend written assignments",
+          "title_original": "Danish high schoolers will have to verbally defend written assignments",
+          "summary": null,
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
+        },
+        {
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "summary": null,
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T18:09:31Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5535,
+      "importance": 0.5535,
+      "importance_score": 0.5535,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8655,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9037,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T16:20:33.979819Z",
-      "latest_at": "2026-08-07T16:20:33.979819Z",
+      "earliest_at": "2026-08-08T18:09:31Z",
+      "latest_at": "2026-08-08T19:26:49.887000Z",
       "primary_item": {
-        "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-        "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-        "title_zh": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+        "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+        "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+        "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
         "title_en": null,
-        "title_original": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+        "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
         "summary": null,
-        "url": "https://www.aibase.com/news/30196",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+        "source": "mezha.net",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_787ae63fa6c8",
+      "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+      "url": "https://www.ithome.com/0/987/488.htm",
+      "primary_url": "https://www.ithome.com/0/987/488.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
+          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_zh": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_en": null,
+          "title_original": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "summary": null,
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
+          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_zh": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_en": null,
+          "title_original": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "summary": null,
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T01:32:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
+          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_zh": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_en": null,
+          "title_original": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "summary": null,
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
+          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_zh": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "title_en": null,
+          "title_original": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "summary": null,
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T01:32:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T01:32:33Z",
+      "latest_at": "2026-08-09T02:27:34.930159Z",
+      "primary_item": {
+        "id": "31b35d1e00d12ff5914c0e04c458178999115311",
+        "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+        "title_zh": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+        "title_en": null,
+        "title_original": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+        "summary": null,
+        "url": "https://www.ithome.com/0/987/488.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7356e5d63521",
+      "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+      "url": "https://github.com/sebastiancarlos/faaah",
+      "primary_url": "https://github.com/sebastiancarlos/faaah",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "title_zh": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "title_en": null,
+          "title_original": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "summary": null,
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "title_zh": "faaah（文件系统作为人工智能处理器）",
+          "title_en": null,
+          "title_original": "faaah（文件系统作为人工智能处理器）",
+          "summary": null,
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "title_zh": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "title_en": null,
+          "title_original": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "summary": null,
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "title_zh": "faaah（文件系统作为人工智能处理器）",
+          "title_en": null,
+          "title_original": "faaah（文件系统作为人工智能处理器）",
+          "summary": null,
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9574,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T23:10:34.737000Z",
+      "latest_at": "2026-08-08T23:26:37.332000Z",
+      "primary_item": {
+        "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+        "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+        "title_zh": "Show HN: Faaah——将文件系统作为人工智能处理器",
+        "title_en": null,
+        "title_original": "Show HN: Faaah——将文件系统作为人工智能处理器",
+        "summary": null,
+        "url": "https://github.com/sebastiancarlos/faaah",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_20c457a6c9f4",
+      "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "primary_url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "title_en": "OpenAI to pause some work on AI model Astra due to security concerns",
+          "title_original": "OpenAI to pause some work on AI model Astra due to security concerns",
+          "summary": null,
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-08T19:36:12Z"
+        },
+        {
+          "id": "0624952d6fd330f60cd86f05a1924c0396942525",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "title_en": null,
+          "title_original": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "summary": null,
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T17:02:33.264000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "title_en": "OpenAI to pause some work on AI model Astra due to security concerns",
+          "title_original": "OpenAI to pause some work on AI model Astra due to security concerns",
+          "summary": null,
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-08T19:36:12Z"
+        },
+        {
+          "id": "0624952d6fd330f60cd86f05a1924c0396942525",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "title_en": null,
+          "title_original": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "summary": null,
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T17:02:33.264000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9057,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T17:02:33.264000Z",
+      "latest_at": "2026-08-08T19:36:12Z",
+      "primary_item": {
+        "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
+        "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+        "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+        "title_en": "OpenAI to pause some work on AI model Astra due to security concerns",
+        "title_original": "OpenAI to pause some work on AI model Astra due to security concerns",
+        "summary": null,
+        "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_b0cc69c2019c",
+      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "primary_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "source": "social.treehouse.systems",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_en": null,
+          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "summary": null,
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "social.treehouse.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:06:47.814000Z"
+        },
+        {
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
+          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+          "summary": null,
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:55:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "social.treehouse.systems"
+      ],
+      "items": [
+        {
+          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_en": null,
+          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "summary": null,
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "social.treehouse.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:06:47.814000Z"
+        },
+        {
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
+          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+          "summary": null,
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:55:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8865,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T13:55:42Z",
+      "latest_at": "2026-08-08T18:06:47.814000Z",
+      "primary_item": {
+        "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+        "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "title_en": null,
+        "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "summary": null,
+        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+        "source": "social.treehouse.systems",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_159e06467b2c",
+      "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+      "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_en": null,
+          "title_original": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_en": "The AI boom is creating data center jobs that pay more",
+          "title_original": "The AI boom is creating data center jobs that pay more",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_en": null,
+          "title_original": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_en": "The AI boom is creating data center jobs that pay more",
+          "title_original": "The AI boom is creating data center jobs that pay more",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8144,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T12:00:01Z",
+      "latest_at": "2026-08-08T12:14:35.904000Z",
+      "primary_item": {
+        "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+        "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "title_en": null,
+        "title_original": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "summary": null,
+        "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
