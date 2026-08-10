@@ -1,142 +1,115 @@
 {
-  "generated_at": "2026-08-09T02:27:34.930159Z",
+  "generated_at": "2026-08-10T02:33:10.514983Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_0e629a938b0d",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_6cbde97d8260",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "source": "公众号：千问APP（阿里）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
           "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-10T02:07:18Z"
         },
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
           "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
         },
         {
-          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T10:57:44Z"
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_en": null,
+          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Simon Willison",
-        "simonwillison.net"
+        "公众号：千问APP（阿里）",
+        "公众号：卡尔的AI沃茨",
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
           "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-10T02:07:18Z"
         },
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
           "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
         },
         {
-          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T10:57:44Z"
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_en": null,
+          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
-        "story_heat": 0.75
+        "recency": 0.9938,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -144,99 +117,99 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-08T10:57:44Z",
-      "latest_at": "2026-08-08T14:38:40.439000Z",
+      "earliest_at": "2026-08-09T05:25:02Z",
+      "latest_at": "2026-08-10T02:07:18Z",
       "primary_item": {
-        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+        "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
         "title_en": null,
-        "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+        "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_10f59a98f1f0",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "primary_url": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d5d9b7636ae0",
+      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+      "url": "https://www.aibase.com/news/30202",
+      "primary_url": "https://www.aibase.com/news/30202",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30202",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
         },
         {
-          "id": "682068a11714b8eea5aae54179de865fdd172a09",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "id": "0aae882ef699386cb44790278fe33c1240cbe17b",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "summary": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T13:38:40Z"
+          "url": "https://www.aibase.com/zh/news/30202",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30202",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
         },
         {
-          "id": "682068a11714b8eea5aae54179de865fdd172a09",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "id": "0aae882ef699386cb44790278fe33c1240cbe17b",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "summary": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T13:38:40Z"
+          "url": "https://www.aibase.com/zh/news/30202",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8311,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -245,144 +218,173 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
       "primary_item": {
-        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+        "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
         "title_en": null,
-        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-        "url": "https://www.ithome.com/0/987/438.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30202",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0dc29721eaf2",
-      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "primary_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "source": "Ars Technica：AI（RSS）",
+      "story_id": "story_80fd6ac1cf18",
+      "title": "OpenChamber：一个基于代理的开发环境",
+      "url": "https://openchamber.dev",
+      "primary_url": "https://openchamber.dev",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
-          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-          "source": "Ars Technica：AI（RSS）",
+          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": null,
+          "title_original": "OpenChamber：一个基于代理的开发环境",
+          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+          "url": "https://openchamber.dev",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T11:05:50Z"
+          "published_at": "2026-08-10T00:46:27.596000Z"
+        },
+        {
+          "id": "b0c33956015ed12f048b57acb7284c6ab31ec7be",
+          "title": "OpenChamber：一个基于代理的开发环境 / OpenChamber: An Agentic Development Environment",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": "OpenChamber: An Agentic Development Environment",
+          "title_original": "OpenChamber: An Agentic Development Environment",
+          "summary": null,
+          "url": "https://openchamber.dev",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T17:27:16Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Ars Technica：AI（RSS）"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
-          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-          "source": "Ars Technica：AI（RSS）",
+          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": null,
+          "title_original": "OpenChamber：一个基于代理的开发环境",
+          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+          "url": "https://openchamber.dev",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T11:05:50Z"
+          "published_at": "2026-08-10T00:46:27.596000Z"
+        },
+        {
+          "id": "b0c33956015ed12f048b57acb7284c6ab31ec7be",
+          "title": "OpenChamber：一个基于代理的开发环境 / OpenChamber: An Agentic Development Environment",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": "OpenChamber: An Agentic Development Environment",
+          "title_original": "OpenChamber: An Agentic Development Environment",
+          "summary": null,
+          "url": "https://openchamber.dev",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T17:27:16Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.801,
-        "story_heat": 0.0
+        "recency": 0.9746,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-08T11:05:50Z",
-      "latest_at": "2026-08-08T11:05:50Z",
+      "earliest_at": "2026-08-09T17:27:16Z",
+      "latest_at": "2026-08-10T00:46:27.596000Z",
       "primary_item": {
-        "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-        "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-        "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-        "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-        "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
-        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-        "source": "Ars Technica：AI（RSS）",
+        "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+        "title": "OpenChamber：一个基于代理的开发环境",
+        "title_zh": "OpenChamber：一个基于代理的开发环境",
+        "title_en": null,
+        "title_original": "OpenChamber：一个基于代理的开发环境",
+        "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+        "url": "https://openchamber.dev",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f5f4233a6e75",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "url": "https://www.ithome.com/0/987/452.htm",
-      "primary_url": "https://www.ithome.com/0/987/452.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_3c24ee12c06d",
+      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "primary_url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家（RSS）",
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
+          "published_at": "2026-08-09T23:58:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家（RSS）",
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
+          "published_at": "2026-08-09T23:58:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9481,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -390,112 +392,214 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-08T22:46:14Z",
-      "latest_at": "2026-08-08T22:46:14Z",
+      "earliest_at": "2026-08-09T23:58:34Z",
+      "latest_at": "2026-08-09T23:58:34Z",
       "primary_item": {
-        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_en": null,
-        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-        "url": "https://www.ithome.com/0/987/452.htm",
-        "source": "IT之家（RSS）",
+        "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+        "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+        "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+        "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_3953398d556f",
-      "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
-      "url": "https://x.com/elonmusk/status/2086127247077843282",
-      "primary_url": "https://x.com/elonmusk/status/2086127247077843282",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "story_id": "story_748db4fab79b",
+      "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+      "url": "https://www.aibase.com/news/30200",
+      "primary_url": "https://www.aibase.com/news/30200",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_en": null,
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "01c6e2c93d1b1a2fdc76401ce1431816d011d481",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_en": null,
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30200",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_en": null,
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "01c6e2c93d1b1a2fdc76401ce1431816d011d481",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_en": null,
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30200",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
+      "primary_item": {
+        "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+        "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "title_en": null,
+        "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30200",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4c5b2bdf1256",
+      "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+      "primary_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
-          "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
-          "title_zh": "Grok Imagine 图像编辑迎来重大升级",
-          "title_en": "Major upgrade to Grok Imagine image editing",
-          "title_original": "Major upgrade to Grok Imagine image editing",
-          "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
-          "url": "https://x.com/elonmusk/status/2086127247077843282",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "id": "0db338916ed46a5fc87fdacfe41de9749fceaf8f",
+          "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+          "title_zh": "AI安全测试正成为安全风险",
+          "title_en": "The AI safety test is becoming a safety risk",
+          "title_original": "The AI safety test is becoming a safety risk",
+          "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T16:27:48Z"
+          "published_at": "2026-08-09T14:30:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
-          "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
-          "title_zh": "Grok Imagine 图像编辑迎来重大升级",
-          "title_en": "Major upgrade to Grok Imagine image editing",
-          "title_original": "Major upgrade to Grok Imagine image editing",
-          "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
-          "url": "https://x.com/elonmusk/status/2086127247077843282",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "id": "0db338916ed46a5fc87fdacfe41de9749fceaf8f",
+          "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+          "title_zh": "AI安全测试正成为安全风险",
+          "title_en": "The AI safety test is becoming a safety risk",
+          "title_original": "The AI safety test is becoming a safety risk",
+          "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T16:27:48Z"
+          "published_at": "2026-08-09T14:30:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8403,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-08T16:27:48Z",
-      "latest_at": "2026-08-08T16:27:48Z",
+      "earliest_at": "2026-08-09T14:30:00Z",
+      "latest_at": "2026-08-09T14:30:00Z",
       "primary_item": {
-        "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
-        "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
-        "title_zh": "Grok Imagine 图像编辑迎来重大升级",
-        "title_en": "Major upgrade to Grok Imagine image editing",
-        "title_original": "Major upgrade to Grok Imagine image editing",
-        "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
-        "url": "https://x.com/elonmusk/status/2086127247077843282",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "id": "0db338916ed46a5fc87fdacfe41de9749fceaf8f",
+        "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+        "title_zh": "AI安全测试正成为安全风险",
+        "title_en": "The AI safety test is becoming a safety risk",
+        "title_original": "The AI safety test is becoming a safety risk",
+        "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f86125a0b832",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "primary_url": "https://www.ithome.com/0/987/366.htm",
+      "story_id": "story_a5c5772c6d72",
+      "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+      "url": "https://www.ithome.com/0/987/649.htm",
+      "primary_url": "https://www.ithome.com/0/987/649.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
+          "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+          "title_zh": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
           "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "url": "https://www.ithome.com/0/987/366.htm",
+          "title_original": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+          "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
+          "url": "https://www.ithome.com/0/987/649.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
+          "published_at": "2026-08-09T23:07:08Z"
         }
       ],
       "source_count": 1,
@@ -504,827 +608,1125 @@
       ],
       "items": [
         {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
+          "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+          "title_zh": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
           "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "url": "https://www.ithome.com/0/987/366.htm",
+          "title_original": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+          "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
+          "url": "https://www.ithome.com/0/987/649.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
+          "published_at": "2026-08-09T23:07:08Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7707,
+        "recency": 0.9516,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T23:07:08Z",
+      "latest_at": "2026-08-09T23:07:08Z",
+      "primary_item": {
+        "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
+        "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+        "title_zh": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+        "title_en": null,
+        "title_original": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+        "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
+        "url": "https://www.ithome.com/0/987/649.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_288a6664298c",
+      "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+      "url": "https://x.com/bcherny/status/2086520950259118464",
+      "primary_url": "https://x.com/bcherny/status/2086520950259118464",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T08:25:11Z",
-      "latest_at": "2026-08-08T08:25:11Z",
+      "earliest_at": "2026-08-09T18:32:14Z",
+      "latest_at": "2026-08-09T18:32:14Z",
       "primary_item": {
-        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_en": null,
-        "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-        "url": "https://www.ithome.com/0/987/366.htm",
-        "source": "IT之家（RSS）",
+        "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+        "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_zh": "Anthropic 称已基本解决提示注入攻击",
+        "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+        "url": "https://x.com/bcherny/status/2086520950259118464",
+        "source": "X：Boris Cherny (@bcherny)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-08",
-      "source_name": "WaytoAGI",
+      "story_id": "story_56bce1a9252f",
+      "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+      "url": "https://www.aibase.com/news/30206",
+      "primary_url": "https://www.aibase.com/news/30206",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "867386527044643fb09ee2e07147050f4445b7bd",
-          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "title_zh": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
           "title_en": null,
-          "title_original": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-09T02:27:34.930159Z"
+          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
         },
         {
-          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
-          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "title_zh": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "id": "990bb4352eb4f38f68cb60a36adafeff8d72dbce",
+          "title": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
+          "title_zh": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
           "title_en": null,
-          "title_original": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "summary": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-09T02:27:34.930159Z"
-        },
-        {
-          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
-          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "title_zh": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "title_en": null,
-          "title_original": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-09T02:27:34.930159Z"
+          "title_original": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30206",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "社区更新 · 2026-08-08"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "867386527044643fb09ee2e07147050f4445b7bd",
-          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "title_zh": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
           "title_en": null,
-          "title_original": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-09T02:27:34.930159Z"
+          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
         },
         {
-          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
-          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "title_zh": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "id": "990bb4352eb4f38f68cb60a36adafeff8d72dbce",
+          "title": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
+          "title_zh": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
           "title_en": null,
-          "title_original": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "summary": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-09T02:27:34.930159Z"
-        },
-        {
-          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
-          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "title_zh": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "title_en": null,
-          "title_original": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-09T02:27:34.930159Z"
+          "title_original": "OpenAI 收购演示文稿初创公司 NextSlide，团队将加入 ChatGPT 开发",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30206",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
+      "primary_item": {
+        "id": "f00e72445229b58d87baebc6842423424a765494",
+        "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "title_en": null,
+        "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30206",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dfbf786d6e6d",
+      "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+      "url": "https://www.aibase.com/news/30205",
+      "primary_url": "https://www.aibase.com/news/30205",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "8f0c88a1d877d398cf4d59b2872f29710fc6f55a",
+          "title": "微信灰度上线「AI 帮写」，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线「AI 帮写」，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线「AI 帮写」，朋友圈文案可由小微生成",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30205",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "8f0c88a1d877d398cf4d59b2872f29710fc6f55a",
+          "title": "微信灰度上线「AI 帮写」，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线「AI 帮写」，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线「AI 帮写」，朋友圈文案可由小微生成",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30205",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
+      "primary_item": {
+        "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+        "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "title_en": null,
+        "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30205",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c4fd38599b85",
+      "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+      "url": "https://www.aibase.com/news/30204",
+      "primary_url": "https://www.aibase.com/news/30204",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+          "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "title_zh": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "title_en": null,
+          "title_original": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "f76dc602905df7943f6a69abd8a50d45c851c6a0",
+          "title": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "title_zh": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "title_en": null,
+          "title_original": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30204",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+          "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "title_zh": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "title_en": null,
+          "title_original": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "f76dc602905df7943f6a69abd8a50d45c851c6a0",
+          "title": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "title_zh": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "title_en": null,
+          "title_original": "探秘 OpenAI 底座大模型：代号 Doug 的全新预训练项目浮出水面",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30204",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
+      "primary_item": {
+        "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+        "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+        "title_zh": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+        "title_en": null,
+        "title_original": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30204",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_53f6c1811ec1",
+      "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "primary_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "56d92bba292b2e68b8f043bac6399aa5ccc69487",
+          "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+          "title_zh": "Anthropic 默认开启 Claude Code 的自动模式",
+          "title_en": "Anthropic is turning Claude Code’s auto mode on by default",
+          "title_original": "Anthropic is turning Claude Code’s auto mode on by default",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T19:20:32Z"
+        },
+        {
+          "id": "9e94a7cceda2e301cb4fa74a37c9c709e9f67a63",
+          "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code's auto mode on by default",
+          "title_zh": "Anthropic 默认开启 Claude Code 的自动模式",
+          "title_en": "Anthropic is turning Claude Code's auto mode on by default",
+          "title_original": "Anthropic is turning Claude Code's auto mode on by default",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T19:33:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "56d92bba292b2e68b8f043bac6399aa5ccc69487",
+          "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+          "title_zh": "Anthropic 默认开启 Claude Code 的自动模式",
+          "title_en": "Anthropic is turning Claude Code’s auto mode on by default",
+          "title_original": "Anthropic is turning Claude Code’s auto mode on by default",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T19:20:32Z"
+        },
+        {
+          "id": "9e94a7cceda2e301cb4fa74a37c9c709e9f67a63",
+          "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code's auto mode on by default",
+          "title_zh": "Anthropic 默认开启 Claude Code 的自动模式",
+          "title_en": "Anthropic is turning Claude Code's auto mode on by default",
+          "title_original": "Anthropic is turning Claude Code's auto mode on by default",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T19:33:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.9011,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T19:20:32Z",
+      "latest_at": "2026-08-09T19:33:23Z",
+      "primary_item": {
+        "id": "56d92bba292b2e68b8f043bac6399aa5ccc69487",
+        "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+        "title_zh": "Anthropic 默认开启 Claude Code 的自动模式",
+        "title_en": "Anthropic is turning Claude Code’s auto mode on by default",
+        "title_original": "Anthropic is turning Claude Code’s auto mode on by default",
+        "summary": null,
+        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-09",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "7bf78e933a128c6c60cbf9f8428b9d8e84cfc10a",
+          "title": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "title_zh": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "title_en": null,
+          "title_original": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "summary": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "c08ae9ddb88fd1129f6929e9ea2d461df6db2e12",
+          "title": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "title_zh": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "title_en": null,
+          "title_original": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "summary": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "4134526f703f5e06b6266dbcd2a3acb354c26b1f",
+          "title": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "title_zh": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "title_en": null,
+          "title_original": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "summary": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "6c87595f5a6516eb163e280ae14d39caac4317ea",
+          "title": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "title_zh": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "title_en": null,
+          "title_original": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "summary": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-08-09"
+      ],
+      "items": [
+        {
+          "id": "7bf78e933a128c6c60cbf9f8428b9d8e84cfc10a",
+          "title": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "title_zh": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "title_en": null,
+          "title_original": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "summary": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "c08ae9ddb88fd1129f6929e9ea2d461df6db2e12",
+          "title": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "title_zh": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "title_en": null,
+          "title_original": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "summary": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "4134526f703f5e06b6266dbcd2a3acb354c26b1f",
+          "title": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "title_zh": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "title_en": null,
+          "title_original": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "summary": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        },
+        {
+          "id": "6c87595f5a6516eb163e280ae14d39caac4317ea",
+          "title": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "title_zh": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "title_en": null,
+          "title_original": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "summary": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T02:27:34.930159Z",
-      "latest_at": "2026-08-09T02:27:34.930159Z",
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
       "primary_item": {
-        "id": "867386527044643fb09ee2e07147050f4445b7bd",
-        "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-        "title_zh": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+        "id": "7bf78e933a128c6c60cbf9f8428b9d8e84cfc10a",
+        "title": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+        "title_zh": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
         "title_en": null,
-        "title_original": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-        "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+        "title_original": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+        "summary": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-08",
+        "source": "社区更新 · 2026-08-09",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_18b0dbee24c9",
-      "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-      "primary_url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
+      "story_id": "story_a86222345618",
+      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+      "url": "https://www.aibase.com/news/30207",
+      "primary_url": "https://www.aibase.com/news/30207",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
-          "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T22:36:03Z"
-        },
-        {
-          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
-          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "title_en": null,
-          "title_original": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Readhub · AI",
-        "Simon Willison"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
-          "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T22:36:03Z"
-        },
-        {
-          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
-          "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "title_en": null,
-          "title_original": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "summary": null,
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6006,
-      "importance": 0.6006,
-      "importance_score": 0.6006,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9458,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T22:36:03Z",
-      "latest_at": "2026-08-09T02:27:34.930159Z",
-      "primary_item": {
-        "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
-        "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "title_zh": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
-        "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "summary": null,
-        "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_6ce826369197",
-      "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "primary_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "source": "mezha.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Danish high schoolers will have to verbally defend written assignments",
-          "title_original": "Danish high schoolers will have to verbally defend written assignments",
-          "summary": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T18:09:31Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "mezha.net"
-      ],
-      "items": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Danish high schoolers will have to verbally defend written assignments",
-          "title_original": "Danish high schoolers will have to verbally defend written assignments",
-          "summary": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T18:09:31Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9037,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T18:09:31Z",
-      "latest_at": "2026-08-08T19:26:49.887000Z",
-      "primary_item": {
-        "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-        "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_en": null,
-        "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "summary": null,
-        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-        "source": "mezha.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_787ae63fa6c8",
-      "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-      "url": "https://www.ithome.com/0/987/488.htm",
-      "primary_url": "https://www.ithome.com/0/987/488.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
-          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_zh": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_en": null,
-          "title_original": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "summary": null,
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
-          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_zh": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_en": null,
-          "title_original": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "summary": null,
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T01:32:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
-          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_zh": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_en": null,
-          "title_original": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "summary": null,
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
-          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_zh": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "title_en": null,
-          "title_original": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "summary": null,
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T01:32:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-09T01:32:33Z",
-      "latest_at": "2026-08-09T02:27:34.930159Z",
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
       "primary_item": {
-        "id": "31b35d1e00d12ff5914c0e04c458178999115311",
-        "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-        "title_zh": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+        "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+        "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
         "title_en": null,
-        "title_original": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+        "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
         "summary": null,
-        "url": "https://www.ithome.com/0/987/488.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "url": "https://www.aibase.com/news/30207",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7356e5d63521",
-      "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
-      "url": "https://github.com/sebastiancarlos/faaah",
-      "primary_url": "https://github.com/sebastiancarlos/faaah",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_70ac8307a80a",
+      "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "primary_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
-          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
-          "title_zh": "Show HN: Faaah——将文件系统作为人工智能处理器",
-          "title_en": null,
-          "title_original": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+          "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "title_zh": "硅谷误读科幻作品，并削弱了民主",
+          "title_en": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "title_original": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
           "summary": null,
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T23:26:37.332000Z"
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T15:00:00Z"
         },
         {
-          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
-          "title": "faaah（文件系统作为人工智能处理器）",
-          "title_zh": "faaah（文件系统作为人工智能处理器）",
-          "title_en": null,
-          "title_original": "faaah（文件系统作为人工智能处理器）",
+          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
+          "title": "硅谷误读科幻作品，并削弱了民主 / Silicon Valley misreads science fiction and undermines democracy",
+          "title_zh": "硅谷误读科幻作品，并削弱了民主",
+          "title_en": "Silicon Valley misreads science fiction and undermines democracy",
+          "title_original": "Silicon Valley misreads science fiction and undermines democracy",
           "summary": null,
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T23:10:34.737000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
-          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
-          "title_zh": "Show HN: Faaah——将文件系统作为人工智能处理器",
-          "title_en": null,
-          "title_original": "Show HN: Faaah——将文件系统作为人工智能处理器",
-          "summary": null,
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T23:26:37.332000Z"
-        },
-        {
-          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
-          "title": "faaah（文件系统作为人工智能处理器）",
-          "title_zh": "faaah（文件系统作为人工智能处理器）",
-          "title_en": null,
-          "title_original": "faaah（文件系统作为人工智能处理器）",
-          "summary": null,
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T23:10:34.737000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9574,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T23:10:34.737000Z",
-      "latest_at": "2026-08-08T23:26:37.332000Z",
-      "primary_item": {
-        "id": "444136b5cecf9595b9c8054951bc9b831776d228",
-        "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
-        "title_zh": "Show HN: Faaah——将文件系统作为人工智能处理器",
-        "title_en": null,
-        "title_original": "Show HN: Faaah——将文件系统作为人工智能处理器",
-        "summary": null,
-        "url": "https://github.com/sebastiancarlos/faaah",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_20c457a6c9f4",
-      "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-      "primary_url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
-          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
-          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "title_en": "OpenAI to pause some work on AI model Astra due to security concerns",
-          "title_original": "OpenAI to pause some work on AI model Astra due to security concerns",
-          "summary": null,
-          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-08T19:36:12Z"
-        },
-        {
-          "id": "0624952d6fd330f60cd86f05a1924c0396942525",
-          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "title_en": null,
-          "title_original": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "summary": null,
-          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T17:02:33.264000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
-          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
-          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "title_en": "OpenAI to pause some work on AI model Astra due to security concerns",
-          "title_original": "OpenAI to pause some work on AI model Astra due to security concerns",
-          "summary": null,
-          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-08T19:36:12Z"
-        },
-        {
-          "id": "0624952d6fd330f60cd86f05a1924c0396942525",
-          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "title_en": null,
-          "title_original": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-          "summary": null,
-          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T17:02:33.264000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9057,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T17:02:33.264000Z",
-      "latest_at": "2026-08-08T19:36:12Z",
-      "primary_item": {
-        "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
-        "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
-        "title_zh": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
-        "title_en": "OpenAI to pause some work on AI model Astra due to security concerns",
-        "title_original": "OpenAI to pause some work on AI model Astra due to security concerns",
-        "summary": null,
-        "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      }
-    },
-    {
-      "story_id": "story_b0cc69c2019c",
-      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "primary_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "source": "social.treehouse.systems",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": null,
-          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "summary": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "social.treehouse.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T18:06:47.814000Z"
-        },
-        {
-          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
-          "summary": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-08T13:55:42Z"
+          "published_at": "2026-08-09T15:18:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "social.treehouse.systems"
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": null,
-          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+          "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "title_zh": "硅谷误读科幻作品，并削弱了民主",
+          "title_en": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "title_original": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
           "summary": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "social.treehouse.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T18:06:47.814000Z"
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T15:00:00Z"
         },
         {
-          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
+          "title": "硅谷误读科幻作品，并削弱了民主 / Silicon Valley misreads science fiction and undermines democracy",
+          "title_zh": "硅谷误读科幻作品，并削弱了民主",
+          "title_en": "Silicon Valley misreads science fiction and undermines democracy",
+          "title_original": "Silicon Valley misreads science fiction and undermines democracy",
           "summary": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-08T13:55:42Z"
+          "published_at": "2026-08-09T15:18:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.6211,
+      "importance": 0.6211,
+      "importance_score": 0.6211,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8865,
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8463,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T13:55:42Z",
-      "latest_at": "2026-08-08T18:06:47.814000Z",
+      "earliest_at": "2026-08-09T15:00:00Z",
+      "latest_at": "2026-08-09T15:18:25Z",
       "primary_item": {
-        "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-        "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-        "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-        "title_en": null,
-        "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+        "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "title_zh": "硅谷误读科幻作品，并削弱了民主",
+        "title_en": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "title_original": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
         "summary": null,
-        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "source": "social.treehouse.systems",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_dd778c597c1d",
+      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+      "url": "https://www.aibase.com/news/30203",
+      "primary_url": "https://www.aibase.com/news/30203",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_en": null,
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_en": null,
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
+      "primary_item": {
+        "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+        "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "title_en": null,
+        "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30203",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1e22c2113280",
+      "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+      "url": "https://www.aibase.com/news/30210",
+      "primary_url": "https://www.aibase.com/news/30210",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_en": null,
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_en": null,
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:33:10.514983Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:33:10.514983Z",
+      "latest_at": "2026-08-10T02:33:10.514983Z",
+      "primary_item": {
+        "id": "527862e451260bcdcf23e1995729283740eb2d67",
+        "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "title_en": null,
+        "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30210",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_aedfa804198d",
+      "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "title_zh": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "title_en": null,
+          "title_original": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "summary": null,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T02:22:51.518000Z"
+        },
+        {
+          "id": "446fffe0dfb79c6bddb3529652751490ebea98a2",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "title_zh": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "title_en": null,
+          "title_original": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "summary": null,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T23:42:30.361000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "title_zh": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "title_en": null,
+          "title_original": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+          "summary": null,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T02:22:51.518000Z"
+        },
+        {
+          "id": "446fffe0dfb79c6bddb3529652751490ebea98a2",
+          "title": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "title_zh": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "title_en": null,
+          "title_original": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
+          "summary": null,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T23:42:30.361000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T23:42:30.361000Z",
+      "latest_at": "2026-08-10T02:22:51.518000Z",
+      "primary_item": {
+        "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
+        "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+        "title_zh": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+        "title_en": null,
+        "title_original": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
+        "summary": null,
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_159e06467b2c",
-      "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-      "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "story_id": "story_e61e9a32542b",
+      "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+      "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+          "title_zh": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
           "title_en": null,
-          "title_original": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_original": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
           "summary": null,
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-08T12:14:35.904000Z"
+          "published_at": "2026-08-09T22:38:37.850000Z"
         },
         {
-          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
-          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
-          "title_en": "The AI boom is creating data center jobs that pay more",
-          "title_original": "The AI boom is creating data center jobs that pay more",
+          "id": "5e4d2e55ee5b02c09c932cf8cdce191104b75468",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的 / How Cursor recruits elite AI engineers when huge salaries aren't enough",
+          "title_zh": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+          "title_en": "How Cursor recruits elite AI engineers when huge salaries aren't enough",
+          "title_original": "How Cursor recruits elite AI engineers when huge salaries aren't enough",
           "summary": null,
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-08T12:00:01Z"
+          "published_at": "2026-08-09T19:50:44Z"
         }
       ],
       "source_count": 2,
@@ -1334,60 +1736,159 @@
       ],
       "items": [
         {
-          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+          "title_zh": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
           "title_en": null,
-          "title_original": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "title_original": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
           "summary": null,
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-08T12:14:35.904000Z"
+          "published_at": "2026-08-09T22:38:37.850000Z"
         },
         {
-          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
-          "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
-          "title_en": "The AI boom is creating data center jobs that pay more",
-          "title_original": "The AI boom is creating data center jobs that pay more",
+          "id": "5e4d2e55ee5b02c09c932cf8cdce191104b75468",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的 / How Cursor recruits elite AI engineers when huge salaries aren't enough",
+          "title_zh": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+          "title_en": "How Cursor recruits elite AI engineers when huge salaries aren't enough",
+          "title_original": "How Cursor recruits elite AI engineers when huge salaries aren't enough",
           "summary": null,
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-08T12:00:01Z"
+          "published_at": "2026-08-09T19:50:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8144,
+        "recency": 0.9451,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T12:00:01Z",
-      "latest_at": "2026-08-08T12:14:35.904000Z",
+      "earliest_at": "2026-08-09T19:50:44Z",
+      "latest_at": "2026-08-09T22:38:37.850000Z",
       "primary_item": {
-        "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
-        "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-        "title_zh": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
+        "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+        "title_zh": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
         "title_en": null,
-        "title_original": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "title_original": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
         "summary": null,
-        "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+        "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c889f9e34eab",
+      "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "primary_url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "source": "laurentiugabriel.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_en": null,
+          "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "summary": null,
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "laurentiugabriel.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T20:30:33.242000Z"
+        },
+        {
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_en": "How I use LLMs to learn complex topics",
+          "title_original": "How I use LLMs to learn complex topics",
+          "summary": null,
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T19:16:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "laurentiugabriel.github.io"
+      ],
+      "items": [
+        {
+          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_en": null,
+          "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "summary": null,
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "laurentiugabriel.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T20:30:33.242000Z"
+        },
+        {
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_en": "How I use LLMs to learn complex topics",
+          "title_original": "How I use LLMs to learn complex topics",
+          "summary": null,
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T19:16:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9164,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T19:16:49Z",
+      "latest_at": "2026-08-09T20:30:33.242000Z",
+      "primary_item": {
+        "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+        "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+        "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+        "title_en": null,
+        "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
+        "summary": null,
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+        "source": "laurentiugabriel.github.io",
         "source_name": "Buzzing"
       }
     }
