@@ -1,360 +1,28 @@
 {
-  "generated_at": "2026-08-14T02:44:40.653096Z",
+  "generated_at": "2026-08-15T01:48:30.718437Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_855fa77e93e1",
-      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "primary_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT‑5.6",
-          "title_original": "The builder’s guide to GPT‑5.6",
-          "summary": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder's guide to GPT-5.6",
-          "title_original": "The builder's guide to GPT-5.6",
-          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "9b9fd6d33c0f3546cddc96a3e80ba24120527b08",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT-5.6",
-          "title_original": "The builder’s guide to GPT-5.6",
-          "summary": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT‑5.6",
-          "title_original": "The builder’s guide to GPT‑5.6",
-          "summary": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder's guide to GPT-5.6",
-          "title_original": "The builder's guide to GPT-5.6",
-          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "9b9fd6d33c0f3546cddc96a3e80ba24120527b08",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT-5.6",
-          "title_original": "The builder’s guide to GPT-5.6",
-          "summary": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8734,
-      "importance": 0.8734,
-      "importance_score": 0.8734,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7966,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T11:00:00Z",
-      "latest_at": "2026-08-14T02:44:40.653096Z",
-      "primary_item": {
-        "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-        "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-        "title_en": "The builder’s guide to GPT‑5.6",
-        "title_original": "The builder’s guide to GPT‑5.6",
-        "summary": null,
-        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c1c988556190",
-      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
-          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "summary": null,
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
-          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "summary": null,
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T17:16:04Z",
-      "latest_at": "2026-08-13T17:16:04Z",
-      "primary_item": {
-        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
-        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "summary": null,
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6357d7795d21",
-      "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "primary_url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5175d87bcae80ab0d848d51674956034c540468a",
-          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "title_zh": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "summary": null,
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T10:00:00Z"
-        },
-        {
-          "id": "5424f720f13b133b8464bd371a7eb5d82236d9a8",
-          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_zh": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_en": null,
-          "title_original": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "summary": null,
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0da95d0920a7077beace9b3340245448028dd120",
-          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-          "title_zh": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_en": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-          "title_original": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-          "summary": null,
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-13T16:59:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5175d87bcae80ab0d848d51674956034c540468a",
-          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "title_zh": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "summary": null,
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T10:00:00Z"
-        },
-        {
-          "id": "5424f720f13b133b8464bd371a7eb5d82236d9a8",
-          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_zh": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_en": null,
-          "title_original": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "summary": null,
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0da95d0920a7077beace9b3340245448028dd120",
-          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-          "title_zh": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-          "title_en": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-          "title_original": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-          "summary": null,
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-13T16:59:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8713,
-      "importance": 0.8713,
-      "importance_score": 0.8713,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7852,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T10:00:00Z",
-      "latest_at": "2026-08-14T02:44:40.653096Z",
-      "primary_item": {
-        "id": "5175d87bcae80ab0d848d51674956034c540468a",
-        "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-        "title_zh": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍",
-        "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-        "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-        "summary": null,
-        "url": "https://openai.com/index/previewing-ultrafast",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3ce2b53f8ac8",
-      "title": "Gemini 3.7 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+      "story_id": "story_0cbdf9e190f0",
+      "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
-          "title": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T14:00:53Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "source_count": 1,
@@ -363,178 +31,30 @@
       ],
       "items": [
         {
-          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
-          "title": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T14:00:53Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8321,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T14:00:53Z",
-      "latest_at": "2026-08-13T14:00:53Z",
-      "primary_item": {
-        "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
-        "title": "Gemini 3.7 Flash is now available in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
-        "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e83d70611f6b",
-      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-          "title_en": "Introducing Gemini 3.7 Flash",
-          "title_original": "Introducing Gemini 3.7 Flash",
-          "summary": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-          "title_en": "Introducing Gemini 3.7 Flash",
-          "title_original": "Introducing Gemini 3.7 Flash",
-          "summary": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8696,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T17:04:18Z",
-      "latest_at": "2026-08-13T17:04:18Z",
-      "primary_item": {
-        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-        "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-        "title_en": "Introducing Gemini 3.7 Flash",
-        "title_original": "Introducing Gemini 3.7 Flash",
-        "summary": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_76c77512e473",
-      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-          "summary": null,
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-          "summary": null,
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8656,
+        "recency": 0.9565,
         "story_heat": 0.0
       },
       "category": "official",
@@ -543,125 +63,200 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T16:45:00Z",
-      "latest_at": "2026-08-13T16:45:00Z",
+      "earliest_at": "2026-08-14T22:43:44Z",
+      "latest_at": "2026-08-14T22:43:44Z",
       "primary_item": {
-        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-        "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-        "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+        "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+        "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
         "summary": null,
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-        "source": "Google AI Blog",
+        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d9c115db9993",
+      "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
+          "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+          "title_zh": "如何使用代理应用程序将软件交付工作流程引入 GitHub",
+          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
+          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
+          "summary": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
+          "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+          "title_zh": "如何使用代理应用程序将软件交付工作流程引入 GitHub",
+          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
+          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
+          "summary": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8679,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T16:00:00Z",
+      "latest_at": "2026-08-14T16:00:00Z",
+      "primary_item": {
+        "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
+        "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+        "title_zh": "如何使用代理应用程序将软件交付工作流程引入 GitHub",
+        "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
+        "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
+        "summary": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
     {
       "story_id": "story_6cbde97d8260",
-      "title": "从0到1带你速通DeepSeek Harness。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
-      "source": "公众号：数字生命卡兹克",
+      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "source": "公众号：小红书技术（dots.llm）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "83aae6eb5a48c3fd8639d24a45a92ce2c6dfe089",
-          "title": "从0到1带你速通DeepSeek Harness。",
-          "title_zh": "从0到1带你速通DeepSeek Harness。",
+          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
+          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
           "title_en": null,
-          "title_original": "从0到1带你速通DeepSeek Harness。",
-          "summary": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T23:58:00Z"
-        },
-        {
-          "id": "3a87a0e9b0f20da582880d81f3932ae4aa3ef59f",
-          "title": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
-          "title_zh": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
-          "title_en": null,
-          "title_original": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
-          "summary": "小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在 Seed-TTS-Eval 三个子集上取得最佳平均内容准确度和平均说话人相似度。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
+          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
           "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-13T09:59:00Z"
+          "published_at": "2026-08-14T11:25:29Z"
         },
         {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
+          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
           "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
+          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+          "source": "公众号：智谱（GLM）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
+          "published_at": "2026-08-14T05:31:04Z"
+        },
+        {
+          "id": "123e827449941c9038e9125e572debf591dab2d8",
+          "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
+          "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
+          "title_en": null,
+          "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
+          "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T04:00:00Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "公众号：小红书技术（dots.llm）",
-        "公众号：数字生命卡兹克"
+        "公众号：智谱（GLM）",
+        "公众号：蚂蚁百灵（Ling）"
       ],
       "items": [
         {
-          "id": "83aae6eb5a48c3fd8639d24a45a92ce2c6dfe089",
-          "title": "从0到1带你速通DeepSeek Harness。",
-          "title_zh": "从0到1带你速通DeepSeek Harness。",
+          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
+          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
           "title_en": null,
-          "title_original": "从0到1带你速通DeepSeek Harness。",
-          "summary": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T23:58:00Z"
-        },
-        {
-          "id": "3a87a0e9b0f20da582880d81f3932ae4aa3ef59f",
-          "title": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
-          "title_zh": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
-          "title_en": null,
-          "title_original": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
-          "summary": "小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在 Seed-TTS-Eval 三个子集上取得最佳平均内容准确度和平均说话人相似度。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
+          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
           "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-13T09:59:00Z"
+          "published_at": "2026-08-14T11:25:29Z"
         },
         {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
+          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
           "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
+          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+          "source": "公众号：智谱（GLM）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
+          "published_at": "2026-08-14T05:31:04Z"
+        },
+        {
+          "id": "123e827449941c9038e9125e572debf591dab2d8",
+          "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
+          "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
+          "title_en": null,
+          "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
+          "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T04:00:00Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9607,
+        "recency": 0.8124,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -670,40 +265,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T04:32:24Z",
-      "latest_at": "2026-08-13T23:58:00Z",
+      "earliest_at": "2026-08-14T04:00:00Z",
+      "latest_at": "2026-08-14T11:25:29Z",
       "primary_item": {
-        "id": "83aae6eb5a48c3fd8639d24a45a92ce2c6dfe089",
-        "title": "从0到1带你速通DeepSeek Harness。",
-        "title_zh": "从0到1带你速通DeepSeek Harness。",
+        "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
+        "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+        "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
         "title_en": null,
-        "title_original": "从0到1带你速通DeepSeek Harness。",
-        "summary": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
-        "source": "公众号：数字生命卡兹克",
+        "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+        "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7b7795911104",
-      "title": "许可数据质量改进 / License data quality improvements",
-      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "story_id": "story_61fc6209c742",
+      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "title_zh": "许可数据质量改进",
-          "title_en": "License data quality improvements",
-          "title_original": "License data quality improvements",
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.6 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.6 is now available in GitHub Copilot",
+          "title_original": "Grok 4.6 is now available in GitHub Copilot",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
+          "published_at": "2026-08-14T16:17:46Z"
         }
       ],
       "source_count": 1,
@@ -712,453 +307,30 @@
       ],
       "items": [
         {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "title_zh": "许可数据质量改进",
-          "title_en": "License data quality improvements",
-          "title_original": "License data quality improvements",
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.6 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.6 is now available in GitHub Copilot",
+          "title_original": "Grok 4.6 is now available in GitHub Copilot",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
+          "published_at": "2026-08-14T16:17:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8973,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T19:14:12Z",
-      "latest_at": "2026-08-13T19:14:12Z",
-      "primary_item": {
-        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-        "title": "许可数据质量改进 / License data quality improvements",
-        "title_zh": "许可数据质量改进",
-        "title_en": "License data quality improvements",
-        "title_original": "License data quality improvements",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_595ebf749a43",
-      "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-      "url": "https://www.aibase.com/news/30332",
-      "primary_url": "https://www.aibase.com/news/30332",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "title_zh": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "title_en": null,
-          "title_original": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30332",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "title_zh": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "title_en": null,
-          "title_original": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30332",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "title_zh": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "title_en": null,
-          "title_original": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30332",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "title_zh": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "title_en": null,
-          "title_original": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30332",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T02:44:40.653096Z",
-      "latest_at": "2026-08-14T02:44:40.653096Z",
-      "primary_item": {
-        "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-        "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-        "title_zh": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-        "title_en": null,
-        "title_original": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30332",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_968ad09332ea",
-      "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-          "title_zh": "阻止用户在个人代码仓库中发表评论",
-          "title_en": "Block users from comments in personal repositories",
-          "title_original": "Block users from comments in personal repositories",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-          "title_zh": "阻止用户在个人代码仓库中发表评论",
-          "title_en": "Block users from comments in personal repositories",
-          "title_original": "Block users from comments in personal repositories",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8948,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T19:02:46Z",
-      "latest_at": "2026-08-13T19:02:46Z",
-      "primary_item": {
-        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-        "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-        "title_zh": "阻止用户在个人代码仓库中发表评论",
-        "title_en": "Block users from comments in personal repositories",
-        "title_original": "Block users from comments in personal repositories",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_93d04848476c",
-      "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-      "url": "https://www.aibase.com/news/30326",
-      "primary_url": "https://www.aibase.com/news/30326",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "25b68434e11d20ebbdda006b313792a9ff2e6589",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_zh": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_en": null,
-          "title_original": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30326",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "3dd310b21a2107a6344fd5a7f45d9eb59fe4787a",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_zh": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_en": null,
-          "title_original": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "25b68434e11d20ebbdda006b313792a9ff2e6589",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_zh": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_en": null,
-          "title_original": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30326",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "3dd310b21a2107a6344fd5a7f45d9eb59fe4787a",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_zh": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "title_en": null,
-          "title_original": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T02:44:40.653096Z",
-      "latest_at": "2026-08-14T02:44:40.653096Z",
-      "primary_item": {
-        "id": "25b68434e11d20ebbdda006b313792a9ff2e6589",
-        "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-        "title_zh": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-        "title_en": null,
-        "title_original": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30326",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cf9e7f8b7e08",
-      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
-          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:16:42.199000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
-          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:16:42.199000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7998,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T11:16:42.199000Z",
-      "latest_at": "2026-08-13T11:16:42.199000Z",
-      "primary_item": {
-        "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
-        "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-        "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-        "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e022b7caa78",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": null,
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "summary": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": null,
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "summary": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.774,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1167,171 +339,99 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T09:00:00Z",
-      "latest_at": "2026-08-13T09:00:00Z",
+      "earliest_at": "2026-08-14T16:17:46Z",
+      "latest_at": "2026-08-14T16:17:46Z",
       "primary_item": {
-        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_zh": null,
-        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+        "title_zh": "Grok 4.6 现已在 GitHub Copilot 中提供",
+        "title_en": "Grok 4.6 is now available in GitHub Copilot",
+        "title_original": "Grok 4.6 is now available in GitHub Copilot",
         "summary": null,
-        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f02ed6582eed",
-      "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-      "url": "https://x.com/bcherny/status/2088014489438621990",
-      "primary_url": "https://x.com/bcherny/status/2088014489438621990",
-      "source": "X：Boris Cherny (@bcherny)",
+      "story_id": "story_6c975d4feeb5",
+      "title": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T21:27:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T21:27:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9264,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T21:27:02Z",
-      "latest_at": "2026-08-13T21:27:02Z",
-      "primary_item": {
-        "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-        "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-        "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-        "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-        "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-        "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-        "url": "https://x.com/bcherny/status/2088014489438621990",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b711f1c7efe2",
-      "title": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
-      "url": "https://www.aibase.com/news/30333",
-      "primary_url": "https://www.aibase.com/news/30333",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7cae1e96d9486df147b6f71ae94c94595545f898",
-          "title": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
-          "title_zh": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
-          "title_en": null,
-          "title_original": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_zh": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
+          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
           "summary": null,
-          "url": "https://www.aibase.com/news/30333",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
         },
         {
-          "id": "86b5e4a0e350648b323e10f52c64ebf40c32a614",
-          "title": "前 OpenAI 首席科学家 Ilya 创办的 SSI 首个模型曝光",
-          "title_zh": "前 OpenAI 首席科学家 Ilya 创办的 SSI 首个模型曝光",
+          "id": "a786c99c1da395978108541dd202aa0f3dfd21ac",
+          "title": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
+          "title_zh": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
           "title_en": null,
-          "title_original": "前 OpenAI 首席科学家 Ilya 创办的 SSI 首个模型曝光",
+          "title_original": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30333",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T15:07:03.592000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "7cae1e96d9486df147b6f71ae94c94595545f898",
-          "title": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
-          "title_zh": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
-          "title_en": null,
-          "title_original": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_zh": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
+          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
           "summary": null,
-          "url": "https://www.aibase.com/news/30333",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
         },
         {
-          "id": "86b5e4a0e350648b323e10f52c64ebf40c32a614",
-          "title": "前 OpenAI 首席科学家 Ilya 创办的 SSI 首个模型曝光",
-          "title_zh": "前 OpenAI 首席科学家 Ilya 创办的 SSI 首个模型曝光",
+          "id": "a786c99c1da395978108541dd202aa0f3dfd21ac",
+          "title": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
+          "title_zh": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
           "title_en": null,
-          "title_original": "前 OpenAI 首席科学家 Ilya 创办的 SSI 首个模型曝光",
+          "title_original": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30333",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T15:07:03.592000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8488,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1340,189 +440,695 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T02:44:40.653096Z",
-      "latest_at": "2026-08-14T02:44:40.653096Z",
+      "earliest_at": "2026-08-14T14:27:14Z",
+      "latest_at": "2026-08-14T15:07:03.592000Z",
       "primary_item": {
-        "id": "7cae1e96d9486df147b6f71ae94c94595545f898",
-        "title": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
-        "title_zh": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
-        "title_en": null,
-        "title_original": "前OpenAI首席科学家Ilya创办的SSI首个模型曝光",
+        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+        "title": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "title_zh": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战",
+        "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
         "summary": null,
-        "url": "https://www.aibase.com/news/30333",
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a4a811ddfc4",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9113,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T19:15:51Z",
+      "latest_at": "2026-08-14T19:22:48.546000Z",
+      "primary_item": {
+        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+        "title_zh": "Claude 文本水印机制如何运作",
+        "title_en": "How Claude's text watermark works",
+        "title_original": "How Claude's text watermark works",
+        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4a7b7a14cad6",
+      "title": "AI企业也能按Token融资：广东首推“Token贷”",
+      "url": "https://www.aibase.com/news/30365",
+      "primary_url": "https://www.aibase.com/news/30365",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
+          "title": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_en": null,
+          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T17:48:30.718437Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
+          "title": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_en": null,
+          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T17:48:30.718437Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T17:48:30.718437Z",
+      "latest_at": "2026-08-14T17:48:30.718437Z",
+      "primary_item": {
+        "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
+        "title": "AI企业也能按Token融资：广东首推“Token贷”",
+        "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
+        "title_en": null,
+        "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30365",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_000c9efd5260",
-      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-      "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_117194245eb4",
+      "title": "GitHub Copilot weekly releases — August 10",
+      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
-          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-          "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
-          "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-          "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-          "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
-          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T14:04:55Z"
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot weekly releases — August 10",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — August 10",
+          "title_original": "GitHub Copilot weekly releases — August 10",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T03:15:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
-          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-          "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
-          "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-          "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-          "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
-          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T14:04:55Z"
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot weekly releases — August 10",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — August 10",
+          "title_original": "GitHub Copilot weekly releases — August 10",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T03:15:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7221,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T03:15:56Z",
+      "latest_at": "2026-08-14T03:15:56Z",
+      "primary_item": {
+        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+        "title": "GitHub Copilot weekly releases — August 10",
+        "title_zh": null,
+        "title_en": "GitHub Copilot weekly releases — August 10",
+        "title_original": "GitHub Copilot weekly releases — August 10",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_89d88d8bec26",
+      "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
+          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_zh": "通义千问开源 Qwen3.8 系列模型",
+          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T15:02:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
+          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_zh": "通义千问开源 Qwen3.8 系列模型",
+          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T15:02:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T14:04:55Z",
-      "latest_at": "2026-08-13T14:04:55Z",
+      "earliest_at": "2026-08-14T15:02:48Z",
+      "latest_at": "2026-08-14T15:02:48Z",
       "primary_item": {
-        "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
-        "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-        "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
-        "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-        "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
-        "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
-        "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
+        "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+        "title_zh": "通义千问开源 Qwen3.8 系列模型",
+        "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+        "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+        "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+        "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5e5f58db5dc9",
-      "title": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
-      "url": "https://www.aibase.com/news/30331",
-      "primary_url": "https://www.aibase.com/news/30331",
+      "story_id": "story_5bb924366b41",
+      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+      "url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "primary_url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+          "url": "https://x.com/GeminiApp/status/2088326407730692538",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T18:06:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+          "url": "https://x.com/GeminiApp/status/2088326407730692538",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T18:06:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8948,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T18:06:29Z",
+      "latest_at": "2026-08-14T18:06:29Z",
+      "primary_item": {
+        "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+        "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+        "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+        "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+        "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+        "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+        "url": "https://x.com/GeminiApp/status/2088326407730692538",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_20b744e598ba",
+      "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": "Cursor is now a part of SpaceX",
+          "title_original": "Cursor is now a part of SpaceX",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": "Cursor is now a part of SpaceX",
+          "title_original": "Cursor is now a part of SpaceX",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8192,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T12:00:00Z",
+      "latest_at": "2026-08-14T12:00:00Z",
+      "primary_item": {
+        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+        "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+        "title_zh": "Cursor 正式被 SpaceX 收购",
+        "title_en": "Cursor is now a part of SpaceX",
+        "title_original": "Cursor is now a part of SpaceX",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6fd1a69ab6ed",
+      "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
+      "url": "https://www.aibase.com/news/30364",
+      "primary_url": "https://www.aibase.com/news/30364",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d9c491f869cf5aec11e13d9d49653fc3a824c353",
-          "title": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
-          "title_zh": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
+          "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
+          "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
+          "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
           "title_en": null,
-          "title_original": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
+          "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
           "summary": null,
-          "url": "https://www.aibase.com/news/30331",
+          "url": "https://www.aibase.com/news/30364",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "b24db2f7f9a58f17df023d3b4c0ce3566cb29459",
-          "title": "微软合并消费级与企业级 Copilot，砍掉多项 AI 衍生功能",
-          "title_zh": "微软合并消费级与企业级 Copilot，砍掉多项 AI 衍生功能",
-          "title_en": null,
-          "title_original": "微软合并消费级与企业级 Copilot，砍掉多项 AI 衍生功能",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30331",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-14T17:48:30.718437Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d9c491f869cf5aec11e13d9d49653fc3a824c353",
-          "title": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
-          "title_zh": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
+          "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
+          "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
+          "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
           "title_en": null,
-          "title_original": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
+          "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
           "summary": null,
-          "url": "https://www.aibase.com/news/30331",
+          "url": "https://www.aibase.com/news/30364",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "b24db2f7f9a58f17df023d3b4c0ce3566cb29459",
-          "title": "微软合并消费级与企业级 Copilot，砍掉多项 AI 衍生功能",
-          "title_zh": "微软合并消费级与企业级 Copilot，砍掉多项 AI 衍生功能",
-          "title_en": null,
-          "title_original": "微软合并消费级与企业级 Copilot，砍掉多项 AI 衍生功能",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30331",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-14T17:48:30.718437Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.8909,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T02:44:40.653096Z",
-      "latest_at": "2026-08-14T02:44:40.653096Z",
+      "earliest_at": "2026-08-14T17:48:30.718437Z",
+      "latest_at": "2026-08-14T17:48:30.718437Z",
       "primary_item": {
-        "id": "d9c491f869cf5aec11e13d9d49653fc3a824c353",
-        "title": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
-        "title_zh": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
+        "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
+        "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
+        "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
         "title_en": null,
-        "title_original": "微软宣布合并消费级与企业级 Copilot，并砍掉多项AI衍生功能",
+        "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
         "summary": null,
-        "url": "https://www.aibase.com/news/30331",
+        "url": "https://www.aibase.com/news/30364",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a33d6318ced2",
+      "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+      "url": "https://www.aibase.com/news/30362",
+      "primary_url": "https://www.aibase.com/news/30362",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
+          "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+          "title_zh": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+          "title_en": null,
+          "title_original": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:48:30.718437Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
+          "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+          "title_zh": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+          "title_en": null,
+          "title_original": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:48:30.718437Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T16:48:30.718437Z",
+      "latest_at": "2026-08-14T16:48:30.718437Z",
+      "primary_item": {
+        "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
+        "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+        "title_zh": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+        "title_en": null,
+        "title_original": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30362",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_314ffe25f11f",
+      "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+      "url": "https://www.aibase.com/news/30359",
+      "primary_url": "https://www.aibase.com/news/30359",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
+          "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_en": null,
+          "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:48:30.718437Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
+          "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_en": null,
+          "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:48:30.718437Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T16:48:30.718437Z",
+      "latest_at": "2026-08-14T16:48:30.718437Z",
+      "primary_item": {
+        "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
+        "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+        "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+        "title_en": null,
+        "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30359",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1674,15 +1280,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.7025,
-      "importance": 0.7025,
-      "importance_score": 0.7025,
+      "score": 0.6515,
+      "importance": 0.6515,
+      "importance_score": 0.6515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5256,
         "source_tier": 0.54,
         "ai_relevance": 0.73,
-        "recency": 1.0,
+        "recency": 0.7167,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1704,204 +1310,416 @@
       }
     },
     {
-      "story_id": "story_bfa53412fd76",
-      "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-      "url": "https://www.aibase.com/news/30335",
-      "primary_url": "https://www.aibase.com/news/30335",
+      "story_id": "story_3eba53af13de",
+      "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+      "url": "https://www.aibase.com/news/30361",
+      "primary_url": "https://www.aibase.com/news/30361",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b10878e6a811459e373d1effc84a944e057262e2",
-          "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-          "title_zh": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
           "title_en": null,
-          "title_original": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
           "summary": null,
-          "url": "https://www.aibase.com/news/30335",
+          "url": "https://www.aibase.com/news/30361",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "7a4abe616b2132fa8e82b69c485eaaba3abd7a43",
-          "title": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "title_zh": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "title_en": null,
-          "title_original": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30335",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-14T16:48:30.718437Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b10878e6a811459e373d1effc84a944e057262e2",
-          "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-          "title_zh": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
           "title_en": null,
-          "title_original": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
           "summary": null,
-          "url": "https://www.aibase.com/news/30335",
+          "url": "https://www.aibase.com/news/30361",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T02:44:40.653096Z"
-        },
-        {
-          "id": "7a4abe616b2132fa8e82b69c485eaaba3abd7a43",
-          "title": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "title_zh": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "title_en": null,
-          "title_original": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30335",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-14T16:48:30.718437Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.8781,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T02:44:40.653096Z",
-      "latest_at": "2026-08-14T02:44:40.653096Z",
+      "earliest_at": "2026-08-14T16:48:30.718437Z",
+      "latest_at": "2026-08-14T16:48:30.718437Z",
       "primary_item": {
-        "id": "b10878e6a811459e373d1effc84a944e057262e2",
-        "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-        "title_zh": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+        "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+        "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
         "title_en": null,
-        "title_original": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+        "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
         "summary": null,
-        "url": "https://www.aibase.com/news/30335",
+        "url": "https://www.aibase.com/news/30361",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_71f28f1b3fcc",
-      "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "primary_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+      "story_id": "story_0a600d7e7744",
+      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
       "source": "TechCrunch AI",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
-          "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "title_zh": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
-          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+          "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
           "summary": null,
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-13T19:22:40Z"
+          "published_at": "2026-08-14T16:13:40Z"
         },
         {
-          "id": "a4b6405fe42e30ccbd34a7e082e867231c5b745a",
-          "title": "OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-          "title_zh": "OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍",
-          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
+          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
+          "title_zh": "谷歌现在将允许用户从人工智能内容中删除可见水印",
+          "title_en": "Google will now allow users to remove visible watermarks from AI content",
+          "title_original": "Google will now allow users to remove visible watermarks from AI content",
           "summary": null,
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-          "source": "TechCrunch",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+          "source": "Engadget",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-13T19:22:40Z"
+          "published_at": "2026-08-14T19:04:42Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
+        "Engadget",
         "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
-          "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "title_zh": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
-          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+          "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
           "summary": null,
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-13T19:22:40Z"
+          "published_at": "2026-08-14T16:13:40Z"
         },
         {
-          "id": "a4b6405fe42e30ccbd34a7e082e867231c5b745a",
-          "title": "OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-          "title_zh": "OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍",
-          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
+          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
+          "title_zh": "谷歌现在将允许用户从人工智能内容中删除可见水印",
+          "title_en": "Google will now allow users to remove visible watermarks from AI content",
+          "title_original": "Google will now allow users to remove visible watermarks from AI content",
           "summary": null,
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-          "source": "TechCrunch",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+          "source": "Engadget",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-13T19:22:40Z"
+          "published_at": "2026-08-14T19:04:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6556,
-      "importance": 0.6556,
-      "importance_score": 0.6556,
+      "score": 0.6255,
+      "importance": 0.6255,
+      "importance_score": 0.6255,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5904,
+        "editorial": 0.5472,
         "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.8991,
+        "ai_relevance": 0.76,
+        "recency": 0.8708,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-13T19:22:40Z",
-      "latest_at": "2026-08-13T19:22:40Z",
+      "earliest_at": "2026-08-14T16:13:40Z",
+      "latest_at": "2026-08-14T19:04:42Z",
       "primary_item": {
-        "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
-        "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "title_zh": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
-        "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+        "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+        "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+        "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+        "title_original": "Google will now allow users to remove visible watermark from its AI generations",
         "summary": null,
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_d469d19d5d59",
+      "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "primary_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
+          "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "summary": null,
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:39:32Z"
+        },
+        {
+          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
+          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
+          "title_en": "You can now turn off Google Gemini’s visible watermarks",
+          "title_original": "You can now turn off Google Gemini’s visible watermarks",
+          "summary": null,
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T16:39:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
+          "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "summary": null,
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:39:32Z"
+        },
+        {
+          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
+          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
+          "title_en": "You can now turn off Google Gemini’s visible watermarks",
+          "title_original": "You can now turn off Google Gemini’s visible watermarks",
+          "summary": null,
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T16:39:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6057,
+      "importance": 0.6057,
+      "importance_score": 0.6057,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.8762,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T16:39:32Z",
+      "latest_at": "2026-08-14T16:39:32Z",
+      "primary_item": {
+        "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
+        "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+        "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
+        "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
+        "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
+        "summary": null,
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_45f85a9591e1",
+      "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+      "url": "https://www.aibase.com/news/30360",
+      "primary_url": "https://www.aibase.com/news/30360",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
+          "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_zh": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_en": null,
+          "title_original": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:48:30.718437Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
+          "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_zh": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_en": null,
+          "title_original": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:48:30.718437Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T16:48:30.718437Z",
+      "latest_at": "2026-08-14T16:48:30.718437Z",
+      "primary_item": {
+        "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
+        "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+        "title_zh": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+        "title_en": null,
+        "title_original": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30360",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4e103eaabee8",
+      "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+      "url": "https://www.aibase.com/news/30358",
+      "primary_url": "https://www.aibase.com/news/30358",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T15:48:30.718437Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T15:48:30.718437Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T15:48:30.718437Z",
+      "latest_at": "2026-08-14T15:48:30.718437Z",
+      "primary_item": {
+        "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+        "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+        "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+        "title_en": null,
+        "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30358",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
