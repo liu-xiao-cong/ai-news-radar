@@ -1,42 +1,48 @@
 {
-  "generated_at": "2026-08-17T01:54:04.735701Z",
+  "generated_at": "2026-08-18T01:49:28.724322Z",
   "timezone": "Asia/Shanghai",
-  "latest_date": "2026-08-17",
+  "latest_date": "2026-08-18",
   "dates": [
     {
+      "date": "2026-08-18",
+      "count": 222,
+      "raw_count": 2002,
+      "file": "data/history/2026-08-18.json"
+    },
+    {
       "date": "2026-08-17",
-      "count": 149,
-      "raw_count": 1725,
+      "count": 256,
+      "raw_count": 2139,
       "file": "data/history/2026-08-17.json"
     },
     {
       "date": "2026-08-16",
-      "count": 216,
-      "raw_count": 1931,
+      "count": 218,
+      "raw_count": 1936,
       "file": "data/history/2026-08-16.json"
     },
     {
       "date": "2026-08-15",
       "count": 283,
-      "raw_count": 2375,
+      "raw_count": 2377,
       "file": "data/history/2026-08-15.json"
     },
     {
       "date": "2026-08-14",
-      "count": 413,
-      "raw_count": 2587,
+      "count": 415,
+      "raw_count": 2589,
       "file": "data/history/2026-08-14.json"
     },
     {
       "date": "2026-08-13",
-      "count": 365,
-      "raw_count": 2486,
+      "count": 366,
+      "raw_count": 2488,
       "file": "data/history/2026-08-13.json"
     },
     {
       "date": "2026-08-12",
       "count": 387,
-      "raw_count": 2632,
+      "raw_count": 2635,
       "file": "data/history/2026-08-12.json"
     },
     {
@@ -60,13 +66,13 @@
     {
       "date": "2026-08-08",
       "count": 281,
-      "raw_count": 2393,
+      "raw_count": 2394,
       "file": "data/history/2026-08-08.json"
     },
     {
       "date": "2026-08-07",
-      "count": 404,
-      "raw_count": 2643,
+      "count": 405,
+      "raw_count": 2644,
       "file": "data/history/2026-08-07.json"
     },
     {
@@ -122,12 +128,6 @@
       "count": 434,
       "raw_count": 2600,
       "file": "data/history/2026-07-29.json"
-    },
-    {
-      "date": "2026-07-28",
-      "count": 376,
-      "raw_count": 2527,
-      "file": "data/history/2026-07-28.json"
     }
   ]
 }
