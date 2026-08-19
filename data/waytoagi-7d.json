@@ -1,40 +1,85 @@
 {
-  "generated_at": "2026-08-18T01:49:28.724322Z",
+  "generated_at": "2026-08-19T01:51:50.853895Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-17",
-  "count_today": 5,
+  "latest_date": "2026-08-18",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-08-17",
-      "title": "芋头小宝这篇文章用打工人最常用的PPT场景，横评了最近出来的几个办公型Agent在PPT文档解析和生成方面的能力差距。经常需要用AI工具做PPT的人，可以先看这篇少走点弯路。",
+      "date": "2026-08-18",
+      "title": "知识库这件事可以很小，小到把一份 PDF 丢给 ChatGPT，也可以很大，大到要接身份系统、业务数据库、本地模型、审计日志和权限策略。这篇文章就从一份文件开始，带你从入门到精通！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-17",
-      "title": "最近模型更新快的，确实有点看不过来， 而且还都说自己很强 。DeepSeek V4 Pro、GLM-5.3 接连更新，豆包推出了 Seed-Evolving，DeepSeek 还发布了自己的 Harness。模型能力在涨，给模型提供工具和执行环境的 Harness 也在进化。梦飞这篇文章把5个国产编程模型放进了同一个真实的代码仓库，处理同一个 Bug，并用轨迹图记录读文件、搜索、修改、测试、报错全过程。来一起看看各个模型的表现效果如何！",
+      "date": "2026-08-18",
+      "title": "最近很火的天上白玉京，云中仙宫，很多朋友都很感兴趣。阿真手搓了个营造师 Skill，去任意大家熟悉的Agent装上 Skill，然后给到文中的关键词就可以每次直出3套提示词方案了。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-17",
-      "title": "OpenAI设计负责人Ian Silber这期播客很适合设计师、产品经理、AI创业者看。他讲得很直接：AI已经能做出不错的界面和原型，设计师更要守住判断力——服务谁、解决什么、哪些体验值得保留。来一起看看，AI 时代，设计师该如何转型？",
+      "date": "2026-08-18",
+      "title": "国产开源大模型百花齐放，这些模型能不能不只停留在网页和 API 里，而是真正装进自己的机器，连接本地文件、工具和工作流？ 作者这篇文章尽可能让任何小白玩家都可以轻松驾驭，实现模型本地部署并搭建一套自己的工作流，快来一起跟着试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-17",
-      "title": "Agent真正上生产后，最先翻车的往往不是模型，而是知识：找不准、喂不进、旧内容越堆越乱。这篇文章从安全中心团队的真实实践出发，拆清楚了怎么定目标、搭知识体系、处理知识生产、检索、注入和淘汰，最后跑出一套能持续迭代的知识飞轮。想让Agent从“偶尔好用”变成“稳定可用”，这套经验很值得参考。",
+      "date": "2026-08-18",
+      "title": "卡兹克分享了一个极度实用的深度思考Prompt：双向钢人Prompt。它会先帮你重述真实问题，再分别强化“支持你”和“反对你”的最强理由，接着找出真正分歧和关键变量，只问一个最关键的问题，等你回答后再给判断和行动。适合用来做决策、写方案、复盘项目，尤其适合那些“我好像知道答案，但又说不清为什么”的问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-17",
-      "title": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
+      "date": "2026-08-18",
+      "title": "作者整理了12种运镜+8种转场+4套组合连招+5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Benchmark 合伙人Sarah Tavel这篇播客访谈抛出了一个消费级AI的关键创业思路：模型够用之后，产品竞争会转向用户体验、信任和网络效应。未来的爆款AI产品，可能会让你关注靠谱的人、复用他们的方法、看清提示词和资料来源，并在健康、写作、教育、家庭管理等真实任务里自然沉淀社区内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 18,
+  "count_7d": 22,
   "updates_7d": [
+    {
+      "date": "2026-08-18",
+      "title": "知识库这件事可以很小，小到把一份 PDF 丢给 ChatGPT，也可以很大，大到要接身份系统、业务数据库、本地模型、审计日志和权限策略。这篇文章就从一份文件开始，带你从入门到精通！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "最近很火的天上白玉京，云中仙宫，很多朋友都很感兴趣。阿真手搓了个营造师 Skill，去任意大家熟悉的Agent装上 Skill，然后给到文中的关键词就可以每次直出3套提示词方案了。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "国产开源大模型百花齐放，这些模型能不能不只停留在网页和 API 里，而是真正装进自己的机器，连接本地文件、工具和工作流？ 作者这篇文章尽可能让任何小白玩家都可以轻松驾驭，实现模型本地部署并搭建一套自己的工作流，快来一起跟着试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "卡兹克分享了一个极度实用的深度思考Prompt：双向钢人Prompt。它会先帮你重述真实问题，再分别强化“支持你”和“反对你”的最强理由，接着找出真正分歧和关键变量，只问一个最关键的问题，等你回答后再给判断和行动。适合用来做决策、写方案、复盘项目，尤其适合那些“我好像知道答案，但又说不清为什么”的问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "作者整理了12种运镜+8种转场+4套组合连招+5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Benchmark 合伙人Sarah Tavel这篇播客访谈抛出了一个消费级AI的关键创业思路：模型够用之后，产品竞争会转向用户体验、信任和网络效应。未来的爆款AI产品，可能会让你关注靠谱的人、复用他们的方法、看清提示词和资料来源，并在健康、写作、教育、家庭管理等真实任务里自然沉淀社区内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-17",
       "title": "芋头小宝这篇文章用打工人最常用的PPT场景，横评了最近出来的几个办公型Agent在PPT文档解析和生成方面的能力差距。经常需要用AI工具做PPT的人，可以先看这篇少走点弯路。",
@@ -108,21 +153,6 @@
     {
       "date": "2026-08-13",
       "title": "DeepSeek Harness 的 开发者预览版上线，并开源。以 “一切皆插件” 为核心设计理念，框架本身不写死能力，模型、工具、调度循环、UI 都可以通过插件自由替换重组。它拥有PTC、创造模式等多种工作范式，可以降低多步任务的上下文消耗，还能直接生成专属的智能体预设。完整会话日志、多级沙箱与权限审批筑牢了安全底线，还兼容MCP和已有的钩子脚本。多套 SDK 覆盖不同开发场景，对想要深度改造、搭建私有 Agent 的开发者极具参考价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "这篇是 WaytoAGI 众测团对Wan3.0的实测复盘，30位创作者做了90+案例，覆盖短漫剧、广告片、产品演示、UI 动效、MV、数字空间和影视叙事。最值得看的不是单条样片，而是它已经能把30秒叙事、网页/Word/PDF/Excel 输入、多参考图、人物微表情、角色一致性和视听协同放进真实流程里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "Stripe创始人Patrick在这期YC的播客上输出了很多对AI创业过程中的反思。面对一群正在考虑退学、用 AI 创业的学生。大家最关心的是：AI 能替人做多少事？过去那套“小步快跑”的创业方法还管用吗？ Patrick 的答案是：AI 确实让新公司出现得更快、收入来得更早，但学什么、做什么、什么时候推出产品，仍要靠创业者自己判断。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "Mini Max H3开源之后，社区已经把它拆成了“300 个分身”：压缩到消费级显卡能跑、重写Mac原生推理、做 NVIDIA/AMD加速，还摸索出“本地低成本打样，云端高质量成片”的新流程。这篇适合AI视频创作者、ComfyUI 玩家和Agent工作流开发者看。里面不仅有长视频续写、单帧图像编辑、独立音频生成这些冷门玩法，还展示了H3被接进自动化制片系统后的可能性。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
