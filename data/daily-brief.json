@@ -1,139 +1,37 @@
 {
-  "generated_at": "2026-08-19T01:51:50.853895Z",
+  "generated_at": "2026-08-20T01:50:21.049401Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_5ce8103476b1",
-      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        },
-        {
-          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need？",
-          "title_original": "How Much Memory Does Your Agent Actually Need？",
-          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        },
-        {
-          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need？",
-          "title_original": "How Much Memory Does Your Agent Actually Need？",
-          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.866,
-      "importance": 0.866,
-      "importance_score": 0.866,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8947,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
-      "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-        "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-        "title_en": "How Much Memory Does Your Agent Actually Need?",
-        "title_original": "How Much Memory Does Your Agent Actually Need?",
-        "summary": null,
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_67f37d861d34",
-      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "story_id": "story_ef913e9fdabc",
+      "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能 / Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全民主监督",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
+          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+          "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能 / Offering Zero Data Retention for frontier models",
+          "title_zh": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
           "summary": null,
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "published_at": "2026-08-19T19:00:00Z"
         },
         {
-          "id": "160fc557ba940badd17468c165904fcacea534fa",
-          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "title_zh": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督",
-          "title_en": "OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "title_original": "OpenAI launches initiative to strengthen democratic oversight of AI in national security",
+          "id": "9a19ff738d2c6b0af1778eb19b2e1ad99a09d291",
+          "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+          "title_zh": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+          "title_en": null,
+          "title_original": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
           "summary": null,
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -147,26 +45,26 @@
       ],
       "items": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全民主监督",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
+          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+          "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能 / Offering Zero Data Retention for frontier models",
+          "title_zh": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
           "summary": null,
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "published_at": "2026-08-19T19:00:00Z"
         },
         {
-          "id": "160fc557ba940badd17468c165904fcacea534fa",
-          "title": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督 / OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "title_zh": "OpenAI 发起倡议加强人工智能在国家安全方面的民主监督",
-          "title_en": "OpenAI launches initiative to strengthen democratic oversight of AI in national security",
-          "title_original": "OpenAI launches initiative to strengthen democratic oversight of AI in national security",
+          "id": "9a19ff738d2c6b0af1778eb19b2e1ad99a09d291",
+          "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+          "title_zh": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+          "title_en": null,
+          "title_original": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
           "summary": null,
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -175,15 +73,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.86,
-      "importance_score": 0.86,
+      "score": 0.8601,
+      "importance": 0.8601,
+      "importance_score": 0.8601,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9056,
+        "recency": 0.906,
         "story_heat": 0.25
       },
       "category": "official",
@@ -193,72 +91,72 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T19:00:00Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
       "primary_item": {
-        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-        "title_zh": "加强国家安全民主监督",
-        "title_en": "Strengthening democratic oversight in national security",
-        "title_original": "Strengthening democratic oversight in national security",
+        "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+        "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能 / Offering Zero Data Retention for frontier models",
+        "title_zh": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+        "title_en": "Offering Zero Data Retention for frontier models",
+        "title_original": "Offering Zero Data Retention for frontier models",
         "summary": null,
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1572a951af05",
-      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
+      "story_id": "story_bf6c17b1a987",
+      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
+          "published_at": "2026-08-19T17:50:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
+          "published_at": "2026-08-19T17:50:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9672,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -267,142 +165,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T23:33:07Z",
-      "latest_at": "2026-08-18T23:33:07Z",
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
       "primary_item": {
-        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-        "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-        "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-        "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+        "title_en": "GitHub Copilot app for Beginners: Managing your work",
+        "title_original": "GitHub Copilot app for Beginners: Managing your work",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_01003c6680bc",
-      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "primary_url": "https://openai.com/index/chatgpt-for-teens",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "summary": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "summary": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8068,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-        "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "summary": null,
-        "url": "https://openai.com/index/chatgpt-for-teens",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2fa84a60a1c6",
-      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "story_id": "story_9c847fb68fda",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按令牌类型撤销凭证和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-19T21:09:30Z"
         }
       ],
       "source_count": 1,
@@ -411,30 +207,30 @@
       ],
       "items": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按令牌类型撤销凭证和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-19T21:09:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9452,
+        "recency": 0.9346,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,426 +239,325 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T21:57:30Z",
-      "latest_at": "2026-08-18T21:57:30Z",
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
       "primary_item": {
-        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-        "title_zh": "按令牌类型撤销凭证和取消授权",
-        "title_en": "Credential revocation and deauthorization by token type",
-        "title_original": "Credential revocation and deauthorization by token type",
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_a1441105154d",
-      "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-      "url": "https://www.aibase.com/news/30446",
-      "primary_url": "https://www.aibase.com/news/30446",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_22e214c52569",
+      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/qad",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
-          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-          "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-          "title_en": null,
-          "title_original": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_zh": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+          "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_original": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
           "summary": null,
-          "url": "https://www.aibase.com/news/30446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
-        },
-        {
-          "id": "697930447365d8650810a7a01278448fbf2f5677",
-          "title": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "title_zh": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "title_en": null,
-          "title_original": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30446",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
-          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-          "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-          "title_en": null,
-          "title_original": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
-        },
-        {
-          "id": "697930447365d8650810a7a01278448fbf2f5677",
-          "title": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "title_zh": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "title_en": null,
-          "title_original": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30446",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T01:51:50.853895Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
-      "primary_item": {
-        "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
-        "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-        "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-        "title_en": null,
-        "title_original": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30446",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5874235fe6b1",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "primary_url": "https://www.modular.com/blog/mojo-open-source",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_en": null,
-          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        },
-        {
-          "id": "e61d8a7318a29492b0af9b0a4cb319bfbaaa9480",
-          "title": "Mojo 现已开源 / Mojo is now open source!",
-          "title_zh": "Mojo 现已开源",
-          "title_en": "Mojo is now open source!",
-          "title_original": "Mojo is now open source!",
-          "summary": null,
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:23:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_en": null,
-          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        },
-        {
-          "id": "e61d8a7318a29492b0af9b0a4cb319bfbaaa9480",
-          "title": "Mojo 现已开源 / Mojo is now open source!",
-          "title_zh": "Mojo 现已开源",
-          "title_en": "Mojo is now open source!",
-          "title_original": "Mojo is now open source!",
-          "summary": null,
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:23:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.938,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T16:23:24Z",
-      "latest_at": "2026-08-18T21:26:01.095000Z",
-      "primary_item": {
-        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "title_en": null,
-        "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-        "url": "https://www.modular.com/blog/mojo-open-source",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_en": null,
-          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T13:48:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：智谱（GLM）"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_en": null,
-          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
+          "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_zh": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+          "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_original": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "summary": null,
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T13:48:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9884,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T01:03:29Z",
-      "latest_at": "2026-08-19T01:03:29Z",
-      "primary_item": {
-        "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "title_en": null,
-        "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7d7eacff40aa",
-      "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "summary": null,
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
-        },
-        {
-          "id": "0192f261de576a53158267b5c833e9d7503b86e1",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "title_zh": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "title_en": null,
-          "title_original": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "summary": null,
-          "url": "https://openai.com/index/asana",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "summary": null,
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
-        },
-        {
-          "id": "0192f261de576a53158267b5c833e9d7503b86e1",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "title_zh": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "title_en": null,
-          "title_original": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "summary": null,
-          "url": "https://openai.com/index/asana",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7615,
-        "story_heat": 0.25
+        "recency": 0.8406,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "earliest_at": "2026-08-19T13:48:49Z",
+      "latest_at": "2026-08-19T13:48:49Z",
       "primary_item": {
-        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-        "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_zh": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+        "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "title_zh": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+        "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "title_original": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
         "summary": null,
-        "url": "https://openai.com/index/asana",
-        "source": "OpenAI News",
+        "url": "https://huggingface.co/blog/LiquidAI/qad",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_520828a29e15",
-      "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-      "url": "https://www.aibase.com/news/30448",
-      "primary_url": "https://www.aibase.com/news/30448",
+      "story_id": "story_314cb75fe2f0",
+      "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "通过搜索提升学习水平的 5 种新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": null,
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "通过搜索提升学习水平的 5 种新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": null,
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.906,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
+      "primary_item": {
+        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+        "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+        "title_zh": "通过搜索提升学习水平的 5 种新方法",
+        "title_en": "5 new ways to level up your learning with Search",
+        "title_original": "5 new ways to level up your learning with Search",
+        "summary": null,
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_68c52c81310f",
+      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_en": null,
+          "title_original": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        },
+        {
+          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
+          "title": "在网络关键能力时代推进模型开发",
+          "title_zh": "在网络关键能力时代推进模型开发",
+          "title_en": null,
+          "title_original": "在网络关键能力时代推进模型开发",
+          "summary": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        },
+        {
+          "id": "593789a0413dbd2e3bfd986740b717d2233f3101",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Readhub · AI",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_en": null,
+          "title_original": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        },
+        {
+          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
+          "title": "在网络关键能力时代推进模型开发",
+          "title_zh": "在网络关键能力时代推进模型开发",
+          "title_en": null,
+          "title_original": "在网络关键能力时代推进模型开发",
+          "summary": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        },
+        {
+          "id": "593789a0413dbd2e3bfd986740b717d2233f3101",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.942,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T01:51:50.853895Z",
+      "latest_at": "2026-08-19T21:42:09.969000Z",
+      "primary_item": {
+        "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
+        "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+        "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+        "title_en": null,
+        "title_original": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+        "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_73a0b7a89c99",
+      "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+      "url": "https://www.aibase.com/news/30483",
+      "primary_url": "https://www.aibase.com/news/30483",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "title_zh": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "title_en": null,
-          "title_original": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "summary": null,
-          "url": "https://www.aibase.com/news/30448",
+          "url": "https://www.aibase.com/news/30483",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         },
         {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "title_zh": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "id": "eccbe4c34cc8fce321274bb9567965a6314d7cf9",
+          "title": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
           "title_en": null,
-          "title_original": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "title_original": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30448",
+          "url": "https://www.aibase.com/zh/news/30483",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -876,26 +571,26 @@
       ],
       "items": [
         {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "title_zh": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "title_en": null,
-          "title_original": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "summary": null,
-          "url": "https://www.aibase.com/news/30448",
+          "url": "https://www.aibase.com/news/30483",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         },
         {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "title_zh": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "id": "eccbe4c34cc8fce321274bb9567965a6314d7cf9",
+          "title": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
           "title_en": null,
-          "title_original": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "title_original": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30448",
+          "url": "https://www.aibase.com/zh/news/30483",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -921,72 +616,467 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T01:51:50.853895Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
       "primary_item": {
-        "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-        "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-        "title_zh": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+        "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+        "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+        "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
         "title_en": null,
-        "title_original": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+        "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
         "summary": null,
-        "url": "https://www.aibase.com/news/30448",
+        "url": "https://www.aibase.com/news/30483",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_56d0c9a18268",
-      "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
-      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "primary_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_9ac0643f2427",
+      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "primary_url": "https://openai.com/index/replit",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
-          "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
-          "title_en": "How Claude is accelerating protein design and analytical chemistry",
-          "title_original": "How Claude is accelerating protein design and analytical chemistry",
-          "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16.191000Z"
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+          "summary": null,
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
-          "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
-          "title_en": "How Claude is accelerating protein design and analytical chemistry",
-          "title_original": "How Claude is accelerating protein design and analytical chemistry",
-          "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16.191000Z"
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+          "summary": null,
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7618,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T07:00:00Z",
+      "latest_at": "2026-08-19T07:00:00Z",
+      "primary_item": {
+        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+        "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+        "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+        "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+        "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+        "summary": null,
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f65a703c4519",
+      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8302,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T12:56:57Z",
+      "latest_at": "2026-08-19T12:56:57Z",
+      "primary_item": {
+        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+        "title_zh": "跟踪组织代码质量趋势",
+        "title_en": "Track organization code quality trends",
+        "title_original": "Track organization code quality trends",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9056fd88eba8",
+      "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+      "url": "https://www.aibase.com/news/30482",
+      "primary_url": "https://www.aibase.com/news/30482",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
+          "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_zh": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_en": null,
+          "title_original": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "9745ac23457d358f5fede13eb96fb0bdddafb510",
+          "title": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
+          "title_zh": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
+          "title_en": null,
+          "title_original": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30482",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
+          "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_zh": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_en": null,
+          "title_original": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "9745ac23457d358f5fede13eb96fb0bdddafb510",
+          "title": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
+          "title_zh": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
+          "title_en": null,
+          "title_original": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30482",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
+      "primary_item": {
+        "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
+        "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+        "title_zh": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+        "title_en": null,
+        "title_original": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30482",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a6e3ccf71c3a",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "url": "https://www.ithome.com/0/991/886.htm",
+      "primary_url": "https://www.ithome.com/0/991/886.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9779,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:17:26Z",
+      "latest_at": "2026-08-20T00:17:26Z",
+      "primary_item": {
+        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_en": null,
+        "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+        "url": "https://www.ithome.com/0/991/886.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_44c5c213e88d",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+      "url": "https://x.com/haoailab/status/2090177721913770407",
+      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sky Computing Lab (@haoailab)"
+      ],
+      "items": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9287,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
+      "primary_item": {
+        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+        "url": "https://x.com/haoailab/status/2090177721913770407",
+        "source": "X：Sky Computing Lab (@haoailab)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a294acf7ec9",
+      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13.817000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13.817000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,258 +1084,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T22:27:16.191000Z",
-      "latest_at": "2026-08-18T22:27:16.191000Z",
+      "earliest_at": "2026-08-19T17:56:13.817000Z",
+      "latest_at": "2026-08-19T17:56:13.817000Z",
       "primary_item": {
-        "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
-        "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
-        "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
-        "title_en": "How Claude is accelerating protein design and analytical chemistry",
-        "title_original": "How Claude is accelerating protein design and analytical chemistry",
-        "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-        "source": "Anthropic：Research（发表成果 · 网页）",
+        "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+        "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+        "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+        "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+        "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+        "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+        "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2a7697ec0027",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-      "url": "https://x.com/claudeai/status/2089806039088517356",
-      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-          "title_zh": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-          "title_original": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-          "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-          "url": "https://x.com/claudeai/status/2089806039088517356",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-          "title_zh": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-          "title_original": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-          "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-          "url": "https://x.com/claudeai/status/2089806039088517356",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9201,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T20:06:01Z",
-      "latest_at": "2026-08-18T20:06:01Z",
-      "primary_item": {
-        "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-        "title_zh": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-        "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-        "title_original": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-        "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-        "url": "https://x.com/claudeai/status/2089806039088517356",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_68c52c81310f",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "title_en": "Pacing model development in an era of cyber-critical capabilities",
-          "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": null,
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "title_en": "Pacing model development in an era of cyber-critical capabilities",
-          "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": null,
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8068,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-        "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-        "title_en": "Pacing model development in an era of cyber-critical capabilities",
-        "title_original": "Pacing model development in an era of cyber-critical capabilities",
-        "summary": null,
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_73978d10d0d5",
-      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-      "url": "https://claude.com/blog/ai-ci-cd-on-call",
-      "primary_url": "https://claude.com/blog/ai-ci-cd-on-call",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
-          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-          "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-          "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-          "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-          "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
-          "url": "https://claude.com/blog/ai-ci-cd-on-call",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T19:26:08.389000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
-          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-          "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-          "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-          "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-          "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
-          "url": "https://claude.com/blog/ai-ci-cd-on-call",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T19:26:08.389000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9113,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T19:26:08.389000Z",
-      "latest_at": "2026-08-18T19:26:08.389000Z",
-      "primary_item": {
-        "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
-        "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-        "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-        "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-        "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
-        "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
-        "url": "https://claude.com/blog/ai-ci-cd-on-call",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_66182ade32cb",
-      "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-      "url": "https://www.aibase.com/news/30453",
-      "primary_url": "https://www.aibase.com/news/30453",
+      "story_id": "story_2fcdec021321",
+      "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+      "url": "https://www.aibase.com/news/30490",
+      "primary_url": "https://www.aibase.com/news/30490",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1192dc813e4e3334e0107489b613314a590a215c",
-          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-          "title_zh": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
+          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
           "title_en": null,
-          "title_original": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
           "summary": null,
-          "url": "https://www.aibase.com/news/30453",
+          "url": "https://www.aibase.com/news/30490",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "source_count": 1,
@@ -1254,17 +1126,17 @@
       ],
       "items": [
         {
-          "id": "1192dc813e4e3334e0107489b613314a590a215c",
-          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-          "title_zh": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
+          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
           "title_en": null,
-          "title_original": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
           "summary": null,
-          "url": "https://www.aibase.com/news/30453",
+          "url": "https://www.aibase.com/news/30490",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "item_count": 1,
@@ -1285,114 +1157,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T01:51:50.853895Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
       "primary_item": {
-        "id": "1192dc813e4e3334e0107489b613314a590a215c",
-        "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-        "title_zh": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+        "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
+        "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+        "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
         "title_en": null,
-        "title_original": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+        "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
         "summary": null,
-        "url": "https://www.aibase.com/news/30453",
+        "url": "https://www.aibase.com/news/30490",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9765648ad527",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": null,
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": null,
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": null,
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": null,
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8068,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-        "title": "Partnering with CodeAI to prepare the first AI generation",
-        "title_zh": null,
-        "title_en": "Partnering with CodeAI to prepare the first AI generation",
-        "title_original": "Partnering with CodeAI to prepare the first AI generation",
-        "summary": null,
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1055104d0a02",
-      "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
-      "url": "https://www.aibase.com/news/30450",
-      "primary_url": "https://www.aibase.com/news/30450",
+      "story_id": "story_c06b61fa906e",
+      "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+      "url": "https://www.aibase.com/news/30478",
+      "primary_url": "https://www.aibase.com/news/30478",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dec209fdf2aa3f8e9d9eeb56d4217873c598a619",
-          "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
-          "title_zh": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
+          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
           "title_en": null,
-          "title_original": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
           "summary": null,
-          "url": "https://www.aibase.com/news/30450",
+          "url": "https://www.aibase.com/news/30478",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "source_count": 1,
@@ -1401,17 +1199,17 @@
       ],
       "items": [
         {
-          "id": "dec209fdf2aa3f8e9d9eeb56d4217873c598a619",
-          "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
-          "title_zh": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
+          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
           "title_en": null,
-          "title_original": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
           "summary": null,
-          "url": "https://www.aibase.com/news/30450",
+          "url": "https://www.aibase.com/news/30478",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "item_count": 1,
@@ -1432,29 +1230,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T01:51:50.853895Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
       "primary_item": {
-        "id": "dec209fdf2aa3f8e9d9eeb56d4217873c598a619",
-        "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
-        "title_zh": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+        "id": "ba0f4f849ba241978d499e019071fcabe915df15",
+        "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+        "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
         "title_en": null,
-        "title_original": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+        "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
         "summary": null,
-        "url": "https://www.aibase.com/news/30450",
+        "url": "https://www.aibase.com/news/30478",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
+      "title": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-18",
+      "source": "社区更新 · 2026-08-19",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "902b3dc398ddfe2a760fbb6762851873204e2af0",
+          "title": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "title_zh": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "title_en": null,
+          "title_original": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "summary": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
+          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "title_zh": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "title_en": null,
+          "title_original": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "summary": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "36b287234b7e291a4fa62319c1cc6d53c499c8b6",
+          "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "title_zh": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "title_en": null,
+          "title_original": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "summary": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "aa01be9b895164288a8587a62390fbef8f97cefb",
+          "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "title_zh": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "title_en": null,
+          "title_original": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "summary": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "5d2f692275248217cc66742c81f38e6f87d1560a",
+          "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "title_zh": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "title_en": null,
+          "title_original": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "summary": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
           "id": "f02be8ddb758b0898c99dcd2d5ed7a2a46c1cbf6",
           "title": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
           "title_zh": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
@@ -1533,12 +1396,78 @@
           "published_at": "2026-08-19T01:51:50.853895Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 11,
       "source_names": [
-        "社区更新 · 2026-08-18"
+        "社区更新 · 2026-08-18",
+        "社区更新 · 2026-08-19"
       ],
       "items": [
         {
+          "id": "902b3dc398ddfe2a760fbb6762851873204e2af0",
+          "title": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "title_zh": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "title_en": null,
+          "title_original": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "summary": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
+          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "title_zh": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "title_en": null,
+          "title_original": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "summary": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "36b287234b7e291a4fa62319c1cc6d53c499c8b6",
+          "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "title_zh": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "title_en": null,
+          "title_original": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "summary": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "aa01be9b895164288a8587a62390fbef8f97cefb",
+          "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "title_zh": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "title_en": null,
+          "title_original": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "summary": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
+          "id": "5d2f692275248217cc66742c81f38e6f87d1560a",
+          "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "title_zh": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "title_en": null,
+          "title_original": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "summary": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        },
+        {
           "id": "f02be8ddb758b0898c99dcd2d5ed7a2a46c1cbf6",
           "title": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
           "title_zh": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
@@ -1617,8 +1546,8 @@
           "published_at": "2026-08-19T01:51:50.853895Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
+      "item_count": 11,
+      "duplicate_count": 11,
       "score": 0.6692,
       "importance": 0.6692,
       "importance_score": 0.6692,
@@ -1635,39 +1564,39 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-19T01:51:50.853895Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
       "primary_item": {
-        "id": "f02be8ddb758b0898c99dcd2d5ed7a2a46c1cbf6",
-        "title": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
-        "title_zh": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
+        "id": "902b3dc398ddfe2a760fbb6762851873204e2af0",
+        "title": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+        "title_zh": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
         "title_en": null,
-        "title_original": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
-        "summary": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
+        "title_original": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+        "summary": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-18",
+        "source": "社区更新 · 2026-08-19",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_045945ceabaa",
-      "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
-      "url": "https://www.aibase.com/news/30449",
-      "primary_url": "https://www.aibase.com/news/30449",
+      "story_id": "story_9a827daee5de",
+      "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+      "url": "https://www.aibase.com/news/30479",
+      "primary_url": "https://www.aibase.com/news/30479",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "022a4ff53eb071c58236a89b5540f16830571362",
-          "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
-          "title_zh": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+          "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
+          "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
           "title_en": null,
-          "title_original": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+          "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
           "summary": null,
-          "url": "https://www.aibase.com/news/30449",
+          "url": "https://www.aibase.com/news/30479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "source_count": 1,
@@ -1676,17 +1605,17 @@
       ],
       "items": [
         {
-          "id": "022a4ff53eb071c58236a89b5540f16830571362",
-          "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
-          "title_zh": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+          "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
+          "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
           "title_en": null,
-          "title_original": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+          "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
           "summary": null,
-          "url": "https://www.aibase.com/news/30449",
+          "url": "https://www.aibase.com/news/30479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "item_count": 1,
@@ -1707,40 +1636,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T01:51:50.853895Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
       "primary_item": {
-        "id": "022a4ff53eb071c58236a89b5540f16830571362",
-        "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
-        "title_zh": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+        "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
+        "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+        "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
         "title_en": null,
-        "title_original": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+        "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
         "summary": null,
-        "url": "https://www.aibase.com/news/30449",
+        "url": "https://www.aibase.com/news/30479",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3ba24c78929c",
-      "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
-      "url": "https://www.aibase.com/news/30445",
-      "primary_url": "https://www.aibase.com/news/30445",
+      "story_id": "story_d40bc30a5fe0",
+      "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+      "url": "https://www.aibase.com/news/30481",
+      "primary_url": "https://www.aibase.com/news/30481",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f369bd4216cacac95ef5ea5f78d7ba6a70b4247d",
-          "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
-          "title_zh": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+          "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
+          "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
           "title_en": null,
-          "title_original": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+          "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
           "summary": null,
-          "url": "https://www.aibase.com/news/30445",
+          "url": "https://www.aibase.com/news/30481",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "source_count": 1,
@@ -1749,17 +1678,17 @@
       ],
       "items": [
         {
-          "id": "f369bd4216cacac95ef5ea5f78d7ba6a70b4247d",
-          "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
-          "title_zh": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+          "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
+          "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
           "title_en": null,
-          "title_original": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+          "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
           "summary": null,
-          "url": "https://www.aibase.com/news/30445",
+          "url": "https://www.aibase.com/news/30481",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T01:51:50.853895Z"
+          "published_at": "2026-08-20T01:50:21.049401Z"
         }
       ],
       "item_count": 1,
@@ -1780,16 +1709,162 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T01:51:50.853895Z",
-      "latest_at": "2026-08-19T01:51:50.853895Z",
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
       "primary_item": {
-        "id": "f369bd4216cacac95ef5ea5f78d7ba6a70b4247d",
-        "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
-        "title_zh": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+        "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
+        "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+        "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
         "title_en": null,
-        "title_original": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+        "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
         "summary": null,
-        "url": "https://www.aibase.com/news/30445",
+        "url": "https://www.aibase.com/news/30481",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d3aeac3817a6",
+      "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+      "url": "https://www.aibase.com/news/30489",
+      "primary_url": "https://www.aibase.com/news/30489",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_en": null,
+          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30489",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_en": null,
+          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30489",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
+      "primary_item": {
+        "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+        "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "title_en": null,
+        "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30489",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_df2c2cc1a3d1",
+      "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+      "url": "https://www.aibase.com/news/30486",
+      "primary_url": "https://www.aibase.com/news/30486",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "56d9616c780dacf56e044e9a9b034675f7891273",
+          "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+          "title_zh": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+          "title_en": null,
+          "title_original": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30486",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "56d9616c780dacf56e044e9a9b034675f7891273",
+          "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+          "title_zh": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+          "title_en": null,
+          "title_original": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30486",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:50:21.049401Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:50:21.049401Z",
+      "latest_at": "2026-08-20T01:50:21.049401Z",
+      "primary_item": {
+        "id": "56d9616c780dacf56e044e9a9b034675f7891273",
+        "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+        "title_zh": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+        "title_en": null,
+        "title_original": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30486",
         "source": "AIbase",
         "source_name": "AIbase"
       }
