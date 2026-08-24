@@ -1,101 +1,304 @@
 {
-  "generated_at": "2026-08-23T01:58:43.540667Z",
+  "generated_at": "2026-08-24T01:56:17.642604Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_dd5736dec723",
-      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "primary_url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.149.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_en": null,
-          "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.1",
+          "title_original": "Codex CLI 0.149.1",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_en": null,
-          "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.1",
+          "title_original": "Codex CLI 0.149.1",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
-      "importance_label": "行业动态",
+      "score": 0.861,
+      "importance": 0.861,
+      "importance_score": 0.861,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-23T00:53:34.184000Z",
-      "latest_at": "2026-08-23T00:53:34.184000Z",
+      "earliest_at": "2026-08-24T00:00:00Z",
+      "latest_at": "2026-08-24T00:00:00Z",
       "primary_item": {
-        "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-        "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "title_en": null,
-        "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+        "title": "Codex CLI 0.149.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.149.1",
+        "title_original": "Codex CLI 0.149.1",
+        "summary": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_cce47fff342d",
-      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-      "url": "https://www.ithome.com/0/993/105.htm",
-      "primary_url": "https://www.ithome.com/0/993/105.htm",
+      "story_id": "story_51421005a3dd",
+      "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+      "url": "https://www.aibase.com/news/30545",
+      "primary_url": "https://www.aibase.com/news/30545",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "title_zh": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "title_en": null,
+          "title_original": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30545",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "cf55abc1b6546794a7cbbab900845a07845dda8c",
+          "title": "Guidelight 评估五大 AI 实验室，OpenAI 遏制能力排名第一",
+          "title_zh": "Guidelight 评估五大 AI 实验室，OpenAI 遏制能力排名第一",
+          "title_en": null,
+          "title_original": "Guidelight 评估五大 AI 实验室，OpenAI 遏制能力排名第一",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30545",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "title_zh": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "title_en": null,
+          "title_original": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30545",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "cf55abc1b6546794a7cbbab900845a07845dda8c",
+          "title": "Guidelight 评估五大 AI 实验室，OpenAI 遏制能力排名第一",
+          "title_zh": "Guidelight 评估五大 AI 实验室，OpenAI 遏制能力排名第一",
+          "title_en": null,
+          "title_original": "Guidelight 评估五大 AI 实验室，OpenAI 遏制能力排名第一",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30545",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+        "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+        "title_zh": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+        "title_en": null,
+        "title_original": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30545",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4733c9acdbb2",
+      "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+      "url": "https://www.aibase.com/news/30548",
+      "primary_url": "https://www.aibase.com/news/30548",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_en": null,
+          "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_en": null,
+          "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_en": null,
+          "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_en": null,
+          "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+        "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "title_en": null,
+        "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30548",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ff91e2bb7753",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://www.ithome.com/0/993/305.htm",
+      "primary_url": "https://www.ithome.com/0/993/305.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
-          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-          "title_zh": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
           "title_en": null,
-          "title_original": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-          "summary": "第二届世界人形机器人运动会今晚在国家速滑馆\"冰丝带\"开幕，666 支队伍、2056 台机器人参赛，队伍数量较首届增长 138%，机器人数量翻了两番。天工 Ultra 在百米预赛跑出 9.39 秒，打破博尔特 9.58 秒的人类世界纪录；荣耀\"闪电\"以 41.95 秒完成 400 米，同样破人类纪录。本届赛项增至 51 项，多项竞技赛取消人工遥控，全程全自主运行。",
-          "url": "https://www.ithome.com/0/993/105.htm",
+          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
+          "url": "https://www.ithome.com/0/993/305.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-22T14:13:48Z"
+          "published_at": "2026-08-23T14:13:31Z"
         }
       ],
       "source_count": 1,
@@ -104,48 +307,452 @@
       ],
       "items": [
         {
-          "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
-          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-          "title_zh": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
           "title_en": null,
-          "title_original": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-          "summary": "第二届世界人形机器人运动会今晚在国家速滑馆\"冰丝带\"开幕，666 支队伍、2056 台机器人参赛，队伍数量较首届增长 138%，机器人数量翻了两番。天工 Ultra 在百米预赛跑出 9.39 秒，打破博尔特 9.58 秒的人类世界纪录；荣耀\"闪电\"以 41.95 秒完成 400 米，同样破人类纪录。本届赛项增至 51 项，多项竞技赛取消人工遥控，全程全自主运行。",
-          "url": "https://www.ithome.com/0/993/105.htm",
+          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
+          "url": "https://www.ithome.com/0/993/305.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-22T14:13:48Z"
+          "published_at": "2026-08-23T14:13:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.844,
+        "recency": 0.8444,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T14:13:48Z",
-      "latest_at": "2026-08-22T14:13:48Z",
+      "earliest_at": "2026-08-23T14:13:31Z",
+      "latest_at": "2026-08-23T14:13:31Z",
       "primary_item": {
-        "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
-        "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-        "title_zh": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
         "title_en": null,
-        "title_original": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-        "summary": "第二届世界人形机器人运动会今晚在国家速滑馆\"冰丝带\"开幕，666 支队伍、2056 台机器人参赛，队伍数量较首届增长 138%，机器人数量翻了两番。天工 Ultra 在百米预赛跑出 9.39 秒，打破博尔特 9.58 秒的人类世界纪录；荣耀\"闪电\"以 41.95 秒完成 400 米，同样破人类纪录。本届赛项增至 51 项，多项竞技赛取消人工遥控，全程全自主运行。",
-        "url": "https://www.ithome.com/0/993/105.htm",
+        "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
+        "url": "https://www.ithome.com/0/993/305.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3370a42495b2",
+      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+      "url": "https://www.aibase.com/news/30540",
+      "primary_url": "https://www.aibase.com/news/30540",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_zh": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_en": null,
+          "title_original": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "title_zh": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "title_en": null,
+          "title_original": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_zh": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_en": null,
+          "title_original": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "title_zh": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "title_en": null,
+          "title_original": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "title_zh": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "title_en": null,
+        "title_original": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30540",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cbc225b5aefc",
+      "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+      "url": "https://www.aibase.com/news/30549",
+      "primary_url": "https://www.aibase.com/news/30549",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_zh": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_en": null,
+          "title_original": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "title_zh": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "title_en": null,
+          "title_original": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_zh": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_en": null,
+          "title_original": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "title_zh": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "title_en": null,
+          "title_original": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+        "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "title_zh": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "title_en": null,
+        "title_original": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30549",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ead5f4b9fdaf",
+      "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+      "url": "https://www.aibase.com/news/30541",
+      "primary_url": "https://www.aibase.com/news/30541",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_zh": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_en": null,
+          "title_original": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "title_zh": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "title_en": null,
+          "title_original": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_zh": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_en": null,
+          "title_original": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "title_zh": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "title_en": null,
+          "title_original": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+        "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "title_zh": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "title_en": null,
+        "title_original": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30541",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2eadfe0686d9",
+      "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+      "url": "https://www.aibase.com/news/30543",
+      "primary_url": "https://www.aibase.com/news/30543",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
+          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_en": null,
+          "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30543",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "be1f49a3be7a18c92a73abc97b22514993a8b4f3",
+          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_en": null,
+          "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30543",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
+          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_en": null,
+          "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30543",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "be1f49a3be7a18c92a73abc97b22514993a8b4f3",
+          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_en": null,
+          "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30543",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
+        "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+        "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+        "title_en": null,
+        "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30543",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -295,15 +902,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
+      "score": 0.6249,
+      "importance": 0.6249,
+      "importance_score": 0.6249,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 1.0,
+        "recency": 0.7075,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -325,137 +932,338 @@
       }
     },
     {
-      "story_id": "story_5e014506cb40",
-      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-      "url": "https://www.ithome.com/0/993/133.htm",
-      "primary_url": "https://www.ithome.com/0/993/133.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_d6c0f7eda20e",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+      "primary_url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-          "title_zh": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-          "title_en": null,
-          "title_original": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+          "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
+          "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "title_zh": null,
+          "title_en": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "title_original": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
           "summary": null,
-          "url": "https://www.ithome.com/0/993/133.htm",
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T20:24:52Z"
+        },
+        {
+          "id": "0905e28c904f1c6c250b71d9e5b63e645e6cf1ef",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_zh": null,
+          "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "title_zh": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "title_en": null,
-          "title_original": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+          "id": "eb5dd0c6315fbd6eaaf61c5b0ffffe7e9b3aa6d5",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_zh": null,
+          "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "summary": null,
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T00:15:10Z"
+          "url": "https://news.ycombinator.com/item?id=49411102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:46:33.767000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
+          "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "title_zh": null,
+          "title_en": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "title_original": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T20:24:52Z"
+        },
+        {
+          "id": "0905e28c904f1c6c250b71d9e5b63e645e6cf1ef",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_zh": null,
+          "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eb5dd0c6315fbd6eaaf61c5b0ffffe7e9b3aa6d5",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_zh": null,
+          "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=49411102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:46:33.767000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6216,
+      "importance": 0.6216,
+      "importance_score": 0.6216,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9233,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T20:24:52Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "title_zh": null,
+        "title_en": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "title_original": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "summary": null,
+        "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_1a84e035a21e",
+      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+      "url": "https://www.aibase.com/news/30546",
+      "primary_url": "https://www.aibase.com/news/30546",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "title_zh": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "title_en": null,
+          "title_original": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "title_zh": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "title_en": null,
+          "title_original": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
+        "AIbase",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-          "title_zh": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "title_zh": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
           "title_en": null,
-          "title_original": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+          "title_original": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
           "summary": null,
-          "url": "https://www.ithome.com/0/993/133.htm",
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "title_zh": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "title_en": null,
+          "title_original": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30546",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "title_zh": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "title_en": null,
-          "title_original": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "summary": null,
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T00:15:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
         "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T00:15:10Z",
-      "latest_at": "2026-08-23T01:58:43.540667Z",
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
       "primary_item": {
-        "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-        "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-        "title_zh": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+        "title_zh": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
         "title_en": null,
-        "title_original": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+        "title_original": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
         "summary": null,
-        "url": "https://www.ithome.com/0/993/133.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "url": "https://www.aibase.com/news/30546",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b6773085f128",
-      "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "primary_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_c2f6f6b65d61",
+      "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+      "url": "https://www.aibase.com/news/30539",
+      "primary_url": "https://www.aibase.com/news/30539",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "title_zh": "multica-ai / andrej-karpathy-技能",
-          "title_en": "multica-ai / andrej-karpathy-skills",
-          "title_original": "multica-ai / andrej-karpathy-skills",
+          "id": "6f5117de7586692b00038832a5809756e3c62404",
+          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_zh": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_en": null,
+          "title_original": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
           "summary": null,
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "url": "https://www.aibase.com/news/30539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6f5117de7586692b00038832a5809756e3c62404",
+          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_zh": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_en": null,
+          "title_original": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "6f5117de7586692b00038832a5809756e3c62404",
+        "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+        "title_zh": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+        "title_en": null,
+        "title_original": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30539",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_930dd1342c71",
+      "title": "NousResearch /      hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "primary_url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "title_zh": null,
+          "title_en": "NousResearch /      hermes-agent",
+          "title_original": "NousResearch /      hermes-agent",
+          "summary": null,
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:56:52.062000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "title_zh": null,
+          "title_en": "NousResearch / hermes-agent",
+          "title_original": "NousResearch / hermes-agent",
+          "summary": null,
+          "url": "https://github.com/NousResearch/hermes-agent",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "title_zh": "multica-ai / andrej-karpathy-技能",
-          "title_en": "multica-ai /      andrej-karpathy-skills",
-          "title_original": "multica-ai /      andrej-karpathy-skills",
-          "summary": null,
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T01:44:32.497000Z"
         }
       ],
       "source_count": 2,
@@ -465,30 +1273,30 @@
       ],
       "items": [
         {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "title_zh": "multica-ai / andrej-karpathy-技能",
-          "title_en": "multica-ai / andrej-karpathy-skills",
-          "title_original": "multica-ai / andrej-karpathy-skills",
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "title_zh": null,
+          "title_en": "NousResearch /      hermes-agent",
+          "title_original": "NousResearch /      hermes-agent",
           "summary": null,
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:56:52.062000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "title_zh": null,
+          "title_en": "NousResearch / hermes-agent",
+          "title_original": "NousResearch / hermes-agent",
+          "summary": null,
+          "url": "https://github.com/NousResearch/hermes-agent",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "title_zh": "multica-ai / andrej-karpathy-技能",
-          "title_en": "multica-ai /      andrej-karpathy-skills",
-          "title_original": "multica-ai /      andrej-karpathy-skills",
-          "summary": null,
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T01:44:32.497000Z"
         }
       ],
       "item_count": 2,
@@ -508,251 +1316,250 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T01:44:32.497000Z",
-      "latest_at": "2026-08-23T01:58:43.540667Z",
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:52.062000Z",
       "primary_item": {
-        "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-        "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-        "title_zh": "multica-ai / andrej-karpathy-技能",
-        "title_en": "multica-ai / andrej-karpathy-skills",
-        "title_original": "multica-ai / andrej-karpathy-skills",
+        "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+        "title": "NousResearch /      hermes-agent",
+        "title_zh": null,
+        "title_en": "NousResearch /      hermes-agent",
+        "title_original": "NousResearch /      hermes-agent",
         "summary": null,
-        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_c0f9d10986f5",
-      "title": "为什么你身边的LLM看起来比实际更“笨”",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "primary_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "source": "forum.level1techs.com",
-      "source_name": "Buzzing",
+      "story_id": "story_0c0154a85503",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://news.ycombinator.com/item?id=49412909",
+      "primary_url": "https://news.ycombinator.com/item?id=49412909",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": null,
-          "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "title_zh": null,
+          "title_en": "Implementation of GPT-2 in pure CMake",
+          "title_original": "Implementation of GPT-2 in pure CMake",
           "summary": null,
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
+          "url": "https://news.ycombinator.com/item?id=49412909",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:46:33.767000Z"
         },
         {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
+          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "title_zh": null,
+          "title_en": "Implementation of GPT-2 in pure CMake",
+          "title_original": "Implementation of GPT-2 in pure CMake",
           "summary": null,
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "url": "https://github.com/AlpinDale/gpt2.cmake",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T18:14:16Z"
+          "published_at": "2026-08-23T21:41:17Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "forum.level1techs.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": null,
-          "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "title_zh": null,
+          "title_en": "Implementation of GPT-2 in pure CMake",
+          "title_original": "Implementation of GPT-2 in pure CMake",
           "summary": null,
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
+          "url": "https://news.ycombinator.com/item?id=49412909",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:46:33.767000Z"
         },
         {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
+          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "title_zh": null,
+          "title_en": "Implementation of GPT-2 in pure CMake",
+          "title_original": "Implementation of GPT-2 in pure CMake",
           "summary": null,
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "url": "https://github.com/AlpinDale/gpt2.cmake",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T18:14:16Z"
+          "published_at": "2026-08-23T21:41:17Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9509,
+        "recency": 0.9977,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:14:16Z",
-      "latest_at": "2026-08-22T22:29:26.810000Z",
+      "earliest_at": "2026-08-23T21:41:17Z",
+      "latest_at": "2026-08-24T01:46:33.767000Z",
       "primary_item": {
-        "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-        "title": "为什么你身边的LLM看起来比实际更“笨”",
-        "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-        "title_en": null,
-        "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+        "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
+        "title": "Implementation of GPT-2 in pure CMake",
+        "title_zh": null,
+        "title_en": "Implementation of GPT-2 in pure CMake",
+        "title_original": "Implementation of GPT-2 in pure CMake",
         "summary": null,
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "source": "forum.level1techs.com",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49412909",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_304760d42766",
-      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "primary_url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "twitter.com",
+      "story_id": "story_e02b71985256",
+      "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "id": "fde428dfd51802f20ba553053d8e5cc066b26672",
+          "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+          "title_zh": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
           "title_en": null,
-          "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_original": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
           "summary": null,
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "twitter.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T21:09:21.713000Z"
+          "published_at": "2026-08-24T00:21:19.452000Z"
         },
         {
-          "id": "ef77a0d313f3c2a5aced9271f1726eac9c9b3922",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "title_en": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "title_original": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "id": "042aebfaaf38a3a915c5f2063491a5e8af34dad2",
+          "title": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
+          "title_zh": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
+          "title_en": null,
+          "title_original": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
           "summary": null,
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T16:58:49Z"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T23:49:12.229000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "twitter.com"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "id": "fde428dfd51802f20ba553053d8e5cc066b26672",
+          "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+          "title_zh": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
           "title_en": null,
-          "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_original": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
           "summary": null,
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "twitter.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T21:09:21.713000Z"
+          "published_at": "2026-08-24T00:21:19.452000Z"
         },
         {
-          "id": "ef77a0d313f3c2a5aced9271f1726eac9c9b3922",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "title_en": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "title_original": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "id": "042aebfaaf38a3a915c5f2063491a5e8af34dad2",
+          "title": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
+          "title_zh": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
+          "title_en": null,
+          "title_original": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
           "summary": null,
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T16:58:49Z"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T23:49:12.229000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9327,
+        "recency": 0.9774,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T16:58:49Z",
-      "latest_at": "2026-08-22T21:09:21.713000Z",
+      "earliest_at": "2026-08-23T23:49:12.229000Z",
+      "latest_at": "2026-08-24T00:21:19.452000Z",
       "primary_item": {
-        "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-        "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-        "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+        "id": "fde428dfd51802f20ba553053d8e5cc066b26672",
+        "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+        "title_zh": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
         "title_en": null,
-        "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+        "title_original": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
         "summary": null,
-        "url": "https://twitter.com/argofowl/status/2091150597374537729",
-        "source": "twitter.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_18837430aeb7",
-      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "story_id": "story_bf8914f7a7d4",
+      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "title_zh": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "title_zh": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
           "title_en": null,
-          "title_original": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "title_original": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
           "summary": null,
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "published_at": "2026-08-23T21:57:23.465000Z"
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "title_zh": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "title_en": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "title_original": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "title_zh": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "title_en": "Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "title_original": "Sam Altman says he's worried about AI being controlled by a few powerful players",
           "summary": null,
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "published_at": "2026-08-23T21:38:35Z"
         }
       ],
       "source_count": 2,
@@ -762,294 +1569,367 @@
       ],
       "items": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "title_zh": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "title_zh": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
           "title_en": null,
-          "title_original": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "title_original": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
           "summary": null,
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "published_at": "2026-08-23T21:57:23.465000Z"
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "title_zh": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "title_en": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "title_original": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "title_zh": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "title_en": "Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "title_original": "Sam Altman says he's worried about AI being controlled by a few powerful players",
           "summary": null,
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "published_at": "2026-08-23T21:38:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9291,
+        "recency": 0.9441,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T20:46:35Z",
-      "latest_at": "2026-08-22T20:53:16.928000Z",
+      "earliest_at": "2026-08-23T21:38:35Z",
+      "latest_at": "2026-08-23T21:57:23.465000Z",
       "primary_item": {
-        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-        "title_zh": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+        "title_zh": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
         "title_en": null,
-        "title_original": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+        "title_original": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
         "summary": null,
-        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_80d4d98280b4",
-      "title": "新的MCP路线图",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "source": "blog.modelcontextprotocol.io",
+      "story_id": "story_1a46c098bd02",
+      "title": "与人工智能相关的各种可靠性事故即将发生",
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "source": "surfingcomplexity.blog",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "title_zh": "新的MCP路线图",
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "title_zh": "与人工智能相关的各种可靠性事故即将发生",
           "title_en": null,
-          "title_original": "新的MCP路线图",
+          "title_original": "与人工智能相关的各种可靠性事故即将发生",
           "summary": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
+          "published_at": "2026-08-23T19:17:21.738000Z"
         },
         {
-          "id": "e2aebfad7a6256299cd6bda017aa762d5fec10f6",
-          "title": "新的MCP路线图 / New MCP Roadmap",
-          "title_zh": "新的MCP路线图",
-          "title_en": "New MCP Roadmap",
-          "title_original": "New MCP Roadmap",
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "title_zh": "与人工智能相关的各种可靠性事故即将发生",
+          "title_en": "Wild AI-related reliability incidents are coming",
+          "title_original": "Wild AI-related reliability incidents are coming",
           "summary": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.modelcontextprotocol.io"
-      ],
-      "items": [
-        {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "title_zh": "新的MCP路线图",
-          "title_en": null,
-          "title_original": "新的MCP路线图",
-          "summary": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
-        },
-        {
-          "id": "e2aebfad7a6256299cd6bda017aa762d5fec10f6",
-          "title": "新的MCP路线图 / New MCP Roadmap",
-          "title_zh": "新的MCP路线图",
-          "title_en": "New MCP Roadmap",
-          "title_original": "New MCP Roadmap",
-          "summary": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8804,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:31:34Z",
-      "latest_at": "2026-08-22T17:09:20.269000Z",
-      "primary_item": {
-        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-        "title": "新的MCP路线图",
-        "title_zh": "新的MCP路线图",
-        "title_en": null,
-        "title_original": "新的MCP路线图",
-        "summary": null,
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-        "source": "blog.modelcontextprotocol.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3e284d11e91a",
-      "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "title_zh": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "title_en": null,
-          "title_original": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "summary": null,
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
-        },
-        {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "title_zh": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "title_en": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "title_original": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "summary": null,
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
+          "published_at": "2026-08-23T19:04:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Lobsters (技术社区)",
-        "github.com"
+        "surfingcomplexity.blog"
       ],
       "items": [
         {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "title_zh": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "title_zh": "与人工智能相关的各种可靠性事故即将发生",
           "title_en": null,
-          "title_original": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "title_original": "与人工智能相关的各种可靠性事故即将发生",
           "summary": null,
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
+          "published_at": "2026-08-23T19:17:21.738000Z"
         },
         {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "title_zh": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "title_en": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "title_original": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "title_zh": "与人工智能相关的各种可靠性事故即将发生",
+          "title_en": "Wild AI-related reliability incidents are coming",
+          "title_original": "Wild AI-related reliability incidents are coming",
           "summary": null,
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
+          "published_at": "2026-08-23T19:04:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8703,
+        "recency": 0.9085,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T16:04:51Z",
-      "latest_at": "2026-08-22T16:21:29.526000Z",
+      "earliest_at": "2026-08-23T19:04:41Z",
+      "latest_at": "2026-08-23T19:17:21.738000Z",
       "primary_item": {
-        "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-        "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-        "title_zh": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+        "title": "与人工智能相关的各种可靠性事故即将发生",
+        "title_zh": "与人工智能相关的各种可靠性事故即将发生",
         "title_en": null,
-        "title_original": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+        "title_original": "与人工智能相关的各种可靠性事故即将发生",
         "summary": null,
-        "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-        "source": "github.com",
+        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+        "source": "surfingcomplexity.blog",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_a53af4b5fcbb",
-      "title": "openai / Codex / openai / codex",
-      "url": "https://github.com/openai/codex",
-      "primary_url": "https://github.com/openai/codex",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_279d0430cc6b",
+      "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+      "url": "https://www.aibase.com/news/30552",
+      "primary_url": "https://www.aibase.com/news/30552",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / Codex / openai / codex",
-          "title_zh": "openai / Codex",
-          "title_en": "openai / codex",
-          "title_original": "openai / codex",
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_zh": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_en": null,
+          "title_original": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
           "summary": null,
-          "url": "https://github.com/openai/codex",
+          "url": "https://www.aibase.com/news/30552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_zh": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_en": null,
+          "title_original": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:56:17.642604Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:17.642604Z",
+      "primary_item": {
+        "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+        "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "title_zh": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "title_en": null,
+        "title_original": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30552",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_36a58a3d5841",
+      "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+      "url": "https://ericpardee.github.io/fire-hd-ownership",
+      "primary_url": "https://ericpardee.github.io/fire-hd-ownership",
+      "source": "ericpardee.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a29200980b020f297998579e6059cb65651ce275",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "title_zh": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "title_en": null,
+          "title_original": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "summary": null,
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "ericpardee.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T15:49:17.721000Z"
+        },
+        {
+          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "title_zh": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "title_en": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "title_original": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "summary": null,
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T15:45:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "ericpardee.github.io"
+      ],
+      "items": [
+        {
+          "id": "a29200980b020f297998579e6059cb65651ce275",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "title_zh": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "title_en": null,
+          "title_original": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "summary": null,
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "ericpardee.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T15:49:17.721000Z"
+        },
+        {
+          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "title_zh": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "title_en": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "title_original": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "summary": null,
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T15:45:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8641,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T15:45:01Z",
+      "latest_at": "2026-08-23T15:49:17.721000Z",
+      "primary_item": {
+        "id": "a29200980b020f297998579e6059cb65651ce275",
+        "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+        "title_zh": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+        "title_en": null,
+        "title_original": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+        "summary": null,
+        "url": "https://ericpardee.github.io/fire-hd-ownership",
+        "source": "ericpardee.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a83a8caace8",
+      "title": "anthropics /      claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "primary_url": "https://github.com/anthropics/claude-plugins-community",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "title_zh": null,
+          "title_en": "anthropics /      claude-plugins-community",
+          "title_original": "anthropics /      claude-plugins-community",
+          "summary": null,
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:56:52.062000Z"
+        },
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "title_zh": null,
+          "title_en": "anthropics / claude-plugins-community",
+          "title_original": "anthropics / claude-plugins-community",
+          "summary": null,
+          "url": "https://github.com/anthropics/claude-plugins-community",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / Codex / openai /      codex",
-          "title_zh": "openai / Codex",
-          "title_en": "openai /      codex",
-          "title_original": "openai /      codex",
-          "summary": null,
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T01:44:32.497000Z"
         }
       ],
       "source_count": 2,
@@ -1059,30 +1939,30 @@
       ],
       "items": [
         {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / Codex / openai / codex",
-          "title_zh": "openai / Codex",
-          "title_en": "openai / codex",
-          "title_original": "openai / codex",
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "title_zh": null,
+          "title_en": "anthropics /      claude-plugins-community",
+          "title_original": "anthropics /      claude-plugins-community",
           "summary": null,
-          "url": "https://github.com/openai/codex",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T01:56:52.062000Z"
+        },
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "title_zh": null,
+          "title_en": "anthropics / claude-plugins-community",
+          "title_original": "anthropics / claude-plugins-community",
+          "summary": null,
+          "url": "https://github.com/anthropics/claude-plugins-community",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / Codex / openai /      codex",
-          "title_zh": "openai / Codex",
-          "title_en": "openai /      codex",
-          "title_original": "openai /      codex",
-          "summary": null,
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T01:44:32.497000Z"
         }
       ],
       "item_count": 2,
@@ -1102,216 +1982,18 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T01:44:32.497000Z",
-      "latest_at": "2026-08-23T01:58:43.540667Z",
+      "earliest_at": "2026-08-24T01:56:17.642604Z",
+      "latest_at": "2026-08-24T01:56:52.062000Z",
       "primary_item": {
-        "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-        "title": "openai / Codex / openai / codex",
-        "title_zh": "openai / Codex",
-        "title_en": "openai / codex",
-        "title_original": "openai / codex",
-        "summary": null,
-        "url": "https://github.com/openai/codex",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b7cb2747bb61",
-      "title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "c2c6fe1f1b1066560fee1897c263b3f3b1ef0f69",
-          "title": "Robot horse and rider steal the spotlight at Chinese conference",
-          "title_zh": null,
-          "title_en": "Robot horse and rider steal the spotlight at Chinese conference",
-          "title_original": "Robot horse and rider steal the spotlight at Chinese conference",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T12:47:28Z"
-        },
-        {
-          "id": "fd0a779d2fa6ad5dd87ae2b649275b1c619271ba",
-          "title": "中国会议上，机器人马和骑手成为全场焦点 / Robot horse and rider steal the spotlight at Chinese conference",
-          "title_zh": "中国会议上，机器人马和骑手成为全场焦点",
-          "title_en": "Robot horse and rider steal the spotlight at Chinese conference",
-          "title_original": "Robot horse and rider steal the spotlight at Chinese conference",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T10:01:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "BBC News (世界新闻)"
-      ],
-      "items": [
-        {
-          "id": "c2c6fe1f1b1066560fee1897c263b3f3b1ef0f69",
-          "title": "Robot horse and rider steal the spotlight at Chinese conference",
-          "title_zh": null,
-          "title_en": "Robot horse and rider steal the spotlight at Chinese conference",
-          "title_original": "Robot horse and rider steal the spotlight at Chinese conference",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T12:47:28Z"
-        },
-        {
-          "id": "fd0a779d2fa6ad5dd87ae2b649275b1c619271ba",
-          "title": "中国会议上，机器人马和骑手成为全场焦点 / Robot horse and rider steal the spotlight at Chinese conference",
-          "title_zh": "中国会议上，机器人马和骑手成为全场焦点",
-          "title_en": "Robot horse and rider steal the spotlight at Chinese conference",
-          "title_original": "Robot horse and rider steal the spotlight at Chinese conference",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T10:01:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8266,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T10:01:18Z",
-      "latest_at": "2026-08-22T12:47:28Z",
-      "primary_item": {
-        "id": "c2c6fe1f1b1066560fee1897c263b3f3b1ef0f69",
-        "title": "Robot horse and rider steal the spotlight at Chinese conference",
+        "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+        "title": "anthropics /      claude-plugins-community",
         "title_zh": null,
-        "title_en": "Robot horse and rider steal the spotlight at Chinese conference",
-        "title_original": "Robot horse and rider steal the spotlight at Chinese conference",
+        "title_en": "anthropics /      claude-plugins-community",
+        "title_original": "anthropics /      claude-plugins-community",
         "summary": null,
-        "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_9c241fb43bc9",
-      "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "primary_url": "https://github.com/anthropics/claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "title_zh": "人类学 / 克劳德代码",
-          "title_en": "anthropics / claude-code",
-          "title_original": "anthropics / claude-code",
-          "summary": null,
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "title_zh": "人类学 / 克劳德代码",
-          "title_en": "anthropics /      claude-code",
-          "title_original": "anthropics /      claude-code",
-          "summary": null,
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T01:44:32.497000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "title_zh": "人类学 / 克劳德代码",
-          "title_en": "anthropics / claude-code",
-          "title_original": "anthropics / claude-code",
-          "summary": null,
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "title_zh": "人类学 / 克劳德代码",
-          "title_en": "anthropics /      claude-code",
-          "title_original": "anthropics /      claude-code",
-          "summary": null,
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T01:44:32.497000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T01:44:32.497000Z",
-      "latest_at": "2026-08-23T01:58:43.540667Z",
-      "primary_item": {
-        "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-        "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-        "title_zh": "人类学 / 克劳德代码",
-        "title_en": "anthropics / claude-code",
-        "title_original": "anthropics / claude-code",
-        "summary": null,
-        "url": "https://github.com/anthropics/claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     }
   ]
