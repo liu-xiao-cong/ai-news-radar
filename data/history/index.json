@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-08-28T11:21:35.813702Z",
+  "generated_at": "2026-08-28T16:37:05.299700Z",
   "timezone": "Asia/Shanghai",
-  "latest_date": "2026-08-28",
+  "latest_date": "2026-08-29",
   "dates": [
     {
+      "date": "2026-08-29",
+      "count": 20,
+      "raw_count": 739,
+      "file": "data/history/2026-08-29.json"
+    },
+    {
       "date": "2026-08-28",
-      "count": 315,
-      "raw_count": 2472,
+      "count": 428,
+      "raw_count": 3063,
       "file": "data/history/2026-08-28.json"
     },
     {
@@ -122,12 +128,6 @@
       "count": 220,
       "raw_count": 1978,
       "file": "data/history/2026-08-09.json"
-    },
-    {
-      "date": "2026-08-08",
-      "count": 281,
-      "raw_count": 2394,
-      "file": "data/history/2026-08-08.json"
     }
   ]
 }
