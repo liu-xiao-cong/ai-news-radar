@@ -1,566 +1,60 @@
 {
-  "generated_at": "2026-08-28T16:37:05.299700Z",
+  "generated_at": "2026-08-30T05:22:32.397138Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 10,
   "items": [
     {
-      "story_id": "story_0b00c80d502c",
-      "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "primary_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_dba8baf1aeeb",
+      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+      "primary_url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
-          "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-          "title_zh": "支持泰国下一代人工智能初创公司",
-          "title_en": "Supporting Thailand’s next generation of AI startups",
-          "title_original": "Supporting Thailand’s next generation of AI startups",
-          "summary": null,
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T02:00:00Z"
-        },
-        {
-          "id": "9496839c6e5eaa1f25dbbe241faeadba826dee1e",
-          "title": "OpenAI 与泰国 MHESI 推出人工智能创业加速器 / OpenAI and Thailand's MHESI Launch AI Startup Accelerator",
-          "title_zh": "OpenAI 与泰国 MHESI 推出人工智能创业加速器",
-          "title_en": "OpenAI and Thailand's MHESI Launch AI Startup Accelerator",
-          "title_original": "OpenAI and Thailand's MHESI Launch AI Startup Accelerator",
-          "summary": null,
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
-          "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-          "title_zh": "支持泰国下一代人工智能初创公司",
-          "title_en": "Supporting Thailand’s next generation of AI startups",
-          "title_original": "Supporting Thailand’s next generation of AI startups",
-          "summary": null,
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T02:00:00Z"
-        },
-        {
-          "id": "9496839c6e5eaa1f25dbbe241faeadba826dee1e",
-          "title": "OpenAI 与泰国 MHESI 推出人工智能创业加速器 / OpenAI and Thailand's MHESI Launch AI Startup Accelerator",
-          "title_zh": "OpenAI 与泰国 MHESI 推出人工智能创业加速器",
-          "title_en": "OpenAI and Thailand's MHESI Launch AI Startup Accelerator",
-          "title_original": "OpenAI and Thailand's MHESI Launch AI Startup Accelerator",
-          "summary": null,
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8097,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T02:00:00Z",
-      "latest_at": "2026-08-28T11:21:35.813702Z",
-      "primary_item": {
-        "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
-        "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-        "title_zh": "支持泰国下一代人工智能初创公司",
-        "title_en": "Supporting Thailand’s next generation of AI startups",
-        "title_original": "Supporting Thailand’s next generation of AI startups",
-        "summary": null,
-        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_23382e1c0229",
-      "title": "Upcoming changes to GitHub Copilot policies and billing",
-      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "primary_url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-          "title": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_zh": null,
-          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T11:37:19Z"
+          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
+          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "title_en": null,
+          "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
+          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T00:54:08Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
       "items": [
         {
-          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-          "title": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_zh": null,
-          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T11:37:19Z"
+          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
+          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "title_en": null,
+          "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
+          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T00:54:08Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9304,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:37:19Z",
-      "latest_at": "2026-08-28T11:37:19Z",
-      "primary_item": {
-        "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-        "title": "Upcoming changes to GitHub Copilot policies and billing",
-        "title_zh": null,
-        "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-        "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a0b834204cb6",
-      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "primary_url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dfe73907480978f8302c5b95753d65394369ac39",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
-          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "a449a30b491eb2d29a17ee3dd3571f9ed1b03837",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "title_original": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "summary": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-27T21:46:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "dfe73907480978f8302c5b95753d65394369ac39",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
-          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "a449a30b491eb2d29a17ee3dd3571f9ed1b03837",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "title_original": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "summary": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-27T21:46:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8908,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T21:46:39Z",
-      "latest_at": "2026-08-28T08:36:31.021000Z",
-      "primary_item": {
-        "id": "dfe73907480978f8302c5b95753d65394369ac39",
-        "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-        "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-        "title_en": null,
-        "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-        "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
-        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_88fb30e60ef3",
-      "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-      "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-      "primary_url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c88a0babf03e3a8ca31ad774f33e877e8e7c4e37",
-          "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-          "title_zh": "Copilot 代码审查：解决原因和扩展功能",
-          "title_en": "Copilot code review: Resolution reasons and expanded capabilities",
-          "title_original": "Copilot code review: Resolution reasons and expanded capabilities",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T22:46:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c88a0babf03e3a8ca31ad774f33e877e8e7c4e37",
-          "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-          "title_zh": "Copilot 代码审查：解决原因和扩展功能",
-          "title_en": "Copilot code review: Resolution reasons and expanded capabilities",
-          "title_original": "Copilot code review: Resolution reasons and expanded capabilities",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T22:46:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7728,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T22:46:04Z",
-      "latest_at": "2026-08-27T22:46:04Z",
-      "primary_item": {
-        "id": "c88a0babf03e3a8ca31ad774f33e877e8e7c4e37",
-        "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-        "title_zh": "Copilot 代码审查：解决原因和扩展功能",
-        "title_en": "Copilot code review: Resolution reasons and expanded capabilities",
-        "title_original": "Copilot code review: Resolution reasons and expanded capabilities",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_88e336f93728",
-      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "primary_url": "https://www.terminal-bench-science.ai/announcement",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": null,
-          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
-          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_en": null,
-          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "summary": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "www.terminal-bench-science.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "a8e736bb510697e4fbf4cb5e0930703eb5bfb3d7",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "summary": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T00:06:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.terminal-bench-science.ai"
-      ],
-      "items": [
-        {
-          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": null,
-          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
-          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_en": null,
-          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "summary": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "www.terminal-bench-science.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "a8e736bb510697e4fbf4cb5e0930703eb5bfb3d7",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "summary": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T00:06:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9366,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T00:06:51Z",
-      "latest_at": "2026-08-28T12:04:47.737000Z",
-      "primary_item": {
-        "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "title_en": null,
-        "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-        "url": "https://www.terminal-bench-science.ai/announcement",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T06:03:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T06:03:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8586,
+        "recency": 0.9374,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -568,552 +62,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-28T06:03:48Z",
-      "latest_at": "2026-08-28T06:03:48Z",
+      "earliest_at": "2026-08-30T00:54:08Z",
+      "latest_at": "2026-08-30T00:54:08Z",
       "primary_item": {
-        "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-        "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+        "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
+        "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+        "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
         "title_en": null,
-        "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-        "source": "公众号：腾讯混元",
+        "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+        "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
+        "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_04d20fccd591",
-      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-      "primary_url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-      "source": "Google AI：DEV 作者专属（RSS）",
+      "story_id": "story_dab2710a3e78",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
-          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-          "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-          "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-          "source": "Google AI：DEV 作者专属（RSS）",
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+          "title_zh": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "title_en": "The Rise and Fall of Agent Civilizations",
+          "title_original": "The Rise and Fall of Agent Civilizations",
+          "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-28T13:34:29Z"
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
       ],
       "items": [
         {
-          "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
-          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-          "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-          "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-          "source": "Google AI：DEV 作者专属（RSS）",
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+          "title_zh": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "title_en": "The Rise and Fall of Agent Civilizations",
+          "title_original": "The Rise and Fall of Agent Civilizations",
+          "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-28T13:34:29Z"
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.957,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T13:34:29Z",
-      "latest_at": "2026-08-28T13:34:29Z",
-      "primary_item": {
-        "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
-        "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-        "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-        "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-        "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-        "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-        "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5d24831362f9",
-      "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-      "url": "https://www.aibase.com/news/30692",
-      "primary_url": "https://www.aibase.com/news/30692",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_en": null,
-          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30692",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_en": null,
-          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30692",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:21:35.813702Z",
-      "latest_at": "2026-08-28T11:21:35.813702Z",
-      "primary_item": {
-        "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-        "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "title_en": null,
-        "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30692",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6466f1968631",
-      "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-      "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a3d31c93e74427fb68fbd4895c20f766e7cafe84",
-          "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-          "title_zh": "通常可以对问题进行更好的标签管理",
-          "title_en": "Better label management on issues is generally available",
-          "title_original": "Better label management on issues is generally available",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T23:33:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a3d31c93e74427fb68fbd4895c20f766e7cafe84",
-          "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-          "title_zh": "通常可以对问题进行更好的标签管理",
-          "title_en": "Better label management on issues is generally available",
-          "title_original": "Better label management on issues is generally available",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T23:33:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7816,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T23:33:22Z",
-      "latest_at": "2026-08-27T23:33:22Z",
-      "primary_item": {
-        "id": "a3d31c93e74427fb68fbd4895c20f766e7cafe84",
-        "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-        "title_zh": "通常可以对问题进行更好的标签管理",
-        "title_en": "Better label management on issues is generally available",
-        "title_original": "Better label management on issues is generally available",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d3a9afa53072",
-      "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-      "url": "https://x.com/Zai_org/status/2093354097122455713",
-      "primary_url": "https://x.com/Zai_org/status/2093354097122455713",
-      "source": "X：智谱 Z.ai (@Zai_org)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
-          "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-          "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
-          "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-          "title_original": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-          "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
-          "url": "https://x.com/Zai_org/status/2093354097122455713",
-          "source": "X：智谱 Z.ai (@Zai_org)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T15:04:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：智谱 Z.ai (@Zai_org)"
-      ],
-      "items": [
-        {
-          "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
-          "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-          "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
-          "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-          "title_original": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-          "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
-          "url": "https://x.com/Zai_org/status/2093354097122455713",
-          "source": "X：智谱 Z.ai (@Zai_org)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T15:04:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9094,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-28T15:04:44Z",
-      "latest_at": "2026-08-28T15:04:44Z",
+      "earliest_at": "2026-08-29T22:47:53Z",
+      "latest_at": "2026-08-29T22:47:53Z",
       "primary_item": {
-        "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
-        "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-        "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
-        "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-        "title_original": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-        "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
-        "url": "https://x.com/Zai_org/status/2093354097122455713",
-        "source": "X：智谱 Z.ai (@Zai_org)",
+        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+        "title_zh": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+        "title_en": "The Rise and Fall of Agent Civilizations",
+        "title_original": "The Rise and Fall of Agent Civilizations",
+        "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_674078d3c52a",
-      "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-      "url": "https://www.aibase.com/news/30693",
-      "primary_url": "https://www.aibase.com/news/30693",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_en": null,
-          "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30693",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_en": null,
-          "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30693",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:21:35.813702Z",
-      "latest_at": "2026-08-28T11:21:35.813702Z",
-      "primary_item": {
-        "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-        "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-        "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-        "title_en": null,
-        "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30693",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_041ab7418f84",
-      "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-      "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-      "primary_url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f0dab78b086bfc11f35517720f2538ee359c7ad3",
-          "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-          "title_zh": "操作保留将涵盖检查、工作流程运行和状态",
-          "title_en": "Actions retention will cover checks, workflow runs, and statuses",
-          "title_original": "Actions retention will cover checks, workflow runs, and statuses",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T21:50:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f0dab78b086bfc11f35517720f2538ee359c7ad3",
-          "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-          "title_zh": "操作保留将涵盖检查、工作流程运行和状态",
-          "title_en": "Actions retention will cover checks, workflow runs, and statuses",
-          "title_original": "Actions retention will cover checks, workflow runs, and statuses",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T21:50:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7625,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T21:50:39Z",
-      "latest_at": "2026-08-27T21:50:39Z",
-      "primary_item": {
-        "id": "f0dab78b086bfc11f35517720f2538ee359c7ad3",
-        "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-        "title_zh": "操作保留将涵盖检查、工作流程运行和状态",
-        "title_en": "Actions retention will cover checks, workflow runs, and statuses",
-        "title_original": "Actions retention will cover checks, workflow runs, and statuses",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bfb0aa7648ad",
-      "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-      "url": "https://www.aibase.com/news/30696",
-      "primary_url": "https://www.aibase.com/news/30696",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "title_en": null,
-          "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "title_en": null,
-          "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:21:35.813702Z",
-      "latest_at": "2026-08-28T11:21:35.813702Z",
-      "primary_item": {
-        "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-        "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-        "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-        "title_en": null,
-        "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30696",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f0baae5c666c",
-      "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-      "primary_url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+      "story_id": "story_7e896a4b3791",
+      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
           "title_en": null,
-          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T22:29:33.124000Z"
+          "published_at": "2026-08-29T07:00:22.003000Z"
         }
       ],
       "source_count": 1,
@@ -1122,242 +176,70 @@
       ],
       "items": [
         {
-          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
           "title_en": null,
-          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T22:29:33.124000Z"
+          "published_at": "2026-08-29T07:00:22.003000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7697,
+        "recency": 0.724,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T22:29:33.124000Z",
-      "latest_at": "2026-08-27T22:29:33.124000Z",
+      "earliest_at": "2026-08-29T07:00:22.003000Z",
+      "latest_at": "2026-08-29T07:00:22.003000Z",
       "primary_item": {
-        "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-        "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
         "title_en": null,
-        "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+        "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_02d165feef6c",
-      "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-      "url": "https://www.aibase.com/news/30699",
-      "primary_url": "https://www.aibase.com/news/30699",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_en": null,
-          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_en": null,
-          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:21:35.813702Z",
-      "latest_at": "2026-08-28T11:21:35.813702Z",
-      "primary_item": {
-        "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-        "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-        "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-        "title_en": null,
-        "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30699",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d62db5e9a1ea",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-      "primary_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T12:46:12Z"
-        },
-        {
-          "id": "111b71ca1c855c880729c348e72d04829c258570",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T12:46:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T12:46:12Z"
-        },
-        {
-          "id": "111b71ca1c855c880729c348e72d04829c258570",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T12:46:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6515,
-      "importance": 0.6515,
-      "importance_score": 0.6515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T12:46:12Z",
-      "latest_at": "2026-08-28T12:46:12Z",
-      "primary_item": {
-        "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
-        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "title_zh": null,
-        "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "summary": null,
-        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_dacb3424514f",
-      "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+      "story_id": "story_fb769fc67e24",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "primary_url": "https://arxiv.org/abs/2608.23691",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "45ecc4395f2b2f6c037645439a98216df8bbfe87",
-          "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-          "title_en": "Gemini-3.5-Transcribe",
-          "title_original": "Gemini-3.5-Transcribe",
-          "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "title_zh": "开放世界多智能体环境中的自主数学发现",
+          "title_en": null,
+          "title_original": "开放世界多智能体环境中的自主数学发现",
+          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
+          "url": "https://arxiv.org/abs/2608.23691",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T23:01:35.558000Z"
+          "published_at": "2026-08-29T07:32:16.981000Z"
         }
       ],
       "source_count": 1,
@@ -1366,293 +248,747 @@
       ],
       "items": [
         {
-          "id": "45ecc4395f2b2f6c037645439a98216df8bbfe87",
-          "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-          "title_en": "Gemini-3.5-Transcribe",
-          "title_original": "Gemini-3.5-Transcribe",
-          "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "title_zh": "开放世界多智能体环境中的自主数学发现",
+          "title_en": null,
+          "title_original": "开放世界多智能体环境中的自主数学发现",
+          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
+          "url": "https://arxiv.org/abs/2608.23691",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T23:01:35.558000Z"
+          "published_at": "2026-08-29T07:32:16.981000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7757,
+        "recency": 0.7295,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T23:01:35.558000Z",
-      "latest_at": "2026-08-27T23:01:35.558000Z",
+      "earliest_at": "2026-08-29T07:32:16.981000Z",
+      "latest_at": "2026-08-29T07:32:16.981000Z",
       "primary_item": {
-        "id": "45ecc4395f2b2f6c037645439a98216df8bbfe87",
-        "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-        "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-        "title_en": "Gemini-3.5-Transcribe",
-        "title_original": "Gemini-3.5-Transcribe",
-        "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+        "title": "开放世界多智能体环境中的自主数学发现",
+        "title_zh": "开放世界多智能体环境中的自主数学发现",
+        "title_en": null,
+        "title_original": "开放世界多智能体环境中的自主数学发现",
+        "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
+        "url": "https://arxiv.org/abs/2608.23691",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2f55646e1e37",
-      "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-      "url": "https://www.aibase.com/news/30698",
-      "primary_url": "https://www.aibase.com/news/30698",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-29",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
+          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "title_zh": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
           "title_en": null,
-          "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "title_en": null,
-          "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:21:35.813702Z",
-      "latest_at": "2026-08-28T11:21:35.813702Z",
-      "primary_item": {
-        "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-        "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-        "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-        "title_en": null,
-        "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30698",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3d49a8462394",
-      "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-      "url": "https://www.aibase.com/news/30694",
-      "primary_url": "https://www.aibase.com/news/30694",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
-          "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "title_zh": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "title_en": null,
-          "title_original": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
-          "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "title_zh": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "title_en": null,
-          "title_original": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T11:21:35.813702Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:21:35.813702Z",
-      "latest_at": "2026-08-28T11:21:35.813702Z",
-      "primary_item": {
-        "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
-        "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-        "title_zh": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-        "title_en": null,
-        "title_original": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30694",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c156e18e9534",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-      "primary_url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "6e611faa27ea18a59c5a549dd36fb2f817ad52d8",
-          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_zh": null,
-          "title_en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-27T19:52:52Z"
+          "title_original": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
         },
         {
-          "id": "2fc81d0d61a4a0e73049c8799012cbbd5f91160a",
-          "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_zh": null,
-          "title_en": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
+          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "title_zh": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "title_en": null,
+          "title_original": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "summary": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
+        },
+        {
+          "id": "456fc774512850c937850d4b5103183c6427d68f",
+          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "title_zh": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "title_en": null,
+          "title_original": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "summary": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
+        },
+        {
+          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
+          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "title_zh": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "title_en": null,
+          "title_original": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "summary": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-08-29"
+      ],
+      "items": [
+        {
+          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
+          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "title_zh": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "title_en": null,
+          "title_original": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
+        },
+        {
+          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
+          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "title_zh": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "title_en": null,
+          "title_original": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "summary": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
+        },
+        {
+          "id": "456fc774512850c937850d4b5103183c6427d68f",
+          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "title_zh": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "title_en": null,
+          "title_original": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "summary": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
+        },
+        {
+          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
+          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "title_zh": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "title_en": null,
+          "title_original": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "summary": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T05:22:32.397138Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T05:22:32.397138Z",
+      "latest_at": "2026-08-30T05:22:32.397138Z",
+      "primary_item": {
+        "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
+        "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+        "title_zh": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+        "title_en": null,
+        "title_original": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+        "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-29",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_2ee04de9ee75",
+      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+      "url": "https://lwn.net/Articles/1091231",
+      "primary_url": "https://lwn.net/Articles/1091231",
+      "source": "lwn.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": null,
+          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
           "summary": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T19:52:52Z"
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "summary": null,
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        },
+        {
+          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": null,
+          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "summary": null,
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "www.phoronix.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.179000Z"
+        },
+        {
+          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "title_original": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "summary": null,
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T08:19:22Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "lwn.net",
+        "www.phoronix.com"
+      ],
+      "items": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": null,
+          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "summary": null,
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "summary": null,
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        },
+        {
+          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": null,
+          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "summary": null,
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "www.phoronix.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.179000Z"
+        },
+        {
+          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "title_original": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "summary": null,
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T08:19:22Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8157,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T08:19:22Z",
+      "latest_at": "2026-08-29T15:16:20.593000Z",
+      "primary_item": {
+        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+        "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+        "title_en": null,
+        "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+        "summary": null,
+        "url": "https://lwn.net/Articles/1091231",
+        "source": "lwn.net",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6472bbcb1287",
+      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "newsletter.eng-leadership.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": null,
+          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "summary": null,
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": null,
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "Hacker News (黑客新闻)",
+        "newsletter.eng-leadership.com"
       ],
       "items": [
         {
-          "id": "6e611faa27ea18a59c5a549dd36fb2f817ad52d8",
-          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_zh": null,
-          "title_en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": null,
+          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
           "summary": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-27T19:52:52Z"
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
         },
         {
-          "id": "2fc81d0d61a4a0e73049c8799012cbbd5f91160a",
-          "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_zh": null,
-          "title_en": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
           "summary": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T19:52:52Z"
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6147,
-      "importance": 0.6147,
-      "importance_score": 0.6147,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7412,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8776,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-27T19:52:52Z",
-      "latest_at": "2026-08-27T19:52:52Z",
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T20:20:15.528000Z",
       "primary_item": {
-        "id": "6e611faa27ea18a59c5a549dd36fb2f817ad52d8",
-        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-        "title_zh": null,
-        "title_en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-        "title_original": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "title_en": null,
+        "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
         "summary": null,
-        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "source": "newsletter.eng-leadership.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dde286af26fd",
+      "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "title_en": null,
+          "title_original": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "summary": null,
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T19:48:15.596000Z"
+        },
+        {
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "title_en": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "title_original": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "summary": null,
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:05:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "title_en": null,
+          "title_original": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "summary": null,
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T19:48:15.596000Z"
+        },
+        {
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "title_en": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "title_original": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "summary": null,
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:05:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8709,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T19:05:05Z",
+      "latest_at": "2026-08-29T19:48:15.596000Z",
+      "primary_item": {
+        "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+        "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+        "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+        "title_en": null,
+        "title_original": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+        "summary": null,
+        "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9928173748ab",
+      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "arbustoemchamas.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "title_en": null,
+          "title_original": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "summary": null,
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "title_en": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "title_original": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "summary": null,
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arbustoemchamas.substack.com"
+      ],
+      "items": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "title_en": null,
+          "title_original": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "summary": null,
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "title_en": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "title_original": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "summary": null,
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4946,
+      "importance": 0.4946,
+      "importance_score": 0.4946,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7156,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T06:11:18Z",
+      "latest_at": "2026-08-29T06:12:16.489000Z",
+      "primary_item": {
+        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "title_en": null,
+        "title_original": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "summary": null,
+        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+        "source": "arbustoemchamas.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_29a8261d3470",
+      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "title_en": null,
+          "title_original": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "summary": null,
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "title_en": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "title_original": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "summary": null,
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "title_en": null,
+          "title_original": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "summary": null,
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "title_en": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "title_original": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "summary": null,
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7941,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T13:05:01Z",
+      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "primary_item": {
+        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "title_en": null,
+        "title_original": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "summary": null,
+        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
