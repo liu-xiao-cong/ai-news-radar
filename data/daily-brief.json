@@ -1,60 +1,363 @@
 {
-  "generated_at": "2026-08-30T05:22:32.397138Z",
+  "generated_at": "2026-08-31T05:31:52.360246Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_dba8baf1aeeb",
-      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-      "primary_url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "story_id": "story_d20b99a49a7d",
+      "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+      "primary_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+      "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_en": null,
-          "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
-          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
+          "title_zh": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+          "title_en": "Understanding ChatGPT Work",
+          "title_original": "Understanding ChatGPT Work",
+          "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
+          "published_at": "2026-08-30T23:59:47Z"
+        },
+        {
+          "id": "4a82cc3eadf8b53dea74654be42d7b4b4f17ed3a",
+          "title": "了解 ChatGPT 的工作原理",
+          "title_zh": "了解 ChatGPT 的工作原理",
+          "title_en": null,
+          "title_original": "了解 ChatGPT 的工作原理",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T05:07:13.656000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison 博客",
+        "simonwillison.net"
+      ],
+      "items": [
+        {
+          "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
+          "title_zh": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+          "title_en": "Understanding ChatGPT Work",
+          "title_original": "Understanding ChatGPT Work",
+          "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T23:59:47Z"
+        },
+        {
+          "id": "4a82cc3eadf8b53dea74654be42d7b4b4f17ed3a",
+          "title": "了解 ChatGPT 的工作原理",
+          "title_zh": "了解 ChatGPT 的工作原理",
+          "title_en": null,
+          "title_original": "了解 ChatGPT 的工作原理",
+          "summary": null,
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T05:07:13.656000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9232,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T23:59:47Z",
+      "latest_at": "2026-08-31T05:07:13.656000Z",
+      "primary_item": {
+        "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
+        "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
+        "title_zh": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+        "title_en": "Understanding ChatGPT Work",
+        "title_original": "Understanding ChatGPT Work",
+        "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8cbe0a78d38a",
+      "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+      "url": "https://www.aibase.com/news/30704",
+      "primary_url": "https://www.aibase.com/news/30704",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "de4cc14373e937ad63e97b123c6c3ad856205fc6",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_zh": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_en": null,
+          "title_original": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30704",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "ede54cd19771b127595f7eef07d5aa7a6c0dfebc",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_zh": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_en": null,
+          "title_original": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30704",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "de4cc14373e937ad63e97b123c6c3ad856205fc6",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_zh": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_en": null,
+          "title_original": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30704",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "ede54cd19771b127595f7eef07d5aa7a6c0dfebc",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_zh": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "title_en": null,
+          "title_original": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30704",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "de4cc14373e937ad63e97b123c6c3ad856205fc6",
+        "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+        "title_zh": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+        "title_en": null,
+        "title_original": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30704",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a45e02655d58",
+      "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+      "url": "https://www.aibase.com/news/30712",
+      "primary_url": "https://www.aibase.com/news/30712",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e9ff0648c7c5f476560a0acdd14fa1b7f72364e",
+          "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+          "title_zh": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+          "title_en": null,
+          "title_original": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30712",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "c6feedaf035de8ce63938c653731f24871d3d4d3",
+          "title": "国产黑马本地大模型 StartLux-27B 正面硬刚 DeepSeek，开启端侧 AI 新时代",
+          "title_zh": "国产黑马本地大模型 StartLux-27B 正面硬刚 DeepSeek，开启端侧 AI 新时代",
+          "title_en": null,
+          "title_original": "国产黑马本地大模型 StartLux-27B 正面硬刚 DeepSeek，开启端侧 AI 新时代",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30712",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3e9ff0648c7c5f476560a0acdd14fa1b7f72364e",
+          "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+          "title_zh": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+          "title_en": null,
+          "title_original": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30712",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "c6feedaf035de8ce63938c653731f24871d3d4d3",
+          "title": "国产黑马本地大模型 StartLux-27B 正面硬刚 DeepSeek，开启端侧 AI 新时代",
+          "title_zh": "国产黑马本地大模型 StartLux-27B 正面硬刚 DeepSeek，开启端侧 AI 新时代",
+          "title_en": null,
+          "title_original": "国产黑马本地大模型 StartLux-27B 正面硬刚 DeepSeek，开启端侧 AI 新时代",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30712",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "3e9ff0648c7c5f476560a0acdd14fa1b7f72364e",
+        "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+        "title_zh": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+        "title_en": null,
+        "title_original": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30712",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0cce3296bceb",
+      "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "primary_url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8c8810e1e605c56a6488126313f284d3a358447",
+          "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
+          "title_zh": "AI 智能体自主协作攻破 Hugging Face 服务器",
+          "title_en": "Agency and Agents",
+          "title_original": "Agency and Agents",
+          "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T00:24:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "Ethan Mollick：One Useful Thing（RSS）"
       ],
       "items": [
         {
-          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_en": null,
-          "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
-          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "id": "b8c8810e1e605c56a6488126313f284d3a358447",
+          "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
+          "title_zh": "AI 智能体自主协作攻破 Hugging Face 服务器",
+          "title_en": "Agency and Agents",
+          "title_original": "Agency and Agents",
+          "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
+          "published_at": "2026-08-31T00:24:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9374,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -62,933 +365,1499 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-30T00:54:08Z",
-      "latest_at": "2026-08-30T00:54:08Z",
+      "earliest_at": "2026-08-31T00:24:35Z",
+      "latest_at": "2026-08-31T00:24:35Z",
       "primary_item": {
-        "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-        "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-        "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-        "title_en": null,
-        "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-        "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
-        "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "id": "b8c8810e1e605c56a6488126313f284d3a358447",
+        "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
+        "title_zh": "AI 智能体自主协作攻破 Hugging Face 服务器",
+        "title_en": "Agency and Agents",
+        "title_original": "Agency and Agents",
+        "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+        "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_dab2710a3e78",
-      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "story_id": "story_6cbde97d8260",
+      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+      "source": "公众号：MiniMax（稀宇科技）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-          "title_zh": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "title_en": "The Rise and Fall of Agent Civilizations",
-          "title_original": "The Rise and Fall of Agent Civilizations",
-          "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "05aaecdc1dc240678edaa930daa33b61bb53e95c",
+          "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "title_en": null,
+          "title_original": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+          "source": "公众号：MiniMax（稀宇科技）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
+          "published_at": "2026-08-31T00:36:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "公众号：MiniMax（稀宇科技）"
       ],
       "items": [
         {
-          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-          "title_zh": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "title_en": "The Rise and Fall of Agent Civilizations",
-          "title_original": "The Rise and Fall of Agent Civilizations",
-          "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "05aaecdc1dc240678edaa930daa33b61bb53e95c",
+          "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "title_en": null,
+          "title_original": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+          "source": "公众号：MiniMax（稀宇科技）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
+          "published_at": "2026-08-31T00:36:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9094,
+        "recency": 0.9313,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-29T22:47:53Z",
-      "latest_at": "2026-08-29T22:47:53Z",
+      "earliest_at": "2026-08-31T00:36:00Z",
+      "latest_at": "2026-08-31T00:36:00Z",
       "primary_item": {
-        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-        "title_zh": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "title_en": "The Rise and Fall of Agent Civilizations",
-        "title_original": "The Rise and Fall of Agent Civilizations",
-        "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
-        "url": "https://www.dwarkesh.com/p/openai-huggingface",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "id": "05aaecdc1dc240678edaa930daa33b61bb53e95c",
+        "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+        "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+        "title_en": null,
+        "title_original": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+        "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+        "source": "公众号：MiniMax（稀宇科技）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7e896a4b3791",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_ea92ab7ce270",
+      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+      "primary_url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "title_en": null,
-          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "title_zh": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "title_en": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "title_original": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
+          "published_at": "2026-08-30T08:50:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "title_en": null,
-          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "title_zh": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "title_en": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "title_original": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
+          "published_at": "2026-08-30T08:50:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.724,
+        "recency": 0.7417,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-29T07:00:22.003000Z",
-      "latest_at": "2026-08-29T07:00:22.003000Z",
+      "earliest_at": "2026-08-30T08:50:20Z",
+      "latest_at": "2026-08-30T08:50:20Z",
       "primary_item": {
-        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "title_en": null,
-        "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
-        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+        "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+        "title_zh": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+        "title_en": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+        "title_original": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+        "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
+        "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_fb769fc67e24",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "primary_url": "https://arxiv.org/abs/2608.23691",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_f92eed3be72e",
+      "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+      "url": "https://www.aibase.com/news/30714",
+      "primary_url": "https://www.aibase.com/news/30714",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
+          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
           "title_en": null,
-          "title_original": "开放世界多智能体环境中的自主数学发现",
-          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
+          "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30714",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "69b4ca1646320da67f7a3a7787da78c4216d79c5",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "title_en": null,
+          "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30714",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
+          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
           "title_en": null,
-          "title_original": "开放世界多智能体环境中的自主数学发现",
-          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
+          "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30714",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "69b4ca1646320da67f7a3a7787da78c4216d79c5",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "title_en": null,
+          "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30714",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7295,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-29T07:32:16.981000Z",
-      "latest_at": "2026-08-29T07:32:16.981000Z",
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
       "primary_item": {
-        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "title_zh": "开放世界多智能体环境中的自主数学发现",
+        "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
+        "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+        "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
         "title_en": null,
-        "title_original": "开放世界多智能体环境中的自主数学发现",
-        "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-        "url": "https://arxiv.org/abs/2608.23691",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30714",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1551b6469abf",
+      "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+      "url": "https://www.aibase.com/news/30715",
+      "primary_url": "https://www.aibase.com/news/30715",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_zh": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_en": null,
+          "title_original": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30715",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "2e3e02162ef23fd7dd2c4463f945d40b213e5023",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_zh": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_en": null,
+          "title_original": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30715",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_zh": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_en": null,
+          "title_original": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30715",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "2e3e02162ef23fd7dd2c4463f945d40b213e5023",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_zh": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "title_en": null,
+          "title_original": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/30715",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
+        "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+        "title_zh": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+        "title_en": null,
+        "title_original": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30715",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+      "title": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-29",
+      "source": "社区更新 · 2026-08-30",
       "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
-          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-          "title_zh": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "id": "3e548f0fbf25939e98949c3b364895aae6ff9c09",
+          "title": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
+          "title_zh": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
           "title_en": null,
-          "title_original": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-          "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "title_original": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
+          "summary": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
         },
         {
-          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
-          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
-          "title_zh": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "id": "5831eaaabd6497fccd838fa9a55e25e2bbd253a7",
+          "title": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
+          "title_zh": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
           "title_en": null,
-          "title_original": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
-          "summary": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "title_original": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
+          "summary": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
         },
         {
-          "id": "456fc774512850c937850d4b5103183c6427d68f",
-          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
-          "title_zh": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "id": "8b565b51834b5b0486ac70a748213e6d083e1a36",
+          "title": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
+          "title_zh": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
           "title_en": null,
-          "title_original": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
-          "summary": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "title_original": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
+          "summary": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
         },
         {
-          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
-          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
-          "title_zh": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "id": "dae653019c17dfd27e7a6e98b9e1235a6af91cac",
+          "title": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
+          "title_zh": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
           "title_en": null,
-          "title_original": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
-          "summary": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "title_original": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
+          "summary": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "b23f35694d80599e2c712f3111261aaf49ac850b",
+          "title": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "title_zh": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "title_en": null,
+          "title_original": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "summary": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-31T05:31:52.360246Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-08-29"
+        "社区更新 · 2026-08-30"
       ],
       "items": [
         {
-          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
-          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-          "title_zh": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "id": "3e548f0fbf25939e98949c3b364895aae6ff9c09",
+          "title": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
+          "title_zh": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
           "title_en": null,
-          "title_original": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-          "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "title_original": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
+          "summary": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
         },
         {
-          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
-          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
-          "title_zh": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "id": "5831eaaabd6497fccd838fa9a55e25e2bbd253a7",
+          "title": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
+          "title_zh": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
           "title_en": null,
-          "title_original": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
-          "summary": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "title_original": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
+          "summary": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
         },
         {
-          "id": "456fc774512850c937850d4b5103183c6427d68f",
-          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
-          "title_zh": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "id": "8b565b51834b5b0486ac70a748213e6d083e1a36",
+          "title": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
+          "title_zh": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
           "title_en": null,
-          "title_original": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
-          "summary": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "title_original": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
+          "summary": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
         },
         {
-          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
-          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
-          "title_zh": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "id": "dae653019c17dfd27e7a6e98b9e1235a6af91cac",
+          "title": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
+          "title_zh": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
           "title_en": null,
-          "title_original": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
-          "summary": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "title_original": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
+          "summary": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
+          "source": "社区更新 · 2026-08-30",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-08-30T05:22:32.397138Z"
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        },
+        {
+          "id": "b23f35694d80599e2c712f3111261aaf49ac850b",
+          "title": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "title_zh": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "title_en": null,
+          "title_original": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "summary": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-31T05:31:52.360246Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6817,
+      "importance": 0.6817,
+      "importance_score": 0.6817,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.4896,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
+        "ai_relevance": 0.68,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T05:22:32.397138Z",
-      "latest_at": "2026-08-30T05:22:32.397138Z",
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
       "primary_item": {
-        "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
-        "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-        "title_zh": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+        "id": "8b565b51834b5b0486ac70a748213e6d083e1a36",
+        "title": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
+        "title_zh": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
         "title_en": null,
-        "title_original": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-        "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+        "title_original": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
+        "summary": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-29",
+        "source": "社区更新 · 2026-08-30",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_2ee04de9ee75",
-      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-      "url": "https://lwn.net/Articles/1091231",
-      "primary_url": "https://lwn.net/Articles/1091231",
-      "source": "lwn.net",
+      "story_id": "story_71bb90baa1b8",
+      "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+      "url": "https://www.aibase.com/news/30709",
+      "primary_url": "https://www.aibase.com/news/30709",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_en": null,
+          "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_en": null,
+          "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+        "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+        "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+        "title_en": null,
+        "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30709",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_986417388ff9",
+      "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+      "url": "https://www.aibase.com/news/30706",
+      "primary_url": "https://www.aibase.com/news/30706",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_en": null,
+          "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30706",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_en": null,
+          "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30706",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+        "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+        "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+        "title_en": null,
+        "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30706",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_62e3f5f66c82",
+      "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+      "url": "https://www.aibase.com/news/30711",
+      "primary_url": "https://www.aibase.com/news/30711",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
+          "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "title_en": null,
+          "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30711",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
+          "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "title_en": null,
+          "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30711",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
+        "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+        "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+        "title_en": null,
+        "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30711",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_56bf09d4d635",
+      "title": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+      "url": "https://www.aibase.com/news/30705",
+      "primary_url": "https://www.aibase.com/news/30705",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9422b9ac4f9703907267728b74392d9e4bf0eb6b",
+          "title": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+          "title_zh": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+          "title_en": null,
+          "title_original": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30705",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9422b9ac4f9703907267728b74392d9e4bf0eb6b",
+          "title": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+          "title_zh": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+          "title_en": null,
+          "title_original": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30705",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "9422b9ac4f9703907267728b74392d9e4bf0eb6b",
+        "title": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+        "title_zh": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+        "title_en": null,
+        "title_original": "不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30705",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7a93a6b4598f",
+      "title": "How to build a diffusion language model",
+      "url": "https://news.ycombinator.com/item?id=49503956",
+      "primary_url": "https://news.ycombinator.com/item?id=49503956",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "081b7003f387f0f573235c2aa8733f30b0754ded",
+          "title": "How to build a diffusion language model",
+          "title_zh": null,
+          "title_en": "How to build a diffusion language model",
+          "title_original": "How to build a diffusion language model",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=49503956",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:32:24.946000Z"
+        },
+        {
+          "id": "2e5cf851f266a2816174e1d9a8972c3c2916801e",
+          "title": "How to build a diffusion language model",
+          "title_zh": null,
+          "title_en": "How to build a diffusion language model",
+          "title_original": "How to build a diffusion language model",
+          "summary": null,
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T23:41:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "081b7003f387f0f573235c2aa8733f30b0754ded",
+          "title": "How to build a diffusion language model",
+          "title_zh": null,
+          "title_en": "How to build a diffusion language model",
+          "title_original": "How to build a diffusion language model",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=49503956",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:32:24.946000Z"
+        },
+        {
+          "id": "2e5cf851f266a2816174e1d9a8972c3c2916801e",
+          "title": "How to build a diffusion language model",
+          "title_zh": null,
+          "title_en": "How to build a diffusion language model",
+          "title_original": "How to build a diffusion language model",
+          "summary": null,
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T23:41:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T23:41:32Z",
+      "latest_at": "2026-08-31T05:32:24.946000Z",
+      "primary_item": {
+        "id": "081b7003f387f0f573235c2aa8733f30b0754ded",
+        "title": "How to build a diffusion language model",
+        "title_zh": null,
+        "title_en": "How to build a diffusion language model",
+        "title_original": "How to build a diffusion language model",
+        "summary": null,
+        "url": "https://news.ycombinator.com/item?id=49503956",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b1f15b8a23b7",
+      "title": "pollen-robotics / microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "primary_url": "https://github.com/pollen-robotics/microduck_rl",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "title_zh": null,
+          "title_en": "pollen-robotics / microduck_rl",
+          "title_original": "pollen-robotics / microduck_rl",
+          "summary": null,
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "title_zh": null,
+          "title_en": "pollen-robotics /      microduck_rl",
+          "title_original": "pollen-robotics /      microduck_rl",
+          "summary": null,
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:11:41.577000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "title_zh": null,
+          "title_en": "pollen-robotics / microduck_rl",
+          "title_original": "pollen-robotics / microduck_rl",
+          "summary": null,
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "title_zh": null,
+          "title_en": "pollen-robotics /      microduck_rl",
+          "title_original": "pollen-robotics /      microduck_rl",
+          "summary": null,
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:11:41.577000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T05:11:41.577000Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+        "title": "pollen-robotics / microduck_rl",
+        "title_zh": null,
+        "title_en": "pollen-robotics / microduck_rl",
+        "title_original": "pollen-robotics / microduck_rl",
+        "summary": null,
+        "url": "https://github.com/pollen-robotics/microduck_rl",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_93201979fbd0",
+      "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+      "url": "https://academa.ai",
+      "primary_url": "https://academa.ai",
+      "source": "academa.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "title_zh": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
           "title_en": null,
-          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_original": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
           "summary": null,
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "url": "https://academa.ai",
+          "source": "academa.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-30T22:27:18.114000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
-          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "title_zh": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
           "summary": null,
-          "url": "https://lwn.net/Articles/1091231",
+          "url": "https://academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T22:22:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "academa.ai"
+      ],
+      "items": [
+        {
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "title_zh": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "title_en": null,
+          "title_original": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "summary": null,
+          "url": "https://academa.ai",
+          "source": "academa.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T22:27:18.114000Z"
+        },
+        {
+          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "title_zh": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "summary": null,
+          "url": "https://academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T22:22:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9029,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T22:22:23Z",
+      "latest_at": "2026-08-30T22:27:18.114000Z",
+      "primary_item": {
+        "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+        "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+        "title_zh": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+        "title_en": null,
+        "title_original": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+        "summary": null,
+        "url": "https://academa.ai",
+        "source": "academa.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a3769cab0b45",
+      "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+      "url": "https://www.aibase.com/news/30710",
+      "primary_url": "https://www.aibase.com/news/30710",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
+          "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_en": null,
+          "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30710",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
+          "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_en": null,
+          "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "summary": null,
+          "url": "https://www.aibase.com/news/30710",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T05:31:52.360246Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T05:31:52.360246Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
+      "primary_item": {
+        "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
+        "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+        "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+        "title_en": null,
+        "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+        "summary": null,
+        "url": "https://www.aibase.com/news/30710",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2929f114895f",
+      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "source": "thezvi.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_en": null,
+          "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "summary": null,
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
+        {
+          "id": "a7fffb08da071e28071133c73fe15257acde9215",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "summary": null,
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": null,
-          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "summary": null,
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "title_original": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "summary": null,
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
+          "published_at": "2026-08-30T14:06:54Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "lwn.net",
-        "www.phoronix.com"
+        "thezvi.wordpress.com"
       ],
       "items": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
           "title_en": null,
-          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
           "summary": null,
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-30T19:31:43.820000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
-          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "id": "a7fffb08da071e28071133c73fe15257acde9215",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "summary": null,
-          "url": "https://lwn.net/Articles/1091231",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": null,
-          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "summary": null,
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "title_original": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "summary": null,
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8157,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T08:19:22Z",
-      "latest_at": "2026-08-29T15:16:20.593000Z",
-      "primary_item": {
-        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-        "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-        "title_en": null,
-        "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-        "summary": null,
-        "url": "https://lwn.net/Articles/1091231",
-        "source": "lwn.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6472bbcb1287",
-      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "source": "newsletter.eng-leadership.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "title_en": null,
-          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "summary": null,
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "newsletter.eng-leadership.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.528000Z"
-        },
-        {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "summary": null,
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "newsletter.eng-leadership.com"
-      ],
-      "items": [
-        {
-          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "title_en": null,
-          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "summary": null,
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "newsletter.eng-leadership.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.528000Z"
-        },
-        {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "summary": null,
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
+          "published_at": "2026-08-30T14:06:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8776,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:19:47Z",
-      "latest_at": "2026-08-29T20:20:15.528000Z",
+      "earliest_at": "2026-08-30T14:06:54Z",
+      "latest_at": "2026-08-30T19:31:43.820000Z",
       "primary_item": {
-        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-        "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+        "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+        "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
         "title_en": null,
-        "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
         "summary": null,
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "source": "newsletter.eng-leadership.com",
+        "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+        "source": "thezvi.wordpress.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_dde286af26fd",
-      "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_514f13175aae",
+      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+      "url": "https://news.ycombinator.com/item?id=49505351",
+      "primary_url": "https://news.ycombinator.com/item?id=49505351",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "title_en": null,
-          "title_original": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "id": "e9f6eda1e7c06dac27e93c840bb5568be18cfdcf",
+          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_zh": null,
+          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
           "summary": null,
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T19:48:15.596000Z"
+          "url": "https://news.ycombinator.com/item?id=49505351",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:32:24.946000Z"
         },
         {
-          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "title_en": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "title_original": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "id": "9c89e5587515f2b99c62ab79323d1521e27c09b2",
+          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_zh": null,
+          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
           "summary": null,
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "Business Insider",
+          "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T19:05:05Z"
+          "published_at": "2026-08-31T03:45:57Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "title_en": null,
-          "title_original": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "id": "e9f6eda1e7c06dac27e93c840bb5568be18cfdcf",
+          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_zh": null,
+          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
           "summary": null,
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T19:48:15.596000Z"
+          "url": "https://news.ycombinator.com/item?id=49505351",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:32:24.946000Z"
         },
         {
-          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "title_en": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "title_original": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "id": "9c89e5587515f2b99c62ab79323d1521e27c09b2",
+          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_zh": null,
+          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
           "summary": null,
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "Business Insider",
+          "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T19:05:05Z"
+          "published_at": "2026-08-31T03:45:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8709,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T19:05:05Z",
-      "latest_at": "2026-08-29T19:48:15.596000Z",
+      "earliest_at": "2026-08-31T03:45:57Z",
+      "latest_at": "2026-08-31T05:32:24.946000Z",
       "primary_item": {
-        "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-        "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-        "title_zh": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-        "title_en": null,
-        "title_original": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+        "id": "e9f6eda1e7c06dac27e93c840bb5568be18cfdcf",
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "title_zh": null,
+        "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
         "summary": null,
-        "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49505351",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_9928173748ab",
-      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "source": "arbustoemchamas.substack.com",
-      "source_name": "Buzzing",
+      "story_id": "story_7d9153c0bf2c",
+      "title": "punkpeye / awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "title_en": null,
-          "title_original": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "title_zh": null,
+          "title_en": "punkpeye / awesome-mcp-servers",
+          "title_original": "punkpeye / awesome-mcp-servers",
           "summary": null,
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "title_en": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "title_original": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "title_zh": null,
+          "title_en": "punkpeye /      awesome-mcp-servers",
+          "title_original": "punkpeye /      awesome-mcp-servers",
           "summary": null,
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:11:41.577000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "arbustoemchamas.substack.com"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "title_en": null,
-          "title_original": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "title_zh": null,
+          "title_en": "punkpeye / awesome-mcp-servers",
+          "title_original": "punkpeye / awesome-mcp-servers",
           "summary": null,
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "title_en": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "title_original": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "title_zh": null,
+          "title_en": "punkpeye /      awesome-mcp-servers",
+          "title_original": "punkpeye /      awesome-mcp-servers",
           "summary": null,
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T05:11:41.577000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7156,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T06:11:18Z",
-      "latest_at": "2026-08-29T06:12:16.489000Z",
+      "earliest_at": "2026-08-31T05:11:41.577000Z",
+      "latest_at": "2026-08-31T05:31:52.360246Z",
       "primary_item": {
-        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-        "title_zh": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-        "title_en": null,
-        "title_original": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+        "title": "punkpeye / awesome-mcp-servers",
+        "title_zh": null,
+        "title_en": "punkpeye / awesome-mcp-servers",
+        "title_original": "punkpeye / awesome-mcp-servers",
         "summary": null,
-        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "source": "arbustoemchamas.substack.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_29a8261d3470",
-      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "title_en": null,
-          "title_original": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "summary": null,
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
-        },
-        {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "title_en": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "title_original": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "summary": null,
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "title_en": null,
-          "title_original": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "summary": null,
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
-        },
-        {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "title_en": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "title_original": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "summary": null,
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7941,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:05:01Z",
-      "latest_at": "2026-08-29T13:24:41.103000Z",
-      "primary_item": {
-        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-        "title_zh": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-        "title_en": null,
-        "title_original": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-        "summary": null,
-        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     }
   ]
