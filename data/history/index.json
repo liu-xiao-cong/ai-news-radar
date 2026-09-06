@@ -1,18 +1,48 @@
 {
-  "generated_at": "2026-09-01T09:23:31.398345Z",
+  "generated_at": "2026-09-06T04:36:33.834903Z",
   "timezone": "Asia/Shanghai",
-  "latest_date": "2026-09-01",
+  "latest_date": "2026-09-06",
   "dates": [
     {
+      "date": "2026-09-06",
+      "count": 170,
+      "raw_count": 2248,
+      "file": "data/history/2026-09-06.json"
+    },
+    {
+      "date": "2026-09-05",
+      "count": 169,
+      "raw_count": 590,
+      "file": "data/history/2026-09-05.json"
+    },
+    {
+      "date": "2026-09-04",
+      "count": 81,
+      "raw_count": 257,
+      "file": "data/history/2026-09-04.json"
+    },
+    {
+      "date": "2026-09-03",
+      "count": 54,
+      "raw_count": 135,
+      "file": "data/history/2026-09-03.json"
+    },
+    {
+      "date": "2026-09-02",
+      "count": 30,
+      "raw_count": 71,
+      "file": "data/history/2026-09-02.json"
+    },
+    {
       "date": "2026-09-01",
-      "count": 250,
-      "raw_count": 2441,
+      "count": 263,
+      "raw_count": 2463,
       "file": "data/history/2026-09-01.json"
     },
     {
       "date": "2026-08-31",
-      "count": 270,
-      "raw_count": 2106,
+      "count": 272,
+      "raw_count": 2111,
       "file": "data/history/2026-08-31.json"
     },
     {
@@ -98,36 +128,6 @@
       "count": 258,
       "raw_count": 2149,
       "file": "data/history/2026-08-17.json"
-    },
-    {
-      "date": "2026-08-16",
-      "count": 218,
-      "raw_count": 1941,
-      "file": "data/history/2026-08-16.json"
-    },
-    {
-      "date": "2026-08-15",
-      "count": 284,
-      "raw_count": 2379,
-      "file": "data/history/2026-08-15.json"
-    },
-    {
-      "date": "2026-08-14",
-      "count": 416,
-      "raw_count": 2592,
-      "file": "data/history/2026-08-14.json"
-    },
-    {
-      "date": "2026-08-13",
-      "count": 366,
-      "raw_count": 2489,
-      "file": "data/history/2026-08-13.json"
-    },
-    {
-      "date": "2026-08-12",
-      "count": 386,
-      "raw_count": 2635,
-      "file": "data/history/2026-08-12.json"
     }
   ]
 }
