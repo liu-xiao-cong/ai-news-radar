@@ -1,312 +1,176 @@
 {
-  "generated_at": "2026-09-09T08:57:19.102107Z",
+  "generated_at": "2026-09-11T08:54:25.359661Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_fbb79928f7d9",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "primary_url": "https://openai.com/index/navier-stokes-solution",
+      "story_id": "story_014159943e4d",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "primary_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier–Stokes Millennium Prize Problem",
-          "title_original": "On the Navier–Stokes Millennium Prize Problem",
+          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
+          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "title_zh": null,
+          "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
           "summary": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier-Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier-Stokes Millennium Prize Problem",
-          "title_original": "On the Navier-Stokes Millennium Prize Problem",
-          "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
-          "title": "关于纳维-斯托克斯千禧奖问题",
-          "title_zh": "关于纳维-斯托克斯千禧奖问题",
-          "title_en": null,
-          "title_original": "关于纳维-斯托克斯千禧奖问题",
-          "summary": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T17:37:53.153000Z"
+          "published_at": "2026-09-10T16:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier–Stokes Millennium Prize Problem",
-          "title_original": "On the Navier–Stokes Millennium Prize Problem",
+          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
+          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "title_zh": null,
+          "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
           "summary": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier-Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier-Stokes Millennium Prize Problem",
-          "title_original": "On the Navier-Stokes Millennium Prize Problem",
-          "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
-          "title": "关于纳维-斯托克斯千禧奖问题",
-          "title_zh": "关于纳维-斯托克斯千禧奖问题",
-          "title_en": null,
-          "title_original": "关于纳维-斯托克斯千禧奖问题",
-          "summary": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T17:37:53.153000Z"
+          "published_at": "2026-09-10T16:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7179,
-        "story_heat": 0.5
+        "ai_relevance": 0.99,
+        "recency": 0.7834,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T10:00:00Z",
-      "latest_at": "2026-09-08T17:37:53.153000Z",
+      "earliest_at": "2026-09-10T16:00:00Z",
+      "latest_at": "2026-09-10T16:00:00Z",
       "primary_item": {
-        "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-        "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-        "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-        "title_en": "On the Navier–Stokes Millennium Prize Problem",
-        "title_original": "On the Navier–Stokes Millennium Prize Problem",
+        "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
+        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "title_zh": null,
+        "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
         "summary": null,
-        "url": "https://openai.com/index/navier-stokes-solution",
+        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_917b521aa1cb",
-      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_115895427a12",
+      "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
+          "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器",
+          "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
           "summary": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
-          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_en": null,
-          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T21:38:06.785000Z"
-        },
-        {
-          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem",
-          "title_original": "OpenAI fought dirty on career-making math problem",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T19:47:13Z"
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T21:31:19Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）",
-        "techcrunch.com"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
+          "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器",
+          "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
           "summary": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
-          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_en": null,
-          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T21:38:06.785000Z"
-        },
-        {
-          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem",
-          "title_original": "OpenAI fought dirty on career-making math problem",
-          "summary": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T19:47:13Z"
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T21:31:19Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8004,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8484,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T17:32:15Z",
-      "latest_at": "2026-09-08T21:38:06.785000Z",
+      "earliest_at": "2026-09-10T21:31:19Z",
+      "latest_at": "2026-09-10T21:31:19Z",
       "primary_item": {
-        "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-        "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-        "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-        "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-        "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
+        "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+        "title_zh": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器",
+        "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+        "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+        "summary": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_57f248685be7",
-      "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "story_id": "story_437450430f85",
+      "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_zh": "Copilot for JetBrains 中的企业管理沙箱",
-          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
+          "title_en": "Refreshed repository pull requests page in public preview",
+          "title_original": "Refreshed repository pull requests page in public preview",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "source_count": 1,
@@ -315,308 +179,30 @@
       ],
       "items": [
         {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_zh": "Copilot for JetBrains 中的企业管理沙箱",
-          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
+          "title_en": "Refreshed repository pull requests page in public preview",
+          "title_original": "Refreshed repository pull requests page in public preview",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.914,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T02:43:38Z",
-      "latest_at": "2026-09-09T02:43:38Z",
-      "primary_item": {
-        "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-        "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
-        "title_zh": "Copilot for JetBrains 中的企业管理沙箱",
-        "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
-        "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f7dd334d631a",
-      "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "title_zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图",
-          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "summary": null,
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:00:15Z"
-        },
-        {
-          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
-          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "title_zh": null,
-          "title_en": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "title_original": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "summary": null,
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T14:14:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "title_zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图",
-          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "summary": null,
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:00:15Z"
-        },
-        {
-          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
-          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "title_zh": null,
-          "title_en": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "title_original": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "summary": null,
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T14:14:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7606,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T14:00:15Z",
-      "latest_at": "2026-09-08T14:14:15Z",
-      "primary_item": {
-        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-        "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "title_zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图",
-        "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "summary": null,
-        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_167bce5d47e7",
-      "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "primary_url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
-          "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
-          "title_zh": "GPT-5.6 Sol 如何帮助运行量子计算实验",
-          "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "summary": null,
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T17:00:00Z"
-        },
-        {
-          "id": "351a4ba2c29a5a061bc92b822eb300b89b6a46fe",
-          "title": "GPT‑5.6 Sol 如何帮助运行量子计算实验 / How GPT‑5.6 Sol helps run quantum computing experiments",
-          "title_zh": "GPT‑5.6 Sol 如何帮助运行量子计算实验",
-          "title_en": "How GPT‑5.6 Sol helps run quantum computing experiments",
-          "title_original": "How GPT‑5.6 Sol helps run quantum computing experiments",
-          "summary": null,
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T07:22:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
-          "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
-          "title_zh": "GPT-5.6 Sol 如何帮助运行量子计算实验",
-          "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "summary": null,
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T17:00:00Z"
-        },
-        {
-          "id": "351a4ba2c29a5a061bc92b822eb300b89b6a46fe",
-          "title": "GPT‑5.6 Sol 如何帮助运行量子计算实验 / How GPT‑5.6 Sol helps run quantum computing experiments",
-          "title_zh": "GPT‑5.6 Sol 如何帮助运行量子计算实验",
-          "title_en": "How GPT‑5.6 Sol helps run quantum computing experiments",
-          "title_original": "How GPT‑5.6 Sol helps run quantum computing experiments",
-          "summary": null,
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T07:22:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7942,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T17:00:00Z",
-      "latest_at": "2026-09-09T07:22:46Z",
-      "primary_item": {
-        "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
-        "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
-        "title_zh": "GPT-5.6 Sol 如何帮助运行量子计算实验",
-        "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
-        "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
-        "summary": null,
-        "url": "https://openai.com/index/codex-quantum-computing-experiments",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4f420d1c5cd0",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "title_zh": null,
-          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "summary": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:23:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "title_zh": null,
-          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "summary": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:23:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7648,
+        "recency": 0.8476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -625,227 +211,173 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T14:23:07Z",
-      "latest_at": "2026-09-08T14:23:07Z",
+      "earliest_at": "2026-09-10T21:27:17Z",
+      "latest_at": "2026-09-10T21:27:17Z",
       "primary_item": {
-        "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-        "title_zh": null,
-        "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-        "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+        "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+        "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
+        "title_en": "Refreshed repository pull requests page in public preview",
+        "title_original": "Refreshed repository pull requests page in public preview",
         "summary": null,
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-        "source": "Hugging Face Blog",
+        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
+      "story_id": "story_94ad36d7ed05",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
-          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "title_en": null,
-          "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T00:27:00Z"
-        },
-        {
-          "id": "0cda3bb8339290894f2a93fddbc220fedf4130ed",
-          "title": "GPT-6 Astra推理等级怎么选才最省Token",
-          "title_zh": "GPT-6 Astra推理等级怎么选才最省Token",
-          "title_en": null,
-          "title_original": "GPT-6 Astra推理等级怎么选才最省Token",
-          "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T00:09:00Z"
-        },
-        {
-          "id": "1ef72a69d13ea4852b5f924d60ddad509f1423ca",
-          "title": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
-          "title_zh": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
-          "title_en": null,
-          "title_original": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
+          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+          "title": "3 ways to prep for your next big race with Search",
+          "title_zh": null,
+          "title_en": "3 ways to prep for your next big race with Search",
+          "title_original": "3 ways to prep for your next big race with Search",
           "summary": null,
-          "url": "https://www.huxiu.com/article/4889688.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T01:39:14Z"
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "公众号：卡尔的AI沃茨",
-        "公众号：数字生命卡兹克",
-        "虎嗅 (Huxiu)"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
-          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "title_en": null,
-          "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T00:27:00Z"
-        },
-        {
-          "id": "0cda3bb8339290894f2a93fddbc220fedf4130ed",
-          "title": "GPT-6 Astra推理等级怎么选才最省Token",
-          "title_zh": "GPT-6 Astra推理等级怎么选才最省Token",
-          "title_en": null,
-          "title_original": "GPT-6 Astra推理等级怎么选才最省Token",
-          "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T00:09:00Z"
-        },
-        {
-          "id": "1ef72a69d13ea4852b5f924d60ddad509f1423ca",
-          "title": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
-          "title_zh": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
-          "title_en": null,
-          "title_original": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
+          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+          "title": "3 ways to prep for your next big race with Search",
+          "title_zh": null,
+          "title_en": "3 ways to prep for your next big race with Search",
+          "title_original": "3 ways to prep for your next big race with Search",
           "summary": null,
-          "url": "https://www.huxiu.com/article/4889688.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T01:39:14Z"
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8844,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7834,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T00:09:00Z",
-      "latest_at": "2026-09-09T01:39:14Z",
+      "earliest_at": "2026-09-10T16:00:00Z",
+      "latest_at": "2026-09-10T16:00:00Z",
       "primary_item": {
-        "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
-        "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-        "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-        "title_en": null,
-        "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-        "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
+        "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+        "title": "3 ways to prep for your next big race with Search",
+        "title_zh": null,
+        "title_en": "3 ways to prep for your next big race with Search",
+        "title_original": "3 ways to prep for your next big race with Search",
+        "summary": null,
+        "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_694b0dcfe5b5",
-      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-      "url": "https://www.ithome.com/1/000/188.htm",
-      "primary_url": "https://www.ithome.com/1/000/188.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_a1f5ae11a556",
+      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "primary_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa808e6855f412167058a091985bcbf806b32686",
-          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_en": null,
-          "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家（RSS）",
+          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
+          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+          "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+          "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+          "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T06:41:51Z"
+          "published_at": "2026-09-10T20:57:30Z"
         },
         {
-          "id": "0a9fd1822bed1dd452a18688d9617df3de6fa87d",
-          "title": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
-          "title_zh": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
-          "title_en": null,
-          "title_original": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
+          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
+          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+          "title_en": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "title_original": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
           "summary": null,
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T06:41:51Z"
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-10T20:57:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "fa808e6855f412167058a091985bcbf806b32686",
-          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_en": null,
-          "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家（RSS）",
+          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
+          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+          "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+          "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+          "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T06:41:51Z"
+          "published_at": "2026-09-10T20:57:30Z"
         },
         {
-          "id": "0a9fd1822bed1dd452a18688d9617df3de6fa87d",
-          "title": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
-          "title_zh": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
-          "title_en": null,
-          "title_original": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
+          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
+          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+          "title_en": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "title_original": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
           "summary": null,
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T06:41:51Z"
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-10T20:57:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9679,
+        "recency": 0.8415,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -854,53 +386,302 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T06:41:51Z",
-      "latest_at": "2026-09-09T06:41:51Z",
+      "earliest_at": "2026-09-10T20:57:30Z",
+      "latest_at": "2026-09-10T20:57:30Z",
       "primary_item": {
-        "id": "fa808e6855f412167058a091985bcbf806b32686",
-        "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "title_en": null,
-        "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-        "url": "https://www.ithome.com/1/000/188.htm",
-        "source": "IT之家（RSS）",
+        "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
+        "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+        "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+        "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+        "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
+        "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_048aa76fa30e",
-      "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "primary_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+      "story_id": "story_4aaaad58edea",
+      "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+          "title_zh": "AI 扫描公共预览版中的拉取请求 API",
+          "title_en": "AI Scan for pull request APIs in public preview",
+          "title_original": "AI Scan for pull request APIs in public preview",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T20:20:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+          "title_zh": "AI 扫描公共预览版中的拉取请求 API",
+          "title_en": "AI Scan for pull request APIs in public preview",
+          "title_original": "AI Scan for pull request APIs in public preview",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T20:20:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8342,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T20:20:58Z",
+      "latest_at": "2026-09-10T20:20:58Z",
+      "primary_item": {
+        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+        "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+        "title_zh": "AI 扫描公共预览版中的拉取请求 API",
+        "title_en": "AI Scan for pull request APIs in public preview",
+        "title_original": "AI Scan for pull request APIs in public preview",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4d4e7920d8a7",
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "primary_url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
+          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
+          "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+          "title_en": "Now everyone can put data to work",
+          "title_original": "Now everyone can put data to work",
+          "summary": null,
+          "url": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
+          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
+          "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+          "title_en": "Now everyone can put data to work",
+          "title_original": "Now everyone can put data to work",
+          "summary": null,
+          "url": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7721,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T15:00:00Z",
+      "latest_at": "2026-09-10T15:00:00Z",
+      "primary_item": {
+        "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
+        "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
+        "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+        "title_en": "Now everyone can put data to work",
+        "title_original": "Now everyone can put data to work",
+        "summary": null,
+        "url": "https://openai.com/index/put-data-to-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_128b4fa81aba",
+      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+      "primary_url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ed6f9168097df117f4ffdb78a15e9d8518365d1f",
+          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+          "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+          "title_original": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+          "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T16:33:44Z"
+        },
+        {
+          "id": "2fcf8a0be61949c0ab1188c8f492aac58a2e353e",
+          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+          "title_en": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+          "title_original": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+          "summary": null,
+          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-10T16:33:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ed6f9168097df117f4ffdb78a15e9d8518365d1f",
+          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+          "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+          "title_original": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+          "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T16:33:44Z"
+        },
+        {
+          "id": "2fcf8a0be61949c0ab1188c8f492aac58a2e353e",
+          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+          "title_en": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+          "title_original": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+          "summary": null,
+          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-10T16:33:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7898,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T16:33:44Z",
+      "latest_at": "2026-09-10T16:33:44Z",
+      "primary_item": {
+        "id": "ed6f9168097df117f4ffdb78a15e9d8518365d1f",
+        "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+        "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+        "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+        "title_original": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+        "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+        "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e0bea100c91b",
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "url": "https://shopify.engineering/back-to-native",
+      "primary_url": "https://shopify.engineering/back-to-native",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
-          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
           "title_en": null,
-          "title_original": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+          "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+          "url": "https://shopify.engineering/back-to-native",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T07:10:03.765000Z"
+          "published_at": "2026-09-10T15:04:41.487000Z"
         },
         {
-          "id": "c0b66a0d4d5c9e92b04b7e47ab3d1e4111752c85",
-          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议 / The Navier–Stokes Millennium Prize Problem",
-          "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "title_en": "The Navier–Stokes Millennium Prize Problem",
-          "title_original": "The Navier–Stokes Millennium Prize Problem",
+          "id": "919cb537c88be6b4e4bd360a8378ac0f197c2b4f",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify is moving from React Native back to Swift and Kotlin",
+          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "title_en": "Shopify is moving from React Native back to Swift and Kotlin",
+          "title_original": "Shopify is moving from React Native back to Swift and Kotlin",
           "summary": null,
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+          "url": "https://shopify.engineering/back-to-native",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-09T05:55:39Z"
+          "published_at": "2026-09-10T14:09:31Z"
         }
       ],
       "source_count": 2,
@@ -910,217 +691,43 @@
       ],
       "items": [
         {
-          "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
-          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
           "title_en": null,
-          "title_original": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+          "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+          "url": "https://shopify.engineering/back-to-native",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T07:10:03.765000Z"
+          "published_at": "2026-09-10T15:04:41.487000Z"
         },
         {
-          "id": "c0b66a0d4d5c9e92b04b7e47ab3d1e4111752c85",
-          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议 / The Navier–Stokes Millennium Prize Problem",
-          "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "title_en": "The Navier–Stokes Millennium Prize Problem",
-          "title_original": "The Navier–Stokes Millennium Prize Problem",
+          "id": "919cb537c88be6b4e4bd360a8378ac0f197c2b4f",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify is moving from React Native back to Swift and Kotlin",
+          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "title_en": "Shopify is moving from React Native back to Swift and Kotlin",
+          "title_original": "Shopify is moving from React Native back to Swift and Kotlin",
           "summary": null,
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+          "url": "https://shopify.engineering/back-to-native",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-09T05:55:39Z"
+          "published_at": "2026-09-10T14:09:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9745,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T05:55:39Z",
-      "latest_at": "2026-09-09T07:10:03.765000Z",
-      "primary_item": {
-        "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
-        "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-        "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-        "title_en": null,
-        "title_original": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-        "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
-        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fc17a12d524c",
-      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1620b5faa9067f76aea6d138ef3d777192a6a077",
-          "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-          "title_zh": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
-          "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-          "title_original": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-          "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
-          "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T08:37:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "1620b5faa9067f76aea6d138ef3d777192a6a077",
-          "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-          "title_zh": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
-          "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-          "title_original": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-          "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
-          "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T08:37:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9953,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T08:37:36Z",
-      "latest_at": "2026-09-09T08:37:36Z",
-      "primary_item": {
-        "id": "1620b5faa9067f76aea6d138ef3d777192a6a077",
-        "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-        "title_zh": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
-        "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-        "title_original": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
-        "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
-        "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bdc13acbfb5",
-      "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-      "url": "https://www.aibase.com/news/30927",
-      "primary_url": "https://www.aibase.com/news/30927",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "faaf6269a02e31eb3599ec7bff694e6b4917bde4",
-          "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "title_zh": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "title_en": null,
-          "title_original": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30927",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T08:57:19.102107Z"
-        },
-        {
-          "id": "0ed3a87c73d381a8e8c696193d0bc23af595feda",
-          "title": "三星与 Mistral 达成合作，全面赋能芯片设计与制造",
-          "title_zh": "三星与 Mistral 达成合作，全面赋能芯片设计与制造",
-          "title_en": null,
-          "title_original": "三星与 Mistral 达成合作，全面赋能芯片设计与制造",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30927",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "faaf6269a02e31eb3599ec7bff694e6b4917bde4",
-          "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "title_zh": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "title_en": null,
-          "title_original": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30927",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T08:57:19.102107Z"
-        },
-        {
-          "id": "0ed3a87c73d381a8e8c696193d0bc23af595feda",
-          "title": "三星与 Mistral 达成合作，全面赋能芯片设计与制造",
-          "title_zh": "三星与 Mistral 达成合作，全面赋能芯片设计与制造",
-          "title_en": null,
-          "title_original": "三星与 Mistral 达成合作，全面赋能芯片设计与制造",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30927",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.773,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1129,40 +736,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T08:57:19.102107Z",
-      "latest_at": "2026-09-09T08:57:19.102107Z",
+      "earliest_at": "2026-09-10T14:09:31Z",
+      "latest_at": "2026-09-10T15:04:41.487000Z",
       "primary_item": {
-        "id": "faaf6269a02e31eb3599ec7bff694e6b4917bde4",
-        "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-        "title_zh": "三星与Mistral达成合作 全面赋能芯片设计与制造",
+        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+        "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
         "title_en": null,
-        "title_original": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30927",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+        "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+        "url": "https://shopify.engineering/back-to-native",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c5201349f1b3",
-      "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
-      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "story_id": "story_4997b35dbc97",
+      "title": "Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "primary_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-          "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
-          "title_zh": "GitHub Enterprise Server 3.22 现已全面发布",
-          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
-          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "Control GitHub Actions cache access with cache-mode",
+          "title_zh": null,
+          "title_en": "Control GitHub Actions cache access with cache-mode",
+          "title_original": "Control GitHub Actions cache access with cache-mode",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T21:52:42Z"
+          "published_at": "2026-09-10T17:26:59Z"
         }
       ],
       "source_count": 1,
@@ -1171,30 +778,30 @@
       ],
       "items": [
         {
-          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-          "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
-          "title_zh": "GitHub Enterprise Server 3.22 现已全面发布",
-          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
-          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "Control GitHub Actions cache access with cache-mode",
+          "title_zh": null,
+          "title_en": "Control GitHub Actions cache access with cache-mode",
+          "title_original": "Control GitHub Actions cache access with cache-mode",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T21:52:42Z"
+          "published_at": "2026-09-10T17:26:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8522,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1203,388 +810,474 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T21:52:42Z",
-      "latest_at": "2026-09-08T21:52:42Z",
+      "earliest_at": "2026-09-10T17:26:59Z",
+      "latest_at": "2026-09-10T17:26:59Z",
       "primary_item": {
-        "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-        "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
-        "title_zh": "GitHub Enterprise Server 3.22 现已全面发布",
-        "title_en": "GitHub Enterprise Server 3.22 is now generally available",
-        "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+        "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+        "title": "Control GitHub Actions cache access with cache-mode",
+        "title_zh": null,
+        "title_en": "Control GitHub Actions cache access with cache-mode",
+        "title_original": "Control GitHub Actions cache access with cache-mode",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+        "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_305f03a4aa6a",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "Introducing ChatGPT Images 2.5",
-          "title_original": "Introducing ChatGPT Images 2.5",
-          "summary": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "ChatGPT Images 2.5",
-          "title_original": "ChatGPT Images 2.5",
-          "summary": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T19:14:22.077000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "Introducing ChatGPT Images 2.5",
-          "title_original": "Introducing ChatGPT Images 2.5",
-          "summary": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "ChatGPT Images 2.5",
-          "title_original": "ChatGPT Images 2.5",
-          "summary": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T19:14:22.077000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7336,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:30:00Z",
-      "latest_at": "2026-09-08T19:14:22.077000Z",
-      "primary_item": {
-        "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-        "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-        "title_en": "Introducing ChatGPT Images 2.5",
-        "title_original": "Introducing ChatGPT Images 2.5",
-        "summary": null,
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8cc2a6c43877",
-      "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-      "url": "https://www.aibase.com/news/30929",
-      "primary_url": "https://www.aibase.com/news/30929",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8572b8bb5fbcb01a440edef5d1ef15e0c8125bdb",
-          "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "title_zh": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "title_en": null,
-          "title_original": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30929",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T08:57:19.102107Z"
-        },
-        {
-          "id": "954436545e0e4c5f75e3755badae62793d2e731c",
-          "title": "DeepSeek 传已聘请中信证券筹备科创板 IPO，估值剑指 5000 亿",
-          "title_zh": "DeepSeek 传已聘请中信证券筹备科创板 IPO，估值剑指 5000 亿",
-          "title_en": null,
-          "title_original": "DeepSeek 传已聘请中信证券筹备科创板 IPO，估值剑指 5000 亿",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30929",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8572b8bb5fbcb01a440edef5d1ef15e0c8125bdb",
-          "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "title_zh": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "title_en": null,
-          "title_original": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30929",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T08:57:19.102107Z"
-        },
-        {
-          "id": "954436545e0e4c5f75e3755badae62793d2e731c",
-          "title": "DeepSeek 传已聘请中信证券筹备科创板 IPO，估值剑指 5000 亿",
-          "title_zh": "DeepSeek 传已聘请中信证券筹备科创板 IPO，估值剑指 5000 亿",
-          "title_en": null,
-          "title_original": "DeepSeek 传已聘请中信证券筹备科创板 IPO，估值剑指 5000 亿",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30929",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T08:57:19.102107Z",
-      "latest_at": "2026-09-09T08:57:19.102107Z",
-      "primary_item": {
-        "id": "8572b8bb5fbcb01a440edef5d1ef15e0c8125bdb",
-        "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-        "title_zh": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-        "title_en": null,
-        "title_original": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-        "summary": null,
-        "url": "https://www.aibase.com/news/30929",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a6cb6a182830",
-      "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-      "url": "https://x.com/EMostaque/status/2097378223138959719",
-      "primary_url": "https://x.com/EMostaque/status/2097378223138959719",
-      "source": "X：Emad Mostaque (@EMostaque)",
+      "story_id": "story_b007b558c779",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "source": "Anthropic：Research（发表成果 · 网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
-          "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-          "title_zh": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-          "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-          "title_original": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-          "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
-          "url": "https://x.com/EMostaque/status/2097378223138959719",
-          "source": "X：Emad Mostaque (@EMostaque)",
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T17:35:10Z"
+          "published_at": "2026-09-10T17:28:52.100000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Emad Mostaque (@EMostaque)"
+        "Anthropic：Research（发表成果 · 网页）"
       ],
       "items": [
         {
-          "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
-          "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-          "title_zh": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-          "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-          "title_original": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-          "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
-          "url": "https://x.com/EMostaque/status/2097378223138959719",
-          "source": "X：Emad Mostaque (@EMostaque)",
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T17:35:10Z"
+          "published_at": "2026-09-10T17:28:52.100000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8003,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T17:28:52.100000Z",
+      "latest_at": "2026-09-10T17:28:52.100000Z",
+      "primary_item": {
+        "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+        "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e49382d9afe6",
+      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+      "url": "https://cursor.com/blog/projects",
+      "primary_url": "https://cursor.com/blog/projects",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+          "title_en": "Introducing Projects",
+          "title_original": "Introducing Projects",
+          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+          "url": "https://cursor.com/blog/projects",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+          "title_en": "Introducing Projects",
+          "title_original": "Introducing Projects",
+          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+          "url": "https://cursor.com/blog/projects",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7394,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T12:00:00Z",
+      "latest_at": "2026-09-10T12:00:00Z",
+      "primary_item": {
+        "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+        "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+        "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+        "title_en": "Introducing Projects",
+        "title_original": "Introducing Projects",
+        "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+        "url": "https://cursor.com/blog/projects",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bceea100d8e1",
+      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+      "url": "https://x.com/elonmusk/status/2098217236771295567",
+      "primary_url": "https://x.com/elonmusk/status/2098217236771295567",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f9183098768f67ec68f0e13db499958386d6c247",
+          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+          "title_en": "Grok @Bot summary of SpaceX CFO talk",
+          "title_original": "Grok @Bot summary of SpaceX CFO talk",
+          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "url": "https://x.com/elonmusk/status/2098217236771295567",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T01:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "f9183098768f67ec68f0e13db499958386d6c247",
+          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+          "title_en": "Grok @Bot summary of SpaceX CFO talk",
+          "title_original": "Grok @Bot summary of SpaceX CFO talk",
+          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "url": "https://x.com/elonmusk/status/2098217236771295567",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T01:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8941,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T01:09:06Z",
+      "latest_at": "2026-09-11T01:09:06Z",
+      "primary_item": {
+        "id": "f9183098768f67ec68f0e13db499958386d6c247",
+        "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+        "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+        "title_en": "Grok @Bot summary of SpaceX CFO talk",
+        "title_original": "Grok @Bot summary of SpaceX CFO talk",
+        "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+        "url": "https://x.com/elonmusk/status/2098217236771295567",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1eb78558aa2a",
+      "title": "MAI-Code-1-Flash deprecated",
+      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+          "title": "MAI-Code-1-Flash deprecated",
+          "title_zh": null,
+          "title_en": "MAI-Code-1-Flash deprecated",
+          "title_original": "MAI-Code-1-Flash deprecated",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:54:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+          "title": "MAI-Code-1-Flash deprecated",
+          "title_zh": null,
+          "title_en": "MAI-Code-1-Flash deprecated",
+          "title_original": "MAI-Code-1-Flash deprecated",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:54:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7936,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T16:54:01Z",
+      "latest_at": "2026-09-10T16:54:01Z",
+      "primary_item": {
+        "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+        "title": "MAI-Code-1-Flash deprecated",
+        "title_zh": null,
+        "title_en": "MAI-Code-1-Flash deprecated",
+        "title_original": "MAI-Code-1-Flash deprecated",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9db47ae6fbc0",
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "primary_url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f82edb2c6b58716870b18a16535bf8e316799e81",
+          "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+          "title_zh": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+          "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+          "title_original": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+          "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+          "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:40:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f82edb2c6b58716870b18a16535bf8e316799e81",
+          "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+          "title_zh": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+          "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+          "title_original": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+          "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+          "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:40:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.801,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T17:35:10Z",
-      "latest_at": "2026-09-08T17:35:10Z",
-      "primary_item": {
-        "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
-        "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-        "title_zh": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-        "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-        "title_original": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-        "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
-        "url": "https://x.com/EMostaque/status/2097378223138959719",
-        "source": "X：Emad Mostaque (@EMostaque)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f03ea4c457e",
-      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-      "url": "https://x.com/polynoamial/status/2097375837670785447",
-      "primary_url": "https://x.com/polynoamial/status/2097375837670785447",
-      "source": "X：Noam Brown (@polynoamial)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
-          "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-          "title_zh": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-          "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-          "title_original": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-          "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
-          "url": "https://x.com/polynoamial/status/2097375837670785447",
-          "source": "X：Noam Brown (@polynoamial)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:25:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Noam Brown (@polynoamial)"
-      ],
-      "items": [
-        {
-          "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
-          "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-          "title_zh": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-          "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-          "title_original": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-          "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
-          "url": "https://x.com/polynoamial/status/2097375837670785447",
-          "source": "X：Noam Brown (@polynoamial)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:25:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T17:25:41Z",
-      "latest_at": "2026-09-08T17:25:41Z",
+      "earliest_at": "2026-09-10T12:40:51Z",
+      "latest_at": "2026-09-10T12:40:51Z",
       "primary_item": {
-        "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
-        "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-        "title_zh": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-        "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-        "title_original": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-        "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
-        "url": "https://x.com/polynoamial/status/2097375837670785447",
-        "source": "X：Noam Brown (@polynoamial)",
+        "id": "f82edb2c6b58716870b18a16535bf8e316799e81",
+        "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+        "title_zh": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+        "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+        "title_original": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+        "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+        "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_49d221fd67ec",
-      "title": "新客户门户 help.github.com / New customer portal help.github.com",
-      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "story_id": "story_a68f6360835b",
+      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "primary_url": "https://cognition.com/blog/factoring-rsa-260",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
+          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_en": null,
+          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+          "url": "https://cognition.com/blog/factoring-rsa-260",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T10:50:45.032000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
+          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_en": null,
+          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+          "url": "https://cognition.com/blog/factoring-rsa-260",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T10:50:45.032000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7272,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T10:50:45.032000Z",
+      "latest_at": "2026-09-10T10:50:45.032000Z",
+      "primary_item": {
+        "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
+        "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+        "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+        "title_en": null,
+        "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+        "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+        "url": "https://cognition.com/blog/factoring-rsa-260",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61aac319f1d5",
+      "title": "Xcode 27 runner image now runs on macOS 27",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "新客户门户 help.github.com / New customer portal help.github.com",
-          "title_zh": "新客户门户 help.github.com",
-          "title_en": "New customer portal help.github.com",
-          "title_original": "New customer portal help.github.com",
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 runner image now runs on macOS 27",
+          "title_zh": null,
+          "title_en": "Xcode 27 runner image now runs on macOS 27",
+          "title_original": "Xcode 27 runner image now runs on macOS 27",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
+          "published_at": "2026-09-10T15:15:36Z"
         }
       ],
       "source_count": 1,
@@ -1593,30 +1286,30 @@
       ],
       "items": [
         {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "新客户门户 help.github.com / New customer portal help.github.com",
-          "title_zh": "新客户门户 help.github.com",
-          "title_en": "New customer portal help.github.com",
-          "title_original": "New customer portal help.github.com",
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 runner image now runs on macOS 27",
+          "title_zh": null,
+          "title_en": "Xcode 27 runner image now runs on macOS 27",
+          "title_original": "Xcode 27 runner image now runs on macOS 27",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
+          "published_at": "2026-09-10T15:15:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8058,
+        "recency": 0.775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1625,263 +1318,340 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T18:00:10Z",
-      "latest_at": "2026-09-08T18:00:10Z",
+      "earliest_at": "2026-09-10T15:15:36Z",
+      "latest_at": "2026-09-10T15:15:36Z",
       "primary_item": {
-        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-        "title": "新客户门户 help.github.com / New customer portal help.github.com",
-        "title_zh": "新客户门户 help.github.com",
-        "title_en": "New customer portal help.github.com",
-        "title_original": "New customer portal help.github.com",
+        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+        "title": "Xcode 27 runner image now runs on macOS 27",
+        "title_zh": null,
+        "title_en": "Xcode 27 runner image now runs on macOS 27",
+        "title_original": "Xcode 27 runner image now runs on macOS 27",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_41fd5e104fee",
-      "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-      "url": "https://x.com/OpenAI/status/2097375276384567642",
-      "primary_url": "https://x.com/OpenAI/status/2097375276384567642",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-10",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-          "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_zh": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-          "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_original": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-          "url": "https://x.com/OpenAI/status/2097375276384567642",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:23:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-          "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_zh": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-          "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_original": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-          "url": "https://x.com/OpenAI/status/2097375276384567642",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:23:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7987,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T17:23:27Z",
-      "latest_at": "2026-09-08T17:23:27Z",
-      "primary_item": {
-        "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-        "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-        "title_zh": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-        "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-        "title_original": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-        "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-        "url": "https://x.com/OpenAI/status/2097375276384567642",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6bc8a3367e33",
-      "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-      "url": "https://x.com/sama/status/2097385167002415140",
-      "primary_url": "https://x.com/sama/status/2097385167002415140",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-          "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_zh": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-          "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_original": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-          "url": "https://x.com/sama/status/2097385167002415140",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T18:02:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-          "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_zh": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-          "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_original": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-          "url": "https://x.com/sama/status/2097385167002415140",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T18:02:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8063,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T18:02:46Z",
-      "latest_at": "2026-09-08T18:02:46Z",
-      "primary_item": {
-        "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-        "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-        "title_zh": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-        "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-        "title_original": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-        "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-        "url": "https://x.com/sama/status/2097385167002415140",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44c6243de390",
-      "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-      "url": "https://www.aibase.com/news/30928",
-      "primary_url": "https://www.aibase.com/news/30928",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e68dfff7426cc66458faff7de979d7a55c5f8b3b",
-          "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "title_zh": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
+          "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
+          "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "title_zh": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
           "title_en": null,
-          "title_original": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "summary": null,
-          "url": "https://www.aibase.com/news/30928",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T08:57:19.102107Z"
+          "title_original": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "summary": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T08:54:25.359661Z"
         },
         {
-          "id": "619c324e41b0eefab3fd2aa438078c184e828e57",
-          "title": "联通联手魅族发布「小魔方」AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "title_zh": "联通联手魅族发布「小魔方」AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
+          "id": "c515ecac8b0a88c77b7cbacb344048506e31ae2c",
+          "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "title_zh": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
           "title_en": null,
-          "title_original": "联通联手魅族发布「小魔方」AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
+          "title_original": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "summary": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T08:54:25.359661Z"
+        },
+        {
+          "id": "b8e417a270df85b8b8290b6ee81347b1ab7648b3",
+          "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "title_zh": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "title_en": null,
+          "title_original": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "summary": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T08:54:25.359661Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-09-10"
+      ],
+      "items": [
+        {
+          "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
+          "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "title_zh": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "title_en": null,
+          "title_original": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "summary": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T08:54:25.359661Z"
+        },
+        {
+          "id": "c515ecac8b0a88c77b7cbacb344048506e31ae2c",
+          "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "title_zh": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "title_en": null,
+          "title_original": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "summary": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T08:54:25.359661Z"
+        },
+        {
+          "id": "b8e417a270df85b8b8290b6ee81347b1ab7648b3",
+          "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "title_zh": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "title_en": null,
+          "title_original": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "summary": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T08:54:25.359661Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T08:54:25.359661Z",
+      "latest_at": "2026-09-11T08:54:25.359661Z",
+      "primary_item": {
+        "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
+        "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+        "title_zh": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+        "title_en": null,
+        "title_original": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+        "summary": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-10",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_9eb0b2fa15a1",
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "primary_url": "https://github.com/AlexsJones/llmfit",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
+          "title": "AlexsJones / llmfit",
+          "title_zh": null,
+          "title_en": "AlexsJones / llmfit",
+          "title_original": "AlexsJones / llmfit",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/30928",
-          "source": "Readhub · AI",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
+          "title": "AlexsJones /      llmfit",
+          "title_zh": null,
+          "title_en": "AlexsJones /      llmfit",
+          "title_original": "AlexsJones /      llmfit",
+          "summary": null,
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-11T08:30:41.866000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "e68dfff7426cc66458faff7de979d7a55c5f8b3b",
-          "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "title_zh": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "title_en": null,
-          "title_original": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
+          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
+          "title": "AlexsJones / llmfit",
+          "title_zh": null,
+          "title_en": "AlexsJones / llmfit",
+          "title_original": "AlexsJones / llmfit",
           "summary": null,
-          "url": "https://www.aibase.com/news/30928",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T08:57:19.102107Z"
-        },
-        {
-          "id": "619c324e41b0eefab3fd2aa438078c184e828e57",
-          "title": "联通联手魅族发布「小魔方」AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "title_zh": "联通联手魅族发布「小魔方」AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "title_en": null,
-          "title_original": "联通联手魅族发布「小魔方」AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/30928",
-          "source": "Readhub · AI",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
+          "title": "AlexsJones /      llmfit",
+          "title_zh": null,
+          "title_en": "AlexsJones /      llmfit",
+          "title_original": "AlexsJones /      llmfit",
+          "summary": null,
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-11T08:30:41.866000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-09T08:57:19.102107Z",
-      "latest_at": "2026-09-09T08:57:19.102107Z",
+      "earliest_at": "2026-09-11T08:30:41.866000Z",
+      "latest_at": "2026-09-11T08:54:25.359661Z",
       "primary_item": {
-        "id": "e68dfff7426cc66458faff7de979d7a55c5f8b3b",
-        "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-        "title_zh": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-        "title_en": null,
-        "title_original": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
+        "id": "027d3412f4073a3f46ace586c754056dd2af7009",
+        "title": "AlexsJones / llmfit",
+        "title_zh": null,
+        "title_en": "AlexsJones / llmfit",
+        "title_original": "AlexsJones / llmfit",
         "summary": null,
-        "url": "https://www.aibase.com/news/30928",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.com/AlexsJones/llmfit",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1d2f3eaa5282",
+      "title": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+      "url": "https://benzi.fly.dev/benchmark",
+      "primary_url": "https://benzi.fly.dev/benchmark",
+      "source": "benzi.fly.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "464e2d468609fac484278838318c0175d2197e0a",
+          "title": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "title_zh": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "title_en": null,
+          "title_original": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "summary": null,
+          "url": "https://benzi.fly.dev/benchmark",
+          "source": "benzi.fly.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T01:25:38.624000Z"
+        },
+        {
+          "id": "03b07fb6a57e24c4f4b60c57c23f5ac9bae8f552",
+          "title": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图 / Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+          "title_zh": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "title_en": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+          "title_original": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+          "summary": null,
+          "url": "https://benzi.fly.dev/benchmark",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-11T01:22:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "benzi.fly.dev"
+      ],
+      "items": [
+        {
+          "id": "464e2d468609fac484278838318c0175d2197e0a",
+          "title": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "title_zh": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "title_en": null,
+          "title_original": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "summary": null,
+          "url": "https://benzi.fly.dev/benchmark",
+          "source": "benzi.fly.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T01:25:38.624000Z"
+        },
+        {
+          "id": "03b07fb6a57e24c4f4b60c57c23f5ac9bae8f552",
+          "title": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图 / Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+          "title_zh": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+          "title_en": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+          "title_original": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+          "summary": null,
+          "url": "https://benzi.fly.dev/benchmark",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-11T01:22:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8976,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T01:22:44Z",
+      "latest_at": "2026-09-11T01:25:38.624000Z",
+      "primary_item": {
+        "id": "464e2d468609fac484278838318c0175d2197e0a",
+        "title": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+        "title_zh": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+        "title_en": null,
+        "title_original": "Show HN: Benzi——一种代码智能/利用 Beating Claude 算法实现代码和代码图",
+        "summary": null,
+        "url": "https://benzi.fly.dev/benchmark",
+        "source": "benzi.fly.dev",
+        "source_name": "Buzzing"
       }
     }
   ]
