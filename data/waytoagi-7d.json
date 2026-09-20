@@ -1,40 +1,105 @@
 {
-  "generated_at": "2026-09-18T08:59:32.926932Z",
+  "generated_at": "2026-09-20T04:52:21.523149Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-09-17",
-  "count_today": 5,
+  "latest_date": "2026-09-19",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-09-17",
-      "title": "这期 YC Paper Club 谈的是 Harness，也就是让模型使用工具、管理记忆并持续工作的运行框架。Prime Intellect 的 Seth Karten、斯坦福的 Jon Saad-Falcon，以及 YC 的 Josh France 和 Regan Bell，分别带来研究、本地 AI 和公司内部协作的实践。",
+      "date": "2026-09-19",
+      "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-17",
-      "title": "这是一篇写给普通人、零基础新手、刚接触 AI 工具的大家的实战入门教学。你会在这篇教程里看到很多截图、案例、提示词示例和常见错误说明。",
+      "date": "2026-09-19",
+      "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-17",
-      "title": "最近出现了一批很奇怪的演示：游戏里的角色会移动，行情系统会买卖，机器人会转向，而这些动作背后，运行的是一张果蝇神经系统的数字连接图。那么，这张连接图到底是什么呢？",
+      "date": "2026-09-19",
+      "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-17",
-      "title": "AI FDE已然成为当下 AI 领域高薪热门岗位，海外岗位暴涨729%，国内大厂也密集放出高薪岗位。作者基于Anthropic工程师的分享，拆解了FDE底层逻辑、落地流程，带你读懂热潮背后客户依赖的深层风险。",
+      "date": "2026-09-19",
+      "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-17",
-      "title": "4000人齐聚上海外滩大会，奔赴AI虚拟偶像Yuri的首场线下百米巨幕音乐会。来一起回顾下一个虚拟IP走进现实世界的背后故事！",
+      "date": "2026-09-19",
+      "title": "Jev 最近刷屏，作者整理了 10 个实测玩法，从跑酷、马里奥、杀戮尖塔，到浏览器查航班、广告批量分类、写作传播潜力分析、清理 Agent 工作记录，核心逻辑都很一致：把当前状态交给 Jev，让它快速选下一步，再交给程序执行。或许能帮你判断哪些环节值得用 Jev 做“快速决策层”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-09-19",
+      "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Jev 最近刷屏，作者整理了 10 个实测玩法，从跑酷、马里奥、杀戮尖塔，到浏览器查航班、广告批量分类、写作传播潜力分析、清理 Agent 工作记录，核心逻辑都很一致：把当前状态交给 Jev，让它快速选下一步，再交给程序执行。或许能帮你判断哪些环节值得用 Jev 做“快速决策层”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "给邮件分类、判断工单该交给谁，这些小任务也反复调用大模型，成本和等待都会累积。TypeSafe 的 Jev 模型专门处理这类判断：根据预设选项返回分类、评分和概率，再由程序决定下一步。文章附有接入代码，还讲清了如何一次提出多个问题、用真实样本验证效果，以及在模型没把握时转交人工。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "洛小山结合 Alice 的实践，提出了“关系型生产力 Agent”：用实际交付提供每天打开的理由，在长期协作中记住习惯、理解没写进提示词的需求，让任务完成得更贴合用户。文章也给出了具体的检验方法：换模型后风格是否稳定、旧习惯能否准确调用、没有任务时用户是否愿意打开。做 AI 产品和运营的，可以对照这些标准，看看自己积累的是短期吸引力，还是持续协作的信任。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "很多人给 Agent 加记忆，一上来就想到向量数据库，结果反而没弄清楚：到底该记什么、什么时候取、怎么塞回上下文。这篇文章从零带你手搓一个本地记忆系统，不用 LangChain/LangGraph，只用 Python、Ollama、SQLite、嵌入模型和 LLM。读完你会更清楚“记住”背后到底发生了什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "很多人看 MoE 模型，会被“总参数很大、激活参数很小”绕晕：以为计算少了，部署就轻了，真上线才发现显存、KV 缓存、GPU 通信和专家负载不均都在拖速度。想搞定 MoE 大模型推理部署，这篇干货值得细读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "很多 Agent 跑起来慢、成本高，问题常出在每个小判断都让大模型重新想一遍：工单急不急、该用哪个模型、工具调用有没有风险，都要走完整 LLM 调用。这篇用最近爆火的模型 Jev 讲了一种更轻的拆法，适合做 Agent、客服工单和自动化流程的人看。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "今天被一个叫 Jev 的新模型刷屏了。很多人一看到这个名字，脑子里立刻冒出一堆问号：这又是哪个大厂出的新模型？怎么到处都在聊？作者也好好研究了一下，这篇文章给大家详细讲解一下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-09-17",
       "title": "这期 YC Paper Club 谈的是 Harness，也就是让模型使用工具、管理记忆并持续工作的运行框架。Prime Intellect 的 Seth Karten、斯坦福的 Jon Saad-Falcon，以及 YC 的 Josh France 和 Regan Bell，分别带来研究、本地 AI 和公司内部协作的实践。",
@@ -143,76 +208,6 @@
     {
       "date": "2026-09-14",
       "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "这份系统设计入门指南专为零基础开发者打造，清晰区分了高层 HLD 架构与底层 LLD 代码设计两大模块。覆盖负载均衡、缓存、数据库选型、CAP 定理等核心概念，搭配 SOLID 原则、常用设计模式与 UML 类图，附带完整练习框架。可以帮你循序渐进地建立完整系统设计思维。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "这份指南给出了Grok Bot的五种独立用法：整理商品上架资料、制作六张知识图卡、筛选工具做简报、制作教学工具并录成配音视频、把收藏转成选题素材。每个案例都附有提示词和成品展示，也讲清了要提供哪些材料、拿到什么文件。运营和内容创作者们可以挑一个手头任务，跟着试一试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "作者整理了《关于豆包工作的 100 个问题》，主要聚焦一些用户的真实疑问：豆包工作和 Kimi 会员哪个划算？额度消耗能不能查账单？面对千问办公、WorkBuddy 竞品，豆包工作表现如何。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "KV 缓存让模型保留了一部分已经完成的计算。 但它为什么保留 K 和 V？同样参与 attention 的 Q，为什么通常可以用完就放下？这篇就来讨论这个问题，帮你理解 KV缓存。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "还在为上传 GitHub 项目该选什么开源协议发愁？这篇文章拆解了MIT、Apache、GPL 等主流许可证的规则，以及开源、免费、源码可见三者的区别。不管是开发小工具、制作Skill，都能快速匹配合适的协议，守住知识产权边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "关于GPT-6 Astra，OpenAI 发布了来自其社区的一些开发者案例合集，一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "作者结合 OpenAI 的最新指南，拆解了“少写提示词”的具体做法：删掉无用的 Skill，让描述只保留精确触发条件，主文件做路由、按需加载细节；任务里少规定每一步，多写清完成标准、可自主操作和必须询问的边界。作者还给了一段提示词，能让 Astra 盘点机器级和项目级配置。一起上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
