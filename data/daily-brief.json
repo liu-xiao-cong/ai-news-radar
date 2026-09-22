@@ -1,142 +1,337 @@
 {
-  "generated_at": "2026-09-21T04:53:14.803543Z",
+  "generated_at": "2026-09-22T04:53:19.656524Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c14c68917721",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_f34404644702",
+      "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
           "summary": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:49:36.866000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "www.buchodi.com"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
           "summary": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:49:36.866000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9513,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T01:25:53Z",
+      "latest_at": "2026-09-22T01:25:53Z",
+      "primary_item": {
+        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+        "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+        "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+        "title_en": "Refreshed repository pull requests page generally available",
+        "title_original": "Refreshed repository pull requests page generally available",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c701b57089c5",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_zh": null,
+          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "summary": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_zh": null,
+          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "summary": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.8035,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T13:44:34Z",
+      "latest_at": "2026-09-21T13:44:34Z",
+      "primary_item": {
+        "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+        "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "title_zh": null,
+        "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "summary": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d37f5b2c5927",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "primary_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "summary": null,
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "summary": null,
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7836,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:00:00Z",
+      "latest_at": "2026-09-21T12:00:00Z",
+      "primary_item": {
+        "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "summary": null,
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+          "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "title_zh": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "title_en": null,
+          "title_original": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "summary": "作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T02:02:03Z"
+        },
+        {
+          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
+          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "title_zh": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "title_en": null,
+          "title_original": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "summary": "Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+          "source": "公众号：小米 MiMo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:18:52Z"
+        },
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_en": null,
+          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "公众号：小米 MiMo",
+        "公众号：数字生命卡兹克",
+        "公众号：月之暗面（Kimi）"
+      ],
+      "items": [
+        {
+          "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+          "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "title_zh": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "title_en": null,
+          "title_original": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "summary": "作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T02:02:03Z"
+        },
+        {
+          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
+          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "title_zh": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "title_en": null,
+          "title_original": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "summary": "Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+          "source": "公众号：小米 MiMo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:18:52Z"
+        },
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_en": null,
+          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
-        "story_heat": 0.75
+        "recency": 0.9596,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -144,1862 +339,1322 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "earliest_at": "2026-09-21T07:54:32Z",
+      "latest_at": "2026-09-22T02:02:03Z",
       "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+        "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+        "title_zh": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
         "title_en": null,
-        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_57be872527ef",
-      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-      "url": "https://www.aibase.com/news/31226",
-      "primary_url": "https://www.aibase.com/news/31226",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_en": null,
-          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31226",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "c33704da4cf3b0466893264427c64bdedfb996e7",
-          "title": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "title_zh": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "title_en": null,
-          "title_original": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31226",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_en": null,
-          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31226",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "c33704da4cf3b0466893264427c64bdedfb996e7",
-          "title": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "title_zh": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "title_en": null,
-          "title_original": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31226",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "title_en": null,
-        "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31226",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fcca394b788e",
-      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.884,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T20:20:56Z",
-      "latest_at": "2026-09-20T20:20:56Z",
-      "primary_item": {
-        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-        "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-        "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-        "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-        "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
-        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4fad2905f6d2",
-      "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-      "url": "https://www.aibase.com/news/31216",
-      "primary_url": "https://www.aibase.com/news/31216",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_en": null,
-          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
-          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_zh": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_en": null,
-          "title_original": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31216",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_en": null,
-          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
-          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_zh": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_en": null,
-          "title_original": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31216",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-        "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "title_en": null,
-        "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31216",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fc9a8f12e485",
-      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
-        },
-        {
-          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen Image 2.1",
-          "title_original": "Qwen Image 2.1",
-          "summary": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T13:09:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
-        },
-        {
-          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen Image 2.1",
-          "title_original": "Qwen Image 2.1",
-          "summary": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T13:09:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7836,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T12:00:00Z",
-      "latest_at": "2026-09-20T13:09:25Z",
-      "primary_item": {
-        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-        "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-        "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-        "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-        "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "Qwen：Blog Retrieval（API）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bb5dceabc7e5",
-      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9709,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T02:50:40Z",
-      "latest_at": "2026-09-21T02:50:40Z",
-      "primary_item": {
-        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-        "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-        "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-        "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-        "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
-        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_en": null,
-          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_en": null,
-          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9575,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T01:52:57Z",
-      "latest_at": "2026-09-21T01:52:57Z",
-      "primary_item": {
-        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "title_en": null,
-        "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+        "title_original": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+        "summary": "作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9431f6c40685",
-      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-      "url": "https://www.aibase.com/news/31224",
-      "primary_url": "https://www.aibase.com/news/31224",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_bdad4d18a972",
+      "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_en": null,
-          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+          "title_zh": "GitHub Enterprise 添加凭证库存导出",
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
           "summary": null,
-          "url": "https://www.aibase.com/news/31224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "title_en": null,
-          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31224",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_en": null,
-          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "title_en": null,
-          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31224",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "title_en": null,
-        "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31224",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d263354c1f0a",
-      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-      "url": "https://www.aibase.com/news/31213",
-      "primary_url": "https://www.aibase.com/news/31213",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31213",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31213",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31213",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31213",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "title_en": null,
-        "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31213",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7652446ef5af",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+          "title_zh": "GitHub Enterprise 添加凭证库存导出",
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8952,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T21:13:18Z",
+      "latest_at": "2026-09-21T21:13:18Z",
+      "primary_item": {
+        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+        "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+        "title_zh": "GitHub Enterprise 添加凭证库存导出",
+        "title_en": "GitHub Enterprise adds credential inventory exports",
+        "title_original": "GitHub Enterprise adds credential inventory exports",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e4fee6bd3757",
+      "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+      "url": "https://www.aibase.com/news/31259",
+      "primary_url": "https://www.aibase.com/news/31259",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_en": null,
+          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:53:19.656524Z"
+        },
+        {
+          "id": "23c5cf40491089a248a066c83a33b8fec808a343",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，「无屏幕」成主流形态",
+          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，「无屏幕」成主流形态",
+          "title_en": null,
+          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，「无屏幕」成主流形态",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31259",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_en": null,
+          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:53:19.656524Z"
+        },
+        {
+          "id": "23c5cf40491089a248a066c83a33b8fec808a343",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，「无屏幕」成主流形态",
+          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，「无屏幕」成主流形态",
+          "title_en": null,
+          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，「无屏幕」成主流形态",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31259",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8051,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T04:53:19.656524Z",
+      "latest_at": "2026-09-22T04:53:19.656524Z",
+      "primary_item": {
+        "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+        "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+        "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+        "title_en": null,
+        "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31259",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a7ca59844a94",
+      "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "primary_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": "数学与人工智能顾问小组",
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": null,
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": "数学与人工智能顾问小组",
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": null,
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7836,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:00:00Z",
+      "latest_at": "2026-09-21T12:00:00Z",
+      "primary_item": {
+        "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+        "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+        "title_zh": "数学与人工智能顾问小组",
+        "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+        "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+        "summary": null,
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9525c17a5986",
+      "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+      "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+          "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
+          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:11:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+          "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
+          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:11:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.882,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T20:11:34Z",
+      "latest_at": "2026-09-21T20:11:34Z",
+      "primary_item": {
+        "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+        "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+        "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+        "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+        "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+        "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
+        "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_60dc45062426",
+      "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+      "url": "https://www.aibase.com/news/31243",
+      "primary_url": "https://www.aibase.com/news/31243",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "59f748921ae652bcb9807dec6e86f28a110a108d",
+          "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "title_zh": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "title_en": null,
+          "title_original": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:53:19.656524Z"
+        },
+        {
+          "id": "377d5c96114f7f39b679b27eae230c0793dc5320",
+          "title": "OpenAI 引入数学界外部顾问，AI 数学研究的学术评估机制进一步强化",
+          "title_zh": "OpenAI 引入数学界外部顾问，AI 数学研究的学术评估机制进一步强化",
+          "title_en": null,
+          "title_original": "OpenAI 引入数学界外部顾问，AI 数学研究的学术评估机制进一步强化",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31243",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "59f748921ae652bcb9807dec6e86f28a110a108d",
+          "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "title_zh": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "title_en": null,
+          "title_original": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:53:19.656524Z"
+        },
+        {
+          "id": "377d5c96114f7f39b679b27eae230c0793dc5320",
+          "title": "OpenAI 引入数学界外部顾问，AI 数学研究的学术评估机制进一步强化",
+          "title_zh": "OpenAI 引入数学界外部顾问，AI 数学研究的学术评估机制进一步强化",
+          "title_en": null,
+          "title_original": "OpenAI 引入数学界外部顾问，AI 数学研究的学术评估机制进一步强化",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31243",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T04:53:19.656524Z",
+      "latest_at": "2026-09-22T04:53:19.656524Z",
+      "primary_item": {
+        "id": "59f748921ae652bcb9807dec6e86f28a110a108d",
+        "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+        "title_zh": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+        "title_en": null,
+        "title_original": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31243",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2761dd45b97c",
+      "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.7 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.7 is now available in GitHub Copilot",
+          "title_original": "Grok 4.7 is now available in GitHub Copilot",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.7 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.7 is now available in GitHub Copilot",
+          "title_original": "Grok 4.7 is now available in GitHub Copilot",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8171,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T14:54:12Z",
+      "latest_at": "2026-09-21T14:54:12Z",
+      "primary_item": {
+        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+        "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+        "title_zh": "Grok 4.7 现已在 GitHub Copilot 中提供",
+        "title_en": "Grok 4.7 is now available in GitHub Copilot",
+        "title_original": "Grok 4.7 is now available in GitHub Copilot",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6f580068fdf8",
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+      "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "primary_url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "source": "X：小米 MiMo (@XiaomiMiMo)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
+          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+          "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+          "title_en": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+          "title_original": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+          "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+          "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+          "source": "X：小米 MiMo (@XiaomiMiMo)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:51:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小米 MiMo (@XiaomiMiMo)"
+      ],
+      "items": [
+        {
+          "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
+          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+          "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+          "title_en": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+          "title_original": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+          "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+          "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+          "source": "X：小米 MiMo (@XiaomiMiMo)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:51:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8904,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T20:51:03Z",
+      "latest_at": "2026-09-21T20:51:03Z",
+      "primary_item": {
+        "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
+        "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+        "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+        "title_en": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+        "title_original": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+        "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+        "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+        "source": "X：小米 MiMo (@XiaomiMiMo)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_015dbc4f8268",
+      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "primary_url": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "Linear：Now（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear：Now（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T12:26:00Z"
+        },
+        {
+          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
+          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_en": null,
+          "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "summary": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T23:17:19.633000Z"
+        },
+        {
+          "id": "b246d1ce428cc62d7fc56ab560435ab5917626ef",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "summary": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T19:23:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Linear：Now（RSS）",
+        "linear.app"
+      ],
+      "items": [
+        {
+          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear：Now（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T12:26:00Z"
+        },
+        {
+          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
+          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_en": null,
+          "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "summary": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T23:17:19.633000Z"
+        },
+        {
+          "id": "b246d1ce428cc62d7fc56ab560435ab5917626ef",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "summary": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T19:23:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7885,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T12:26:00Z",
+      "latest_at": "2026-09-21T23:17:19.633000Z",
+      "primary_item": {
+        "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+        "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+        "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+        "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+        "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+        "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "source": "Linear：Now（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2c9792fbb14a",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "primary_url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+          "title": "Building standards for the next phase of AI",
+          "title_zh": null,
+          "title_en": "Building standards for the next phase of AI",
+          "title_original": "Building standards for the next phase of AI",
+          "summary": null,
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+          "title": "Building standards for the next phase of AI",
+          "title_zh": null,
+          "title_en": "Building standards for the next phase of AI",
+          "title_original": "Building standards for the next phase of AI",
+          "summary": null,
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7613,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T10:00:00Z",
+      "latest_at": "2026-09-21T10:00:00Z",
+      "primary_item": {
+        "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+        "title": "Building standards for the next phase of AI",
+        "title_zh": null,
+        "title_en": "Building standards for the next phase of AI",
+        "title_original": "Building standards for the next phase of AI",
+        "summary": null,
+        "url": "https://openai.com/index/building-standards-next-phase-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c8db3b672c97",
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "url": "https://www.ithome.com/1/005/418.htm",
+      "primary_url": "https://www.ithome.com/1/005/418.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_en": null,
+          "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_en": null,
+          "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
+      "earliest_at": "2026-09-21T11:52:52Z",
+      "latest_at": "2026-09-21T11:52:52Z",
       "primary_item": {
-        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+        "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "title_en": null,
+        "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+        "url": "https://www.ithome.com/1/005/418.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ef35bc03a618",
-      "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-      "url": "https://www.aibase.com/news/31225",
-      "primary_url": "https://www.aibase.com/news/31225",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e7429cde0800",
+      "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数 / Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+      "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+      "primary_url": "https://x.com/ClementDelangue/status/2102141768674222323",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_en": null,
-          "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "1a031b74ca658a937127af0e5d88ad60890dd9fc",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_en": null,
-          "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31225",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_en": null,
-          "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "1a031b74ca658a937127af0e5d88ad60890dd9fc",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "title_en": null,
-          "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31225",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
-        "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-        "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-        "title_en": null,
-        "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31225",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-20",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "title_zh": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "title_en": null,
-          "title_original": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "summary": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
-          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "title_zh": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "title_en": null,
-          "title_original": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "summary": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
-          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "title_zh": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "title_en": null,
-          "title_original": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "summary": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
-          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "title_zh": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "title_en": null,
-          "title_original": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "summary": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "社区更新 · 2026-09-20"
-      ],
-      "items": [
-        {
-          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "title_zh": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "title_en": null,
-          "title_original": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "summary": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
-          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "title_zh": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "title_en": null,
-          "title_original": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "summary": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
-          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "title_zh": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "title_en": null,
-          "title_original": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "summary": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
-          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "title_zh": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "title_en": null,
-          "title_original": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "summary": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-        "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-        "title_zh": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-        "title_en": null,
-        "title_original": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-        "summary": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-20",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_b82ab3accd97",
-      "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-      "url": "https://www.aibase.com/news/31219",
-      "primary_url": "https://www.aibase.com/news/31219",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "title_en": null,
-          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31219",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "bdacb6fe5f5c6304ed825d4c46bdb97fafeb747f",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "title_en": null,
-          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31219",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "title_en": null,
-          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31219",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "bdacb6fe5f5c6304ed825d4c46bdb97fafeb747f",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "title_en": null,
-          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31219",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-        "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-        "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-        "title_en": null,
-        "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31219",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f2553f493237",
-      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-      "url": "https://www.aibase.com/news/31212",
-      "primary_url": "https://www.aibase.com/news/31212",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31212",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "037ee18eecf1b569fbea96fb0b3d2d3bb804e865",
-          "title": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31212",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31212",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "037ee18eecf1b569fbea96fb0b3d2d3bb804e865",
-          "title": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31212",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-        "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "title_en": null,
-        "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31212",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cb03d7f13be9",
-      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "summary": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "summary": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "summary": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "summary": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5912,
-      "importance": 0.5912,
-      "importance_score": 0.5912,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.8649,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T18:50:18Z",
-      "latest_at": "2026-09-20T18:50:18Z",
-      "primary_item": {
-        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-        "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "summary": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_febf34851806",
-      "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-      "url": "https://www.aibase.com/news/31227",
-      "primary_url": "https://www.aibase.com/news/31227",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
-          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_zh": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_en": null,
-          "title_original": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31227",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
-          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_zh": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_en": null,
-          "title_original": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31227",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
-          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_zh": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_en": null,
-          "title_original": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31227",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
-        },
-        {
-          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
-          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_zh": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "title_en": null,
-          "title_original": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31227",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
-        "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-        "title_zh": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-        "title_en": null,
-        "title_original": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31227",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ef6362531a2e",
-      "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "title_zh": "为什么 MCP 总是一个坏主意",
-          "title_en": "Why MCP Was Always a Bad Idea",
-          "title_original": "Why MCP Was Always a Bad Idea",
-          "summary": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "title_zh": "为什么 MCP 总是一个坏主意？",
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "title_zh": "为什么 MCP 总是一个坏主意？",
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "title_zh": "为什么 MCP 总是一个坏主意",
-          "title_en": "Why MCP Was Always a Bad Idea",
-          "title_original": "Why MCP Was Always a Bad Idea",
-          "summary": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "title_zh": "为什么 MCP 总是一个坏主意？",
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "title_zh": "为什么 MCP 总是一个坏主意？",
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8763,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-20T19:44:40Z",
-      "primary_item": {
-        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-        "title_zh": "为什么 MCP 总是一个坏主意",
-        "title_en": "Why MCP Was Always a Bad Idea",
-        "title_original": "Why MCP Was Always a Bad Idea",
-        "summary": null,
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_6e9a00bdff8c",
-      "title": "人类学/金融服务 / anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "primary_url": "https://github.com/anthropics/financial-services",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-          "title": "人类学/金融服务 / anthropics / financial-services",
-          "title_zh": "人类学/金融服务",
-          "title_en": "anthropics / financial-services",
-          "title_original": "anthropics / financial-services",
-          "summary": null,
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
-          "title": "人类学/金融服务 / anthropics /      financial-services",
-          "title_zh": "人类学/金融服务",
-          "title_en": "anthropics /      financial-services",
-          "title_original": "anthropics /      financial-services",
-          "summary": null,
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T04:32:53.597000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-          "title": "人类学/金融服务 / anthropics / financial-services",
-          "title_zh": "人类学/金融服务",
-          "title_en": "anthropics / financial-services",
-          "title_original": "anthropics / financial-services",
-          "summary": null,
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
-          "title": "人类学/金融服务 / anthropics /      financial-services",
-          "title_zh": "人类学/金融服务",
-          "title_en": "anthropics /      financial-services",
-          "title_original": "anthropics /      financial-services",
-          "summary": null,
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T04:32:53.597000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T04:32:53.597000Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
-      "primary_item": {
-        "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-        "title": "人类学/金融服务 / anthropics / financial-services",
-        "title_zh": "人类学/金融服务",
-        "title_en": "anthropics / financial-services",
-        "title_original": "anthropics / financial-services",
-        "summary": null,
-        "url": "https://github.com/anthropics/financial-services",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_db8813acc5dd",
-      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-      "url": "https://www.aibase.com/news/31211",
-      "primary_url": "https://www.aibase.com/news/31211",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31211",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
+          "id": "bcc1d035655d6ba3d004efb14cbaeba67953c497",
+          "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数 / Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+          "title_zh": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+          "title_en": "Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+          "title_original": "Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+          "summary": "小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。",
+          "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T21:03:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
       ],
       "items": [
         {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31211",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:53:14.803543Z"
+          "id": "bcc1d035655d6ba3d004efb14cbaeba67953c497",
+          "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数 / Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+          "title_zh": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+          "title_en": "Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+          "title_original": "Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+          "summary": "小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。",
+          "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T21:03:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8931,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T21:03:48Z",
+      "latest_at": "2026-09-21T21:03:48Z",
+      "primary_item": {
+        "id": "bcc1d035655d6ba3d004efb14cbaeba67953c497",
+        "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数 / Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+        "title_zh": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+        "title_en": "Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+        "title_original": "Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+        "summary": "小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。",
+        "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d032359e7f55",
+      "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+      "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+          "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_zh": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+          "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_original": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "summary": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+          "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T01:49:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+          "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_zh": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+          "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_original": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "summary": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+          "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T01:49:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9567,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-22T01:49:19Z",
+      "latest_at": "2026-09-22T01:49:19Z",
+      "primary_item": {
+        "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+        "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+        "title_zh": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+        "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+        "title_original": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+        "summary": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+        "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_413a649a226f",
+      "title": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+      "url": "https://www.aibase.com/news/31257",
+      "primary_url": "https://www.aibase.com/news/31257",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2174ea80b8c18321435def646b676c876b315cce",
+          "title": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+          "title_zh": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+          "title_en": null,
+          "title_original": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31257",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:53:19.656524Z"
+        },
+        {
+          "id": "4662a21b58c50111adfcfe24c041ece03aa9882a",
+          "title": "上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手",
+          "title_zh": "上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手",
+          "title_en": null,
+          "title_original": "上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31257",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2174ea80b8c18321435def646b676c876b315cce",
+          "title": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+          "title_zh": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+          "title_en": null,
+          "title_original": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31257",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:53:19.656524Z"
+        },
+        {
+          "id": "4662a21b58c50111adfcfe24c041ece03aa9882a",
+          "title": "上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手",
+          "title_zh": "上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手",
+          "title_en": null,
+          "title_original": "上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31257",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T04:53:14.803543Z",
-      "latest_at": "2026-09-21T04:53:14.803543Z",
+      "earliest_at": "2026-09-22T04:53:19.656524Z",
+      "latest_at": "2026-09-22T04:53:19.656524Z",
       "primary_item": {
-        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-        "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "id": "2174ea80b8c18321435def646b676c876b315cce",
+        "title": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
+        "title_zh": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
         "title_en": null,
-        "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "title_original": "上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手",
         "summary": null,
-        "url": "https://www.aibase.com/news/31211",
+        "url": "https://www.aibase.com/news/31257",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_df407510d6b3",
-      "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-      "url": "https://github.com/marciob/openmsg",
-      "primary_url": "https://github.com/marciob/openmsg",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_58f67d30ae06",
+      "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+      "url": "https://x.com/arena/status/2102142912943489220",
+      "primary_url": "https://x.com/arena/status/2102142912943489220",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "title_zh": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "title_en": null,
-          "title_original": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "summary": null,
-          "url": "https://github.com/marciob/openmsg",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T20:25:27.018000Z"
-        },
-        {
-          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "title_zh": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "title_en": "Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "title_original": "Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "summary": null,
-          "url": "https://github.com/marciob/openmsg",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T20:10:39Z"
+          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
+          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+          "url": "https://x.com/arena/status/2102142912943489220",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T21:08:21Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "title_zh": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "title_en": null,
-          "title_original": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "summary": null,
-          "url": "https://github.com/marciob/openmsg",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T20:25:27.018000Z"
-        },
-        {
-          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "title_zh": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "title_en": "Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "title_original": "Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "summary": null,
-          "url": "https://github.com/marciob/openmsg",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T20:10:39Z"
+          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
+          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+          "url": "https://x.com/arena/status/2102142912943489220",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T21:08:21Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.885,
-        "story_heat": 0.25
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8941,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T20:10:39Z",
-      "latest_at": "2026-09-20T20:25:27.018000Z",
+      "earliest_at": "2026-09-21T21:08:21Z",
+      "latest_at": "2026-09-21T21:08:21Z",
       "primary_item": {
-        "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-        "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-        "title_zh": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-        "title_en": null,
-        "title_original": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-        "summary": null,
-        "url": "https://github.com/marciob/openmsg",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
+        "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+        "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+        "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+        "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+        "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+        "url": "https://x.com/arena/status/2102142912943489220",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9df088af4d49",
+      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+      "url": "https://x.com/elonmusk/status/2102082011233931762",
+      "primary_url": "https://x.com/elonmusk/status/2102082011233931762",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
+          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+          "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+          "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+          "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+          "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
+          "url": "https://x.com/elonmusk/status/2102082011233931762",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T17:06:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
+          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+          "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+          "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+          "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+          "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
+          "url": "https://x.com/elonmusk/status/2102082011233931762",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T17:06:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8435,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T17:06:20Z",
+      "latest_at": "2026-09-21T17:06:20Z",
+      "primary_item": {
+        "id": "6795ace021f7be53c5997a411c80eadae2e86061",
+        "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+        "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+        "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+        "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+        "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
+        "url": "https://x.com/elonmusk/status/2102082011233931762",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3ed9fa9162b7",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "title_en": "Benchmarking Grok 4.7",
+          "title_original": "Benchmarking Grok 4.7",
+          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Artificial Analysis 完整文章（网页）"
+      ],
+      "items": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "title_en": "Benchmarking Grok 4.7",
+          "title_original": "Benchmarking Grok 4.7",
+          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8756,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T19:41:25.079000Z",
+      "latest_at": "2026-09-21T19:41:25.079000Z",
+      "primary_item": {
+        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+        "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+        "title_en": "Benchmarking Grok 4.7",
+        "title_original": "Benchmarking Grok 4.7",
+        "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+        "source": "Artificial Analysis 完整文章（网页）",
+        "source_name": "AI HOT"
       }
     }
   ]
