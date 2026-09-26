@@ -1,28 +1,183 @@
 {
-  "generated_at": "2026-09-25T09:35:42.544083Z",
+  "generated_at": "2026-09-26T04:56:16.362146Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_7af26c7f12f1",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "f8d507f3855e7e0870d99643a34316fc5b9e3ff1",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T21:09:27Z"
+        },
+        {
+          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
+          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=49849985",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T21:09:27Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "swarmtraces.org"
+      ],
+      "items": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "f8d507f3855e7e0870d99643a34316fc5b9e3ff1",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T21:09:27Z"
+        },
+        {
+          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
+          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=49849985",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T21:09:27Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8602,
+      "importance": 0.8602,
+      "importance_score": 0.8602,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9311,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T21:09:27Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "primary_item": {
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_en": null,
+        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.157.0 / Codex CLI 0.157.0",
+      "title": "Codex CLI 0.157.1 / Codex CLI 0.157.1",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "Codex CLI 0.157.0 / Codex CLI 0.157.0",
-          "title_zh": "Codex CLI 0.157.0",
-          "title_en": "Codex CLI 0.157.0",
-          "title_original": "Codex CLI 0.157.0",
+          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+          "title": "Codex CLI 0.157.1 / Codex CLI 0.157.1",
+          "title_zh": "Codex CLI 0.157.1",
+          "title_en": "Codex CLI 0.157.1",
+          "title_original": "Codex CLI 0.157.1",
           "summary": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
+          "published_at": "2026-09-26T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -31,30 +186,30 @@
       ],
       "items": [
         {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "Codex CLI 0.157.0 / Codex CLI 0.157.0",
-          "title_zh": "Codex CLI 0.157.0",
-          "title_en": "Codex CLI 0.157.0",
-          "title_original": "Codex CLI 0.157.0",
+          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+          "title": "Codex CLI 0.157.1 / Codex CLI 0.157.1",
+          "title_zh": "Codex CLI 0.157.1",
+          "title_en": "Codex CLI 0.157.1",
+          "title_original": "Codex CLI 0.157.1",
           "summary": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
+          "published_at": "2026-09-26T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8706,
+        "recency": 0.9312,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,14 +218,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T00:00:00Z",
-      "latest_at": "2026-09-25T00:00:00Z",
+      "earliest_at": "2026-09-26T00:00:00Z",
+      "latest_at": "2026-09-26T00:00:00Z",
       "primary_item": {
-        "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-        "title": "Codex CLI 0.157.0 / Codex CLI 0.157.0",
-        "title_zh": "Codex CLI 0.157.0",
-        "title_en": "Codex CLI 0.157.0",
-        "title_original": "Codex CLI 0.157.0",
+        "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+        "title": "Codex CLI 0.157.1 / Codex CLI 0.157.1",
+        "title_zh": "Codex CLI 0.157.1",
+        "title_en": "Codex CLI 0.157.1",
+        "title_original": "Codex CLI 0.157.1",
         "summary": null,
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
@@ -78,25 +233,201 @@
       }
     },
     {
-      "story_id": "story_648837e3af7f",
-      "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "story_id": "story_d5e5182aee3c",
+      "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "summary": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T18:00:00Z"
+        },
+        {
+          "id": "c13df04442ec918244417752ab6eb1c154064a31",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners： How to build custom workflows with canvases",
+          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "title_en": "GitHub Copilot app for Beginners： How to build custom workflows with canvases",
+          "title_original": "GitHub Copilot app for Beginners： How to build custom workflows with canvases",
+          "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "summary": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T18:00:00Z"
+        },
+        {
+          "id": "c13df04442ec918244417752ab6eb1c154064a31",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners： How to build custom workflows with canvases",
+          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "title_en": "GitHub Copilot app for Beginners： How to build custom workflows with canvases",
+          "title_original": "GitHub Copilot app for Beginners： How to build custom workflows with canvases",
+          "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8539,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T18:00:00Z",
+      "latest_at": "2026-09-25T18:00:00Z",
+      "primary_item": {
+        "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+        "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+        "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "summary": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d2d497e5eee4",
+      "title": "通过 Codex，Proaction 将销售额提高了 60%，并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "primary_url": "https://openai.com/index/proaction",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
+          "title": "通过 Codex，Proaction 将销售额提高了 60%，并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_zh": "通过 Codex，Proaction 将销售额提高了 60%，并节省了 75 多个小时",
+          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "summary": null,
+          "url": "https://openai.com/index/proaction",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
+          "title": "通过 Codex，Proaction 将销售额提高了 60%，并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_zh": "通过 Codex，Proaction 将销售额提高了 60%，并节省了 75 多个小时",
+          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "summary": null,
+          "url": "https://openai.com/index/proaction",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8663,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T19:00:00Z",
+      "latest_at": "2026-09-25T19:00:00Z",
+      "primary_item": {
+        "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
+        "title": "通过 Codex，Proaction 将销售额提高了 60%，并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "title_zh": "通过 Codex，Proaction 将销售额提高了 60%，并节省了 75 多个小时",
+        "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "summary": null,
+        "url": "https://openai.com/index/proaction",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_123d8dcecccf",
+      "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "primary_url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
-          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+          "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
+          "title_zh": "企业管理的设置产品内验证器",
+          "title_en": "Enterprise managed settings in-product validator",
+          "title_original": "Enterprise managed settings in-product validator",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
+          "published_at": "2026-09-25T23:24:57Z"
         }
       ],
       "source_count": 1,
@@ -105,252 +436,30 @@
       ],
       "items": [
         {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
-          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+          "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
+          "title_zh": "企业管理的设置产品内验证器",
+          "title_en": "Enterprise managed settings in-product validator",
+          "title_original": "Enterprise managed settings in-product validator",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
+          "published_at": "2026-09-25T23:24:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9121,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T03:13:23Z",
-      "latest_at": "2026-09-25T03:13:23Z",
-      "primary_item": {
-        "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-        "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
-        "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c2a53f233272",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_zh": null,
-          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "summary": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T14:08:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_zh": null,
-          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "summary": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T14:08:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7552,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T14:08:57Z",
-      "latest_at": "2026-09-24T14:08:57Z",
-      "primary_item": {
-        "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-        "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "title_zh": null,
-        "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "summary": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91625e27c986",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "Introducing Gemini 3.8 Live with Live Avatar",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-          "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
-          "summary": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T16:20:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "Introducing Gemini 3.8 Live with Live Avatar",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-          "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
-          "summary": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T16:20:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7795,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T16:20:39Z",
-      "latest_at": "2026-09-24T16:20:39Z",
-      "primary_item": {
-        "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-        "title": "Introducing Gemini 3.8 Live with Live Avatar",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-        "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
-        "summary": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_07953dd296df",
-      "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "title_zh": "当聊天是错误的 UI 时",
-          "title_en": "When chat is the wrong UI",
-          "title_original": "When chat is the wrong UI",
-          "summary": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "title_zh": "当聊天是错误的 UI 时",
-          "title_en": "When chat is the wrong UI",
-          "title_original": "When chat is the wrong UI",
-          "summary": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8217,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "official",
@@ -359,18 +468,522 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T20:00:00Z",
-      "latest_at": "2026-09-24T20:00:00Z",
+      "earliest_at": "2026-09-25T23:24:57Z",
+      "latest_at": "2026-09-25T23:24:57Z",
       "primary_item": {
-        "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-        "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-        "title_zh": "当聊天是错误的 UI 时",
-        "title_en": "When chat is the wrong UI",
-        "title_original": "When chat is the wrong UI",
+        "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+        "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
+        "title_zh": "企业管理的设置产品内验证器",
+        "title_en": "Enterprise managed settings in-product validator",
+        "title_original": "Enterprise managed settings in-product validator",
         "summary": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-        "source": "GitHub AI & ML",
+        "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5e8bd66ca873",
+      "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "primary_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "042609b7487f01eced16fa1ca33ff95623051866",
+          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:29:25Z"
+        },
+        {
+          "id": "bf77ee8cc10393a74e77d742b817d9b2b9ce7ba7",
+          "title": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_zh": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_en": null,
+          "title_original": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "summary": null,
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T18:36:52.879000Z"
+        },
+        {
+          "id": "0f9faea576b3975303565834d4067e13f2b1cc41",
+          "title": "美国上诉法院维持将 Anthropic 指定为供应链风险 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持将 Anthropic 指定为供应链风险",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=49845977",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T15:29:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "hackernews",
+        "www.cnbc.com"
+      ],
+      "items": [
+        {
+          "id": "042609b7487f01eced16fa1ca33ff95623051866",
+          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:29:25Z"
+        },
+        {
+          "id": "bf77ee8cc10393a74e77d742b817d9b2b9ce7ba7",
+          "title": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_zh": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_en": null,
+          "title_original": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "summary": null,
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T18:36:52.879000Z"
+        },
+        {
+          "id": "0f9faea576b3975303565834d4067e13f2b1cc41",
+          "title": "美国上诉法院维持将 Anthropic 指定为供应链风险 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持将 Anthropic 指定为供应链风险",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=49845977",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T15:29:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8235,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T15:29:25Z",
+      "latest_at": "2026-09-25T18:36:52.879000Z",
+      "primary_item": {
+        "id": "042609b7487f01eced16fa1ca33ff95623051866",
+        "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+        "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cd57170eb38e",
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes， Claude can do Nine Loops",
+          "title_original": "Yes， Claude can do Nine Loops",
+          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "9f19f11198d79d4dec4b75491349d342c5484f15",
+          "title": "是的，克劳德可以完成“九环”",
+          "title_zh": "是的，克劳德可以完成“九环”",
+          "title_en": null,
+          "title_original": "是的，克劳德可以完成“九环”",
+          "summary": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T20:17:37.059000Z"
+        },
+        {
+          "id": "7937f55ff32a3ca5343e6823efa8b836187759c4",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do nine loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes, Claude can do nine loops",
+          "title_original": "Yes, Claude can do nine loops",
+          "summary": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "Hacker News · 24h最热",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes， Claude can do Nine Loops",
+          "title_original": "Yes， Claude can do Nine Loops",
+          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "9f19f11198d79d4dec4b75491349d342c5484f15",
+          "title": "是的，克劳德可以完成“九环”",
+          "title_zh": "是的，克劳德可以完成“九环”",
+          "title_en": null,
+          "title_original": "是的，克劳德可以完成“九环”",
+          "summary": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T20:17:37.059000Z"
+        },
+        {
+          "id": "7937f55ff32a3ca5343e6823efa8b836187759c4",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do nine loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes, Claude can do nine loops",
+          "title_original": "Yes, Claude can do nine loops",
+          "summary": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8538,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:59:19.824000Z",
+      "latest_at": "2026-09-25T20:17:37.059000Z",
+      "primary_item": {
+        "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+        "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+        "title_en": "Yes， Claude can do Nine Loops",
+        "title_original": "Yes， Claude can do Nine Loops",
+        "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0447a6245098",
+      "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
+          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
+          "title_en": "Usage metrics API adds pull request review stages",
+          "title_original": "Usage metrics API adds pull request review stages",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T21:09:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
+          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
+          "title_en": "Usage metrics API adds pull request review stages",
+          "title_original": "Usage metrics API adds pull request review stages",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T21:09:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8938,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T21:09:40Z",
+      "latest_at": "2026-09-25T21:09:40Z",
+      "primary_item": {
+        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+        "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
+        "title_zh": "使用指标 API 添加了拉取请求审核阶段",
+        "title_en": "Usage metrics API adds pull request review stages",
+        "title_original": "Usage metrics API adds pull request review stages",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6fe8ff823f55",
+      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "primary_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T11:00:28Z"
+        },
+        {
+          "id": "10c50e3fc6de475732779d5a48b646aff0e9ffa0",
+          "title": "特朗普政府在一项灾难性的实验中利用人工智能拒绝为老年人提供医疗服务",
+          "title_zh": "特朗普政府在一项灾难性的实验中利用人工智能拒绝为老年人提供医疗服务",
+          "title_en": null,
+          "title_original": "特朗普政府在一项灾难性的实验中利用人工智能拒绝为老年人提供医疗服务",
+          "summary": null,
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T19:45:50.629000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T11:00:28Z"
+        },
+        {
+          "id": "10c50e3fc6de475732779d5a48b646aff0e9ffa0",
+          "title": "特朗普政府在一项灾难性的实验中利用人工智能拒绝为老年人提供医疗服务",
+          "title_zh": "特朗普政府在一项灾难性的实验中利用人工智能拒绝为老年人提供医疗服务",
+          "title_en": null,
+          "title_original": "特朗普政府在一项灾难性的实验中利用人工智能拒绝为老年人提供医疗服务",
+          "summary": null,
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T19:45:50.629000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7719,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T11:00:28Z",
+      "latest_at": "2026-09-25T19:45:50.629000Z",
+      "primary_item": {
+        "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+        "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e24b2ed6e53f",
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "items": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8907,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T20:55:22Z",
+      "latest_at": "2026-09-25T20:55:22Z",
+      "primary_item": {
+        "id": "b2755019347db8d310898ae0261ef557c5468804",
+        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -443,15 +1056,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9637,
+        "recency": 0.7288,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -475,153 +1088,25 @@
       }
     },
     {
-      "story_id": "story_225478237654",
-      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "medium.com"
-      ],
-      "items": [
-        {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7906,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T11:54:38Z",
-      "latest_at": "2026-09-24T17:19:34.716000Z",
-      "primary_item": {
-        "id": "c74455d54f10d39149f3f83e221935d572452878",
-        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_en": null,
-        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_453a53292195",
-      "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "story_id": "story_925b830b81ef",
+      "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "title_zh": "需要提供存在证明才能进行高影响力的行动",
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+          "title_zh": "代理自动修复现在使用 Copilot 内存",
+          "title_en": "Agentic autofix now uses Copilot Memory",
+          "title_original": "Agentic autofix now uses Copilot Memory",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
+          "published_at": "2026-09-25T17:25:50Z"
         }
       ],
       "source_count": 1,
@@ -630,30 +1115,30 @@
       ],
       "items": [
         {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "title_zh": "需要提供存在证明才能进行高影响力的行动",
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+          "title_zh": "代理自动修复现在使用 Copilot 内存",
+          "title_en": "Agentic autofix now uses Copilot Memory",
+          "title_original": "Agentic autofix now uses Copilot Memory",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
+          "published_at": "2026-09-25T17:25:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8274,
+        "ai_relevance": 0.91,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,114 +1147,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T20:28:33Z",
-      "latest_at": "2026-09-24T20:28:33Z",
+      "earliest_at": "2026-09-25T17:25:50Z",
+      "latest_at": "2026-09-25T17:25:50Z",
       "primary_item": {
-        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-        "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-        "title_zh": "需要提供存在证明才能进行高影响力的行动",
-        "title_en": "Require proof of presence for high-impact actions",
-        "title_original": "Require proof of presence for high-impact actions",
+        "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+        "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+        "title_zh": "代理自动修复现在使用 Copilot 内存",
+        "title_en": "Agentic autofix now uses Copilot Memory",
+        "title_original": "Agentic autofix now uses Copilot Memory",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ca5f208a03f2",
-      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "primary_url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "summary": null,
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "summary": null,
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8034,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T18:26:12Z",
-      "latest_at": "2026-09-24T18:26:12Z",
-      "primary_item": {
-        "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-        "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-        "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "summary": null,
-        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7d739e4083a7",
-      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "story_id": "story_1f14fef7c28f",
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+      "primary_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
       "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
+          "published_at": "2026-09-25T15:48:14Z"
         }
       ],
       "source_count": 1,
@@ -778,30 +1189,30 @@
       ],
       "items": [
         {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
+          "published_at": "2026-09-25T15:48:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.89,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7417,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,869 +1220,524 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T12:54:19Z",
-      "latest_at": "2026-09-24T12:54:19Z",
+      "earliest_at": "2026-09-25T15:48:14Z",
+      "latest_at": "2026-09-25T15:48:14Z",
       "primary_item": {
-        "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+        "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+        "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+        "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f657eabc9e15",
-      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-      "primary_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_2fc3d3bc581f",
+      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+      "url": "https://x.com/OpenAI/status/2103587050347995581",
+      "primary_url": "https://x.com/OpenAI/status/2103587050347995581",
+      "source": "X：OpenAI (@OpenAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T14:01:05Z"
+          "published_at": "2026-09-25T20:46:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "X：OpenAI (@OpenAI)"
       ],
       "items": [
         {
-          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T14:01:05Z"
+          "published_at": "2026-09-25T20:46:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.88,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7537,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T20:46:50Z",
+      "latest_at": "2026-09-25T20:46:50Z",
+      "primary_item": {
+        "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+        "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+        "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+        "url": "https://x.com/OpenAI/status/2103587050347995581",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6220572852da",
+      "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+      "url": "https://cognition.com/blog/1b-run-rate",
+      "primary_url": "https://cognition.com/blog/1b-run-rate",
+      "source": "Cognition 模型 / Devin 博客（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+          "url": "https://cognition.com/blog/1b-run-rate",
+          "source": "Cognition 模型 / Devin 博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:42:15.643000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cognition 模型 / Devin 博客（网页）"
+      ],
+      "items": [
+        {
+          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+          "url": "https://cognition.com/blog/1b-run-rate",
+          "source": "Cognition 模型 / Devin 博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:42:15.643000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8261,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T15:42:15.643000Z",
+      "latest_at": "2026-09-25T15:42:15.643000Z",
+      "primary_item": {
+        "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+        "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+        "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+        "url": "https://cognition.com/blog/1b-run-rate",
+        "source": "Cognition 模型 / Devin 博客（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_34f97fe676a2",
+      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+      "url": "https://x.com/sama/status/2103567198690349362",
+      "primary_url": "https://x.com/sama/status/2103567198690349362",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
+          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+          "url": "https://x.com/sama/status/2103567198690349362",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:27:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
+          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+          "url": "https://x.com/sama/status/2103567198690349362",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:27:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8722,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T19:27:57Z",
+      "latest_at": "2026-09-25T19:27:57Z",
+      "primary_item": {
+        "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
+        "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+        "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+        "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+        "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+        "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+        "url": "https://x.com/sama/status/2103567198690349362",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6edfaac73238",
+      "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
+          "title_en": "GitHub Copilot weekly releases — September 21",
+          "title_original": "GitHub Copilot weekly releases — September 21",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
+          "title_en": "GitHub Copilot weekly releases — September 21",
+          "title_original": "GitHub Copilot weekly releases — September 21",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8382,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T14:01:05Z",
-      "latest_at": "2026-09-24T14:01:05Z",
+      "earliest_at": "2026-09-25T16:42:48Z",
+      "latest_at": "2026-09-25T16:42:48Z",
       "primary_item": {
-        "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-        "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-        "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_12374f9457d0",
-      "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-      "url": "https://www.aibase.com/news/31356",
-      "primary_url": "https://www.aibase.com/news/31356",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a55e3521f908dfe43db6e15e26501a671158c5a9",
-          "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-          "title_zh": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-          "title_en": null,
-          "title_original": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31356",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T18:35:42.544083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a55e3521f908dfe43db6e15e26501a671158c5a9",
-          "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-          "title_zh": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-          "title_en": null,
-          "title_original": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31356",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T18:35:42.544083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8052,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T18:35:42.544083Z",
-      "latest_at": "2026-09-24T18:35:42.544083Z",
-      "primary_item": {
-        "id": "a55e3521f908dfe43db6e15e26501a671158c5a9",
-        "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-        "title_zh": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
-        "title_en": null,
-        "title_original": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+        "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+        "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
+        "title_en": "GitHub Copilot weekly releases — September 21",
+        "title_original": "GitHub Copilot weekly releases — September 21",
         "summary": null,
-        "url": "https://www.aibase.com/news/31356",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b09f0ad26be3",
-      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "primary_url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_a0ace267d9b1",
+      "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿 / GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+      "url": "https://x.com/arena/status/2103572481206538439",
+      "primary_url": "https://x.com/arena/status/2103572481206538439",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
-          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-          "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_original": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
-          "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-          "source": "Claude：Blog（网页）",
+          "id": "e6e2f4f4568a854199910afbd874bd49eabb514f",
+          "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿 / GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+          "title_zh": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+          "title_en": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+          "title_original": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
+          "url": "https://x.com/arena/status/2103572481206538439",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T16:38:37.757000Z"
+          "published_at": "2026-09-25T19:48:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
-          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-          "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_original": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
-          "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-          "source": "Claude：Blog（网页）",
+          "id": "e6e2f4f4568a854199910afbd874bd49eabb514f",
+          "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿 / GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+          "title_zh": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+          "title_en": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+          "title_original": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
+          "url": "https://x.com/arena/status/2103572481206538439",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T16:38:37.757000Z"
+          "published_at": "2026-09-25T19:48:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7829,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T16:38:37.757000Z",
-      "latest_at": "2026-09-24T16:38:37.757000Z",
+      "earliest_at": "2026-09-25T19:48:56Z",
+      "latest_at": "2026-09-25T19:48:56Z",
       "primary_item": {
-        "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
-        "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-        "title_zh": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-        "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-        "title_original": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-        "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
-        "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-        "source": "Claude：Blog（网页）",
+        "id": "e6e2f4f4568a854199910afbd874bd49eabb514f",
+        "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿 / GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+        "title_zh": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+        "title_en": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+        "title_original": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+        "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
+        "url": "https://x.com/arena/status/2103572481206538439",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_30be56e2b85c",
-      "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-      "url": "https://www.aibase.com/news/31357",
-      "primary_url": "https://www.aibase.com/news/31357",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c42a83cbe0eb",
+      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+      "primary_url": "https://x.com/AnthropicAI/status/2103541577083719888",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
-          "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-          "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-          "title_en": null,
-          "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T18:35:42.544083Z"
+          "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
+          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+          "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+          "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:46:08Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：Anthropic (@AnthropicAI)"
       ],
       "items": [
         {
-          "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
-          "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-          "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-          "title_en": null,
-          "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T18:35:42.544083Z"
+          "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
+          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+          "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+          "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:46:08Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T18:35:42.544083Z",
-      "latest_at": "2026-09-24T18:35:42.544083Z",
+      "earliest_at": "2026-09-25T17:46:08Z",
+      "latest_at": "2026-09-25T17:46:08Z",
       "primary_item": {
-        "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
-        "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-        "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-        "title_en": null,
-        "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31357",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
+        "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+        "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+        "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+        "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+        "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+        "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-22",
-      "source_name": "WaytoAGI",
+      "story_id": "story_0bccf9f933d9",
+      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+      "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+      "primary_url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "92b9af1eb4942df87c60a81c806818e20c371178",
-          "title": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "title_zh": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "title_en": null,
-          "title_original": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "summary": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "22532a64296f5dbdb612617772c148a9e4b652a5",
-          "title": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "title_zh": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "title_en": null,
-          "title_original": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "summary": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "5dbda8078664c930411c8f1e491502698fe85040",
-          "title": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "title_zh": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "title_en": null,
-          "title_original": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "summary": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "10993c3b569d80b71fc0ce838344f652f8aed651",
-          "title": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "title_zh": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "title_en": null,
-          "title_original": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "summary": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "8301533f5b7d815b69992488717182edc8a5dfa5",
-          "title": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "title_zh": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "title_en": null,
-          "title_original": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "summary": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-09-22"
-      ],
-      "items": [
-        {
-          "id": "92b9af1eb4942df87c60a81c806818e20c371178",
-          "title": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "title_zh": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "title_en": null,
-          "title_original": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "summary": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "22532a64296f5dbdb612617772c148a9e4b652a5",
-          "title": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "title_zh": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "title_en": null,
-          "title_original": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "summary": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "5dbda8078664c930411c8f1e491502698fe85040",
-          "title": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "title_zh": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "title_en": null,
-          "title_original": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "summary": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "10993c3b569d80b71fc0ce838344f652f8aed651",
-          "title": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "title_zh": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "title_en": null,
-          "title_original": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "summary": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        },
-        {
-          "id": "8301533f5b7d815b69992488717182edc8a5dfa5",
-          "title": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "title_zh": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "title_en": null,
-          "title_original": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "summary": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-25T09:35:42.544083Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T09:35:42.544083Z",
-      "latest_at": "2026-09-25T09:35:42.544083Z",
-      "primary_item": {
-        "id": "92b9af1eb4942df87c60a81c806818e20c371178",
-        "title": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-        "title_zh": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-        "title_en": null,
-        "title_original": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-        "summary": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-22",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_0c43f0de10c6",
-      "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-      "url": "https://www.aibase.com/news/31353",
-      "primary_url": "https://www.aibase.com/news/31353",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
-          "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31353",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
+          "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
+          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+          "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+          "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:13:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：Claude Devs (@ClaudeDevs)"
       ],
       "items": [
         {
-          "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
-          "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31353",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
+          "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
+          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+          "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+          "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:13:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.8567,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T16:35:42.544083Z",
-      "latest_at": "2026-09-24T16:35:42.544083Z",
+      "earliest_at": "2026-09-25T18:13:31Z",
+      "latest_at": "2026-09-25T18:13:31Z",
       "primary_item": {
-        "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
-        "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-        "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-        "title_en": null,
-        "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31353",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_83c202c22b06",
-      "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-      "url": "https://www.aibase.com/news/31352",
-      "primary_url": "https://www.aibase.com/news/31352",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-          "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_en": null,
-          "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-          "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_en": null,
-          "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T16:35:42.544083Z",
-      "latest_at": "2026-09-24T16:35:42.544083Z",
-      "primary_item": {
-        "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-        "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "title_en": null,
-        "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31352",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_079682bba193",
-      "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-      "url": "https://www.aibase.com/news/31351",
-      "primary_url": "https://www.aibase.com/news/31351",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fdf55639b5cd5a7724dc4d12cc7fc3a6f46e7eda",
-          "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_zh": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_en": null,
-          "title_original": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fdf55639b5cd5a7724dc4d12cc7fc3a6f46e7eda",
-          "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_zh": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_en": null,
-          "title_original": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T16:35:42.544083Z",
-      "latest_at": "2026-09-24T16:35:42.544083Z",
-      "primary_item": {
-        "id": "fdf55639b5cd5a7724dc4d12cc7fc3a6f46e7eda",
-        "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-        "title_zh": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-        "title_en": null,
-        "title_original": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31351",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ee9698a7fdb9",
-      "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "primary_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:59:26Z"
-        },
-        {
-          "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:59:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:59:26Z"
-        },
-        {
-          "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:59:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5959,
-      "importance": 0.5959,
-      "importance_score": 0.5959,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.8216,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T19:59:26Z",
-      "latest_at": "2026-09-24T19:59:26Z",
-      "primary_item": {
-        "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-        "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-        "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "summary": null,
-        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_b980d4e7bc2a",
-      "title": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-      "url": "https://www.aibase.com/news/31354",
-      "primary_url": "https://www.aibase.com/news/31354",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "06a1213616f76992ac99bf001d4ee953188e1667",
-          "title": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-          "title_zh": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-          "title_en": null,
-          "title_original": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31354",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "06a1213616f76992ac99bf001d4ee953188e1667",
-          "title": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-          "title_zh": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-          "title_en": null,
-          "title_original": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31354",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T16:35:42.544083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T16:35:42.544083Z",
-      "latest_at": "2026-09-24T16:35:42.544083Z",
-      "primary_item": {
-        "id": "06a1213616f76992ac99bf001d4ee953188e1667",
-        "title": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-        "title_zh": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-        "title_en": null,
-        "title_original": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31354",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
+        "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+        "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+        "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+        "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+        "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+        "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
       }
     }
   ]
