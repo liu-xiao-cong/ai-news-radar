@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-09-30T10:28:20.212133Z",
+  "generated_at": "2026-10-01T10:56:15.511256Z",
   "timezone": "Asia/Shanghai",
-  "latest_date": "2026-09-30",
+  "latest_date": "2026-10-01",
   "dates": [
     {
+      "date": "2026-10-01",
+      "count": 324,
+      "raw_count": 2294,
+      "file": "data/history/2026-10-01.json"
+    },
+    {
       "date": "2026-09-30",
-      "count": 378,
-      "raw_count": 2674,
+      "count": 442,
+      "raw_count": 2903,
       "file": "data/history/2026-09-30.json"
     },
     {
       "date": "2026-09-29",
-      "count": 123,
-      "raw_count": 354,
+      "count": 124,
+      "raw_count": 365,
       "file": "data/history/2026-09-29.json"
     },
     {
       "date": "2026-09-28",
-      "count": 223,
-      "raw_count": 1851,
+      "count": 226,
+      "raw_count": 1854,
       "file": "data/history/2026-09-28.json"
     },
     {
@@ -35,8 +41,8 @@
     },
     {
       "date": "2026-09-25",
-      "count": 372,
-      "raw_count": 2844,
+      "count": 374,
+      "raw_count": 2846,
       "file": "data/history/2026-09-25.json"
     },
     {
@@ -122,12 +128,6 @@
       "count": 406,
       "raw_count": 2841,
       "file": "data/history/2026-09-11.json"
-    },
-    {
-      "date": "2026-09-10",
-      "count": 160,
-      "raw_count": 506,
-      "file": "data/history/2026-09-10.json"
     }
   ]
 }
