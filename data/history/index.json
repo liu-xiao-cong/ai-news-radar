@@ -1,54 +1,60 @@
 {
-  "generated_at": "2026-10-05T05:36:35.647796Z",
+  "generated_at": "2026-10-06T06:18:04.128825Z",
   "timezone": "Asia/Shanghai",
-  "latest_date": "2026-10-05",
+  "latest_date": "2026-10-06",
   "dates": [
     {
+      "date": "2026-10-06",
+      "count": 232,
+      "raw_count": 1954,
+      "file": "data/history/2026-10-06.json"
+    },
+    {
       "date": "2026-10-05",
-      "count": 169,
-      "raw_count": 1703,
+      "count": 247,
+      "raw_count": 2003,
       "file": "data/history/2026-10-05.json"
     },
     {
       "date": "2026-10-04",
       "count": 199,
-      "raw_count": 1868,
+      "raw_count": 1880,
       "file": "data/history/2026-10-04.json"
     },
     {
       "date": "2026-10-03",
-      "count": 291,
-      "raw_count": 2466,
+      "count": 293,
+      "raw_count": 2475,
       "file": "data/history/2026-10-03.json"
     },
     {
       "date": "2026-10-02",
-      "count": 169,
-      "raw_count": 529,
+      "count": 170,
+      "raw_count": 531,
       "file": "data/history/2026-10-02.json"
     },
     {
       "date": "2026-10-01",
-      "count": 347,
-      "raw_count": 2384,
+      "count": 348,
+      "raw_count": 2385,
       "file": "data/history/2026-10-01.json"
     },
     {
       "date": "2026-09-30",
-      "count": 444,
-      "raw_count": 2916,
+      "count": 447,
+      "raw_count": 2919,
       "file": "data/history/2026-09-30.json"
     },
     {
       "date": "2026-09-29",
-      "count": 124,
-      "raw_count": 366,
+      "count": 125,
+      "raw_count": 367,
       "file": "data/history/2026-09-29.json"
     },
     {
       "date": "2026-09-28",
-      "count": 227,
-      "raw_count": 1855,
+      "count": 228,
+      "raw_count": 1857,
       "file": "data/history/2026-09-28.json"
     },
     {
@@ -65,14 +71,14 @@
     },
     {
       "date": "2026-09-25",
-      "count": 374,
-      "raw_count": 2846,
+      "count": 375,
+      "raw_count": 2848,
       "file": "data/history/2026-09-25.json"
     },
     {
       "date": "2026-09-24",
       "count": 159,
-      "raw_count": 442,
+      "raw_count": 443,
       "file": "data/history/2026-09-24.json"
     },
     {
@@ -122,12 +128,6 @@
       "count": 346,
       "raw_count": 2693,
       "file": "data/history/2026-09-16.json"
-    },
-    {
-      "date": "2026-09-15",
-      "count": 125,
-      "raw_count": 383,
-      "file": "data/history/2026-09-15.json"
     }
   ]
 }
