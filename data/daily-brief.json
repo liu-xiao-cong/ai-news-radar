@@ -1,580 +1,28 @@
 {
-  "generated_at": "2026-10-08T06:00:56.043356Z",
+  "generated_at": "2026-10-09T02:03:46.185688Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_0ca1450969b5",
-      "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "primary_url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9812f46d2f4c0f9eb3380207ba7624fcdde2ad1a",
-          "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
-          "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-          "title_en": "GPT-6 and Intelligent UI for everyone",
-          "title_original": "GPT-6 and Intelligent UI for everyone",
-          "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:00:58Z"
-        },
-        {
-          "id": "12c87bc5bf4a3ee5f3ffd78d4021b63b3b9f029f",
-          "title": "GPT-6 和面向所有人的智能用户界面",
-          "title_zh": "GPT-6 和面向所有人的智能用户界面",
-          "title_en": null,
-          "title_original": "GPT-6 和面向所有人的智能用户界面",
-          "summary": null,
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T19:00:15.099000Z"
-        },
-        {
-          "id": "7b1e6f0f5837f043c2d13e7d352e9c0bc543d662",
-          "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT‑6 and Intelligent UI for everyone",
-          "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-          "title_en": "GPT‑6 and Intelligent UI for everyone",
-          "title_original": "GPT‑6 and Intelligent UI for everyone",
-          "summary": null,
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-07T18:00:58Z"
-        },
-        {
-          "id": "5842253de62f62cf023b1038efea3e8c56cfc399",
-          "title": "适合所有人的 GPT‑6 和智能 UI / GPT‑6 and Intelligent UI for everyone",
-          "title_zh": "适合所有人的 GPT‑6 和智能 UI",
-          "title_en": "GPT‑6 and Intelligent UI for everyone",
-          "title_original": "GPT‑6 and Intelligent UI for everyone",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=49996425",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T18:00:58Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "9812f46d2f4c0f9eb3380207ba7624fcdde2ad1a",
-          "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
-          "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-          "title_en": "GPT-6 and Intelligent UI for everyone",
-          "title_original": "GPT-6 and Intelligent UI for everyone",
-          "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:00:58Z"
-        },
-        {
-          "id": "12c87bc5bf4a3ee5f3ffd78d4021b63b3b9f029f",
-          "title": "GPT-6 和面向所有人的智能用户界面",
-          "title_zh": "GPT-6 和面向所有人的智能用户界面",
-          "title_en": null,
-          "title_original": "GPT-6 和面向所有人的智能用户界面",
-          "summary": null,
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T19:00:15.099000Z"
-        },
-        {
-          "id": "7b1e6f0f5837f043c2d13e7d352e9c0bc543d662",
-          "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT‑6 and Intelligent UI for everyone",
-          "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-          "title_en": "GPT‑6 and Intelligent UI for everyone",
-          "title_original": "GPT‑6 and Intelligent UI for everyone",
-          "summary": null,
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-07T18:00:58Z"
-        },
-        {
-          "id": "5842253de62f62cf023b1038efea3e8c56cfc399",
-          "title": "适合所有人的 GPT‑6 和智能 UI / GPT‑6 and Intelligent UI for everyone",
-          "title_zh": "适合所有人的 GPT‑6 和智能 UI",
-          "title_en": "GPT‑6 and Intelligent UI for everyone",
-          "title_original": "GPT‑6 and Intelligent UI for everyone",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=49996425",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T18:00:58Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:00:58Z",
-      "latest_at": "2026-10-07T19:00:15.099000Z",
-      "primary_item": {
-        "id": "9812f46d2f4c0f9eb3380207ba7624fcdde2ad1a",
-        "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
-        "title_zh": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-        "title_en": "GPT-6 and Intelligent UI for everyone",
-        "title_original": "GPT-6 and Intelligent UI for everyone",
-        "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
-        "url": "https://openai.com/index/gpt-6-for-everyone",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44905e5e9aed",
-      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-      "url": "https://aihot.news/agent?tab=api",
-      "primary_url": "https://aihot.news/agent?tab=api",
-      "source": "AIHOT",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-          "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-          "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-          "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
-          "url": "https://aihot.news/agent?tab=api",
-          "source": "AIHOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIHOT"
-      ],
-      "items": [
-        {
-          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-          "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-          "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-          "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
-          "url": "https://aihot.news/agent?tab=api",
-          "source": "AIHOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 1.0,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9437,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T02:00:00Z",
-      "latest_at": "2026-10-08T02:00:00Z",
-      "primary_item": {
-        "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-        "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-        "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-        "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-        "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-        "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
-        "url": "https://aihot.news/agent?tab=api",
-        "source": "AIHOT",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_86f546df6fb1",
-      "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "title_zh": "GitHub Copilot 中的克劳德俳句 5.5",
-          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
-          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "title_zh": "GitHub Copilot 中的克劳德俳句 5.5",
-          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
-          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8679,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T20:12:18Z",
-      "latest_at": "2026-10-07T20:12:18Z",
-      "primary_item": {
-        "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-        "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-        "title_zh": "GitHub Copilot 中的克劳德俳句 5.5",
-        "title_en": "Claude Haiku 5.5 in GitHub Copilot",
-        "title_original": "Claude Haiku 5.5 in GitHub Copilot",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0825a4897dea",
-      "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
-          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-          "title_zh": "边缘的多模态开放 d1 决策模型",
-          "title_en": "Multimodal open d1 decision models for the edge",
-          "title_original": "Multimodal open d1 decision models for the edge",
-          "summary": null,
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:54:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
-          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-          "title_zh": "边缘的多模态开放 d1 决策模型",
-          "title_en": "Multimodal open d1 decision models for the edge",
-          "title_original": "Multimodal open d1 decision models for the edge",
-          "summary": null,
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:54:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8276,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T16:54:33Z",
-      "latest_at": "2026-10-07T16:54:33Z",
-      "primary_item": {
-        "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
-        "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-        "title_zh": "边缘的多模态开放 d1 决策模型",
-        "title_en": "Multimodal open d1 decision models for the edge",
-        "title_original": "Multimodal open d1 decision models for the edge",
-        "summary": null,
-        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ea4f899dc8df",
-      "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "title_zh": "Google Playground：创建并游玩自定义游戏",
-          "title_en": "Introducing Playground: Create and play custom games",
-          "title_original": "Introducing Playground: Create and play custom games",
-          "summary": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        },
-        {
-          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
-          "title": "Google Playground：创建并游玩自定义游戏 / Google Playground: Create and play custom games",
-          "title_zh": "Google Playground：创建并游玩自定义游戏",
-          "title_en": "Google Playground: Create and play custom games",
-          "title_original": "Google Playground: Create and play custom games",
-          "summary": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:28:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "title_zh": "Google Playground：创建并游玩自定义游戏",
-          "title_en": "Introducing Playground: Create and play custom games",
-          "title_original": "Introducing Playground: Create and play custom games",
-          "summary": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        },
-        {
-          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
-          "title": "Google Playground：创建并游玩自定义游戏 / Google Playground: Create and play custom games",
-          "title_zh": "Google Playground：创建并游玩自定义游戏",
-          "title_en": "Google Playground: Create and play custom games",
-          "title_original": "Google Playground: Create and play custom games",
-          "summary": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:28:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7709,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:28:36Z",
-      "primary_item": {
-        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-        "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-        "title_zh": "Google Playground：创建并游玩自定义游戏",
-        "title_en": "Introducing Playground: Create and play custom games",
-        "title_original": "Introducing Playground: Create and play custom games",
-        "summary": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b96448f5a552",
-      "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-          "title_zh": "秘密保护必须与软件一起扩展",
-          "title_en": "Secret protection must scale with software",
-          "title_original": "Secret protection must scale with software",
-          "summary": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T17:45:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-          "title_zh": "秘密保护必须与软件一起扩展",
-          "title_en": "Secret protection must scale with software",
-          "title_original": "Secret protection must scale with software",
-          "summary": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T17:45:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8378,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T17:45:34Z",
-      "latest_at": "2026-10-07T17:45:34Z",
-      "primary_item": {
-        "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-        "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-        "title_zh": "秘密保护必须与软件一起扩展",
-        "title_en": "Secret protection must scale with software",
-        "title_original": "Secret protection must scale with software",
-        "summary": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ad4e14640e35",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "primary_url": "https://openai.com/index/teens-learn-and-plan",
+      "story_id": "story_112b5f00879d",
+      "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "primary_url": "https://openai.com/index/oracle",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "Helping teens learn, plan, and shape the future of AI",
-          "title_zh": null,
-          "title_en": "Helping teens learn, plan, and shape the future of AI",
-          "title_original": "Helping teens learn, plan, and shape the future of AI",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
-          "url": "https://openai.com/index/teens-learn-and-plan",
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -583,30 +31,30 @@
       ],
       "items": [
         {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "Helping teens learn, plan, and shape the future of AI",
-          "title_zh": null,
-          "title_en": "Helping teens learn, plan, and shape the future of AI",
-          "title_original": "Helping teens learn, plan, and shape the future of AI",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
-          "url": "https://openai.com/index/teens-learn-and-plan",
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7709,
+        "ai_relevance": 0.99,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "official",
@@ -615,464 +63,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:00:00Z",
+      "earliest_at": "2026-10-08T16:00:00Z",
+      "latest_at": "2026-10-08T16:00:00Z",
       "primary_item": {
-        "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-        "title": "Helping teens learn, plan, and shape the future of AI",
-        "title_zh": null,
-        "title_en": "Helping teens learn, plan, and shape the future of AI",
-        "title_original": "Helping teens learn, plan, and shape the future of AI",
+        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+        "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
         "summary": null,
-        "url": "https://openai.com/index/teens-learn-and-plan",
+        "url": "https://openai.com/index/oracle",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_87f43b6934de",
-      "title": "Local sandboxing for GitHub Copilot now generally available",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": null,
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": null,
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8141,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:17Z",
-      "latest_at": "2026-10-07T15:46:17Z",
-      "primary_item": {
-        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-        "title": "Local sandboxing for GitHub Copilot now generally available",
-        "title_zh": null,
-        "title_en": "Local sandboxing for GitHub Copilot now generally available",
-        "title_original": "Local sandboxing for GitHub Copilot now generally available",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d99b795ade01",
-      "title": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-      "url": "https://www.aibase.com/news/31450",
-      "primary_url": "https://www.aibase.com/news/31450",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "68fef2bf8567021b32742ec4fc85a228485b5613",
-          "title": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_zh": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_en": null,
-          "title_original": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31450",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:00:56.043356Z"
-        },
-        {
-          "id": "eb1239e6b445fefa7360f57928b73ae5cb9b0b26",
-          "title": "博通为 OpenAI 定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_zh": "博通为 OpenAI 定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_en": null,
-          "title_original": "博通为 OpenAI 定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31450",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "68fef2bf8567021b32742ec4fc85a228485b5613",
-          "title": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_zh": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_en": null,
-          "title_original": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31450",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:00:56.043356Z"
-        },
-        {
-          "id": "eb1239e6b445fefa7360f57928b73ae5cb9b0b26",
-          "title": "博通为 OpenAI 定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_zh": "博通为 OpenAI 定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "title_en": null,
-          "title_original": "博通为 OpenAI 定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31450",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T06:00:56.043356Z",
-      "latest_at": "2026-10-08T06:00:56.043356Z",
-      "primary_item": {
-        "id": "68fef2bf8567021b32742ec4fc85a228485b5613",
-        "title": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-        "title_zh": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-        "title_en": null,
-        "title_original": "博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31450",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5bdd694c6290",
-      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "summary": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "summary": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7794,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:45:31Z",
-      "latest_at": "2026-10-07T12:45:31Z",
-      "primary_item": {
-        "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-        "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "summary": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_04e9dc3828b5",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "primary_url": "https://openai.com/index/radisson",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_zh": null,
-          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "summary": null,
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_zh": null,
-          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "summary": null,
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7172,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T07:00:00Z",
-      "latest_at": "2026-10-07T07:00:00Z",
-      "primary_item": {
-        "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-        "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "title_zh": null,
-        "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "summary": null,
-        "url": "https://openai.com/index/radisson",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6f02344687c4",
-      "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b0719e52d2514cc44359051052fbf344a00960ff",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_zh": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
-          "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "summary": "NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        },
-        {
-          "id": "600b8fa0924f4d1b9b3226c7d8a8b41b4cd3c441",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_zh": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
-          "title_en": "NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_original": "NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "summary": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "NVIDIA Blog（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b0719e52d2514cc44359051052fbf344a00960ff",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_zh": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
-          "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "summary": "NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        },
-        {
-          "id": "600b8fa0924f4d1b9b3226c7d8a8b41b4cd3c441",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_zh": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
-          "title_en": "NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_original": "NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "summary": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.85,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:45:28Z",
-      "latest_at": "2026-10-08T06:00:56.043356Z",
-      "primary_item": {
-        "id": "b0719e52d2514cc44359051052fbf344a00960ff",
-        "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-        "title_zh": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
-        "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-        "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-        "summary": "NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。",
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2059346474e3",
-      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
-      "url": "https://x.com/thsottiaux/status/2108040921044639779",
-      "primary_url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "story_id": "story_671951865d8c",
+      "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
+      "url": "https://x.com/thsottiaux/status/2108349826727588000",
+      "primary_url": "https://x.com/thsottiaux/status/2108349826727588000",
       "source": "X：Tibo (@thsottiaux)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
-          "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-          "title_en": "Confirmed landed across all accounts. How are we doing so far?",
-          "title_original": "Confirmed landed across all accounts. How are we doing so far?",
-          "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
-          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "id": "2932e2401f6cc398ece20dd8e5b36639b029ba1d",
+          "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
+          "title_zh": "Tibo 宣布发布 ChatGPT",
+          "title_en": "Today, we are announcing ChatGPT.",
+          "title_original": "Today, we are announcing ChatGPT.",
+          "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+          "url": "https://x.com/thsottiaux/status/2108349826727588000",
           "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T03:44:55Z"
+          "published_at": "2026-10-09T00:12:24Z"
         }
       ],
       "source_count": 1,
@@ -1081,30 +105,30 @@
       ],
       "items": [
         {
-          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
-          "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-          "title_en": "Confirmed landed across all accounts. How are we doing so far?",
-          "title_original": "Confirmed landed across all accounts. How are we doing so far?",
-          "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
-          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "id": "2932e2401f6cc398ece20dd8e5b36639b029ba1d",
+          "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
+          "title_zh": "Tibo 宣布发布 ChatGPT",
+          "title_en": "Today, we are announcing ChatGPT.",
+          "title_original": "Today, we are announcing ChatGPT.",
+          "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+          "url": "https://x.com/thsottiaux/status/2108349826727588000",
           "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T03:44:55Z"
+          "published_at": "2026-10-09T00:12:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.94,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1112,141 +136,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T03:44:55Z",
-      "latest_at": "2026-10-08T03:44:55Z",
+      "earliest_at": "2026-10-09T00:12:24Z",
+      "latest_at": "2026-10-09T00:12:24Z",
       "primary_item": {
-        "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-        "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
-        "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-        "title_en": "Confirmed landed across all accounts. How are we doing so far?",
-        "title_original": "Confirmed landed across all accounts. How are we doing so far?",
-        "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
-        "url": "https://x.com/thsottiaux/status/2108040921044639779",
+        "id": "2932e2401f6cc398ece20dd8e5b36639b029ba1d",
+        "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
+        "title_zh": "Tibo 宣布发布 ChatGPT",
+        "title_en": "Today, we are announcing ChatGPT.",
+        "title_original": "Today, we are announcing ChatGPT.",
+        "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+        "url": "https://x.com/thsottiaux/status/2108349826727588000",
         "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_82ec7733b33b",
-      "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-      "url": "https://www.aibase.com/news/31464",
-      "primary_url": "https://www.aibase.com/news/31464",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_zh": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_en": null,
-          "title_original": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:00:56.043356Z"
-        },
-        {
-          "id": "80d3d27fd9d83794f062041a7f9c6faa6251c979",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_zh": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_en": null,
-          "title_original": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31464",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_zh": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_en": null,
-          "title_original": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:00:56.043356Z"
-        },
-        {
-          "id": "80d3d27fd9d83794f062041a7f9c6faa6251c979",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_zh": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "title_en": null,
-          "title_original": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31464",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T06:00:56.043356Z",
-      "latest_at": "2026-10-08T06:00:56.043356Z",
-      "primary_item": {
-        "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
-        "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-        "title_zh": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-        "title_en": null,
-        "title_original": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31464",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cfd130b4e19f",
-      "title": "Discover local models in GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+      "story_id": "story_d821a136c16a",
+      "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
+      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "Discover local models in GitHub Copilot CLI",
-          "title_zh": null,
-          "title_en": "Discover local models in GitHub Copilot CLI",
-          "title_original": "Discover local models in GitHub Copilot CLI",
+          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
+          "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
+          "title_zh": "分类角色用户或更高级别现在可以存档拉取请求",
+          "title_en": "Triage role users or higher can now archive pull requests",
+          "title_original": "Triage role users or higher can now archive pull requests",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
+          "published_at": "2026-10-08T19:01:42Z"
         }
       ],
       "source_count": 1,
@@ -1255,30 +178,30 @@
       ],
       "items": [
         {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "Discover local models in GitHub Copilot CLI",
-          "title_zh": null,
-          "title_en": "Discover local models in GitHub Copilot CLI",
-          "title_original": "Discover local models in GitHub Copilot CLI",
+          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
+          "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
+          "title_zh": "分类角色用户或更高级别现在可以存档拉取请求",
+          "title_en": "Triage role users or higher can now archive pull requests",
+          "title_original": "Triage role users or higher can now archive pull requests",
           "summary": null,
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
+          "published_at": "2026-10-08T19:01:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8141,
+        "ai_relevance": 0.87,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1287,338 +210,224 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T15:46:13Z",
-      "latest_at": "2026-10-07T15:46:13Z",
+      "earliest_at": "2026-10-08T19:01:42Z",
+      "latest_at": "2026-10-08T19:01:42Z",
       "primary_item": {
-        "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-        "title": "Discover local models in GitHub Copilot CLI",
-        "title_zh": null,
-        "title_en": "Discover local models in GitHub Copilot CLI",
-        "title_original": "Discover local models in GitHub Copilot CLI",
+        "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
+        "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
+        "title_zh": "分类角色用户或更高级别现在可以存档拉取请求",
+        "title_en": "Triage role users or higher can now archive pull requests",
+        "title_original": "Triage role users or higher can now archive pull requests",
         "summary": null,
-        "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+        "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_00344543d22c",
-      "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-      "url": "https://www.404media.co/undue-emotional-weight",
-      "primary_url": "https://www.404media.co/undue-emotional-weight",
-      "source": "404 Media（RSS）",
+      "story_id": "story_13d9d250f0af",
+      "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+      "url": "https://www.ithome.com/1/010/751.htm",
+      "primary_url": "https://www.ithome.com/1/010/751.htm",
+      "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
-          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-          "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-          "title_en": "'Undue emotional weight'",
-          "title_original": "'Undue emotional weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-          "url": "https://www.404media.co/undue-emotional-weight",
-          "source": "404 Media（RSS）",
+          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
+          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "title_en": null,
+          "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+          "url": "https://www.ithome.com/1/010/751.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-07T14:46:15Z"
+          "published_at": "2026-10-08T23:02:44.683000Z"
+        },
+        {
+          "id": "9f41a01749cc780e218cb982d5fc0428cdcc09d4",
+          "title": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+          "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+          "title_en": null,
+          "title_original": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+          "summary": null,
+          "url": "https://www.ithome.com/1/010/751.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-08T23:02:44Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "404 Media（RSS）"
+        "IT之家 (ITHome)",
+        "IT之家·人工智能"
       ],
       "items": [
         {
-          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
-          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-          "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-          "title_en": "'Undue emotional weight'",
-          "title_original": "'Undue emotional weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-          "url": "https://www.404media.co/undue-emotional-weight",
-          "source": "404 Media（RSS）",
+          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
+          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "title_en": null,
+          "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+          "url": "https://www.ithome.com/1/010/751.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-07T14:46:15Z"
+          "published_at": "2026-10-08T23:02:44.683000Z"
+        },
+        {
+          "id": "9f41a01749cc780e218cb982d5fc0428cdcc09d4",
+          "title": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+          "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+          "title_en": null,
+          "title_original": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+          "summary": null,
+          "url": "https://www.ithome.com/1/010/751.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-08T23:02:44Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8024,
-        "story_heat": 0.0
+        "recency": 0.9574,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T14:46:15Z",
-      "latest_at": "2026-10-07T14:46:15Z",
+      "earliest_at": "2026-10-08T23:02:44Z",
+      "latest_at": "2026-10-08T23:02:44.683000Z",
       "primary_item": {
-        "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
-        "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-        "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-        "title_en": "'Undue emotional weight'",
-        "title_original": "'Undue emotional weight'",
-        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-        "url": "https://www.404media.co/undue-emotional-weight",
-        "source": "404 Media（RSS）",
+        "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
+        "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+        "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+        "title_en": null,
+        "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+        "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+        "url": "https://www.ithome.com/1/010/751.htm",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_566daffb0c84",
-      "title": "a16z 解析德州为何让数据中心排队等电 / Why Texas Is Making Data Centers Wait",
-      "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-      "primary_url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-      "source": "a16z：News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_f6d3626eb7c8",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "24652cdfe96cc0b3052d6e1e362e94e382208125",
-          "title": "a16z 解析德州为何让数据中心排队等电 / Why Texas Is Making Data Centers Wait",
-          "title_zh": "a16z 解析德州为何让数据中心排队等电",
-          "title_en": "Why Texas Is Making Data Centers Wait",
-          "title_original": "Why Texas Is Making Data Centers Wait",
-          "summary": "a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。",
-          "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:01:44Z"
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": null,
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "a16z：News（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "24652cdfe96cc0b3052d6e1e362e94e382208125",
-          "title": "a16z 解析德州为何让数据中心排队等电 / Why Texas Is Making Data Centers Wait",
-          "title_zh": "a16z 解析德州为何让数据中心排队等电",
-          "title_en": "Why Texas Is Making Data Centers Wait",
-          "title_original": "Why Texas Is Making Data Centers Wait",
-          "summary": "a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。",
-          "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:01:44Z"
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": null,
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
-      "importance_label": "行业动态",
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7939,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-07T14:01:44Z",
-      "latest_at": "2026-10-07T14:01:44Z",
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
       "primary_item": {
-        "id": "24652cdfe96cc0b3052d6e1e362e94e382208125",
-        "title": "a16z 解析德州为何让数据中心排队等电 / Why Texas Is Making Data Centers Wait",
-        "title_zh": "a16z 解析德州为何让数据中心排队等电",
-        "title_en": "Why Texas Is Making Data Centers Wait",
-        "title_original": "Why Texas Is Making Data Centers Wait",
-        "summary": "a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。",
-        "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-        "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
+        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+        "title": "LegalOn halves Codex costs while maintaining development speed",
+        "title_zh": null,
+        "title_en": "LegalOn halves Codex costs while maintaining development speed",
+        "title_original": "LegalOn halves Codex costs while maintaining development speed",
+        "summary": null,
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1c5b8d547c1a",
-      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-      "url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "primary_url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "source": "X：Cursor (@cursor_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Cursor (@cursor_ai)"
-      ],
-      "items": [
-        {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8436,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T18:14:03Z",
-      "latest_at": "2026-10-07T18:14:03Z",
-      "primary_item": {
-        "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-        "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-        "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-        "url": "https://x.com/cursor_ai/status/2107897257651769464",
-        "source": "X：Cursor (@cursor_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dc38a9e38395",
-      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-      "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-      "primary_url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
-          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
-          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:08:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
-          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
-          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:08:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8425,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T18:08:53Z",
-      "latest_at": "2026-10-07T18:08:53Z",
-      "primary_item": {
-        "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
-        "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-        "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-        "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-        "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
-        "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
-        "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9a0358c5cce4",
-      "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-      "url": "https://www.aibase.com/news/31462",
-      "primary_url": "https://www.aibase.com/news/31462",
+      "story_id": "story_dca6cae48efe",
+      "title": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
+      "url": "https://www.aibase.com/news/31490",
+      "primary_url": "https://www.aibase.com/news/31490",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-          "title_zh": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "id": "94b38ef7d4e84343d19c4bca6f70950cb8d1f4e5",
+          "title": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
+          "title_zh": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
           "title_en": null,
-          "title_original": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "title_original": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
           "summary": null,
-          "url": "https://www.aibase.com/news/31462",
+          "url": "https://www.aibase.com/news/31490",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T06:00:56.043356Z"
+          "published_at": "2026-10-09T02:03:46.185688Z"
         },
         {
-          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
-          "title_zh": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "id": "1179b415b0897508b891437a2cf621105d336598",
+          "title": "AI 陪伴机器人诱导自残挨饿，Character.AI 遭美肯塔基州指控存在重大缺陷",
+          "title_zh": "AI 陪伴机器人诱导自残挨饿，Character.AI 遭美肯塔基州指控存在重大缺陷",
           "title_en": null,
-          "title_original": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "title_original": "AI 陪伴机器人诱导自残挨饿，Character.AI 遭美肯塔基州指控存在重大缺陷",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/31462",
+          "url": "https://www.aibase.com/zh/news/31490",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1632,26 +441,26 @@
       ],
       "items": [
         {
-          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-          "title_zh": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "id": "94b38ef7d4e84343d19c4bca6f70950cb8d1f4e5",
+          "title": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
+          "title_zh": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
           "title_en": null,
-          "title_original": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "title_original": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
           "summary": null,
-          "url": "https://www.aibase.com/news/31462",
+          "url": "https://www.aibase.com/news/31490",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T06:00:56.043356Z"
+          "published_at": "2026-10-09T02:03:46.185688Z"
         },
         {
-          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
-          "title_zh": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "id": "1179b415b0897508b891437a2cf621105d336598",
+          "title": "AI 陪伴机器人诱导自残挨饿，Character.AI 遭美肯塔基州指控存在重大缺陷",
+          "title_zh": "AI 陪伴机器人诱导自残挨饿，Character.AI 遭美肯塔基州指控存在重大缺陷",
           "title_en": null,
-          "title_original": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "title_original": "AI 陪伴机器人诱导自残挨饿，Character.AI 遭美肯塔基州指控存在重大缺陷",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/31462",
+          "url": "https://www.aibase.com/zh/news/31490",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1677,16 +486,1120 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T06:00:56.043356Z",
-      "latest_at": "2026-10-08T06:00:56.043356Z",
+      "earliest_at": "2026-10-09T02:03:46.185688Z",
+      "latest_at": "2026-10-09T02:03:46.185688Z",
       "primary_item": {
-        "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
-        "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-        "title_zh": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+        "id": "94b38ef7d4e84343d19c4bca6f70950cb8d1f4e5",
+        "title": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
+        "title_zh": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
         "title_en": null,
-        "title_original": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+        "title_original": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
         "summary": null,
-        "url": "https://www.aibase.com/news/31462",
+        "url": "https://www.aibase.com/news/31490",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_71ebc92c009c",
+      "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+          "title_en": "Screen readers can navigate timelines as lists",
+          "title_original": "Screen readers can navigate timelines as lists",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T16:00:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+          "title_en": "Screen readers can navigate timelines as lists",
+          "title_original": "Screen readers can navigate timelines as lists",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T16:00:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8649,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T16:00:56Z",
+      "latest_at": "2026-10-08T16:00:56Z",
+      "primary_item": {
+        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+        "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+        "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+        "title_en": "Screen readers can navigate timelines as lists",
+        "title_original": "Screen readers can navigate timelines as lists",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9a3494f049dc",
+      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+      "primary_url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
+          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+          "title_zh": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+          "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+          "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+          "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T18:17:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
+          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+          "title_zh": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+          "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+          "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+          "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T18:17:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8938,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T18:17:07Z",
+      "latest_at": "2026-10-08T18:17:07Z",
+      "primary_item": {
+        "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
+        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+        "title_zh": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+        "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+        "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+        "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f789d5676a8c",
+      "title": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+      "url": "https://www.aibase.com/news/31486",
+      "primary_url": "https://www.aibase.com/news/31486",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e155670952a4af5c09744a6e3f4e89ebf446d924",
+          "title": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_zh": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_en": null,
+          "title_original": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31486",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T02:03:46.185688Z"
+        },
+        {
+          "id": "d4de7c5ed939263b05153c06da6288dda30ae12c",
+          "title": "DeepSeek 长文本为何突然「抽风」？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_zh": "DeepSeek 长文本为何突然「抽风」？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_en": null,
+          "title_original": "DeepSeek 长文本为何突然「抽风」？字节 Seed 团队揭开 AI 性能波动谜团",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31486",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e155670952a4af5c09744a6e3f4e89ebf446d924",
+          "title": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_zh": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_en": null,
+          "title_original": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31486",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T02:03:46.185688Z"
+        },
+        {
+          "id": "d4de7c5ed939263b05153c06da6288dda30ae12c",
+          "title": "DeepSeek 长文本为何突然「抽风」？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_zh": "DeepSeek 长文本为何突然「抽风」？字节 Seed 团队揭开 AI 性能波动谜团",
+          "title_en": null,
+          "title_original": "DeepSeek 长文本为何突然「抽风」？字节 Seed 团队揭开 AI 性能波动谜团",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31486",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T02:03:46.185688Z",
+      "latest_at": "2026-10-09T02:03:46.185688Z",
+      "primary_item": {
+        "id": "e155670952a4af5c09744a6e3f4e89ebf446d924",
+        "title": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+        "title_zh": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+        "title_en": null,
+        "title_original": "DeepSeek 长文本为何突然“抽风”？字节 Seed 团队揭开 AI 性能波动谜团",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31486",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ca1ec6c6a1a1",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "primary_url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": null,
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": null,
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8162,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "e441138912907d022d550626c930aa4e578bbe9e",
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_zh": null,
+        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "summary": null,
+        "url": "https://openai.com/index/pollo-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_351ffe6737f3",
+      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8454,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T14:25:53Z",
+      "latest_at": "2026-10-08T14:25:53Z",
+      "primary_item": {
+        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+        "title_zh": "草稿拉取请求计入拉取请求限制",
+        "title_en": "Draft pull requests count toward pull request limits",
+        "title_original": "Draft pull requests count toward pull request limits",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_924cb8a4a645",
+      "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+      "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f9823f40d994730810318520de0f53b02b350ca",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "1f9823f40d994730810318520de0f53b02b350ca",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8737,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T16:42:42Z",
+      "latest_at": "2026-10-08T16:42:42Z",
+      "primary_item": {
+        "id": "1f9823f40d994730810318520de0f53b02b350ca",
+        "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+        "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+        "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_170716cf4b08",
+      "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+      "url": "https://x.com/arena/status/2108286973119230096",
+      "primary_url": "https://x.com/arena/status/2108286973119230096",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cb70444289d225259185e111775704de9937833a",
+          "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+          "title_zh": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+          "title_en": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+          "title_original": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+          "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
+          "url": "https://x.com/arena/status/2108286973119230096",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T20:02:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "cb70444289d225259185e111775704de9937833a",
+          "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+          "title_zh": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+          "title_en": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+          "title_original": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+          "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
+          "url": "https://x.com/arena/status/2108286973119230096",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T20:02:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9168,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T20:02:39Z",
+      "latest_at": "2026-10-08T20:02:39Z",
+      "primary_item": {
+        "id": "cb70444289d225259185e111775704de9937833a",
+        "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+        "title_zh": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+        "title_en": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+        "title_original": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+        "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
+        "url": "https://x.com/arena/status/2108286973119230096",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_caefb8a776c5",
+      "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+      "url": "https://www.aibase.com/news/31480",
+      "primary_url": "https://www.aibase.com/news/31480",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "33268841e958e880442616f886e5216ac63c9d7a",
+          "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "title_zh": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "title_en": null,
+          "title_original": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31480",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T02:03:46.185688Z"
+        },
+        {
+          "id": "c9426170e3e50b7c3595ee26d1f4885e4fac73fa",
+          "title": "OpenAI 修正年化收入预期至 500 亿美元，IPO 计划推迟至 2027 年",
+          "title_zh": "OpenAI 修正年化收入预期至 500 亿美元，IPO 计划推迟至 2027 年",
+          "title_en": null,
+          "title_original": "OpenAI 修正年化收入预期至 500 亿美元，IPO 计划推迟至 2027 年",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31480",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "33268841e958e880442616f886e5216ac63c9d7a",
+          "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "title_zh": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "title_en": null,
+          "title_original": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31480",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T02:03:46.185688Z"
+        },
+        {
+          "id": "c9426170e3e50b7c3595ee26d1f4885e4fac73fa",
+          "title": "OpenAI 修正年化收入预期至 500 亿美元，IPO 计划推迟至 2027 年",
+          "title_zh": "OpenAI 修正年化收入预期至 500 亿美元，IPO 计划推迟至 2027 年",
+          "title_en": null,
+          "title_original": "OpenAI 修正年化收入预期至 500 亿美元，IPO 计划推迟至 2027 年",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31480",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T02:03:46.185688Z",
+      "latest_at": "2026-10-09T02:03:46.185688Z",
+      "primary_item": {
+        "id": "33268841e958e880442616f886e5216ac63c9d7a",
+        "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+        "title_zh": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+        "title_en": null,
+        "title_original": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31480",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5ae593074929",
+      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
+      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+      "primary_url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+      "source": "Comfy Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
+          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
+          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+          "source": "Comfy Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T19:01:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Comfy Blog"
+      ],
+      "items": [
+        {
+          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
+          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
+          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+          "source": "Comfy Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T19:01:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9033,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T19:01:22Z",
+      "latest_at": "2026-10-08T19:01:22Z",
+      "primary_item": {
+        "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
+        "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
+        "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+        "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+        "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+        "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+        "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+        "source": "Comfy Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_50a66e8e1b35",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8283,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
+      "primary_item": {
+        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+        "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a49cf4f91473",
+      "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap",
+      "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+      "primary_url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+      "source": "Claude：YouTube（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1a3a4140130097b5826407cc03271420f5e3c849",
+          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap",
+          "title_zh": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+          "title_en": "What's new in Claude: September recap",
+          "title_original": "What's new in Claude: September recap",
+          "summary": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。",
+          "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T15:53:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：YouTube（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1a3a4140130097b5826407cc03271420f5e3c849",
+          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap",
+          "title_zh": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+          "title_en": "What's new in Claude: September recap",
+          "title_original": "What's new in Claude: September recap",
+          "summary": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。",
+          "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T15:53:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8633,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T15:53:13Z",
+      "latest_at": "2026-10-08T15:53:13Z",
+      "primary_item": {
+        "id": "1a3a4140130097b5826407cc03271420f5e3c849",
+        "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap",
+        "title_zh": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+        "title_en": "What's new in Claude: September recap",
+        "title_original": "What's new in Claude: September recap",
+        "summary": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。",
+        "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+        "source": "Claude：YouTube（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_50827233e7bf",
+      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+      "url": "https://claude.dev/blog/building-effective-agent-automations",
+      "primary_url": "https://claude.dev/blog/building-effective-agent-automations",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+          "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "title_en": "Building effective agent automations",
+          "title_original": "Building effective agent automations",
+          "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Claude.dev 开发者博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+          "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "title_en": "Building effective agent automations",
+          "title_original": "Building effective agent automations",
+          "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8162,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+        "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+        "title_en": "Building effective agent automations",
+        "title_original": "Building effective agent automations",
+        "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+        "url": "https://claude.dev/blog/building-effective-agent-automations",
+        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cfd9d904bb1e",
+      "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
+      "url": "https://x.com/arena/status/2108310714423423254",
+      "primary_url": "https://x.com/arena/status/2108310714423423254",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a42727ab6ee563c5d59caeddb72180458d5820b",
+          "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
+          "title_zh": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+          "title_en": "We’re incredibly proud to continue working with @thehousefund!",
+          "title_original": "We’re incredibly proud to continue working with @thehousefund!",
+          "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
+          "url": "https://x.com/arena/status/2108310714423423254",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T21:36:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "8a42727ab6ee563c5d59caeddb72180458d5820b",
+          "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
+          "title_zh": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+          "title_en": "We’re incredibly proud to continue working with @thehousefund!",
+          "title_original": "We’re incredibly proud to continue working with @thehousefund!",
+          "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
+          "url": "https://x.com/arena/status/2108310714423423254",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T21:36:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9378,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T21:36:59Z",
+      "latest_at": "2026-10-08T21:36:59Z",
+      "primary_item": {
+        "id": "8a42727ab6ee563c5d59caeddb72180458d5820b",
+        "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
+        "title_zh": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+        "title_en": "We’re incredibly proud to continue working with @thehousefund!",
+        "title_original": "We’re incredibly proud to continue working with @thehousefund!",
+        "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
+        "url": "https://x.com/arena/status/2108310714423423254",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7ad1877811fb",
+      "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+      "url": "https://www.aibase.com/news/31482",
+      "primary_url": "https://www.aibase.com/news/31482",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f94ce7d7a78f1ec41d2edf828304702c94fe6ca",
+          "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "title_zh": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "title_en": null,
+          "title_original": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T02:03:46.185688Z"
+        },
+        {
+          "id": "c88e7479c3e39fa5d9b0b39dcf2a06a6604ba4b1",
+          "title": "因「跨界合作」被裁？OpenAI 三位关键安全专家发声反驳违规指控",
+          "title_zh": "因「跨界合作」被裁？OpenAI 三位关键安全专家发声反驳违规指控",
+          "title_en": null,
+          "title_original": "因「跨界合作」被裁？OpenAI 三位关键安全专家发声反驳违规指控",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31482",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f94ce7d7a78f1ec41d2edf828304702c94fe6ca",
+          "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "title_zh": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "title_en": null,
+          "title_original": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T02:03:46.185688Z"
+        },
+        {
+          "id": "c88e7479c3e39fa5d9b0b39dcf2a06a6604ba4b1",
+          "title": "因「跨界合作」被裁？OpenAI 三位关键安全专家发声反驳违规指控",
+          "title_zh": "因「跨界合作」被裁？OpenAI 三位关键安全专家发声反驳违规指控",
+          "title_en": null,
+          "title_original": "因「跨界合作」被裁？OpenAI 三位关键安全专家发声反驳违规指控",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31482",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T02:03:46.185688Z",
+      "latest_at": "2026-10-09T02:03:46.185688Z",
+      "primary_item": {
+        "id": "6f94ce7d7a78f1ec41d2edf828304702c94fe6ca",
+        "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+        "title_zh": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+        "title_en": null,
+        "title_original": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31482",
         "source": "AIbase",
         "source_name": "AIbase"
       }
