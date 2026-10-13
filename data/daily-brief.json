@@ -1,484 +1,185 @@
 {
-  "generated_at": "2026-10-12T02:01:05.314462Z",
+  "generated_at": "2026-10-13T11:45:21.757920Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7ca24963e514",
-      "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-      "url": "https://www.aibase.com/news/31549",
-      "primary_url": "https://www.aibase.com/news/31549",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c1d34165b490",
+      "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "primary_url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
-          "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_zh": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_en": null,
-          "title_original": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
+          "title_zh": "客户端遥测用户归因和可配置捕获",
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
           "summary": null,
-          "url": "https://www.aibase.com/news/31549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "a375923bcbec3fedc6ae455e8e579f3ca982ed35",
-          "title": "AI 购物新玩法引发争议：马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_zh": "AI 购物新玩法引发争议：马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_en": null,
-          "title_original": "AI 购物新玩法引发争议：马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31549",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
-          "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_zh": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_en": null,
-          "title_original": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "a375923bcbec3fedc6ae455e8e579f3ca982ed35",
-          "title": "AI 购物新玩法引发争议：马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_zh": "AI 购物新玩法引发争议：马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "title_en": null,
-          "title_original": "AI 购物新玩法引发争议：马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31549",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
-        "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-        "title_zh": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-        "title_en": null,
-        "title_original": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31549",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_51465dbf5848",
-      "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-      "url": "https://www.aibase.com/news/31556",
-      "primary_url": "https://www.aibase.com/news/31556",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_en": null,
-          "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "c04054e13310b046f66c3f1e024b1e427de763ea",
-          "title": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "title_zh": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "title_en": null,
-          "title_original": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31556",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_en": null,
-          "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "c04054e13310b046f66c3f1e024b1e427de763ea",
-          "title": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "title_zh": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "title_en": null,
-          "title_original": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31556",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-        "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-        "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-        "title_en": null,
-        "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31556",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_834751494ea9",
-      "title": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-      "url": "https://www.aibase.com/news/31548",
-      "primary_url": "https://www.aibase.com/news/31548",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "451701a39af339db9fb336b812858c66ca67d082",
-          "title": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_zh": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_en": null,
-          "title_original": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "feee7921d66c62d050c79bba811a460d4d70d2c3",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_en": null,
-          "title_original": "OpenAI 给 GPT-6.1 Sol 扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31548",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "451701a39af339db9fb336b812858c66ca67d082",
-          "title": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_zh": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_en": null,
-          "title_original": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "feee7921d66c62d050c79bba811a460d4d70d2c3",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "title_en": null,
-          "title_original": "OpenAI 给 GPT-6.1 Sol 扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31548",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "451701a39af339db9fb336b812858c66ca67d082",
-        "title": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-        "title_zh": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-        "title_en": null,
-        "title_original": "OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31548",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_70938c9dd862",
-      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-      "url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": null,
-          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": null,
-          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
+          "title_zh": "客户端遥测用户归因和可配置捕获",
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.968,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8274,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-11T23:45:59Z",
-      "latest_at": "2026-10-11T23:45:59Z",
+      "earliest_at": "2026-10-12T22:38:00Z",
+      "latest_at": "2026-10-12T22:38:00Z",
       "primary_item": {
-        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "title_en": null,
-        "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-        "url": "https://x.com/thsottiaux/status/2109430343346581527",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
+        "id": "896121d98ef8227ad431f910e0a960594c422738",
+        "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
+        "title_zh": "客户端遥测用户归因和可配置捕获",
+        "title_en": "Client telemetry user attribution and configurable capture",
+        "title_original": "Client telemetry user attribution and configurable capture",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b24a437d8a62",
-      "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_acb868617334",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
-          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "id": "6025f2a1f2f1476572425a515efa301b659def40",
+          "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "title_zh": null,
+          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
           "summary": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-11T04:50:59Z"
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T17:43:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
-          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "id": "6025f2a1f2f1476572425a515efa301b659def40",
+          "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "title_zh": null,
+          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
           "summary": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-11T04:50:59Z"
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T17:43:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7366,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-11T04:50:59Z",
-      "latest_at": "2026-10-11T04:50:59Z",
+      "earliest_at": "2026-10-12T17:43:59Z",
+      "latest_at": "2026-10-12T17:43:59Z",
       "primary_item": {
-        "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
-        "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "id": "6025f2a1f2f1476572425a515efa301b659def40",
+        "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+        "title_zh": null,
+        "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+        "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
         "summary": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f8a2caa26ac3",
-      "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-      "url": "https://www.aibase.com/news/31552",
-      "primary_url": "https://www.aibase.com/news/31552",
+      "story_id": "story_30310c080a3a",
+      "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
+      "url": "https://www.aibase.com/news/31611",
+      "primary_url": "https://www.aibase.com/news/31611",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "id": "d87523dd29bad7b9c2a6ad006e65b72fdfcfb4c9",
+          "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
+          "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "title_en": null,
-          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "summary": null,
-          "url": "https://www.aibase.com/news/31552",
+          "url": "https://www.aibase.com/news/31611",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "a61a7c3608f5beed788455761b5c554c7a5a597f",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
-          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
+          "id": "47baa85858048304e6658ad8ea928bbf56e98da0",
+          "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
+          "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "title_en": null,
-          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
+          "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/31552",
+          "url": "https://www.aibase.com/zh/news/31611",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -492,26 +193,26 @@
       ],
       "items": [
         {
-          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "id": "d87523dd29bad7b9c2a6ad006e65b72fdfcfb4c9",
+          "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
+          "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "title_en": null,
-          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "summary": null,
-          "url": "https://www.aibase.com/news/31552",
+          "url": "https://www.aibase.com/news/31611",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "a61a7c3608f5beed788455761b5c554c7a5a597f",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
-          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
+          "id": "47baa85858048304e6658ad8ea928bbf56e98da0",
+          "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
+          "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "title_en": null,
-          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
+          "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/31552",
+          "url": "https://www.aibase.com/zh/news/31611",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -537,332 +238,626 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
       "primary_item": {
-        "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-        "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-        "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+        "id": "d87523dd29bad7b9c2a6ad006e65b72fdfcfb4c9",
+        "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
+        "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
         "title_en": null,
-        "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+        "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
         "summary": null,
-        "url": "https://www.aibase.com/news/31552",
+        "url": "https://www.aibase.com/news/31611",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_39f26c94dad3",
+      "title": "Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "Push attribution for commits in limited public preview",
+          "title_zh": null,
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "Push attribution for commits in limited public preview",
+          "title_zh": null,
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7573,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T16:30:11Z",
+      "latest_at": "2026-10-12T16:30:11Z",
+      "primary_item": {
+        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+        "title": "Push attribution for commits in limited public preview",
+        "title_zh": null,
+        "title_en": "Push attribution for commits in limited public preview",
+        "title_original": "Push attribution for commits in limited public preview",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_300b5560df1e",
+      "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+      "url": "https://www.aibase.com/news/31617",
+      "primary_url": "https://www.aibase.com/news/31617",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "47d190f6f523e91d070254fbcf9dbbee3e0b20fa",
+          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_zh": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_en": null,
+          "title_original": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31617",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        },
+        {
+          "id": "3d0d7e980d873b324e060af943b146d94b02e57d",
+          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_zh": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_en": null,
+          "title_original": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31617",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "47d190f6f523e91d070254fbcf9dbbee3e0b20fa",
+          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_zh": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_en": null,
+          "title_original": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31617",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        },
+        {
+          "id": "3d0d7e980d873b324e060af943b146d94b02e57d",
+          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_zh": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "title_en": null,
+          "title_original": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31617",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
+      "primary_item": {
+        "id": "47d190f6f523e91d070254fbcf9dbbee3e0b20fa",
+        "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+        "title_zh": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+        "title_en": null,
+        "title_original": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31617",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1ac16a9fa078",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7311,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T14:04:16Z",
+      "latest_at": "2026-10-12T14:04:16Z",
+      "primary_item": {
+        "id": "089955f40de8038c107a9911361603ae50607306",
+        "title": "Anonymous organization-level registries for Dependabot",
+        "title_zh": null,
+        "title_en": "Anonymous organization-level registries for Dependabot",
+        "title_original": "Anonymous organization-level registries for Dependabot",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_64f0515d646a",
+      "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+      "url": "https://www.aibase.com/news/31616",
+      "primary_url": "https://www.aibase.com/news/31616",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
+          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_zh": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_en": null,
+          "title_original": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31616",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        },
+        {
+          "id": "2bee30aae3e7dadd76aa121aa5c02ff6dd03c709",
+          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_zh": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_en": null,
+          "title_original": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31616",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
+          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_zh": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_en": null,
+          "title_original": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31616",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        },
+        {
+          "id": "2bee30aae3e7dadd76aa121aa5c02ff6dd03c709",
+          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_zh": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "title_en": null,
+          "title_original": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31616",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
+      "primary_item": {
+        "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
+        "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+        "title_zh": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+        "title_en": null,
+        "title_original": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31616",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_aa2db91238fc",
+      "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+      "url": "https://www.aibase.com/news/31615",
+      "primary_url": "https://www.aibase.com/news/31615",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "20a6dbaf671ff3e3f0f62e7c652198e0a9783928",
+          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_zh": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_en": null,
+          "title_original": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31615",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        },
+        {
+          "id": "df4b482241dd4439d58f9e19ffad23656f3a6e7e",
+          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_zh": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_en": null,
+          "title_original": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31615",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "20a6dbaf671ff3e3f0f62e7c652198e0a9783928",
+          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_zh": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_en": null,
+          "title_original": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31615",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        },
+        {
+          "id": "df4b482241dd4439d58f9e19ffad23656f3a6e7e",
+          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_zh": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "title_en": null,
+          "title_original": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/31615",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
+      "primary_item": {
+        "id": "20a6dbaf671ff3e3f0f62e7c652198e0a9783928",
+        "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+        "title_zh": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+        "title_en": null,
+        "title_original": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31615",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+      "title": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-11",
+      "source": "社区更新 · 2026-10-12",
       "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "d1bc19038ca074821fdea4509abcc1c5f8e9b988",
-          "title": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
-          "title_zh": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+          "id": "5893d34d968356d058375dc7632da30a27ea36e1",
+          "title": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
+          "title_zh": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
           "title_en": null,
-          "title_original": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
-          "summary": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+          "title_original": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
+          "summary": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "4ac95e28a4ad51d36f2039b60db3525f18a0ae00",
-          "title": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
-          "title_zh": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
+          "id": "8859464f446410f20bd46b3c85534ea7364aa7b8",
+          "title": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
+          "title_zh": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
           "title_en": null,
-          "title_original": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
-          "summary": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
+          "title_original": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
+          "summary": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "600d588e82be0a01924e386f054fdb7e00cdc1dc",
-          "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
-          "title_zh": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "id": "5e5f4ae24a08e828b12823e629325108d6d40afa",
+          "title": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
+          "title_zh": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
           "title_en": null,
-          "title_original": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
-          "summary": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "title_original": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
+          "summary": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "cb80c2185339c18d9cd175018015b06db3f766d7",
-          "title": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
-          "title_zh": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "id": "b773d44dcafde15348d774fdae6151735f894e99",
+          "title": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
+          "title_zh": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
           "title_en": null,
-          "title_original": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
-          "summary": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "title_original": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
+          "summary": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "42a1f31b79a394a0db6ca10a10b678e50a93253b",
-          "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
-          "title_zh": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+          "id": "6c1b8e26e072efbfc901651881da6a465625304a",
+          "title": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
+          "title_zh": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
           "title_en": null,
-          "title_original": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
-          "summary": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+          "title_original": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
+          "summary": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "4e5b491c7c6ce31b9348c0d0e0645a5f7ab06f13",
-          "title": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "title_zh": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "title_en": null,
-          "title_original": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "summary": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "title_zh": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "title_en": null,
-          "title_original": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "summary": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
-          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "title_zh": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "title_en": null,
-          "title_original": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "summary": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
-          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "title_zh": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "title_en": null,
-          "title_original": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "summary": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
-          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "title_zh": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "title_en": null,
-          "title_original": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "summary": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
-          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "title_zh": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "title_en": null,
-          "title_original": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "summary": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         }
       ],
-      "source_count": 11,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-10-10",
-        "社区更新 · 2026-10-11"
+        "社区更新 · 2026-10-12"
       ],
       "items": [
         {
-          "id": "d1bc19038ca074821fdea4509abcc1c5f8e9b988",
-          "title": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
-          "title_zh": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+          "id": "5893d34d968356d058375dc7632da30a27ea36e1",
+          "title": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
+          "title_zh": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
           "title_en": null,
-          "title_original": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
-          "summary": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+          "title_original": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
+          "summary": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "4ac95e28a4ad51d36f2039b60db3525f18a0ae00",
-          "title": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
-          "title_zh": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
+          "id": "8859464f446410f20bd46b3c85534ea7364aa7b8",
+          "title": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
+          "title_zh": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
           "title_en": null,
-          "title_original": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
-          "summary": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
+          "title_original": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
+          "summary": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "600d588e82be0a01924e386f054fdb7e00cdc1dc",
-          "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
-          "title_zh": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "id": "5e5f4ae24a08e828b12823e629325108d6d40afa",
+          "title": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
+          "title_zh": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
           "title_en": null,
-          "title_original": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
-          "summary": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "title_original": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
+          "summary": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "cb80c2185339c18d9cd175018015b06db3f766d7",
-          "title": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
-          "title_zh": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "id": "b773d44dcafde15348d774fdae6151735f894e99",
+          "title": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
+          "title_zh": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
           "title_en": null,
-          "title_original": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
-          "summary": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "title_original": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
+          "summary": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         },
         {
-          "id": "42a1f31b79a394a0db6ca10a10b678e50a93253b",
-          "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
-          "title_zh": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+          "id": "6c1b8e26e072efbfc901651881da6a465625304a",
+          "title": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
+          "title_zh": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
           "title_en": null,
-          "title_original": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
-          "summary": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+          "title_original": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
+          "summary": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
+          "source": "社区更新 · 2026-10-12",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "4e5b491c7c6ce31b9348c0d0e0645a5f7ab06f13",
-          "title": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "title_zh": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "title_en": null,
-          "title_original": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "summary": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "title_zh": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "title_en": null,
-          "title_original": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "summary": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
-          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "title_zh": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "title_en": null,
-          "title_original": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "summary": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
-          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "title_zh": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "title_en": null,
-          "title_original": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "summary": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
-          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "title_zh": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "title_en": null,
-          "title_original": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "summary": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
-        },
-        {
-          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
-          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "title_zh": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "title_en": null,
-          "title_original": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "summary": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T05:43:51.315523Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
-      "score": 0.69,
-      "importance": 0.69,
-      "importance_score": 0.69,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.504,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.7,
+        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 1.0
       },
@@ -870,242 +865,40 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T05:43:51.315523Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
       "primary_item": {
-        "id": "42a1f31b79a394a0db6ca10a10b678e50a93253b",
-        "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
-        "title_zh": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+        "id": "5893d34d968356d058375dc7632da30a27ea36e1",
+        "title": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
+        "title_zh": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
         "title_en": null,
-        "title_original": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
-        "summary": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+        "title_original": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
+        "summary": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-11",
+        "source": "社区更新 · 2026-10-12",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_a4e15ee965e5",
-      "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-      "url": "https://www.aibase.com/news/31555",
-      "primary_url": "https://www.aibase.com/news/31555",
+      "story_id": "story_13a936d53442",
+      "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+      "url": "https://www.aibase.com/news/31599",
+      "primary_url": "https://www.aibase.com/news/31599",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
-          "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-          "title_zh": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
+          "id": "bdd69da8a3134e313054297660085672f4069297",
+          "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+          "title_zh": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
           "title_en": null,
-          "title_original": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
+          "title_original": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
           "summary": null,
-          "url": "https://www.aibase.com/news/31555",
+          "url": "https://www.aibase.com/news/31599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "0a4ccbb8be5781dba2b13e10f605d960d05356c4",
-          "title": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "title_zh": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "title_en": null,
-          "title_original": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31555",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
-          "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-          "title_zh": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-          "title_en": null,
-          "title_original": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "0a4ccbb8be5781dba2b13e10f605d960d05356c4",
-          "title": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "title_zh": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "title_en": null,
-          "title_original": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31555",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
-        "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-        "title_zh": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-        "title_en": null,
-        "title_original": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31555",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8dd4d6d73805",
-      "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-      "url": "https://www.aibase.com/news/31550",
-      "primary_url": "https://www.aibase.com/news/31550",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
-          "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "title_zh": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "title_en": null,
-          "title_original": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "045f4c52023cc7f575a2f01a11ce25c5ef6d6db3",
-          "title": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "title_zh": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "title_en": null,
-          "title_original": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31550",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
-          "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "title_zh": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "title_en": null,
-          "title_original": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        },
-        {
-          "id": "045f4c52023cc7f575a2f01a11ce25c5ef6d6db3",
-          "title": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "title_zh": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "title_en": null,
-          "title_original": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/31550",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
-        "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-        "title_zh": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-        "title_en": null,
-        "title_original": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31550",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4186db4bef0f",
-      "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-      "url": "https://www.aibase.com/news/31557",
-      "primary_url": "https://www.aibase.com/news/31557",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bac70dad58153924bfcb22a6c0a9b2185168fc42",
-          "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-          "title_zh": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-          "title_en": null,
-          "title_original": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31557",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         }
       ],
       "source_count": 1,
@@ -1114,17 +907,17 @@
       ],
       "items": [
         {
-          "id": "bac70dad58153924bfcb22a6c0a9b2185168fc42",
-          "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-          "title_zh": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
+          "id": "bdd69da8a3134e313054297660085672f4069297",
+          "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+          "title_zh": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
           "title_en": null,
-          "title_original": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
+          "title_original": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
           "summary": null,
-          "url": "https://www.aibase.com/news/31557",
+          "url": "https://www.aibase.com/news/31599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         }
       ],
       "item_count": 1,
@@ -1145,66 +938,464 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
       "primary_item": {
-        "id": "bac70dad58153924bfcb22a6c0a9b2185168fc42",
-        "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-        "title_zh": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
+        "id": "bdd69da8a3134e313054297660085672f4069297",
+        "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+        "title_zh": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
         "title_en": null,
-        "title_original": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
+        "title_original": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
         "summary": null,
-        "url": "https://www.aibase.com/news/31557",
+        "url": "https://www.aibase.com/news/31599",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b1802d1de5ce",
-      "title": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
-      "url": "https://github.com/plimsollmark/plimsoll",
-      "primary_url": "https://github.com/plimsollmark/plimsoll",
+      "story_id": "story_2ce682f6eee2",
+      "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+      "url": "https://www.aibase.com/news/31613",
+      "primary_url": "https://www.aibase.com/news/31613",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
+          "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+          "title_zh": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+          "title_en": null,
+          "title_original": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
+          "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+          "title_zh": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+          "title_en": null,
+          "title_original": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
+      "primary_item": {
+        "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
+        "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+        "title_zh": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+        "title_en": null,
+        "title_original": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31613",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d27aaabe747e",
+      "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+      "url": "https://www.aibase.com/news/31600",
+      "primary_url": "https://www.aibase.com/news/31600",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6e8bbcacccbbf036cf3f8740f51c678c4e533243",
+          "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+          "title_zh": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+          "title_en": null,
+          "title_original": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31600",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6e8bbcacccbbf036cf3f8740f51c678c4e533243",
+          "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+          "title_zh": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+          "title_en": null,
+          "title_original": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+          "summary": null,
+          "url": "https://www.aibase.com/news/31600",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T11:45:21.757920Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
+      "primary_item": {
+        "id": "6e8bbcacccbbf036cf3f8740f51c678c4e533243",
+        "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+        "title_zh": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+        "title_en": null,
+        "title_original": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
+        "summary": null,
+        "url": "https://www.aibase.com/news/31600",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_71afce8b579b",
+      "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+      "url": "https://pdftomp3.com/connect-ai",
+      "primary_url": "https://pdftomp3.com/connect-ai",
+      "source": "pdftomp3.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
+          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "title_en": null,
+          "title_original": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "summary": null,
+          "url": "https://pdftomp3.com/connect-ai",
+          "source": "pdftomp3.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T10:17:52.180000Z"
+        },
+        {
+          "id": "b8caebe672b9f90f28495ba4e9a886fd071c2f3b",
+          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "summary": null,
+          "url": "https://pdftomp3.com/connect-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-13T10:08:34Z"
+        },
+        {
+          "id": "f8bfb6e1553b44437f9348f922a80b001e27d52c",
+          "title": "Show HN：使用您的 OpenAI 订阅来创建有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_zh": "Show HN：使用您的 OpenAI 订阅来创建有声读物",
+          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=50069337",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-13T10:08:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "pdftomp3.com"
+      ],
+      "items": [
+        {
+          "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
+          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "title_en": null,
+          "title_original": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "summary": null,
+          "url": "https://pdftomp3.com/connect-ai",
+          "source": "pdftomp3.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T10:17:52.180000Z"
+        },
+        {
+          "id": "b8caebe672b9f90f28495ba4e9a886fd071c2f3b",
+          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "summary": null,
+          "url": "https://pdftomp3.com/connect-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-13T10:08:34Z"
+        },
+        {
+          "id": "f8bfb6e1553b44437f9348f922a80b001e27d52c",
+          "title": "Show HN：使用您的 OpenAI 订阅来创建有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_zh": "Show HN：使用您的 OpenAI 订阅来创建有声读物",
+          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=50069337",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-13T10:08:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9792,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-13T10:08:34Z",
+      "latest_at": "2026-10-13T10:17:52.180000Z",
+      "primary_item": {
+        "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
+        "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+        "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+        "title_en": null,
+        "title_original": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
+        "summary": null,
+        "url": "https://pdftomp3.com/connect-ai",
+        "source": "pdftomp3.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_224c102190be",
+      "title": "AI 模型能够以可证明的方式隐藏任意能力",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "primary_url": "https://arxiv.org/abs/2610.13928",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3b25590aadf6a2afbce1803e0b9d971f3c6eb2de",
+          "title": "AI 模型能够以可证明的方式隐藏任意能力",
+          "title_zh": "AI 模型能够以可证明的方式隐藏任意能力",
+          "title_en": null,
+          "title_original": "AI 模型能够以可证明的方式隐藏任意能力",
+          "summary": null,
+          "url": "https://arxiv.org/abs/2610.13928",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T09:23:14.487000Z"
+        },
+        {
+          "id": "50cb927abd2b72eea9da9c03659130c6cbcc709f",
+          "title": "AI 模型能够以可证明的方式隐藏任意能力 / AI models can provably hide arbitrary capabilities",
+          "title_zh": "AI 模型能够以可证明的方式隐藏任意能力",
+          "title_en": "AI models can provably hide arbitrary capabilities",
+          "title_original": "AI models can provably hide arbitrary capabilities",
+          "summary": null,
+          "url": "https://arxiv.org/abs/2610.13928",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-13T02:07:08Z"
+        },
+        {
+          "id": "5035c112c0a843b500d82511a8f7f47f561ed52c",
+          "title": "人工智能模型可以证明隐藏任意功能 / AI models can provably hide arbitrary capabilities",
+          "title_zh": "人工智能模型可以证明隐藏任意功能",
+          "title_en": "AI models can provably hide arbitrary capabilities",
+          "title_original": "AI models can provably hide arbitrary capabilities",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=50065692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-13T02:07:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3b25590aadf6a2afbce1803e0b9d971f3c6eb2de",
+          "title": "AI 模型能够以可证明的方式隐藏任意能力",
+          "title_zh": "AI 模型能够以可证明的方式隐藏任意能力",
+          "title_en": null,
+          "title_original": "AI 模型能够以可证明的方式隐藏任意能力",
+          "summary": null,
+          "url": "https://arxiv.org/abs/2610.13928",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T09:23:14.487000Z"
+        },
+        {
+          "id": "50cb927abd2b72eea9da9c03659130c6cbcc709f",
+          "title": "AI 模型能够以可证明的方式隐藏任意能力 / AI models can provably hide arbitrary capabilities",
+          "title_zh": "AI 模型能够以可证明的方式隐藏任意能力",
+          "title_en": "AI models can provably hide arbitrary capabilities",
+          "title_original": "AI models can provably hide arbitrary capabilities",
+          "summary": null,
+          "url": "https://arxiv.org/abs/2610.13928",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-13T02:07:08Z"
+        },
+        {
+          "id": "5035c112c0a843b500d82511a8f7f47f561ed52c",
+          "title": "人工智能模型可以证明隐藏任意功能 / AI models can provably hide arbitrary capabilities",
+          "title_zh": "人工智能模型可以证明隐藏任意功能",
+          "title_en": "AI models can provably hide arbitrary capabilities",
+          "title_original": "AI models can provably hide arbitrary capabilities",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=50065692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-13T02:07:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9664,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-13T02:07:08Z",
+      "latest_at": "2026-10-13T09:23:14.487000Z",
+      "primary_item": {
+        "id": "3b25590aadf6a2afbce1803e0b9d971f3c6eb2de",
+        "title": "AI 模型能够以可证明的方式隐藏任意能力",
+        "title_zh": "AI 模型能够以可证明的方式隐藏任意能力",
+        "title_en": null,
+        "title_original": "AI 模型能够以可证明的方式隐藏任意能力",
+        "summary": null,
+        "url": "https://arxiv.org/abs/2610.13928",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9ca2bcd34e54",
+      "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
+      "url": "https://github.com/prabanta-dev/janas",
+      "primary_url": "https://github.com/prabanta-dev/janas",
       "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "12befabe6267454baba8097bde0cba23dfa9f20d",
-          "title": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
-          "title_zh": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
+          "id": "dc592de18d6b6a9d3bfdf873f95c49b2bc39230d",
+          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
+          "title_zh": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
           "title_en": null,
-          "title_original": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
+          "title_original": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
           "summary": null,
-          "url": "https://github.com/plimsollmark/plimsoll",
+          "url": "https://github.com/prabanta-dev/janas",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:50.387000Z"
+          "published_at": "2026-10-13T09:23:14.483000Z"
         },
         {
-          "id": "f9bffced2d6749ca1ce42f5725496e8b12335bd0",
-          "title": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱 / Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_zh": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
-          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "id": "f0eb30847d99f6b23d4f5deb477464a5c95ccb1c",
+          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型 / Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
-          "url": "https://github.com/plimsollmark/plimsoll",
+          "url": "https://github.com/prabanta-dev/janas",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-11T23:47:59Z"
+          "published_at": "2026-10-12T22:05:43Z"
         },
         {
-          "id": "d2f1ff176972f7e994ac2d2cf4e3ee65c851147f",
-          "title": "显示 HN：Plimsoll，一个用于 AI 代理编写的代码的自托管沙箱 / Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_zh": "显示 HN：Plimsoll，一个用于 AI 代理编写的代码的自托管沙箱",
-          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "id": "01044dc7a8f3e57bcbbcc1f9f05d1d5733666514",
+          "title": "Janas：由 SSD 的流媒体专家运行比 RAM 更大的 LLM / Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": "Janas：由 SSD 的流媒体专家运行比 RAM 更大的 LLM",
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
-          "url": "https://news.ycombinator.com/item?id=50049388",
+          "url": "https://news.ycombinator.com/item?id=50063717",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-11T23:47:59Z"
+          "published_at": "2026-10-12T22:05:43Z"
         }
       ],
       "source_count": 3,
@@ -1215,493 +1406,348 @@
       ],
       "items": [
         {
-          "id": "12befabe6267454baba8097bde0cba23dfa9f20d",
-          "title": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
-          "title_zh": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
+          "id": "dc592de18d6b6a9d3bfdf873f95c49b2bc39230d",
+          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
+          "title_zh": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
           "title_en": null,
-          "title_original": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
+          "title_original": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
           "summary": null,
-          "url": "https://github.com/plimsollmark/plimsoll",
+          "url": "https://github.com/prabanta-dev/janas",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:50.387000Z"
+          "published_at": "2026-10-13T09:23:14.483000Z"
         },
         {
-          "id": "f9bffced2d6749ca1ce42f5725496e8b12335bd0",
-          "title": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱 / Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_zh": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
-          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "id": "f0eb30847d99f6b23d4f5deb477464a5c95ccb1c",
+          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型 / Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
-          "url": "https://github.com/plimsollmark/plimsoll",
+          "url": "https://github.com/prabanta-dev/janas",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-11T23:47:59Z"
+          "published_at": "2026-10-12T22:05:43Z"
         },
         {
-          "id": "d2f1ff176972f7e994ac2d2cf4e3ee65c851147f",
-          "title": "显示 HN：Plimsoll，一个用于 AI 代理编写的代码的自托管沙箱 / Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_zh": "显示 HN：Plimsoll，一个用于 AI 代理编写的代码的自托管沙箱",
-          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "id": "01044dc7a8f3e57bcbbcc1f9f05d1d5733666514",
+          "title": "Janas：由 SSD 的流媒体专家运行比 RAM 更大的 LLM / Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": "Janas：由 SSD 的流媒体专家运行比 RAM 更大的 LLM",
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
-          "url": "https://news.ycombinator.com/item?id=50049388",
+          "url": "https://news.ycombinator.com/item?id=50063717",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-11T23:47:59Z"
+          "published_at": "2026-10-12T22:05:43Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9722,
+        "recency": 0.9664,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T23:47:59Z",
-      "latest_at": "2026-10-12T00:03:50.387000Z",
+      "earliest_at": "2026-10-12T22:05:43Z",
+      "latest_at": "2026-10-13T09:23:14.483000Z",
       "primary_item": {
-        "id": "12befabe6267454baba8097bde0cba23dfa9f20d",
-        "title": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
-        "title_zh": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
+        "id": "dc592de18d6b6a9d3bfdf873f95c49b2bc39230d",
+        "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
+        "title_zh": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
         "title_en": null,
-        "title_original": "Show HN: Plimsoll，一个用于运行人工智能代理所编写代码的自托管沙箱",
+        "title_original": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
         "summary": null,
-        "url": "https://github.com/plimsollmark/plimsoll",
+        "url": "https://github.com/prabanta-dev/janas",
         "source": "github.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_44c65736f8dd",
-      "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "primary_url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "source": "twitter.com",
+      "story_id": "story_411a156b713b",
+      "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "primary_url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "source": "www.argmin.net",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "id": "cd0134a3d93c304d61b0289ce357f328b5cece53",
+          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
+          "title_zh": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
           "title_en": null,
-          "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_original": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
           "summary": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "twitter.com",
+          "url": "https://www.argmin.net/p/faster-fourier-transforms",
+          "source": "www.argmin.net",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:41.228000Z"
+          "published_at": "2026-10-13T09:23:14.703000Z"
         },
         {
-          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "id": "de113aadcdbe6416285304d10af9fbe1b9a1d83b",
+          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_zh": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
+          "title_en": "A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_original": "A look at the math that OpenAI claims computes faster Fourier transforms",
           "summary": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "url": "https://www.argmin.net/p/faster-fourier-transforms",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-11T20:20:52Z"
+          "published_at": "2026-10-13T02:46:43Z"
         },
         {
-          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
-          "title": "对 LLM 能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-          "title_zh": "对 LLM 能力的共识差距正在扩大",
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "id": "ddcb0b1d5c26199fa8c1d9681e5fd4bc85b14760",
+          "title": "OpenAI 声称可以更快地计算傅立叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_zh": "OpenAI 声称可以更快地计算傅立叶变换的数学原理",
+          "title_en": "A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_original": "A look at the math that OpenAI claims computes faster Fourier transforms",
           "summary": null,
-          "url": "https://news.ycombinator.com/item?id=50047422",
+          "url": "https://news.ycombinator.com/item?id=50065932",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-11T20:20:52Z"
+          "published_at": "2026-10-13T02:46:43Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "twitter.com"
+        "www.argmin.net"
       ],
       "items": [
         {
-          "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "id": "cd0134a3d93c304d61b0289ce357f328b5cece53",
+          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
+          "title_zh": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
           "title_en": null,
-          "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_original": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
           "summary": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "twitter.com",
+          "url": "https://www.argmin.net/p/faster-fourier-transforms",
+          "source": "www.argmin.net",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:41.228000Z"
+          "published_at": "2026-10-13T09:23:14.703000Z"
         },
         {
-          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "id": "de113aadcdbe6416285304d10af9fbe1b9a1d83b",
+          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_zh": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
+          "title_en": "A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_original": "A look at the math that OpenAI claims computes faster Fourier transforms",
           "summary": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "url": "https://www.argmin.net/p/faster-fourier-transforms",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-11T20:20:52Z"
+          "published_at": "2026-10-13T02:46:43Z"
         },
         {
-          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
-          "title": "对 LLM 能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-          "title_zh": "对 LLM 能力的共识差距正在扩大",
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "id": "ddcb0b1d5c26199fa8c1d9681e5fd4bc85b14760",
+          "title": "OpenAI 声称可以更快地计算傅立叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_zh": "OpenAI 声称可以更快地计算傅立叶变换的数学原理",
+          "title_en": "A look at the math that OpenAI claims computes faster Fourier transforms",
+          "title_original": "A look at the math that OpenAI claims computes faster Fourier transforms",
           "summary": null,
-          "url": "https://news.ycombinator.com/item?id=50047422",
+          "url": "https://news.ycombinator.com/item?id=50065932",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-11T20:20:52Z"
+          "published_at": "2026-10-13T02:46:43Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9721,
+        "recency": 0.9664,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T20:20:52Z",
-      "latest_at": "2026-10-12T00:03:41.228000Z",
+      "earliest_at": "2026-10-13T02:46:43Z",
+      "latest_at": "2026-10-13T09:23:14.703000Z",
       "primary_item": {
-        "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
-        "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-        "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+        "id": "cd0134a3d93c304d61b0289ce357f328b5cece53",
+        "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
+        "title_zh": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
         "title_en": null,
-        "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+        "title_original": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
         "summary": null,
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "source": "twitter.com",
+        "url": "https://www.argmin.net/p/faster-fourier-transforms",
+        "source": "www.argmin.net",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_d77fda61d4fd",
-      "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-      "url": "https://www.aibase.com/news/31551",
-      "primary_url": "https://www.aibase.com/news/31551",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_en": null,
-          "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_en": null,
-          "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-        "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-        "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-        "title_en": null,
-        "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31551",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_26149269af1e",
-      "title": "利奥加文/airllm / lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "title_zh": "利奥加文/airllm",
-          "title_en": "lyogavin / airllm",
-          "title_original": "lyogavin / airllm",
-          "summary": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "title_zh": "利奥加文/airllm",
-          "title_en": "lyogavin /      airllm",
-          "title_original": "lyogavin /      airllm",
-          "summary": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T01:35:08.690000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "title_zh": "利奥加文/airllm",
-          "title_en": "lyogavin / airllm",
-          "title_original": "lyogavin / airllm",
-          "summary": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "title_zh": "利奥加文/airllm",
-          "title_en": "lyogavin /      airllm",
-          "title_original": "lyogavin /      airllm",
-          "summary": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T01:35:08.690000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T01:35:08.690000Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-        "title": "利奥加文/airllm / lyogavin / airllm",
-        "title_zh": "利奥加文/airllm",
-        "title_en": "lyogavin / airllm",
-        "title_original": "lyogavin / airllm",
-        "summary": null,
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5a6b7e23ee06",
-      "title": "“AI”并非一种工具",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "primary_url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "source": "www.linkedin.com",
+      "story_id": "story_657a150f08e4",
+      "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "primary_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "www.intel.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "935cbc47a75127fd5c747ec61ba5092eb9dabb25",
-          "title": "“AI”并非一种工具",
-          "title_zh": "“AI”并非一种工具",
+          "id": "8ed2041c29506787c0d5284621d33c58603f8ba3",
+          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
           "title_en": null,
-          "title_original": "“AI”并非一种工具",
+          "title_original": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
           "summary": null,
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "www.linkedin.com",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+          "source": "www.intel.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T01:26:16.979000Z"
+          "published_at": "2026-10-13T09:23:14.160000Z"
         },
         {
-          "id": "fdf067d7dc595227938d177f31d0d7d47f23a4c7",
-          "title": "“AI”并非一种工具 / 'AI' is Not a Tool",
-          "title_zh": "“AI”并非一种工具",
-          "title_en": "'AI' is Not a Tool",
-          "title_original": "'AI' is Not a Tool",
+          "id": "f47a4b57a76bffb9983b217b3cd82c85d265c2be",
+          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "summary": null,
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "Lobsters (技术社区)",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-12T01:18:09Z"
+          "published_at": "2026-10-12T21:35:35Z"
+        },
+        {
+          "id": "4a0f7d6ae2b69bd1f6ea49589d547165e90767b0",
+          "title": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_zh": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X",
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=50063365",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T21:35:35Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.linkedin.com"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.intel.com"
       ],
       "items": [
         {
-          "id": "935cbc47a75127fd5c747ec61ba5092eb9dabb25",
-          "title": "“AI”并非一种工具",
-          "title_zh": "“AI”并非一种工具",
+          "id": "8ed2041c29506787c0d5284621d33c58603f8ba3",
+          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
           "title_en": null,
-          "title_original": "“AI”并非一种工具",
+          "title_original": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
           "summary": null,
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "www.linkedin.com",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+          "source": "www.intel.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T01:26:16.979000Z"
+          "published_at": "2026-10-13T09:23:14.160000Z"
         },
         {
-          "id": "fdf067d7dc595227938d177f31d0d7d47f23a4c7",
-          "title": "“AI”并非一种工具 / 'AI' is Not a Tool",
-          "title_zh": "“AI”并非一种工具",
-          "title_en": "'AI' is Not a Tool",
-          "title_original": "'AI' is Not a Tool",
+          "id": "f47a4b57a76bffb9983b217b3cd82c85d265c2be",
+          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "summary": null,
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "Lobsters (技术社区)",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-12T01:18:09Z"
+          "published_at": "2026-10-12T21:35:35Z"
+        },
+        {
+          "id": "4a0f7d6ae2b69bd1f6ea49589d547165e90767b0",
+          "title": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_zh": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X",
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=50063365",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T21:35:35Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9917,
-        "story_heat": 0.25
+        "recency": 0.9664,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-12T01:18:09Z",
-      "latest_at": "2026-10-12T01:26:16.979000Z",
+      "earliest_at": "2026-10-12T21:35:35Z",
+      "latest_at": "2026-10-13T09:23:14.160000Z",
       "primary_item": {
-        "id": "935cbc47a75127fd5c747ec61ba5092eb9dabb25",
-        "title": "“AI”并非一种工具",
-        "title_zh": "“AI”并非一种工具",
+        "id": "8ed2041c29506787c0d5284621d33c58603f8ba3",
+        "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+        "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
         "title_en": null,
-        "title_original": "“AI”并非一种工具",
+        "title_original": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
         "summary": null,
-        "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-        "source": "www.linkedin.com",
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+        "source": "www.intel.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_c15ace2fdf46",
-      "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-      "url": "https://www.aibase.com/news/31554",
-      "primary_url": "https://www.aibase.com/news/31554",
+      "story_id": "story_7ebfc696c808",
+      "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
+      "url": "https://www.aibase.com/news/31603",
+      "primary_url": "https://www.aibase.com/news/31603",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
-          "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "id": "28ce7aae28115993a7d6a3c9fb03aaebbbe9ec05",
+          "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
+          "title_zh": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
           "title_en": null,
-          "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "title_original": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
           "summary": null,
-          "url": "https://www.aibase.com/news/31554",
+          "url": "https://www.aibase.com/news/31603",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         }
       ],
       "source_count": 1,
@@ -1710,17 +1756,17 @@
       ],
       "items": [
         {
-          "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
-          "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "id": "28ce7aae28115993a7d6a3c9fb03aaebbbe9ec05",
+          "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
+          "title_zh": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
           "title_en": null,
-          "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "title_original": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
           "summary": null,
-          "url": "https://www.aibase.com/news/31554",
+          "url": "https://www.aibase.com/news/31603",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
+          "published_at": "2026-10-13T11:45:21.757920Z"
         }
       ],
       "item_count": 1,
@@ -1741,53 +1787,53 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
+      "earliest_at": "2026-10-13T11:45:21.757920Z",
+      "latest_at": "2026-10-13T11:45:21.757920Z",
       "primary_item": {
-        "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
-        "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-        "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+        "id": "28ce7aae28115993a7d6a3c9fb03aaebbbe9ec05",
+        "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
+        "title_zh": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
         "title_en": null,
-        "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+        "title_original": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
         "summary": null,
-        "url": "https://www.aibase.com/news/31554",
+        "url": "https://www.aibase.com/news/31603",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_4b410baa7c8f",
-      "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-      "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-      "primary_url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+      "story_id": "story_a790489ffb95",
+      "title": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
+      "url": "https://www.businessinsider.com/character-ai-files-for-bankruptcy-legal-headwinds-disney-google-chatbots-2026-10",
+      "primary_url": "https://www.businessinsider.com/character-ai-files-for-bankruptcy-legal-headwinds-disney-google-chatbots-2026-10",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-          "title_zh": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "id": "539c67a495a435cabf8a4d39c8c143c6583b3256",
+          "title": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
+          "title_zh": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
           "title_en": null,
-          "title_original": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "title_original": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
           "summary": null,
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "url": "https://www.businessinsider.com/character-ai-files-for-bankruptcy-legal-headwinds-disney-google-chatbots-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-11T12:30:10.840000Z"
+          "published_at": "2026-10-13T11:20:13.474000Z"
         },
         {
-          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
-          "title_zh": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-          "title_en": "My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
-          "title_original": "My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "id": "1cee93283c0362a880e43412546f59b9c3bd993a",
+          "title": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方 / Chatbot startup Character.AI files for bankruptcy, and Disney is first in line for key assets",
+          "title_zh": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
+          "title_en": "Chatbot startup Character.AI files for bankruptcy, and Disney is first in line for key assets",
+          "title_original": "Chatbot startup Character.AI files for bankruptcy, and Disney is first in line for key assets",
           "summary": null,
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "url": "https://www.businessinsider.com/character-ai-files-for-bankruptcy-legal-headwinds-disney-google-chatbots-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-11T11:47:01Z"
+          "published_at": "2026-10-13T10:00:50Z"
         }
       ],
       "source_count": 2,
@@ -1797,332 +1843,160 @@
       ],
       "items": [
         {
-          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-          "title_zh": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "id": "539c67a495a435cabf8a4d39c8c143c6583b3256",
+          "title": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
+          "title_zh": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
           "title_en": null,
-          "title_original": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "title_original": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
           "summary": null,
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "url": "https://www.businessinsider.com/character-ai-files-for-bankruptcy-legal-headwinds-disney-google-chatbots-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-11T12:30:10.840000Z"
+          "published_at": "2026-10-13T11:20:13.474000Z"
         },
         {
-          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
-          "title_zh": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-          "title_en": "My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
-          "title_original": "My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "id": "1cee93283c0362a880e43412546f59b9c3bd993a",
+          "title": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方 / Chatbot startup Character.AI files for bankruptcy, and Disney is first in line for key assets",
+          "title_zh": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
+          "title_en": "Chatbot startup Character.AI files for bankruptcy, and Disney is first in line for key assets",
+          "title_original": "Chatbot startup Character.AI files for bankruptcy, and Disney is first in line for key assets",
           "summary": null,
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "url": "https://www.businessinsider.com/character-ai-files-for-bankruptcy-legal-headwinds-disney-google-chatbots-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-11T11:47:01Z"
+          "published_at": "2026-10-13T10:00:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8227,
+        "recency": 0.994,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T11:47:01Z",
-      "latest_at": "2026-10-11T12:30:10.840000Z",
+      "earliest_at": "2026-10-13T10:00:50Z",
+      "latest_at": "2026-10-13T11:20:13.474000Z",
       "primary_item": {
-        "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
-        "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-        "title_zh": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+        "id": "539c67a495a435cabf8a4d39c8c143c6583b3256",
+        "title": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
+        "title_zh": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
         "title_en": null,
-        "title_original": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+        "title_original": "陷入困境的聊天机器人初创公司Character.AI申请破产——迪士尼将成为其核心资产的首选收购方",
         "summary": null,
-        "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+        "url": "https://www.businessinsider.com/character-ai-files-for-bankruptcy-legal-headwinds-disney-google-chatbots-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_f548243c45a1",
-      "title": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-      "url": "https://github.com/DragosMocrii/proc-stats",
-      "primary_url": "https://github.com/DragosMocrii/proc-stats",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3d3696e0814f",
+      "title": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制 / AI models may soon self-replicate without access to data centers",
+      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13",
+      "primary_url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "036f28c01b80cde6eee7c4872b01f90a387496b0",
-          "title": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-          "title_zh": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-          "title_en": null,
-          "title_original": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
+          "id": "ac3dd69457900f65e39264fb690ee0351d6bb832",
+          "title": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制 / AI models may soon self-replicate without access to data centers",
+          "title_zh": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制",
+          "title_en": "AI models may soon self-replicate without access to data centers",
+          "title_original": "AI models may soon self-replicate without access to data centers",
           "summary": null,
-          "url": "https://github.com/DragosMocrii/proc-stats",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:44.927000Z"
+          "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-13T10:08:18Z"
         },
         {
-          "id": "69b29c49ffcaf3ea66392418e0e7d47ca8edbd69",
-          "title": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器 / Show HN: Proc-stats – a task manager for Claude Code sessions",
-          "title_zh": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-          "title_en": "Show HN: Proc-stats – a task manager for Claude Code sessions",
-          "title_original": "Show HN: Proc-stats – a task manager for Claude Code sessions",
+          "id": "e6241074c2281212255e9fdbbc81660c3169d757",
+          "title": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制 / AI models may soon self-replicate without access to data centers",
+          "title_zh": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制",
+          "title_en": "AI models may soon self-replicate without access to data centers",
+          "title_original": "AI models may soon self-replicate without access to data centers",
           "summary": null,
-          "url": "https://github.com/DragosMocrii/proc-stats",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-11T20:17:35Z"
+          "url": "https://news.ycombinator.com/item?id=50069333",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-13T10:08:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "036f28c01b80cde6eee7c4872b01f90a387496b0",
-          "title": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-          "title_zh": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-          "title_en": null,
-          "title_original": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
+          "id": "ac3dd69457900f65e39264fb690ee0351d6bb832",
+          "title": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制 / AI models may soon self-replicate without access to data centers",
+          "title_zh": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制",
+          "title_en": "AI models may soon self-replicate without access to data centers",
+          "title_original": "AI models may soon self-replicate without access to data centers",
           "summary": null,
-          "url": "https://github.com/DragosMocrii/proc-stats",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:44.927000Z"
+          "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-13T10:08:18Z"
         },
         {
-          "id": "69b29c49ffcaf3ea66392418e0e7d47ca8edbd69",
-          "title": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器 / Show HN: Proc-stats – a task manager for Claude Code sessions",
-          "title_zh": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-          "title_en": "Show HN: Proc-stats – a task manager for Claude Code sessions",
-          "title_original": "Show HN: Proc-stats – a task manager for Claude Code sessions",
+          "id": "e6241074c2281212255e9fdbbc81660c3169d757",
+          "title": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制 / AI models may soon self-replicate without access to data centers",
+          "title_zh": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制",
+          "title_en": "AI models may soon self-replicate without access to data centers",
+          "title_original": "AI models may soon self-replicate without access to data centers",
           "summary": null,
-          "url": "https://github.com/DragosMocrii/proc-stats",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-11T20:17:35Z"
+          "url": "https://news.ycombinator.com/item?id=50069333",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-13T10:08:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5416,
+      "importance": 0.5416,
+      "importance_score": 0.5416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9722,
+        "recency": 0.9769,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T20:17:35Z",
-      "latest_at": "2026-10-12T00:03:44.927000Z",
+      "earliest_at": "2026-10-13T10:08:18Z",
+      "latest_at": "2026-10-13T10:08:18Z",
       "primary_item": {
-        "id": "036f28c01b80cde6eee7c4872b01f90a387496b0",
-        "title": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-        "title_zh": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
-        "title_en": null,
-        "title_original": "Show HN: Proc-stats——一款用于管理 Claude Code 会话的任务管理器",
+        "id": "ac3dd69457900f65e39264fb690ee0351d6bb832",
+        "title": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制 / AI models may soon self-replicate without access to data centers",
+        "title_zh": "人工智能模型可能很快就会在无需访问数据中心的情况下进行自我复制",
+        "title_en": "AI models may soon self-replicate without access to data centers",
+        "title_original": "AI models may soon self-replicate without access to data centers",
         "summary": null,
-        "url": "https://github.com/DragosMocrii/proc-stats",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_319b451f9164",
-      "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-      "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4896590.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
-          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "title_zh": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "title_en": null,
-          "title_original": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8284bee6405c57fbb955313353d1a9260ffbb1f9",
-          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "title_zh": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "title_en": null,
-          "title_original": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T04:34:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
-          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "title_zh": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "title_en": null,
-          "title_original": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8284bee6405c57fbb955313353d1a9260ffbb1f9",
-          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "title_zh": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "title_en": null,
-          "title_original": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T04:34:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7461,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T04:34:12Z",
-      "latest_at": "2026-10-11T05:43:51.315523Z",
-      "primary_item": {
-        "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
-        "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-        "title_zh": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-        "title_en": null,
-        "title_original": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-        "summary": null,
-        "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2187fba4b4f6",
-      "title": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-      "url": "https://www.aibase.com/news/31553",
-      "primary_url": "https://www.aibase.com/news/31553",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60712185511b6373adc41f6c8050e1a45e342340",
-          "title": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-          "title_zh": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "60712185511b6373adc41f6c8050e1a45e342340",
-          "title": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-          "title_zh": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-          "summary": null,
-          "url": "https://www.aibase.com/news/31553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T02:01:05.314462Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T02:01:05.314462Z",
-      "latest_at": "2026-10-12T02:01:05.314462Z",
-      "primary_item": {
-        "id": "60712185511b6373adc41f6c8050e1a45e342340",
-        "title": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-        "title_zh": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-        "title_en": null,
-        "title_original": "微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制",
-        "summary": null,
-        "url": "https://www.aibase.com/news/31553",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
