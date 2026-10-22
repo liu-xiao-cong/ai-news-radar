@@ -12,6 +12,8 @@ import math
 import os
 import random
 import re
+import signal
+import threading
 import time
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
@@ -888,6 +890,54 @@ def waytoagi_updates_to_raw_items(payload: dict[str, Any], now: datetime) -> lis
     return out
 
 
+class StageTimeout(BaseException):
+    """Escape fetchers' broad Exception handlers without cancelling the refresh."""
+
+
+class RefreshBudget:
+    """Wall-clock network budget for the main-thread Linux/macOS CLI.
+
+    A request timeout does not bound retries, Retry-After sleeps, DNS, or a
+    multi-request source. ITIMER_REAL also interrupts those waits. Never wrap
+    a thread pool: its shutdown could wait past the alarm.
+    """
+
+    def __init__(self, seconds: float = 600):
+        if not hasattr(signal, "setitimer") or threading.current_thread() is not threading.main_thread():
+            raise RuntimeError("Bounded refresh requires a POSIX main thread (Linux/macOS)")
+        if seconds <= 0 or not math.isfinite(seconds):
+            raise ValueError("Refresh budget must be a positive finite number")
+        self.deadline = time.monotonic() + seconds
+        self.timed_out_stages: list[str] = []
+
+    def run(self, label: str, fn: Any, *, seconds: float = 45) -> Any:
+        remaining = min(seconds, self.deadline - time.monotonic())
+        started = time.monotonic()
+        print(f"[refresh] start {label}; budget={max(0, remaining):.1f}s", flush=True)
+
+        def expire(*_args: Any) -> None:
+            self.timed_out_stages.append(label)
+            raise StageTimeout(f"{label}: refresh time budget exhausted")
+
+        if remaining <= 0:
+            expire()
+        previous = signal.getsignal(signal.SIGALRM)
+        signal.signal(signal.SIGALRM, expire)
+        try:
+            signal.setitimer(signal.ITIMER_REAL, remaining)
+            return fn()
+        finally:
+            signal.setitimer(signal.ITIMER_REAL, 0)
+            signal.signal(signal.SIGALRM, previous)
+            print(f"[refresh] finish {label}; elapsed={time.monotonic() - started:.1f}s", flush=True)
+
+    def optional(self, label: str, fn: Any, status: dict[str, Any], *, empty: Any = None) -> Any:
+        try:
+            return self.run(label, fn, seconds=30)
+        except StageTimeout as exc:
+            return empty, {**status, "ok": False, "error": str(exc), "timed_out": True}
+
+
 def create_session() -> requests.Session:
     session = requests.Session()
     retry = Retry(
@@ -1409,9 +1459,11 @@ def fetch_hacker_news_algolia(session: requests.Session, now: datetime) -> list[
             )
             response.raise_for_status()
             payloads.append((query, response.json()))
+            time.sleep(HN_ALGOLIA_QUERY_PAUSE_SECONDS)
+        except StageTimeout:
+            break
         except Exception as exc:
             errors.append(f"{query}: {exc}")
-        time.sleep(HN_ALGOLIA_QUERY_PAUSE_SECONDS)
 
     if not payloads and errors:
         raise ValueError(f"HN Algolia queries failed: {'; '.join(errors[:3])}")
@@ -1676,6 +1728,8 @@ def fetch_curated_ai_media(session: requests.Session, now: datetime) -> list[Raw
             )
             resp.raise_for_status()
             out.extend(parse_curated_ai_media_feed_items(resp.content, feed, now))
+        except StageTimeout:
+            return out
         except Exception:
             failures.append(str(feed.get("title") or feed.get("xml_url") or "unknown"))
 
@@ -1686,30 +1740,28 @@ def fetch_curated_ai_media(session: requests.Session, now: datetime) -> list[Raw
 
 def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[RawItem]:
     out: list[RawItem] = []
-
-    for feed in OFFICIAL_AI_FEEDS:
+    try:
+        for feed in OFFICIAL_AI_FEEDS:
+            try:
+                out.extend(fetch_feed_as_official_items(session, feed, now))
+            except Exception:
+                continue
         try:
-            out.extend(fetch_feed_as_official_items(session, feed, now))
+            r = session.get("https://www.anthropic.com/news", timeout=20)
+            r.raise_for_status()
+            out.extend(parse_anthropic_news_items(r.text, now))
         except Exception:
-            continue
-
-    try:
-        r = session.get("https://www.anthropic.com/news", timeout=20)
-        r.raise_for_status()
-        out.extend(parse_anthropic_news_items(r.text, now))
-    except Exception:
-        pass
-
-    try:
-        r = session.get("https://developers.openai.com/codex/changelog", timeout=20)
-        r.raise_for_status()
-        out.extend(parse_openai_codex_changelog_items(r.text, now))
-    except Exception:
-        pass
-
+            pass
+        try:
+            r = session.get("https://developers.openai.com/codex/changelog", timeout=20)
+            r.raise_for_status()
+            out.extend(parse_openai_codex_changelog_items(r.text, now))
+        except Exception:
+            pass
+    except StageTimeout:
+        return out
     if not out:
         raise ValueError("No official AI update sources returned items")
-
     return out
 
 
@@ -2285,7 +2337,7 @@ def fetch_newsnow(session: requests.Session, now: datetime) -> list[RawItem]:
     return out
 
 
-def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
+def collect_all(session: requests.Session, now: datetime, budget: RefreshBudget | None = None) -> tuple[list[RawItem], list[dict[str, Any]]]:
     tasks = [
         ("official_ai", "Official AI Updates", fetch_official_ai_updates),
         ("curated_media", "Curated Media", fetch_curated_ai_media),
@@ -2307,16 +2359,20 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
     raw_items: list[RawItem] = []
     statuses: list[dict[str, Any]] = []
 
+    collection_deadline = time.monotonic() + 420
     for site_id, site_name, fn in tasks:
         start = time.perf_counter()
         error = None
         count = 0
         try:
-            items = fn(session, now)
+            items = budget.run(site_id, lambda: fn(session, now), seconds=min(45, collection_deadline - time.monotonic())) if budget else fn(session, now)
+            if budget and site_id in budget.timed_out_stages:
+                error = f"{site_id}: refresh time budget exhausted (partial results retained)"
             count = len(items)
             raw_items.extend(items)
-        except Exception as exc:
+        except (Exception, StageTimeout) as exc:
             error = str(exc)
+        print(f"[refresh] {site_id}: items={count}; ok={error is None}", flush=True)
         elapsed_ms = int((time.perf_counter() - start) * 1000)
         statuses.append(
             {
@@ -2514,6 +2570,7 @@ def fetch_opml_rss(
     now: datetime,
     opml_path: Path,
     max_feeds: int = 0,
+    budget: RefreshBudget | None = None,
 ) -> tuple[list[RawItem], dict[str, Any], list[dict[str, Any]]]:
     feeds = parse_opml_subscriptions(opml_path)
     if max_feeds > 0:
@@ -2561,6 +2618,8 @@ def fetch_opml_rss(
         record["replaced"] = bool(resolved_url != original_url)
         resolved_feeds.append(record)
 
+    rss_deadline = time.monotonic() + 60
+
     def fetch_single_feed(feed: dict[str, str]) -> tuple[list[RawItem], dict[str, Any]]:
         feed_url = feed["xml_url"]
         original_feed_url = str(feed.get("xml_url_original") or feed_url)
@@ -2571,14 +2630,16 @@ def fetch_opml_rss(
         local_items: list[RawItem] = []
 
         try:
-            resp = requests.get(
-                feed_url,
-                timeout=12,
-                headers={
-                    "User-Agent": BROWSER_UA,
-                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                },
-            )
+            def request_feed():
+                return requests.get(
+                    feed_url,
+                    timeout=12,
+                    headers={
+                        "User-Agent": BROWSER_UA,
+                        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                    },
+                )
+            resp = budget.run(f"rss:{feed_id}", request_feed, seconds=min(12, rss_deadline - time.monotonic())) if budget else request_feed()
             resp.raise_for_status()
 
             bridge_type = str(feed.get("bridge_type") or "")
@@ -2651,7 +2712,7 @@ def fetch_opml_rss(
                             },
                         )
                     )
-        except Exception as exc:
+        except (Exception, StageTimeout) as exc:
             error = str(exc)
 
         duration_ms = int((time.perf_counter() - start) * 1000)
@@ -2672,7 +2733,12 @@ def fetch_opml_rss(
         }
         return local_items, status
 
-    if resolved_feeds:
+    if resolved_feeds and budget:
+        for feed in resolved_feeds:
+            items, status = fetch_single_feed(feed)
+            out.extend(items)
+            feed_statuses.append(status)
+    elif resolved_feeds:
         worker_count = min(20, max(4, len(resolved_feeds)))
         with ThreadPoolExecutor(max_workers=worker_count) as executor:
             futures = [executor.submit(fetch_single_feed, feed) for feed in resolved_feeds]
@@ -3178,6 +3244,13 @@ def load_paid_source_state(path: Path) -> dict[str, Any]:
     return {"schema_version": 1, "sources": sources}
 
 
+def save_paid_source_state(path: Path, state: dict[str, Any]) -> None:
+    path.write_text(
+        json.dumps(sanitize_public_payload(state), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
 def paid_source_interval_hours(prefix: str) -> int:
     default = PAID_SOURCE_DEFAULT_INTERVAL_HOURS_BY_PREFIX.get(prefix, PAID_SOURCE_DEFAULT_INTERVAL_HOURS)
     interval = env_int(f"{prefix}_RUN_INTERVAL_HOURS", default)
@@ -3300,7 +3373,7 @@ def maybe_fetch_agentmail_digest(
         status["ok"] = True
         status["item_count"] = int(payload.get("total_messages") or 0)
         return payload, status
-    except Exception as exc:
+    except (Exception, StageTimeout) as exc:
         status["ok"] = False
         status["error"] = type(exc).__name__
         return None, status
@@ -3446,7 +3519,7 @@ def maybe_fetch_x_api_updates(
         status["item_count"] = len(items)
         status["estimated_cost_usd"] = round(len(items) * X_API_POST_READ_COST_USD, 4)
         return items, status
-    except Exception as exc:
+    except (Exception, StageTimeout) as exc:
         status["ok"] = False
         status["error"] = type(exc).__name__
         return [], status
@@ -3537,7 +3610,7 @@ def fetch_socialdata_search(
                 timeout=30,
             )
             response.raise_for_status()
-        except Exception as exc:
+        except (Exception, StageTimeout) as exc:
             if page_count == 0:
                 raise
             pagination_error = type(exc).__name__
@@ -3655,7 +3728,7 @@ def fetch_socialdata_list_tweets(
                 timeout=30,
             )
             response.raise_for_status()
-        except Exception as exc:
+        except (Exception, StageTimeout) as exc:
             if page_count == 0:
                 raise
             pagination_error = type(exc).__name__
@@ -3814,12 +3887,16 @@ def maybe_fetch_socialdata_updates(
                 continue
             seen_urls.add(item.url)
             items.append(item)
+        if diagnostics.get("pagination_error") == "StageTimeout":
+            status.update(ok=False, error="StageTimeout", item_count=len(items), timed_out=True)
+    except StageTimeout as exc:
+        status.update(ok=False, error=str(exc), item_count=len(items), timed_out=True)
     except Exception as exc:
         errors.append(f"search:{type(exc).__name__}")
 
     # 2) Curated list timeline: stably tracks known KOLs by identity, bot-filtered.
     list_item_count = 0
-    if list_enabled and list_max_results >= 1:
+    if list_enabled and list_max_results >= 1 and not status.get("timed_out"):
         try:
             list_items, list_diagnostics = fetch_socialdata_list_tweets(
                 session,
@@ -3840,6 +3917,8 @@ def maybe_fetch_socialdata_updates(
                 seen_urls.add(item.url)
                 items.append(item)
                 list_item_count += 1
+        except StageTimeout as exc:
+            status.update(ok=False, error=str(exc), item_count=len(items), timed_out=True)
         except Exception as exc:
             errors.append(f"list:{type(exc).__name__}")
 
@@ -3856,13 +3935,17 @@ def maybe_fetch_socialdata_updates(
     status["skipped_stale_count"] = skipped_stale
     status["raw_reads"] = search_raw + list_raw
     status["estimated_cost_usd"] = round((search_raw + list_raw) * SOCIALDATA_TWEET_READ_COST_USD, 4)
-    if errors and not items:
+    if status.get("timed_out"):
+        status["ok"] = False
+    elif errors and not items:
         status["ok"] = False
         status["error"] = ";".join(errors)
     else:
         status["ok"] = True
         if errors:
             status["partial_error"] = ";".join(errors)
+    if (status.get("list_diagnostics") or {}).get("pagination_error") == "StageTimeout":
+        status.update(ok=False, error="StageTimeout", timed_out=True)
     return items, status
 
 
@@ -4364,6 +4447,9 @@ def fetch_tikhub_search(
                         }
                     )
                     diagnostics["successful_request_count"] += 1
+                except StageTimeout:
+                    diagnostics.update(timed_out=True, mapped_item_count=len(out))
+                    return out, diagnostics
                 except Exception as exc:
                     diagnostics["request_error_count"] += 1
                     request_info.update(request_error_info(exc))
@@ -4437,6 +4523,9 @@ def fetch_tikhub_search(
                                 else "insufficient_recent_items_try_web_v3"
                             )
                         diagnostics["successful_request_count"] += 1
+                    except StageTimeout:
+                        diagnostics.update(timed_out=True, mapped_item_count=len(out))
+                        return out, diagnostics
                     except Exception as exc:
                         diagnostics["request_error_count"] += 1
                         request_info.update(request_error_info(exc))
@@ -4447,6 +4536,7 @@ def fetch_tikhub_search(
     if diagnostics["request_error_count"] and not diagnostics["successful_request_count"]:
         raise ValueError("tikhub_all_requests_failed")
     return out, diagnostics
+
 
 
 def maybe_fetch_tikhub_updates(
@@ -4491,11 +4581,13 @@ def maybe_fetch_tikhub_updates(
             platforms=status["platforms"],
             base_url=base_url,
         )
-        status["ok"] = True
+        status["ok"] = not diagnostics.get("timed_out", False)
+        if diagnostics.get("timed_out"):
+            status["error"] = "StageTimeout"
         status["item_count"] = len(items)
         status["diagnostics"] = diagnostics
         return items, status
-    except Exception as exc:
+    except (Exception, StageTimeout) as exc:
         status["ok"] = False
         status["error"] = type(exc).__name__
         return [], status
@@ -4642,11 +4734,11 @@ def add_bilingual_fields(
         if not zh_title:
             zh_title = cache.get(title)
         if not zh_title and allow_translate and translated_now < max_new_translations:
+            translated_now += 1
             tr = translate_to_zh_cn(session, title)
             if tr and has_cjk(tr):
                 zh_title = repair_zh_title_translation(title, tr)
                 cache[title] = zh_title
-                translated_now += 1
 
         if zh_title:
             zh_title = repair_zh_title_translation(title, zh_title)
@@ -5412,9 +5504,10 @@ def main() -> int:
     parser.add_argument("--output-dir", default="data", help="Directory for output JSON files")
     parser.add_argument("--window-hours", type=int, default=24, help="24h window size")
     parser.add_argument("--archive-days", type=int, default=21, help="Keep archive for N days")
-    parser.add_argument("--translate-max-new", type=int, default=80, help="Max new EN->ZH title translations per run")
+    parser.add_argument("--translate-max-new", type=int, default=80, help="Max EN->ZH title translation attempts per run")
     parser.add_argument("--rss-opml", default="", help="Optional OPML file path to include RSS sources")
     parser.add_argument("--rss-max-feeds", type=int, default=0, help="Optional max OPML RSS feeds to fetch (0 means all)")
+    parser.add_argument("--network-budget-seconds", type=float, default=600, help="Wall-clock budget for network stages (POSIX main thread)")
     args = parser.parse_args()
 
     now = utc_now()
@@ -5437,16 +5530,17 @@ def main() -> int:
     archive = load_archive(archive_path)
     paid_source_state = load_paid_source_state(paid_source_state_path)
 
+    budget = RefreshBudget(args.network_budget_seconds)
     session = create_session()
-    raw_items, statuses = collect_all(session, now)
+    raw_items, statuses = collect_all(session, now, budget)
     rss_feed_statuses: list[dict[str, Any]] = []
-    email_digest_payload, agentmail_status = maybe_fetch_agentmail_digest(
+    email_digest_payload, agentmail_status = budget.optional("agentmail", lambda: maybe_fetch_agentmail_digest(
         session,
         generated_at=iso(now),
         after=iso(now - timedelta(hours=args.window_hours)),
         window_hours=args.window_hours,
-    )
-    x_api_items, x_api_status = maybe_fetch_x_api_updates(session, now)
+    ), {"enabled": env_flag("EMAIL_DIGEST_ENABLED"), "item_count": 0})
+    x_api_items, x_api_status = budget.optional("x_api", lambda: maybe_fetch_x_api_updates(session, now), x_api_status_base(now), empty=[])
     if x_api_status.get("enabled"):
         raw_items.extend(x_api_items)
         statuses.append(
@@ -5461,8 +5555,10 @@ def main() -> int:
                 "skip_reason": x_api_status.get("skip_reason"),
             }
         )
-    socialdata_items, socialdata_status = maybe_fetch_socialdata_updates(session, now, paid_source_state)
+    socialdata_items, socialdata_status = budget.optional("socialdata", lambda: maybe_fetch_socialdata_updates(session, now, paid_source_state), socialdata_status_base(now, paid_source_state), empty=[])
     update_paid_source_state(paid_source_state, "socialdata", socialdata_status, now)
+    if socialdata_status.get("attempted"):
+        save_paid_source_state(paid_source_state_path, paid_source_state)
     sync_paid_source_status_timestamps(socialdata_status, paid_source_state, "socialdata")
     if socialdata_status.get("enabled"):
         raw_items.extend(socialdata_items)
@@ -5478,8 +5574,10 @@ def main() -> int:
                 "skip_reason": socialdata_status.get("skip_reason"),
             }
         )
-    tikhub_items, tikhub_status = maybe_fetch_tikhub_updates(session, now, paid_source_state)
+    tikhub_items, tikhub_status = budget.optional("tikhub", lambda: maybe_fetch_tikhub_updates(session, now, paid_source_state), tikhub_status_base(now, paid_source_state), empty=[])
     update_paid_source_state(paid_source_state, "tikhub", tikhub_status, now)
+    if tikhub_status.get("attempted"):
+        save_paid_source_state(paid_source_state_path, paid_source_state)
     sync_paid_source_status_timestamps(tikhub_status, paid_source_state, "tikhub")
     if tikhub_status.get("enabled"):
         raw_items.extend(tikhub_items)
@@ -5507,7 +5605,7 @@ def main() -> int:
 
     waytoagi_started = time.perf_counter()
     try:
-        waytoagi_payload = fetch_waytoagi_recent_7d(session, now, WAYTOAGI_DEFAULT)
+        waytoagi_payload = budget.run("waytoagi", lambda: fetch_waytoagi_recent_7d(session, now, WAYTOAGI_DEFAULT), seconds=30)
         waytoagi_items = waytoagi_updates_to_raw_items(waytoagi_payload, now)
         raw_items.extend(waytoagi_items)
         statuses.append(
@@ -5520,7 +5618,7 @@ def main() -> int:
                 "error": None,
             }
         )
-    except Exception as exc:
+    except (Exception, StageTimeout) as exc:
         waytoagi_payload = {
             "generated_at": iso(now),
             "timezone": "Asia/Shanghai",
@@ -5551,6 +5649,7 @@ def main() -> int:
                 now,
                 opml_path,
                 max_feeds=max(0, int(args.rss_max_feeds)),
+                budget=budget,
             )
             raw_items.extend(rss_items)
             statuses.append(rss_summary_status)
@@ -5569,6 +5668,12 @@ def main() -> int:
                 }
             )
 
+    if not raw_items:
+        # Preserve cost gates even if all public sources failed. Do not touch
+        # the news snapshot or claim it is fresh.
+        save_paid_source_state(paid_source_state_path, paid_source_state)
+        raise RuntimeError("No source returned items; keeping the previous snapshot unchanged")
+    print(f"[refresh] collected {len(raw_items)} items; processing archive", flush=True)
     seen_this_run: set[str] = set()
 
     for raw in raw_items:
@@ -5651,13 +5756,20 @@ def main() -> int:
     latest_items_all.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
     latest_items = [record for record in latest_items_all if record.get("ai_is_related", is_ai_related_record(record))]
     title_cache = load_title_zh_cache(title_cache_path)
-    latest_items, latest_items_all, title_cache = add_bilingual_fields(
-        latest_items,
-        latest_items_all,
-        session,
-        title_cache,
-        max_new_translations=max(0, args.translate_max_new),
-    )
+    try:
+        latest_items, latest_items_all, title_cache = budget.run(
+            "translations",
+            lambda: add_bilingual_fields(latest_items, latest_items_all, session, title_cache,
+                                         max_new_translations=max(0, args.translate_max_new)),
+            seconds=60,
+        )
+    except StageTimeout:
+        # Completed translations are already cached; fill every item's fields
+        # without any more requests so a slow translator cannot block writing.
+        latest_items, latest_items_all, title_cache = add_bilingual_fields(
+            latest_items, latest_items_all, session, title_cache, max_new_translations=0,
+        )
+    print("[refresh] building history and stories", flush=True)
     creator_items_ai = build_creator_hot_items(archive, now, ai_only=True)
     creator_items_all = build_creator_hot_items(archive, now, ai_only=False)
     creator_items_ai, creator_items_all, title_cache = add_bilingual_fields(
@@ -5776,6 +5888,8 @@ def main() -> int:
 
     status_payload = {
         "generated_at": generated_at,
+        "refresh_partial": bool(budget.timed_out_stages),
+        "timed_out_stages": budget.timed_out_stages,
         "sites": statuses,
         "successful_sites": sum(1 for s in statuses if s["ok"]),
         "failed_sites": [s["site_id"] for s in statuses if not s["ok"]],
@@ -5823,6 +5937,7 @@ def main() -> int:
 
     latest_payload, latest_all_payload = build_latest_payloads(latest_payload)
 
+    print("[refresh] writing snapshot files", flush=True)
     latest_path.write_text(json.dumps(sanitize_public_payload(latest_payload), ensure_ascii=False, indent=2), encoding="utf-8")
     latest_all_path.write_text(json.dumps(sanitize_public_payload(latest_all_payload), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     daily_brief_path.write_text(
@@ -5847,10 +5962,7 @@ def main() -> int:
         generated_at=generated_at,
     )
     status_path.write_text(json.dumps(sanitize_public_payload(status_payload), ensure_ascii=False, indent=2), encoding="utf-8")
-    paid_source_state_path.write_text(
-        json.dumps(sanitize_public_payload(paid_source_state), ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    save_paid_source_state(paid_source_state_path, paid_source_state)
     if email_digest_payload is not None:
         email_digest_path.write_text(
             json.dumps(sanitize_public_payload(email_digest_payload), ensure_ascii=False, indent=2),

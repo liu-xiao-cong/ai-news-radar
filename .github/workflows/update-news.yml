@@ -58,6 +58,12 @@ jobs:
               print("missing")
           else:
               generated_at = json.loads(path.read_text(encoding="utf-8")).get("generated_at", "")
+              status_path = Path("data/source-status.json")
+              if status_path.exists():
+                  status = json.loads(status_path.read_text(encoding="utf-8"))
+                  if status.get("generated_at") == generated_at and status.get("refresh_partial"):
+                      print("partial")
+                      raise SystemExit(0)
               try:
                   timestamp = datetime.fromisoformat(generated_at.replace("Z", "+00:00"))
                   print(timestamp.astimezone(ZoneInfo("Asia/Shanghai")).date().isoformat())
@@ -97,6 +103,7 @@ jobs:
           fi
 
       - name: Update data
+        id: update_data
         if: steps.freshness.outputs.should_update == 'true'
         env:
           EMAIL_DIGEST_ENABLED: ${{ secrets.EMAIL_DIGEST_ENABLED || vars.EMAIL_DIGEST_ENABLED }}
@@ -135,16 +142,17 @@ jobs:
           TIKHUB_RUN_UTC_HOUR: ${{ vars.TIKHUB_RUN_UTC_HOUR }}
           TIKHUB_RUN_UTC_MINUTE_MAX: ${{ vars.TIKHUB_RUN_UTC_MINUTE_MAX }}
           TIKHUB_FORCE_RUN: ${{ inputs.force_tikhub && '1' || '' }}
+          PYTHONUNBUFFERED: "1"
           RSS_MAX_FEEDS: ${{ vars.RSS_MAX_FEEDS || 10 }}
         run: |
           if [ -f feeds/follow.opml ]; then
-            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-10}"
+            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --network-budget-seconds 600 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-10}"
           else
-            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21
+            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --network-budget-seconds 600
           fi
 
       - name: Commit and push changes
-        if: steps.freshness.outputs.should_update == 'true'
+        if: steps.freshness.outputs.should_update == 'true' && github.ref == 'refs/heads/master'
         env:
           EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}
         run: |
@@ -173,6 +181,25 @@ jobs:
           # A maintainer may merge a workflow/UI change while this job is
           # fetching. Rebase the generated data commit so that race does not
           # discard an otherwise successful refresh.
+          git fetch origin master
+          git rebase origin/master
+          git push origin HEAD:master
+
+      - name: Preserve paid-source retry gates after a failed refresh
+        if: failure() && steps.update_data.outcome == 'failure' && github.ref == 'refs/heads/master'
+        run: |
+          # A no-items run must remain failed and must not publish news files,
+          # but an attempted paid call still needs its cost gate persisted.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/paid-source-state.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: preserve paid-source retry gates"
+          # Only this file is staged; other partially written outputs are not
+          # eligible for publication after a failed refresh.
+          git restore --worktree -- data/
           git fetch origin master
           git rebase origin/master
           git push origin HEAD:master

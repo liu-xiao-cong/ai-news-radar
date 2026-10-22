@@ -14,3 +14,13 @@ def test_update_workflow_has_staggered_fallbacks_and_deduplication_guard():
     assert "if: steps.freshness.outputs.should_update == 'true'" in text
     assert "cancel-in-progress: false" in text
     assert "git rebase origin/master" in text
+
+
+def test_update_workflow_bounds_collection_and_retries_partial_snapshots():
+    text = WORKFLOW.read_text(encoding="utf-8")
+    assert 'timeout-minutes: 15' in text
+    assert '--network-budget-seconds 600' in text
+    assert 'PYTHONUNBUFFERED: "1"' in text
+    assert 'status.get("refresh_partial")' in text
+    assert 'status.get("generated_at") == generated_at' in text
+    assert "github.ref == 'refs/heads/master'" in text
