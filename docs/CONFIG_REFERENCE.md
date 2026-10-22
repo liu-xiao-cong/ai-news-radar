@@ -170,3 +170,27 @@ SocialData 同时跑两路:① 中英关键词搜索发现新声音;② 一个�
 ---
 
 *改完代码后,跑一遍测试确认无误:`python -m unittest tests.test_topic_filter -q`*
+
+### Refresh runtime limits
+
+The refresh CLI uses a 600-second wall-clock network budget by default, set with
+`--network-budget-seconds`. The scheduled job passes this explicitly and keeps a
+15-minute job timeout, leaving time for history generation and the data commit.
+Bounded refresh requires Linux/macOS and the main Python thread (the Actions
+runner is Linux).
+
+Built-in collection gets at most 420 seconds, with 45 seconds per source.
+Optional adapters and WaytoAGI get 30 seconds each. OPML fetching uses sequential
+12-second feed deadlines within a 60-second group budget in the CLI, avoiding
+thread-pool shutdown waits. Translation gets at most 60 seconds; the
+`--translate-max-new` limit counts attempts, including failures. Completed
+translations are retained in the cache, and remaining titles keep their originals.
+
+Completed sources and the existing archive remain available if another source
+runs out of time. `data/source-status.json` records `refresh_partial` and
+`timed_out_stages`; the daily freshness guard retries partial snapshots on the
+next scheduled opportunity. If no source returns any items, the news snapshot
+is left unchanged and the command fails. Paid-source attempt state is retained
+to avoid repeating billable calls. Progress is flushed at each stage so Actions
+logs show where time is spent. A manually dispatched non-master branch cannot
+commit generated data to master.
